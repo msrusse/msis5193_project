@@ -1,7 +1,12 @@
 #! /usr/bin/python3
 
 from urllib.request import urlopen
-import re
+from bs4 import BeautifulSoup as BS
+
+def sanatize_html_strings(text, dic):
+    for i, j in dic.items():
+        text = text.replace(i, j)
+    return text
 
 class Movie:
     def __init__(self, url, name):
@@ -11,48 +16,38 @@ class Movie:
     def getHTML(self):
         print('Retrieving %s HTML...\n' % self.name)
         page = urlopen(test_movie.url)
+        html = BS(page.read(), features='lxml')
         print('HTML received.\n')
-        return page
-
-    def decodeHTML(self, page):
-        print('Reading %s HTML...\n' % self.name)
-        html_bytes = page.read()
-        html = html_bytes.decode("utf-8")
-        print('HTML decoded.\n')
         return html
 
-    def sanitizeHTML(self, html):
-        print('Sanitizing %s HTML...\n' % self.name)
-        html = html.replace(' ', '')
-        html = html.replace('\n', '')
-        #html = html.replace('\\', '')
-        print('HTML sanitized.\n')
-        return html
-
-    def findIndexes(self, html):
-        print('Determining rating indexes for %s...\n' % self.name)
-        search_term = '<spanclass="mop-ratings-wrap__percentage">'
-        indexes = [m.start() for m in re.finditer(search_term, html)]
-        if len(indexes) != 2:
-            # TODO: add logic to determine whether it is a user or critic ranking left off. Can search for href="#audience_reviews"
-            pass 
-        print('Indexes Determined.\n')
-        return (indexes[0]+len(search_term), indexes[1] + len(search_term))
-
-    def getScores(self, html, indexes):
-        print('Getting scores for %s...\n' % self.name)
-        critics_score = html[indexes[0]:indexes[0]+2]
-        audience_score = html[indexes[1]:indexes[1]+2]
-        print('Scores retrieved.\n')
+    def findRatings(self, html):
+        print('Determining ratings for %s...\n' % self.name)
+        ratings_spans = html.find_all('span', attrs={'class': 'mop-ratings-wrap__percentage'})
+        ratings_hrefs = html.find_all('a', {'class':'unstyled articleLink mop-ratings-wrap__icon-link'})
+        critics_score = 'N/A'
+        audience_score = 'N/A'
+        if len(ratings_spans) == 2:
+            critics_score = str(ratings_spans[0].text)
+            audience_score = str(ratings_spans[1].text)
+        elif len(ratings_spans) == 1:
+           if str(ratings_hrefs[0]).find('#contentReviews') != -1:
+               critics_score = str(ratings_spans[0].text)
+           elif str(ratings_hrefs[0]).find('#audience_reviews') != -1:
+               audience_score = str(ratings_spans[0].text)
+        items_to_replace = {
+            '\n' : '',
+            ' ' : '',
+            '%' : ''
+        }
+        critics_score = sanatize_html_strings(critics_score, items_to_replace)
+        audience_score = sanatize_html_strings(audience_score, items_to_replace)
+        print('Ratings Determined.\n')
         return {
-            'critics' : critics_score,
-            'audience' : audience_score
+            'critics': critics_score, 
+            'audience': audience_score
         }
 
 test_movie = Movie(url='https://www.rottentomatoes.com/m/learning_to_skateboard_in_a_warzone', name='Star Trek Beyond')
-page = test_movie.getHTML()
-html = test_movie.decodeHTML(page)
-html = test_movie.sanitizeHTML(html)
-indexes = test_movie.findIndexes(html)
-scores = test_movie.getScores(html, indexes)
+bs_html = test_movie.getHTML()
+scores = test_movie.findRatings(bs_html)
 print(scores)
