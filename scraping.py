@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup as BS
 
 rotten_tomatoes_url = 'https://www.rottentomatoes.com/m/'
 
-def sanatize_html_strings(text, dic):
+def sanatizeHTMLStrings(text, dic):
     for i, j in dic.items():
         text = text.replace(i, j)
     return text
@@ -17,11 +17,20 @@ def getHTML(url, name):
         print('HTML received.\n')
         return html
 
+def convertMovieNameToURL(name):
+    if '(' in name:
+        name = name[:name.find('(')]
+    search_term = sanatizeHTMLStrings(name, {
+        ',', '',
+        ' ', '_'
+    })
+    return search_term
+
 def wikipedia_scrape():
     url = 'https://en.wikipedia.org/wiki/List_of_Academy_Award-winning_films'
     return getHTML(url, 'Wikipedia')
 
-def determine_movies(html):
+def determineMovies(html):
     content = html.find('table', {'class' : 'wikitable sortable'})
     movies_refs = content.find_all('i')
     movies_list = []
@@ -59,12 +68,12 @@ class Movie:
             ' ' : '',
             '%' : ''
         }
-        self.critics_score = sanatize_html_strings(critics_score, items_to_replace)
-        self.audience_score = sanatize_html_strings(audience_score, items_to_replace)
+        self.critics_score = sanatizeHTMLStrings(critics_score, items_to_replace)
+        self.audience_score = sanatizeHTMLStrings(audience_score, items_to_replace)
         print('Ratings Determined.\n')
 
 wiki_html = wikipedia_scrape()
-movies = determine_movies(wiki_html)
+movies = determineMovies(wiki_html)
 test_movie = Movie(url=rotten_tomatoes_url + 'learning_to_skateboard_in_a_warzone', name='Star Trek Beyond')
 bs_html = getHTML(test_movie.url, test_movie.name)
 test_movie.findRatings(bs_html)
