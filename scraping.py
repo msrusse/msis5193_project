@@ -1,7 +1,9 @@
-#! /usr/bin/python3
+#! /usr/local/bin/python3
 
-from urllib.request import urlopen
 from bs4 import BeautifulSoup as BS
+import json, requests
+from progressbar import ProgressBar as pb
+import wikipedia_scrape
 
 rotten_tomatoes_url = 'https://www.rottentomatoes.com/m/'
 
@@ -11,70 +13,81 @@ def sanatizeHTMLStrings(text, dic):
     return text
 
 def getHTML(url, name):
-        print('Retrieving %s HTML...\n' % name)
-        page = urlopen(url)
-        html = BS(page.read(), features='lxml')
-        print('HTML received.\n')
-        return html
+    page = requests.get(url)
+    html = BS(page.text, features='lxml')        
+    return {
+        'html': html,
+        'status': page.status_code
+    }
 
 def convertMovieNameToURL(name):
     if '(' in name:
         name = name[:name.find('(')]
     search_term = sanatizeHTMLStrings(name, {
-        ',', '',
-        ' ', '_'
+        ',': '',
+        '-': ' ',
+        '.': '',
+        ':': '',
+        ';': '',
+        '\'': '',
+        '&': 'and',
+        ' ': '_'
     })
+    if search_term[len(search_term)-1] == '_':
+        search_term = search_term[:len(search_term)-1]
+    if search_term == 'U_571':
+        search_term = 'U571'
     return search_term
-
-def wikipedia_scrape():
-    url = 'https://en.wikipedia.org/wiki/List_of_Academy_Award-winning_films'
-    return getHTML(url, 'Wikipedia')
-
-def determineMovies(html):
-    content = html.find('table', {'class' : 'wikitable sortable'})
-    movies_refs = content.find_all('i')
-    movies_list = []
-    for movie in movies_refs:
-        try:
-            title = movie.find('a').contents[0]
-            movies_list.append(title)
-        except:
-            pass
-    return movies_list
 
 class Movie:
     def __init__(self, url, name):
         self.url = url
         self.name = name
-        self.critics_score = 0
-        self.audience_score = 0
+        self.critics_score = 'N/A'
+        self.audience_score = 'N/A'
+        self.retrieval_status = None
+        self.html = ''
 
     def findRatings(self, html):
-        print('Determining ratings for %s...\n' % self.name)
-        ratings_spans = html.find_all('span', attrs={'class': 'mop-ratings-wrap__percentage'})
-        ratings_hrefs = html.find_all('a', {'class':'unstyled articleLink mop-ratings-wrap__icon-link'})
-        critics_score = 'N/A'
-        audience_score = 'N/A'
+        ratings_spans = html.find_all(
+            'span', attrs={'class': 'mop-ratings-wrap__percentage'})
+        ratings_hrefs = html.find_all(
+            'a', {'class': 'unstyled articleLink mop-ratings-wrap__icon-link'})
         if len(ratings_spans) == 2:
             critics_score = str(ratings_spans[0].text)
             audience_score = str(ratings_spans[1].text)
         elif len(ratings_spans) == 1:
-           if str(ratings_hrefs[0]).find('#contentReviews') != -1:
-               critics_score = str(ratings_spans[0].text)
-           elif str(ratings_hrefs[0]).find('#audience_reviews') != -1:
-               audience_score = str(ratings_spans[0].text)
+            if str(ratings_hrefs[0]).find('#contentReviews') != -1:
+                critics_score = str(ratings_spans[0].text)
+            elif str(ratings_hrefs[0]).find('#audience_reviews') != -1:
+                audience_score = str(ratings_spans[0].text)
         items_to_replace = {
-            '\n' : '',
-            ' ' : '',
-            '%' : ''
+            '\n': '',
+            ' ': '',
+            '%': ''
         }
-        self.critics_score = sanatizeHTMLStrings(critics_score, items_to_replace)
-        self.audience_score = sanatizeHTMLStrings(audience_score, items_to_replace)
-        print('Ratings Determined.\n')
+        self.critics_score = sanatizeHTMLStrings(
+            critics_score, items_to_replace)
+        self.audience_score = sanatizeHTMLStrings(
+            audience_score, items_to_replace)
 
-wiki_html = wikipedia_scrape()
-movies = determineMovies(wiki_html)
-test_movie = Movie(url=rotten_tomatoes_url + 'learning_to_skateboard_in_a_warzone', name='Star Trek Beyond')
-bs_html = getHTML(test_movie.url, test_movie.name)
-test_movie.findRatings(bs_html)
-print('%s, %s' % (test_movie.critics_score, test_movie.audience_score))
+movies_dict = wikipedia_scrape.getMovies()
+bar = pb()
+# TODO: Restructure code to work with returned dictionary
+# for movie in movies_dict:
+    # tomatos_movie_search = convertMovieNameToURL(movie)
+    # new_movie = Movie(url=rotten_tomatoes_url + tomatos_movie_search, name=movie)
+    # html_result = getHTML(new_movie.url, new_movie.name)
+    # new_movie.retrieval_status = html_result['status']
+    # new_movie.html = html_result['html']
+    # if new_movie.retrieval_status == 200:
+    #     new_movie.findRatings(new_movie.html)
+    # movies_dict[tomatos_movie_search] = {
+    #     'name' : movie,
+    #     # 'html' : str(new_movie.html),
+    #     # 'audince_score': new_movie.audience_score,
+    #     # 'critics_score': new_movie.critics_score,
+    #     'status' : new_movie.retrieval_status
+    # }
+with open('movies.json', 'w') as outfile:
+    json.dump(movies_dict, outfile, sort_keys=True, indent=4)
