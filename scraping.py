@@ -1,9 +1,8 @@
-#! /usr/local/bin/python3
+#! python
 
 from bs4 import BeautifulSoup as BS
 import json, requests
 from progressbar import ProgressBar as pb
-import wikipedia_scrape
 
 rotten_tomatoes_url = 'https://www.rottentomatoes.com/m/'
 
@@ -71,7 +70,8 @@ class Movie:
         self.audience_score = sanatizeHTMLStrings(
             audience_score, items_to_replace)
 
-movies_dict = wikipedia_scrape.getMovies()
+with open('movies_from_wikipedia.json') as read_file:
+    movies_dict = json.load(read_file)
 bar = pb()
 # TODO: Restructure code to work with returned dictionary
 # for movie in movies_dict:

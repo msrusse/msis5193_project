@@ -1,4 +1,4 @@
-#! /usr/local/bin/python3
+#! python
 
 from bs4 import BeautifulSoup as BS
 import grequests
@@ -7,18 +7,7 @@ from progressbar import ProgressBar as pb
 
 wikipedia_url = 'https://en.wikipedia.org'
 
-class FeedbackCounter:
-    """Object to provide a feedback callback keeping track of total calls."""
-    def __init__(self):
-        self.counter = 0
-
-    def feedback(self, r, **kwargs):
-        self.counter += 1
-        print("{0} fetched, {1} total.".format(r.url, self.counter))
-        return r
-
-def getHTML(url):
-    page = requests.get(url)
+def getHTML(page):
     html = BS(page.text, features='lxml')        
     return {
         'html': html,
@@ -43,8 +32,7 @@ def determineMovies(html):
     return movies
 
 def getMoviesOnWikipedia(movies):
-    fbc = FeedbackCounter()
-    response = (grequests.get(movie, callback=fbc.feedback) for movie in movies)
+    response = (grequests.get(movie) for movie in movies)
     mapped_response = grequests.map(response)
     return mapped_response
 
@@ -58,7 +46,8 @@ def parseWikipediaPages(response):
     return rotten_tomatoes_links
 
 def getMovies():
-    all_award_winners = getHTML(wikipedia_url + '/wiki/List_of_Academy_Award-winning_films')
+    all_award_winners_wiki = requests.get(wikipedia_url + '/wiki/List_of_Academy_Award-winning_films')
+    all_award_winners = getHTML(all_award_winners_wiki)
     if all_award_winners['status'] == 200:
         movies = determineMovies(all_award_winners['html'])
         mapped_response = getMoviesOnWikipedia(movies)
@@ -68,5 +57,6 @@ def getMovies():
                 movies[response.url]['rotten_tomatoes'] = parseWikipediaPages(response)
         return movies
 
-# with open('movies.json', 'w') as outfile:
-#     json.dump(movies, outfile, sort_keys=True, indent=4)
+movies = getMovies()
+with open('movies_from_wikipedia.json', 'w') as outfile:
+    json.dump(movies, outfile, sort_keys=True, indent=4)
