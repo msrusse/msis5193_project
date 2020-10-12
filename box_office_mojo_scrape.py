@@ -43,8 +43,8 @@ def getMoviesByYear(mapped_response):
     movies_by_year = {}
     # Loops through all years returned and if there is a valid response it parses the HTML and adds it to the movies_by_year dict
     for response in bar(mapped_response):
-            if response is not None and response.status_code == 200:
-                movies_by_year[response.url[-5:-1]] = parseBoxOfficeYear(response.content)
+        if response is not None and response.status_code == 200:
+            movies_by_year[response.url[-5:-1]] = parseBoxOfficeYear(response.content)
     return movies_by_year
 
 def writeBoxOfficeToCSV(movies):
