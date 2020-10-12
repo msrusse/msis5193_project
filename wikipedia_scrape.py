@@ -3,16 +3,10 @@
 from bs4 import BeautifulSoup as BS
 import grequests
 import json, requests
+from get_html import getHTML
 from progressbar import ProgressBar as pb
 
 wikipedia_url = 'https://en.wikipedia.org'
-
-def getHTML(page):
-    html = BS(page.text, features='lxml')        
-    return {
-        'html': html,
-        'status': page.status_code
-    }
 
 def determineMovies(html):
     content = html.find('table', {'class': 'wikitable sortable'})
