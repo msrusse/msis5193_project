@@ -1,6 +1,5 @@
 import pandas as pd
-from lxml import html
-from lxml import etree
+from lxml import html, etree
 import requests
 
 #Pull in the website html
@@ -9,9 +8,8 @@ resp = requests.get(award_url)
 award_tree = html.fromstring(resp.content)
 
 #Find all movies that won awards
-Movie = "//table[@class='wikitable']/tbody/tr/td/i/b/a/text() | //table[@class='wikitable']/tbody/tr/td/i/a/text()"
-Movie = award_tree.xpath(Movie)
-Movie
+movie = "//table[@class='wikitable']/tbody/tr/td/i/b/a/text() | //table[@class='wikitable']/tbody/tr/td/i/a/text()"
+movie = award_tree.xpath(movie)
 #Convert to a dataframe and export to csv
-Movie_Awards_data = pd.DataFrame({'Movie' : Movie})
-Movie_Awards_data.to_csv(r'C:\Users\Rrsha\source\repos\msis5193_project\Movie_awards.csv', index = False)
+movie_awards_data = pd.DataFrame({'movie' : movie})
+movie_awards_data.to_csv('movie_awards.csv', index = False)
