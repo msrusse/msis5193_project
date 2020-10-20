@@ -7,6 +7,15 @@ from progressbar import ProgressBar as pb
 
 base_url = 'https://www.boxofficemojo.com/'
 
+def sanitizeNumbers(numbers):
+    sanitized = []
+    for number in numbers:
+        san_number = number.getText().replace('%', '').replace(',', '').replace('$', '').replace('<', '')
+        if san_number != '-':
+            san_number = float(san_number)
+        sanitized.append(san_number)
+    return sanitized 
+
 def getAllYears():
     # Use grequests to asyncronously get all box office results by year from 1977 (the first year) through currenty year.
     grequest = (grequests.get(base_url + 'year/world/%s' % year) for year in range(1977, int(datetime.datetime.now().year)+1))
@@ -26,15 +35,19 @@ def parseBoxOfficeYear(year_page):
     for movie in movies:
         movie_info = movie.findAll('td')
         year_rank = movie_info[0].getText()
+        individual_url = movie_info[1].find('a')['href']
+        individual_url = individual_url[:individual_url.rfind('/')]
+        individual_url = individual_url[individual_url.rfind('/')+1:]
         # Sets the box office rank (unique ID) of the movie as the dictionary key
+        sanitized_info = sanitizeNumbers(movie_info[2:])
         movies_dict[year_rank] = {
             'name' : movie_info[1].getText(),
-            'worldwide' : movie_info[2].getText(),
-            'domestic' : movie_info[3].getText(),
-            'domestic_perc' : movie_info[4].getText(),
-            'foreign' : movie_info[5].getText(),
-            'foreign_perc' : movie_info[6].getText(),
-            'individual_url' : movie_info[1].find('a')['href']
+            'worldwide' : sanitized_info[0],
+            'domestic' : sanitized_info[1],
+            'domestic_perc' : sanitized_info[2],
+            'foreign' : sanitized_info[3],
+            'foreign_perc' : sanitized_info[4],
+            'individual_url' : individual_url
         }
     return movies_dict
 
