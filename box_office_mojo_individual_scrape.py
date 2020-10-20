@@ -7,7 +7,6 @@ from datetime import datetime
 from progressbar import ProgressBar as pb
 
 base_url = 'https://www.boxofficemojo.com/releasegroup/'
-errors = {}
 
 def marketKey(market):
     return {
@@ -64,19 +63,24 @@ def getIndividualMovies(movies):
     for lst in split_urls:
         grequest = (grequests.get(base_url + str(url)) for url in lst)
         responses.append(grequests.map(grequest))
-        time.sleep(10)
+        time.sleep(5)
     return responses[0]
 
-def determineValidResponse(individual_movies):
+def determineValidResponse(individual_movies, year):
     valid_responses = []
+    errors = {
+        year : {}
+    }
     for response in individual_movies:
         if response is not None and response.status_code == 200:
             valid_responses.append(response)
         else:
-            errors[response.url] = {
-                'status' : response.status_codes
+            errors[year][response.url] = {
+                'status' : response.status_code,
+                'year' : year,
+                'id' : response.url[response.url[:-1].rfind('/')+1:-1]
             }
-    return valid_responses
+    return (valid_responses, errors)
 
 def getTableInformation(valid_movie_responses, individual_movies):
     movie_information = individual_movies
@@ -104,14 +108,26 @@ def getTableInformation(valid_movie_responses, individual_movies):
                 }
     return movie_information
 
+def attemptErroredMovies(errors, converted_movies):
+    for year in errors:
+        individual_movies = getIndividualMovies(errors[year])
+        movie_responses = determineValidResponse(individual_movies, year)
+        valid_movie_responses = movie_responses[0]
+        errors = movie_responses[1]
+        converted_movies[year] = getTableInformation(valid_movie_responses, converted_movies[year])
+    return (converted_movies, errors)
+
 def main():
     movies_dict = json.load(open('box_office_movies.json'))
     converted_movies = convertDict(movies_dict)
     bar = pb()
     for year in bar(converted_movies):
         individual_movies = getIndividualMovies(converted_movies[year])
-        valid_movie_responses = determineValidResponse(individual_movies)
-        converted_movies[year] = getTableInformation(valid_movie_responses, converted_movies[year])
+        movie_responses = determineValidResponse(individual_movies, year)
+        converted_movies[year] = getTableInformation(movie_responses[0], converted_movies[year])
+    movies_after_error_attempt = attemptErroredMovies(movie_responses[1], converted_movies)
+    converted_movies = movies_after_error_attempt[0]
+    errors = movies_after_error_attempt[1]
     with open('box_office_movies_by_market.json', 'w') as outfile:
         json.dump(converted_movies, outfile, sort_keys=True, indent=4)
     with open('errors.json', 'w') as outfile:
