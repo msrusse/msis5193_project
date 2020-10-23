@@ -42,13 +42,13 @@ def parseBoxOfficeYear(year_page):
         # Sets the box office rank (unique ID) of the movie as the dictionary key
         sanitized_info = sanitizeNumbers(movie_info[2:])
         movies_dict[year_rank] = {
-            'name' : movie_info[1].getText(),
-            'worldwide' : sanitized_info[0],
-            'domestic' : sanitized_info[1],
-            'domestic_perc' : sanitized_info[2],
-            'foreign' : sanitized_info[3],
-            'foreign_perc' : sanitized_info[4],
-            'individual_url' : individual_url
+            'movieName' : movie_info[1].getText(),
+            'worldwideTotal' : sanitized_info[0],
+            'domesticTotal' : sanitized_info[1],
+            'domesticPercent' : sanitized_info[2],
+            'foreignTotal' : sanitized_info[3],
+            'foreignPercent' : sanitized_info[4],
+            'individualURL' : individual_url
         }
     return movies_dict
 
@@ -73,7 +73,7 @@ def writeBoxOfficeToCSV(movies):
                 # Takes the year of the movie and its box office rank to create a unique ID for that movie
                 unique_id = '%s_%s' % (year, movie_rank)
                 movie = movies[year][movie_rank]
-                writer.writerow([unique_id, movie['name'], movie_rank, year, movie['worldwide'], movie['domestic'], movie['domestic_perc'], movie['foreign'], movie['foreign_perc']])
+                writer.writerow([unique_id, movie['movieName'], movie_rank, year, movie['worldwideTotal'], movie['domesticTotal'], movie['domesticPercent'], movie['foreignTotal'], movie['foreignPercent']])
 
 def main():
     all_movies = getAllYears()
