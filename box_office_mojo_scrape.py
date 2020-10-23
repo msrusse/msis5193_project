@@ -7,9 +7,19 @@ from progressbar import ProgressBar as pb
 
 base_url = 'https://www.boxofficemojo.com/'
 
+def sanitizeNumbers(numbers):
+    sanitized = []
+    for number in numbers:
+        san_number = number.getText().replace('%', '').replace(',', '').replace('$', '').replace('<', '')
+        if san_number != '-':
+            san_number = float(san_number)
+        sanitized.append(san_number)
+    return sanitized 
+
 def getAllYears():
     # Use grequests to asyncronously get all box office results by year from 1977 (the first year) through currenty year.
     grequest = (grequests.get(base_url + 'year/world/%s' % year) for year in range(1977, int(datetime.datetime.now().year)+1))
+    # grequest = (grequests.get(base_url + 'year/world/%s' % year) for year in range(1990, 2000))
     return grequests.map(grequest)
 
 def parseBoxOfficeYear(year_page):
@@ -26,15 +36,19 @@ def parseBoxOfficeYear(year_page):
     for movie in movies:
         movie_info = movie.findAll('td')
         year_rank = movie_info[0].getText()
+        individual_url = movie_info[1].find('a')['href']
+        individual_url = individual_url[:individual_url.rfind('/')]
+        individual_url = individual_url[individual_url.rfind('/')+1:]
         # Sets the box office rank (unique ID) of the movie as the dictionary key
+        sanitized_info = sanitizeNumbers(movie_info[2:])
         movies_dict[year_rank] = {
             'name' : movie_info[1].getText(),
-            'worldwide' : movie_info[2].getText(),
-            'domestic' : movie_info[3].getText(),
-            'domestic_perc' : movie_info[4].getText(),
-            'foreign' : movie_info[5].getText(),
-            'foreign_perc' : movie_info[6].getText(),
-            'individual_url' : movie_info[1].find('a')['href']
+            'worldwide' : sanitized_info[0],
+            'domestic' : sanitized_info[1],
+            'domestic_perc' : sanitized_info[2],
+            'foreign' : sanitized_info[3],
+            'foreign_perc' : sanitized_info[4],
+            'individual_url' : individual_url
         }
     return movies_dict
 
@@ -43,8 +57,8 @@ def getMoviesByYear(mapped_response):
     movies_by_year = {}
     # Loops through all years returned and if there is a valid response it parses the HTML and adds it to the movies_by_year dict
     for response in bar(mapped_response):
-            if response is not None and response.status_code == 200:
-                movies_by_year[response.url[-5:-1]] = parseBoxOfficeYear(response.content)
+        if response is not None and response.status_code == 200:
+            movies_by_year[response.url[-5:-1]] = parseBoxOfficeYear(response.content)
     return movies_by_year
 
 def writeBoxOfficeToCSV(movies):
@@ -62,11 +76,12 @@ def writeBoxOfficeToCSV(movies):
                 writer.writerow([unique_id, movie['name'], movie_rank, year, movie['worldwide'], movie['domestic'], movie['domestic_perc'], movie['foreign'], movie['foreign_perc']])
 
 def main():
-    movies = getMoviesByYear(getAllYears())
-    writeBoxOfficeToCSV(movies)
+    all_movies = getAllYears()
+    movies_by_year = getMoviesByYear(all_movies)
+    writeBoxOfficeToCSV(movies_by_year)
     # Writes movies dict to JSON file, making it easy to load in another script to grab individual movie details on releases.
     with open('box_office_movies.json', 'w') as outfile:
-        json.dump(movies, outfile, sort_keys=True, indent=4)
+        json.dump(movies_by_year, outfile, sort_keys=True, indent=4)
 
 if __name__ == '__main__':
     main()
