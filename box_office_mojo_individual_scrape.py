@@ -192,7 +192,7 @@ def getTableInformation(valid_movie_responses, converted_movies, retry=False, in
                     }
                 })
     return movie_information
-
+  
 # Determines which movies were not able to have their individual page retrieved
 def determineMoviesNotFound(individual_movies_by_year, converted_movies, year):
     missing_movies = np.setdiff1d(converted_movies, individual_movies_by_year)
