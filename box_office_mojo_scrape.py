@@ -18,8 +18,8 @@ def sanitizeNumbers(numbers):
 
 def getAllYears():
     # Use grequests to asyncronously get all box office results by year from 1977 (the first year) through currenty year.
-    # grequest = (grequests.get(base_url + 'year/world/%s' % year) for year in range(1977, int(datetime.datetime.now().year)+1))
-    grequest = (grequests.get(base_url + 'year/world/%s' % year) for year in range(1990, 2000))
+    grequest = (grequests.get(base_url + 'year/world/%s' % year) for year in range(1977, int(datetime.datetime.now().year)+1))
+    # grequest = (grequests.get(base_url + 'year/world/%s' % year) for year in range(1990, 2000))
     return grequests.map(grequest)
 
 def parseBoxOfficeYear(year_page):
