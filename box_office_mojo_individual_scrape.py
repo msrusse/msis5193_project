@@ -93,7 +93,7 @@ def checkStatusCode(response, attempts=0):
     else:
         sys.stdout = log
         print('After %s attempts: %s' % (attempts, response))
-        sys.stdout = log
+        sys.stdout = primary_stdout
 
 def determineValidResponse(individual_movies):
     valid_responses = []
@@ -104,8 +104,11 @@ def determineValidResponse(individual_movies):
             valid_responses.append(checked_response)
     return valid_responses
 
-def getTableInformation(valid_movie_responses, converted_movies):
-    movie_information = {}
+def getTableInformation(valid_movie_responses, converted_movies, retry=False, individual_movies_by_year=None):
+    if retry:
+        movie_information = individual_movies_by_year
+    else:
+        movie_information = {}
     bar = pb()
     for response in bar(valid_movie_responses):
         response_bs = BS(response.content, 'lxml')
@@ -144,8 +147,9 @@ def determineMoviesNotFound(individual_movies_by_year, converted_movies, year):
     missing_movies = np.setdiff1d(converted_movies, individual_movies_by_year)
     for movie in missing_movies:
         sys.stdout = log
-        print('Movie ID %s was not determined in %s.' % (movie, year))
+        print('Movie ID %s was not determined in %s. Re-attempting...' % (movie, year))
         sys.stdout = primary_stdout
+    return missing_movies
 
 def main():
     start_time = datetime.now()
@@ -162,7 +166,13 @@ def main():
         movie_responses = determineValidResponse(individual_movies)
         print('Valid Responses Determined.\nParsing movies for %s...' % year)
         individual_movies_by_year[year] = getTableInformation(movie_responses, converted_movies[year])
-        determineMoviesNotFound(list(individual_movies_by_year[year].keys()), list(converted_movies[year].keys()), year)
+        missing_movies = determineMoviesNotFound(list(individual_movies_by_year[year].keys()), list(converted_movies[year].keys()), year)
+        if len(missing_movies) > 0:
+            new_requests = []
+            for movie in missing_movies:
+                new_requests.append(requests.get(base_url + movie))
+            retried_movie_responses = determineValidResponse(new_requests)
+            individual_movies_by_year[year] = getTableInformation(retried_movie_responses, converted_movies[year], True, individual_movies_by_year[year])
         print('Movies Parsed. Sleeping for anti DDOS...')
         timer_bar = pb()
         for i in timer_bar(range(100)):
