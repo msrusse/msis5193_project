@@ -18,7 +18,8 @@ def sanitizeNumbers(numbers):
 
 def getAllYears():
     # Use grequests to asyncronously get all box office results by year from 1977 (the first year) through currenty year.
-    grequest = (grequests.get(base_url + 'year/world/%s' % year) for year in range(1977, int(datetime.datetime.now().year)+1))
+    # grequest = (grequests.get(base_url + 'year/world/%s' % year) for year in range(1977, int(datetime.datetime.now().year)+1))
+    grequest = (grequests.get(base_url + 'year/world/%s' % year) for year in range(1990, 2000))
     return grequests.map(grequest)
 
 def parseBoxOfficeYear(year_page):
@@ -75,11 +76,12 @@ def writeBoxOfficeToCSV(movies):
                 writer.writerow([unique_id, movie['name'], movie_rank, year, movie['worldwide'], movie['domestic'], movie['domestic_perc'], movie['foreign'], movie['foreign_perc']])
 
 def main():
-    movies = getMoviesByYear(getAllYears())
-    writeBoxOfficeToCSV(movies)
+    all_movies = getAllYears()
+    movies_by_year = getMoviesByYear(all_movies)
+    writeBoxOfficeToCSV(movies_by_year)
     # Writes movies dict to JSON file, making it easy to load in another script to grab individual movie details on releases.
     with open('box_office_movies.json', 'w') as outfile:
-        json.dump(movies, outfile, sort_keys=True, indent=4)
+        json.dump(movies_by_year, outfile, sort_keys=True, indent=4)
 
 if __name__ == '__main__':
     main()
