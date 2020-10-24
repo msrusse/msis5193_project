@@ -14,14 +14,16 @@ errors = {}
 # Sets the standard output to console
 primary_stdout = sys.stdout
 # Sets the log file location
-log = open("box_office_mojo_individual.log", "a")
+log = open("logs/box_office_mojo_individual.log", "a")
+
+# TODO: Write function to sanitize country names with weird characters
 
 #Returns an ID for the specific markets for key:value pairing
 def marketKey(market):
     return {
         'Domestic' : 'domestic',
         'Europe, Middle East, and Africa' : 'emea',
-        'Latin America' : 'latine_america',
+        'Latin America' : 'latin_america',
         'Asia Pacific' : 'asia_pacific',
         'China' : 'china'
     }.get(market, market)
@@ -174,22 +176,20 @@ def getTableInformation(valid_movie_responses, converted_movies, retry=False, in
                 country = cols[0].getText()
                 # Sanitizes all columns that have numerical data
                 sanitized_cols = sanitizeCols(cols[2:])
-                # Splits the country on spaces
-                country_split = country.split()
-                # Adds the first word from the country to the key as lowercase
-                country_key = country_split[0].lower()
-                # Loops through the remaining words and appends them to the key in Google JSON Style
-                if len(country_split) > 0:
-                    for i in country_split[1:]:
-                        country_key += i.capitalize()
+                # # Splits the country on spaces
+                # country_split = country.split()
+                # # Adds the first word from the country to the key as lowercase
+                # country_key = country_split[0].lower()
+                # # Loops through the remaining words and appends them to the key in Google JSON Style
+                # if len(country_split) > 0:
+                #     for i in country_split[1:]:
+                #         country_key += i.capitalize()
                 # Appends the current market information from the country to the list
                 movie_information[url_id]['markets'][market].append({
-                    country_key : {
                         'country' : country,
                         'countryReleaseDate' : getDateTime(cols[1].getText().lower()),
                         'countryOpeningAmount' : sanitized_cols[0],
                         'countryGrossAmount' : sanitized_cols[1]
-                    }
                 })
     return movie_information
   
@@ -213,11 +213,10 @@ def main():
     # Reverts standard out to the console
     sys.stdout = primary_stdout
     # Loads in the box office movies from the JSON file written in box_office_mojo_scrape
-    movies_dict = json.load(open('box_office_movies.json'))
+    movies_dict = json.load(open('data/box_office_movies.json'))
     # Calls the convertDict function for loaded movies
     converted_movies = convertDict(movies_dict)
     # Creates the individual movie dictionary
-    individual_movies_by_year = {}
     # Loops through each year of the movies
     for year in converted_movies:
         print('\nGetting movies for %s...' % year)
@@ -228,9 +227,9 @@ def main():
         movie_responses = determineValidResponse(individual_movies)
         print('Valid Responses Determined.\nParsing movies for %s...' % year)
         # Calls the getTableInformation function
-        individual_movies_by_year[year] = getTableInformation(movie_responses, converted_movies[year])
+        individual_movies_by_year = getTableInformation(movie_responses, converted_movies[year])
         # Converts the dictionary keys to lists, pulling all movies from the original dictionary and current year to compare with individual pages pulled
-        missing_movies = determineMoviesNotFound(list(individual_movies_by_year[year].keys()), list(converted_movies[year].keys()), year)
+        missing_movies = determineMoviesNotFound(list(individual_movies_by_year.keys()), list(converted_movies[year].keys()), year)
         # If there are missing movies, attempts to recall those movies-
         if len(missing_movies) > 0:
             new_requests = []
@@ -240,7 +239,10 @@ def main():
             # Determines if the retried requests are valid
             retried_movie_responses = determineValidResponse(new_requests)
             # Calls the getTableInformation and sets the retry flag to True
-            individual_movies_by_year[year] = getTableInformation(retried_movie_responses, converted_movies[year], True, individual_movies_by_year[year])
+            individual_movies_by_year = getTableInformation(retried_movie_responses, converted_movies[year], True, individual_movies_by_year)
+        # Writes data to new JSON file
+        with open('data/movies_by_market/%s_movies_by_market.json' % year, 'w') as outfile:
+            json.dump(individual_movies_by_year, outfile, sort_keys=True, indent=4)
         print('Movies Parsed. Sleeping for anti DDOS...')
         timer_bar = pb()
         # Adds in a sleep time between years to further prevent inadvertant DDOSing
@@ -248,12 +250,9 @@ def main():
             time.sleep(.2)
             if int(year) > 2015:
                 time.sleep(.1)
-    # Writes data to new JSON file
-    with open('box_office_movies_by_market.json', 'w') as outfile:
-        json.dump(individual_movies_by_year, outfile, sort_keys=True, indent=4)
     # Writes errors dict to errors.json, if any exist
     if len(errors) > 0:
-        with open('errors.json', 'w') as outfile:
+        with open('logs/movies_by_market/errors.json', 'w') as outfile:
             json.dump(errors, outfile, sort_keys=True, indent=4)
     # Prints the run time of the script to the log file
     sys.stdout = log
