@@ -57,8 +57,8 @@ def convertDict(movies_dict):
         new_dict[year] = {}
         for movie in movies_dict[year]:
             current_dict = movies_dict[year][movie]
-            new_dict[year][current_dict['individual_url']] = current_dict
-            new_dict[year][current_dict['individual_url']]['id'] = '%s_%s' % (year, movie)
+            new_dict[year][current_dict['individualURL']] = current_dict
+            new_dict[year][current_dict['individualURL']]['id'] = '%s_%s' % (year, movie)
     return new_dict
 
 # Creates the url for each individual movie based off of it's unique identifier
@@ -67,7 +67,7 @@ def getMovieUrls(movies):
     for year in movies:
         urls[year] = []
         for rank in movies[year]:
-            urls[year].append(base_url + movies[year][rank]['individual_url'])
+            urls[year].append(base_url + movies[year][rank]['individualURL'])
     return urls
 
 # Grequests call for all of the individual movie pages
@@ -154,7 +154,7 @@ def getTableInformation(valid_movie_responses, converted_movies, retry=False, in
         movie_information[url_id] = {
             'id': converted_movies[url_id]['id'],
             'individualURL': url_id,
-            'movieName' : converted_movies[url_id]['name'],
+            'movieName' : converted_movies[url_id]['movieName'],
             'castURL' : cast_url,
             'markets' : {}
         }
@@ -181,7 +181,7 @@ def getTableInformation(valid_movie_responses, converted_movies, retry=False, in
                 # Loops through the remaining words and appends them to the key in Google JSON Style
                 if len(country_split) > 0:
                     for i in country_split[1:]:
-                        country_key += country_split[i].Capitalize()
+                        country_key += i.capitalize()
                 # Appends the current market information from the country to the list
                 movie_information[url_id]['markets'][market].append({
                     country_key : {
