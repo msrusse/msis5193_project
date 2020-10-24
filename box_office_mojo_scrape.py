@@ -61,26 +61,11 @@ def getMoviesByYear(mapped_response):
             movies_by_year[response.url[-5:-1]] = parseBoxOfficeYear(response.content)
     return movies_by_year
 
-def writeBoxOfficeToCSV(movies):
-    # Write the JSON dict to a CSV file
-    with open('box_office_movies.csv', 'w', newline='') as csvfile:
-        writer = csv.writer(csvfile, delimiter=',')
-        # Writes column headers to the first row
-        writer.writerow(['unique_id', 'movie_name', 'year_rank', 'year', 'worldwide', 'domestic', 'domestic_perc', 'foreign', 'foreign_perc'])
-        # Since this is a nested dict, I first loop through the years then through the rankings that year
-        for year in movies:
-            for movie_rank in movies[year]:
-                # Takes the year of the movie and its box office rank to create a unique ID for that movie
-                unique_id = '%s_%s' % (year, movie_rank)
-                movie = movies[year][movie_rank]
-                writer.writerow([unique_id, movie['movieName'], movie_rank, year, movie['worldwideTotal'], movie['domesticTotal'], movie['domesticPercent'], movie['foreignTotal'], movie['foreignPercent']])
-
 def main():
     all_movies = getAllYears()
     movies_by_year = getMoviesByYear(all_movies)
-    writeBoxOfficeToCSV(movies_by_year)
     # Writes movies dict to JSON file, making it easy to load in another script to grab individual movie details on releases.
-    with open('box_office_movies.json', 'w') as outfile:
+    with open('data/box_office_movies.json', 'w') as outfile:
         json.dump(movies_by_year, outfile, sort_keys=True, indent=4)
 
 if __name__ == '__main__':
