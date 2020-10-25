@@ -176,14 +176,6 @@ def getTableInformation(valid_movie_responses, converted_movies, retry=False, in
                 country = cols[0].getText()
                 # Sanitizes all columns that have numerical data
                 sanitized_cols = sanitizeCols(cols[2:])
-                # # Splits the country on spaces
-                # country_split = country.split()
-                # # Adds the first word from the country to the key as lowercase
-                # country_key = country_split[0].lower()
-                # # Loops through the remaining words and appends them to the key in Google JSON Style
-                # if len(country_split) > 0:
-                #     for i in country_split[1:]:
-                #         country_key += i.capitalize()
                 # Appends the current market information from the country to the list
                 movie_information[url_id]['markets'][market].append({
                         'country' : country,
