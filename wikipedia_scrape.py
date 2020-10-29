@@ -157,7 +157,7 @@ def determineMovies(response):
         movie_key = wikipedia_url + wiki_link
         # Adds the current movie to the movies dict
         movies[movie_key] = {
-            'title' : title, 
+            'movieName' : title, 
             'wikiLink' : movie_key,
             'year' : current_year,
             'awards' : current_awards,
@@ -236,10 +236,10 @@ def main():
         bar = pb()
         for response in bar(individual_movie_wikis):
             if checkStatusCode(response):
-                movies[response.url]['rotten_tomatoes'] = parseWikipediaPages(response)
+                movies[response.url]['rottenTomatoes'] = parseWikipediaPages(response)
             else:
                 sys.stdout = log
-                print('Unable to retrieve %s' % response.url)
+                print('Unable to retrieve %s' % response)
                 syst.stdout = primary_stdout
         print('Individual movie pages parsed. Saving results to data/movies_from_wikipedia.json...')
         with open('data/movies_from_wikipedia.json', 'w') as outfile:
