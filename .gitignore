@@ -1,6 +1,4 @@
 .vscode/
 __pycache__
-*.json
-*.csv
 logs/
-data/
+urls_used.csv
