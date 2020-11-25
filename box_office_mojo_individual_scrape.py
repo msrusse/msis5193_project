@@ -77,7 +77,7 @@ def getIndividualMovies(movies):
     # Converts the keys into a list, keys are the urls
     urls = list(movies.keys())
     # Splits the urls into lists of 100, Box Office Mojo anti-ddos protocals kick in with more requests
-    split_urls = [urls[i:i + 100] for i in range(0, len(urls), 100)]
+    split_urls = [urls[i:i + 25] for i in range(0, len(urls), 25)]
     responses = []
     bar = pb()
     # Loops through each list of 100
@@ -86,12 +86,8 @@ def getIndividualMovies(movies):
         grequest = (grequests.get(base_url + str(url)) for url in lst)
         # Adds the responses to the overall list to be returned. grequests.map sends the requests asynchronously
         responses += (grequests.map(grequest))
-        # Adds a 5 second sleep between requests in an effort to avoid DDOsing the site
-        if len(urls) > 300:
-            time.sleep(5)
-        # For extra long lists, adds additional sleep time
-        if len(urls) > 600:
-            time.sleep(5)
+        if len(split_urls) > 2:
+            time.sleep(60)
     return responses
 
 # Checks the status of each response
