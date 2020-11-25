@@ -30,14 +30,17 @@ def convertBoxOfficeTotalsToCSV(movies):
                 movie = movies[year][movie_rank]
                 writer.writerow([unique_id, movie['movieName'], movie_rank, year, movie['worldwideTotal'], movie['domesticTotal'], movie['domesticPercent'], movie['foreignTotal'], movie['foreignPercent']])
 
-def getMoviesByYearJSON():
+def getMoviesByMarketYearJSON():
     return glob.glob('data/movies_by_market/*.json')
 
-def convertAllYearsIntoList(all_movies_by_year_market):
-    all_movies_by_year_market_list = []
-    for year_file in all_movies_by_year_market:
-        all_movies_by_year_market_list.append(json.load(open('%s' % year_file)))
-    return all_movies_by_year_market_list
+def getMovieSummariesByYearJSON():
+    return glob.glob('data/movie_summaries/*.json')
+
+def convertAllYearsIntoList(all_movies_by_year):
+    all_movies_by_year_list = []
+    for year_file in all_movies_by_year:
+        all_movies_by_year_list.append(json.load(open('%s' % year_file)))
+    return all_movies_by_year_list
 
 def writeMoviesByMarketToCSV(movies_by_market):
     with open('data/csv_files/movies_by_year_market.csv', 'w', newline='') as csvfile:
@@ -52,21 +55,32 @@ def writeMoviesByMarketToCSV(movies_by_market):
                         writer.writerow([current_movie['id'], market, marketName(market), countryName(country['country']), country['countryGrossAmount'], country['countryOpeningAmount'], country['countryReleaseDate']])
 
 def writeAcademyAwardWinnersToCSV(academy_award_winning_movies):
-    with open('data/csv_files/academy_award_winning_movies.csv', 'w', newline='') as csvfile:
+    with open('data/csv_files/academy_award_winning_movies.csv', 'w', encoding='utf-8', newline='') as csvfile:
         writer = csv.writer(csvfile, delimiter=',')
         writer.writerow(['movieName', 'year', 'nominations', 'awards', 'bestPicture'])
         for movie in academy_award_winning_movies:
             movie_dict = academy_award_winning_movies[movie]
             writer.writerow([movie_dict['title'], movie_dict['year'], movie_dict['nominations'], movie_dict['awards'], movie_dict['bestPicture']])
 
+def writePlotSummariesToCSV(movie_summaries):
+    with open('data/csv_files/movie_summeries.csv', 'w', encoding='utf-8', newline='') as csvfile:
+        writer = csv.writer(csvfile, delimiter=',')
+        writer.writerow(['uniqueID', 'plotSummary'])
+        for year in movie_summaries:
+            for movie in year:
+                writer.writerow([movie, year[movie]])
+
 def main():
-    box_office_totals = json.load(open('data/box_office_movies.json'))
-    convertBoxOfficeTotalsToCSV(box_office_totals)
-    all_movies_by_year_market = getMoviesByYearJSON()
-    all_movies_by_year_market_list = convertAllYearsIntoList(all_movies_by_year_market)
-    writeMoviesByMarketToCSV(all_movies_by_year_market_list)
-    wikipedia_movies = json.load(open('data/movies_from_wikipedia.json'))
-    writeAcademyAwardWinnersToCSV(wikipedia_movies)
+    # box_office_totals = json.load(open('data/box_office_movies.json'))
+    # convertBoxOfficeTotalsToCSV(box_office_totals)
+    # all_movies_by_year_market = getMoviesByMarketYearJSON()
+    # all_movies_by_year_market_list = convertAllYearsIntoList(all_movies_by_year_market)
+    # writeMoviesByMarketToCSV(all_movies_by_year_market_list)
+    # wikipedia_movies = json.load(open('data/movies_from_wikipedia.json'))
+    # writeAcademyAwardWinnersToCSV(wikipedia_movies)
+    all_movie_summaries = getMovieSummariesByYearJSON()
+    all_movie_summaries_list = convertAllYearsIntoList(all_movie_summaries)
+    writePlotSummariesToCSV(all_movie_summaries_list)
 
 if __name__ == '__main__':
     main()
