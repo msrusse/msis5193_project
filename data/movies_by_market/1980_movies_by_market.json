@@ -1,0 +1,1842 @@
+{
+    "gr1010520581": {
+        "castURL": "https://pro.imdb.com/title/tt0080888/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_39",
+        "individualURL": "gr1010520581",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 17815212.0,
+                    "countryOpeningAmount": 2189966.0,
+                    "countryReleaseDate": "07/18/1980"
+                }
+            ]
+        },
+        "movieName": "Honeysuckle Rose"
+    },
+    "gr1030640133": {
+        "castURL": "https://pro.imdb.com/title/tt0080634/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_81",
+        "individualURL": "gr1030640133",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5318098.0,
+                    "countryOpeningAmount": 769787.0,
+                    "countryReleaseDate": "09/26/1980"
+                }
+            ]
+        },
+        "movieName": "Divine Madness"
+    },
+    "gr1073631749": {
+        "castURL": "https://pro.imdb.com/title/tt0081044/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_112",
+        "individualURL": "gr1073631749",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 517988.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/29/1980"
+                }
+            ]
+        },
+        "movieName": "Leo and Loree"
+    },
+    "gr1094930949": {
+        "castURL": "https://pro.imdb.com/title/tt0081071/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_45",
+        "individualURL": "gr1094930949",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 15795189.0,
+                    "countryOpeningAmount": 2351112.0,
+                    "countryReleaseDate": "05/16/1980"
+                }
+            ]
+        },
+        "movieName": "The Long Riders"
+    },
+    "gr1145065989": {
+        "castURL": "https://pro.imdb.com/title/tt0081562/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_4",
+        "individualURL": "gr1145065989",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 101300000.0,
+                    "countryOpeningAmount": 8691886.0,
+                    "countryReleaseDate": "12/12/1980"
+                }
+            ]
+        },
+        "movieName": "Stir Crazy"
+    },
+    "gr1156928005": {
+        "castURL": "https://pro.imdb.com/title/tt0081398/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_27",
+        "individualURL": "gr1156928005",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 23334953.0,
+                    "countryOpeningAmount": 128590.0,
+                    "countryReleaseDate": "11/14/1980"
+                }
+            ]
+        },
+        "movieName": "Raging Bull"
+    },
+    "gr115823109": {
+        "castURL": "https://pro.imdb.com/title/tt0081235/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_107",
+        "individualURL": "gr115823109",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1047454.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/21/1980"
+                }
+            ]
+        },
+        "movieName": "Nijinsky"
+    },
+    "gr117920261": {
+        "castURL": "https://pro.imdb.com/title/tt0080881/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_61",
+        "individualURL": "gr117920261",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 10000000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/16/1980"
+                }
+            ]
+        },
+        "movieName": "The Hollywood Knights"
+    },
+    "gr12603909": {
+        "castURL": "https://pro.imdb.com/title/tt0080436/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_68",
+        "individualURL": "gr12603909",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 8527743.0,
+                    "countryOpeningAmount": 1108025.0,
+                    "countryReleaseDate": "08/29/1980"
+                }
+            ]
+        },
+        "movieName": "Battle Creek Brawl"
+    },
+    "gr1294291461": {
+        "castURL": "https://pro.imdb.com/title/tt0080855/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_94",
+        "individualURL": "gr1294291461",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3484331.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/19/1980"
+                }
+            ]
+        },
+        "movieName": "Heaven's Gate"
+    },
+    "gr1303073285": {
+        "castURL": "https://pro.imdb.com/title/tt0080861/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_40",
+        "individualURL": "gr1303073285",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 17000000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/25/1980"
+                }
+            ]
+        },
+        "movieName": "Herbie Goes Bananas"
+    },
+    "gr133386757": {
+        "castURL": "https://pro.imdb.com/title/tt0081032/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_55",
+        "individualURL": "gr133386757",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 12835544.0,
+                    "countryOpeningAmount": 2454289.0,
+                    "countryReleaseDate": "02/08/1980"
+                }
+            ]
+        },
+        "movieName": "The Last Married Couple in America"
+    },
+    "gr1441157637": {
+        "castURL": "https://pro.imdb.com/title/tt0080975/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_102",
+        "individualURL": "gr1441157637",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2086905.0,
+                    "countryOpeningAmount": 197230.0,
+                    "countryReleaseDate": "02/08/1980"
+                }
+            ]
+        },
+        "movieName": "Just Tell Me What You Want"
+    },
+    "gr1529434629": {
+        "castURL": "https://pro.imdb.com/title/tt0080487/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_17",
+        "individualURL": "gr1529434629",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 39846344.0,
+                    "countryOpeningAmount": 3142689.0,
+                    "countryReleaseDate": "07/25/1980"
+                }
+            ]
+        },
+        "movieName": "Caddyshack"
+    },
+    "gr1545687557": {
+        "castURL": "https://pro.imdb.com/title/tt0080402/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_69",
+        "individualURL": "gr1545687557",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 8415112.0,
+                    "countryOpeningAmount": 2728520.0,
+                    "countryReleaseDate": "10/31/1980"
+                }
+            ]
+        },
+        "movieName": "The Awakening"
+    },
+    "gr1550602757": {
+        "castURL": "https://pro.imdb.com/title/tt0080790/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_100",
+        "individualURL": "gr1550602757",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2261507.0,
+                    "countryOpeningAmount": 344234.0,
+                    "countryReleaseDate": "03/28/1980"
+                }
+            ]
+        },
+        "movieName": "Gilda Live"
+    },
+    "gr1580618245": {
+        "castURL": "https://pro.imdb.com/title/tt0080339/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_5",
+        "individualURL": "gr1580618245",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 83453539.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/27/1980"
+                }
+            ]
+        },
+        "movieName": "Airplane!"
+    },
+    "gr1607750149": {
+        "castURL": "https://pro.imdb.com/title/tt0080724/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_70",
+        "individualURL": "gr1607750149",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7653061.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/01/1980"
+                }
+            ]
+        },
+        "movieName": "Fatso"
+    },
+    "gr1615614469": {
+        "castURL": "https://pro.imdb.com/title/tt0081439/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_41",
+        "individualURL": "gr1615614469",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 16656125.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/20/1980"
+                }
+            ]
+        },
+        "movieName": "Rough Cut"
+    },
+    "gr1628590597": {
+        "castURL": "https://pro.imdb.com/title/tt0080569/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_36",
+        "individualURL": "gr1628590597",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 19784223.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/15/1980"
+                }
+            ]
+        },
+        "movieName": "Cruising"
+    },
+    "gr1645367813": {
+        "castURL": "https://pro.imdb.com/title/tt0081753/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_106",
+        "individualURL": "gr1645367813",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1175855.0,
+                    "countryOpeningAmount": 52473.0,
+                    "countryReleaseDate": "08/08/1980"
+                }
+            ]
+        },
+        "movieName": "Why Would I Lie?"
+    },
+    "gr1645433349": {
+        "castURL": "https://pro.imdb.com/title/tt0080500/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_104",
+        "individualURL": "gr1645433349",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1817720.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/23/1980"
+                }
+            ]
+        },
+        "movieName": "Carny"
+    },
+    "gr1714704901": {
+        "castURL": "https://pro.imdb.com/title/tt0080474/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_19",
+        "individualURL": "gr1714704901",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 37121708.0,
+                    "countryOpeningAmount": 2748079.0,
+                    "countryReleaseDate": "06/20/1980"
+                }
+            ]
+        },
+        "movieName": "Brubaker"
+    },
+    "gr172052997": {
+        "castURL": "https://pro.imdb.com/title/tt0080453/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_10",
+        "individualURL": "gr172052997",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 58853106.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/20/1980"
+                }
+            ]
+        },
+        "movieName": "The Blue Lagoon"
+    },
+    "gr17322501": {
+        "castURL": "https://pro.imdb.com/title/tt0081080/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_97",
+        "individualURL": "gr17322501",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2806659.0,
+                    "countryOpeningAmount": 1010181.0,
+                    "countryReleaseDate": "10/24/1980"
+                }
+            ]
+        },
+        "movieName": "Loving Couples"
+    },
+    "gr1744523781": {
+        "castURL": "https://pro.imdb.com/title/tt0081433/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_86",
+        "individualURL": "gr1744523781",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4226370.0,
+                    "countryOpeningAmount": 1002263.0,
+                    "countryReleaseDate": "06/13/1980"
+                }
+            ]
+        },
+        "movieName": "Roadie"
+    },
+    "gr1783845381": {
+        "castURL": "https://pro.imdb.com/title/tt0065421/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_38",
+        "individualURL": "gr1783845381",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 18000000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/19/1980"
+                }
+            ]
+        },
+        "movieName": "The Aristocats"
+    },
+    "gr1858949637": {
+        "castURL": "https://pro.imdb.com/title/tt0079285/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_64",
+        "individualURL": "gr1858949637",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 9000000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/15/1980"
+                }
+            ]
+        },
+        "movieName": "Saturn 3"
+    },
+    "gr1881952773": {
+        "castURL": "https://pro.imdb.com/title/tt0081777/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_28",
+        "individualURL": "gr1881952773",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 22762571.0,
+                    "countryOpeningAmount": 1471595.0,
+                    "countryReleaseDate": "08/08/1980"
+                }
+            ]
+        },
+        "movieName": "Xanadu"
+    },
+    "gr1897681413": {
+        "castURL": "https://pro.imdb.com/title/tt0080917/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_82",
+        "individualURL": "gr1897681413",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5215015.0,
+                    "countryOpeningAmount": 2008150.0,
+                    "countryReleaseDate": "09/26/1980"
+                }
+            ]
+        },
+        "movieName": "In God We Trust (or Gimme That Prime Time Religion)"
+    },
+    "gr1937068549": {
+        "castURL": "https://pro.imdb.com/title/tt0080798/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_87",
+        "individualURL": "gr1937068549",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4059673.0,
+                    "countryOpeningAmount": 33767.0,
+                    "countryReleaseDate": "10/01/1980"
+                }
+            ]
+        },
+        "movieName": "Gloria"
+    },
+    "gr1942311429": {
+        "castURL": "https://pro.imdb.com/title/tt0080716/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_32",
+        "individualURL": "gr1942311429",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 21202829.0,
+                    "countryOpeningAmount": 118160.0,
+                    "countryReleaseDate": "05/16/1980"
+                }
+            ]
+        },
+        "movieName": "Fame"
+    },
+    "gr1953583621": {
+        "castURL": "https://pro.imdb.com/title/tt0080319/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_3",
+        "individualURL": "gr1953583621",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 103290500.0,
+                    "countryOpeningAmount": 3966832.0,
+                    "countryReleaseDate": "12/19/1980"
+                }
+            ]
+        },
+        "movieName": "9 to 5"
+    },
+    "gr1997885957": {
+        "castURL": "https://pro.imdb.com/title/tt0080469/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_115",
+        "individualURL": "gr1997885957",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2471.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/17/1980"
+                }
+            ]
+        },
+        "movieName": "Breaking Glass"
+    },
+    "gr2002735621": {
+        "castURL": "https://pro.imdb.com/title/tt0080736/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_42",
+        "individualURL": "gr2002735621",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 16647800.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/01/1980"
+                }
+            ]
+        },
+        "movieName": "The Final Countdown"
+    },
+    "gr2010927621": {
+        "castURL": "https://pro.imdb.com/title/tt0080731/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_59",
+        "individualURL": "gr2010927621",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 10697276.0,
+                    "countryOpeningAmount": 2399109.0,
+                    "countryReleaseDate": "08/08/1980"
+                }
+            ]
+        },
+        "movieName": "The Fiendish Plot of Dr. Fu Manchu"
+    },
+    "gr2028622341": {
+        "castURL": "https://pro.imdb.com/title/tt0080678/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_25",
+        "individualURL": "gr2028622341",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 26010864.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/03/1980"
+                }
+            ]
+        },
+        "movieName": "The Elephant Man"
+    },
+    "gr2048938501": {
+        "castURL": "https://pro.imdb.com/title/tt0079302/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_113",
+        "individualURL": "gr2048938501",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 89134.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/16/1980"
+                }
+            ]
+        },
+        "movieName": "Home Movies"
+    },
+    "gr206262789": {
+        "castURL": "https://pro.imdb.com/title/tt0081060/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_20",
+        "individualURL": "gr206262789",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 34326249.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/21/1980"
+                }
+            ]
+        },
+        "movieName": "Little Darlings"
+    },
+    "gr2084655621": {
+        "castURL": "https://pro.imdb.com/title/tt0081529/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_9",
+        "individualURL": "gr2084655621",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 66132626.0,
+                    "countryOpeningAmount": 10883835.0,
+                    "countryReleaseDate": "08/15/1980"
+                }
+            ]
+        },
+        "movieName": "Smokey and the Bandit II"
+    },
+    "gr2138526213": {
+        "castURL": "https://pro.imdb.com/title/tt0080365/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_29",
+        "individualURL": "gr2138526213",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 22743674.0,
+                    "countryOpeningAmount": 3559930.0,
+                    "countryReleaseDate": "02/01/1980"
+                }
+            ]
+        },
+        "movieName": "American Gigolo"
+    },
+    "gr2295484933": {
+        "castURL": "https://pro.imdb.com/title/tt0081534/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_63",
+        "individualURL": "gr2295484933",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 9709597.0,
+                    "countryOpeningAmount": 1203011.0,
+                    "countryReleaseDate": "10/03/1980"
+                }
+            ]
+        },
+        "movieName": "Somewhere in Time"
+    },
+    "gr233460229": {
+        "castURL": "https://pro.imdb.com/title/tt0080520/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_16",
+        "individualURL": "gr233460229",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 41675194.0,
+                    "countryOpeningAmount": 5262963.0,
+                    "countryReleaseDate": "07/18/1980"
+                }
+            ]
+        },
+        "movieName": "Cheech and Chong's Next Movie"
+    },
+    "gr2335592965": {
+        "castURL": "https://pro.imdb.com/title/tt0081269/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_80",
+        "individualURL": "gr2335592965",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6216067.0,
+                    "countryOpeningAmount": 323320.0,
+                    "countryReleaseDate": "07/11/1980"
+                }
+            ]
+        },
+        "movieName": "Oh Heavenly Dog"
+    },
+    "gr2361938437": {
+        "castURL": "https://pro.imdb.com/title/tt0080684/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_1",
+        "individualURL": "gr2361938437",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 209398025.0,
+                    "countryOpeningAmount": 4910483.0,
+                    "countryReleaseDate": "05/21/1980"
+                }
+            ]
+        },
+        "movieName": "Star Wars: Episode V - The Empire Strikes Back"
+    },
+    "gr2407485957": {
+        "castURL": "https://pro.imdb.com/title/tt0080808/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_77",
+        "individualURL": "gr2407485957",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6621520.0,
+                    "countryOpeningAmount": 1476425.0,
+                    "countryReleaseDate": "05/23/1980"
+                }
+            ]
+        },
+        "movieName": "The Gong Show Movie"
+    },
+    "gr2422297093": {
+        "castURL": "https://pro.imdb.com/title/tt0081554/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_60",
+        "individualURL": "gr2422297093",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 10389003.0,
+                    "countryOpeningAmount": 326779.0,
+                    "countryReleaseDate": "09/26/1980"
+                }
+            ]
+        },
+        "movieName": "Stardust Memories"
+    },
+    "gr2495894021": {
+        "castURL": "https://pro.imdb.com/title/tt0080556/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_52",
+        "individualURL": "gr2495894021",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14287755.0,
+                    "countryOpeningAmount": 76163.0,
+                    "countryReleaseDate": "12/03/1980"
+                }
+            ]
+        },
+        "movieName": "The Competition"
+    },
+    "gr2532004357": {
+        "castURL": "https://pro.imdb.com/title/tt0081031/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_57",
+        "individualURL": "gr2532004357",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 11000000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/27/1980"
+                }
+            ]
+        },
+        "movieName": "The Last Flight of Noah's Ark"
+    },
+    "gr2572177925": {
+        "castURL": "https://pro.imdb.com/title/tt0080948/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_22",
+        "individualURL": "gr2572177925",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 27118000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/19/1980"
+                }
+            ]
+        },
+        "movieName": "The Jazz Singer"
+    },
+    "gr2615693829": {
+        "castURL": "https://pro.imdb.com/title/tt0081751/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_53",
+        "individualURL": "gr2615693829",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14155617.0,
+                    "countryOpeningAmount": 3625280.0,
+                    "countryReleaseDate": "06/13/1980"
+                }
+            ]
+        },
+        "movieName": "Wholly Moses!"
+    },
+    "gr2637451781": {
+        "castURL": "https://pro.imdb.com/title/tt0080868/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_91",
+        "individualURL": "gr2637451781",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3806930.0,
+                    "countryOpeningAmount": 810109.0,
+                    "countryReleaseDate": "03/21/1980"
+                }
+            ]
+        },
+        "movieName": "Hide in Plain Sight"
+    },
+    "gr2730775045": {
+        "castURL": "https://pro.imdb.com/title/tt0080739/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_48",
+        "individualURL": "gr2730775045",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 15198912.0,
+                    "countryOpeningAmount": 3635564.0,
+                    "countryReleaseDate": "12/25/1980"
+                }
+            ]
+        },
+        "movieName": "First Family"
+    },
+    "gr2733003269": {
+        "castURL": "https://pro.imdb.com/title/tt0081528/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_111",
+        "individualURL": "gr2733003269",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 766760.0,
+                    "countryOpeningAmount": 61109.0,
+                    "countryReleaseDate": "03/12/1980"
+                }
+            ]
+        },
+        "movieName": "A Small Circle of Friends"
+    },
+    "gr2774684165": {
+        "castURL": "https://pro.imdb.com/title/tt0081747/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_93",
+        "individualURL": "gr2774684165",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3763988.0,
+                    "countryOpeningAmount": 1400994.0,
+                    "countryReleaseDate": "03/28/1980"
+                }
+            ]
+        },
+        "movieName": "When Time Ran Out..."
+    },
+    "gr2801619461": {
+        "castURL": "https://pro.imdb.com/title/tt0081568/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_75",
+        "individualURL": "gr2801619461",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7063886.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/27/1980"
+                }
+            ]
+        },
+        "movieName": "The Stunt Man"
+    },
+    "gr2802209285": {
+        "castURL": "https://pro.imdb.com/title/tt0081748/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_76",
+        "individualURL": "gr2802209285",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6659377.0,
+                    "countryOpeningAmount": 1750593.0,
+                    "countryReleaseDate": "04/25/1980"
+                }
+            ]
+        },
+        "movieName": "Where the Buffalo Roam"
+    },
+    "gr2815971845": {
+        "castURL": "https://pro.imdb.com/title/tt0080850/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_83",
+        "individualURL": "gr2815971845",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4875436.0,
+                    "countryOpeningAmount": 748824.0,
+                    "countryReleaseDate": "08/29/1980"
+                }
+            ]
+        },
+        "movieName": "He Knows You're Alone"
+    },
+    "gr2838581765": {
+        "castURL": "https://pro.imdb.com/title/tt0081150/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_85",
+        "individualURL": "gr2838581765",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4309490.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/24/1980"
+                }
+            ]
+        },
+        "movieName": "Melvin and Howard"
+    },
+    "gr2846577157": {
+        "castURL": "https://pro.imdb.com/title/tt0080854/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_108",
+        "individualURL": "gr2846577157",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 954046.0,
+                    "countryOpeningAmount": 74303.0,
+                    "countryReleaseDate": "01/18/1980"
+                }
+            ]
+        },
+        "movieName": "Heart Beat"
+    },
+    "gr284774917": {
+        "castURL": "https://pro.imdb.com/title/tt0081625/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_110",
+        "individualURL": "gr284774917",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 804713.0,
+                    "countryOpeningAmount": 63766.0,
+                    "countryReleaseDate": "08/15/1980"
+                }
+            ]
+        },
+        "movieName": "Those Lips, Those Eyes"
+    },
+    "gr2851951109": {
+        "castURL": "https://pro.imdb.com/title/tt0081759/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_101",
+        "individualURL": "gr2851951109",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2128395.0,
+                    "countryOpeningAmount": 311796.0,
+                    "countryReleaseDate": "01/18/1980"
+                }
+            ]
+        },
+        "movieName": "Windows"
+    },
+    "gr2876723717": {
+        "castURL": "https://pro.imdb.com/title/tt0081283/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_11",
+        "individualURL": "gr2876723717",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 54766923.0,
+                    "countryOpeningAmount": 170335.0,
+                    "countryReleaseDate": "09/19/1980"
+                }
+            ]
+        },
+        "movieName": "Ordinary People"
+    },
+    "gr2909622789": {
+        "castURL": "https://pro.imdb.com/title/tt0080550/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_84",
+        "individualURL": "gr2909622789",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4495445.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/03/1980"
+                }
+            ]
+        },
+        "movieName": "Coast to Coast"
+    },
+    "gr3020050949": {
+        "castURL": "https://pro.imdb.com/title/tt0080437/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_74",
+        "individualURL": "gr3020050949",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7206220.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/18/1980"
+                }
+            ]
+        },
+        "movieName": "The Big Red One"
+    },
+    "gr3058913797": {
+        "castURL": "https://pro.imdb.com/title/tt0080461/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_103",
+        "individualURL": "gr3058913797",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2013193.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/30/1980"
+                }
+            ]
+        },
+        "movieName": "Bon Voyage, Charlie Brown (and Don't Come Back!!)"
+    },
+    "gr3119927813": {
+        "castURL": "https://pro.imdb.com/title/tt0080833/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_92",
+        "individualURL": "gr3119927813",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3798102.0,
+                    "countryOpeningAmount": 1668965.0,
+                    "countryReleaseDate": "01/25/1980"
+                }
+            ]
+        },
+        "movieName": "Guyana: Cult of the Damned"
+    },
+    "gr3128119813": {
+        "castURL": "https://pro.imdb.com/title/tt0081414/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_90",
+        "individualURL": "gr3128119813",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3910019.0,
+                    "countryOpeningAmount": 308068.0,
+                    "countryReleaseDate": "09/26/1980"
+                }
+            ]
+        },
+        "movieName": "Resurrection"
+    },
+    "gr3152957957": {
+        "castURL": "https://pro.imdb.com/title/tt0081480/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_15",
+        "individualURL": "gr3152957957",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 43995918.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/19/1980"
+                }
+            ]
+        },
+        "movieName": "Seems Like Old Times"
+    },
+    "gr3154596357": {
+        "castURL": "https://pro.imdb.com/title/tt0077766/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_88",
+        "individualURL": "gr3154596357",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4028735.0,
+                    "countryOpeningAmount": 1382756.0,
+                    "countryReleaseDate": "02/15/1980"
+                }
+            ]
+        },
+        "movieName": "Jaws 2 1980 Re-release"
+    },
+    "gr3239662085": {
+        "castURL": "https://pro.imdb.com/title/tt0080895/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_72",
+        "individualURL": "gr3239662085",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7500000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/01/1980"
+                }
+            ]
+        },
+        "movieName": "How to Beat the High Cost of Living"
+    },
+    "gr3275772421": {
+        "castURL": "https://pro.imdb.com/title/tt0081485/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_62",
+        "individualURL": "gr3275772421",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 9870727.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/28/1980"
+                }
+            ]
+        },
+        "movieName": "Serial"
+    },
+    "gr3322958341": {
+        "castURL": "https://pro.imdb.com/title/tt0080455/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_2",
+        "individualURL": "gr3322958341",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 57229890.0,
+                    "countryOpeningAmount": 4858152.0,
+                    "countryReleaseDate": "06/20/1980"
+                }
+            ]
+        },
+        "movieName": "The Blues Brothers"
+    },
+    "gr3356971525": {
+        "castURL": "https://pro.imdb.com/title/tt0081334/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_114",
+        "individualURL": "gr3356971525",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 59167.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/26/1980"
+                }
+            ]
+        },
+        "movieName": "Phobia"
+    },
+    "gr3453702661": {
+        "castURL": "https://pro.imdb.com/title/tt0080756/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_73",
+        "individualURL": "gr3453702661",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7470348.0,
+                    "countryOpeningAmount": 221141.0,
+                    "countryReleaseDate": "02/29/1980"
+                }
+            ]
+        },
+        "movieName": "Foxes"
+    },
+    "gr3463074309": {
+        "castURL": "https://pro.imdb.com/title/tt0080761/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_18",
+        "individualURL": "gr3463074309",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 39754601.0,
+                    "countryOpeningAmount": 5816321.0,
+                    "countryReleaseDate": "05/09/1980"
+                }
+            ]
+        },
+        "movieName": "Friday the 13th"
+    },
+    "gr3472118277": {
+        "castURL": "https://pro.imdb.com/title/tt0081163/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_58",
+        "individualURL": "gr3472118277",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 11000000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/19/1980"
+                }
+            ]
+        },
+        "movieName": "The Mirror Crack'd"
+    },
+    "gr3478147589": {
+        "castURL": "https://pro.imdb.com/title/tt0081809/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_95",
+        "individualURL": "gr3478147589",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2993772.0,
+                    "countryOpeningAmount": 805511.0,
+                    "countryReleaseDate": "04/18/1980"
+                }
+            ]
+        },
+        "movieName": "ffolkes"
+    },
+    "gr3504886277": {
+        "castURL": "https://pro.imdb.com/title/tt0081375/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_7",
+        "individualURL": "gr3504886277",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 69847348.0,
+                    "countryOpeningAmount": 4739769.0,
+                    "countryReleaseDate": "10/10/1980"
+                }
+            ]
+        },
+        "movieName": "Private Benjamin"
+    },
+    "gr3604304389": {
+        "castURL": "https://pro.imdb.com/title/tt0081207/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_30",
+        "individualURL": "gr3604304389",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 22482952.0,
+                    "countryOpeningAmount": 178641.0,
+                    "countryReleaseDate": "07/11/1980"
+                }
+            ]
+        },
+        "movieName": "My Bodyguard"
+    },
+    "gr3659944453": {
+        "castURL": "https://pro.imdb.com/title/tt0038969/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_35",
+        "individualURL": "gr3659944453",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 19800000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/08/1980"
+                }
+            ]
+        },
+        "movieName": "Song of the South"
+    },
+    "gr3739046405": {
+        "castURL": "https://pro.imdb.com/title/tt0081383/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_49",
+        "individualURL": "gr3739046405",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14796236.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/15/1980"
+                }
+            ]
+        },
+        "movieName": "Prom Night"
+    },
+    "gr3745731077": {
+        "castURL": "https://pro.imdb.com/title/tt0080745/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_23",
+        "individualURL": "gr3745731077",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 27107960.0,
+                    "countryOpeningAmount": 3934030.0,
+                    "countryReleaseDate": "12/05/1980"
+                }
+            ]
+        },
+        "movieName": "Flash Gordon"
+    },
+    "gr3827257861": {
+        "castURL": "https://pro.imdb.com/title/tt0080009/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_33",
+        "individualURL": "gr3827257861",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 20093330.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/12/1980"
+                }
+            ]
+        },
+        "movieName": "Tess"
+    },
+    "gr3845345797": {
+        "castURL": "https://pro.imdb.com/title/tt0080913/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_98",
+        "individualURL": "gr3845345797",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2625716.0,
+                    "countryOpeningAmount": 318403.0,
+                    "countryReleaseDate": "11/14/1980"
+                }
+            ]
+        },
+        "movieName": "The Idolmaker"
+    },
+    "gr3878507013": {
+        "castURL": "https://pro.imdb.com/title/tt0058331/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_54",
+        "individualURL": "gr3878507013",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14000000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/23/1980"
+                }
+            ]
+        },
+        "movieName": "Mary Poppins 1980 Re-release"
+    },
+    "gr3924775429": {
+        "castURL": "https://pro.imdb.com/title/tt0081184/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_78",
+        "individualURL": "gr3924775429",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6342668.0,
+                    "countryOpeningAmount": 1924776.0,
+                    "countryReleaseDate": "10/24/1980"
+                }
+            ]
+        },
+        "movieName": "Motel Hell"
+    },
+    "gr3974713861": {
+        "castURL": "https://pro.imdb.com/title/tt0080754/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_66",
+        "individualURL": "gr3974713861",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 8894289.0,
+                    "countryOpeningAmount": 842985.0,
+                    "countryReleaseDate": "12/19/1980"
+                }
+            ]
+        },
+        "movieName": "The Formula"
+    },
+    "gr3979629061": {
+        "castURL": "https://pro.imdb.com/title/tt0080934/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_46",
+        "individualURL": "gr3979629061",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 15716828.0,
+                    "countryOpeningAmount": 3123267.0,
+                    "countryReleaseDate": "06/13/1980"
+                }
+            ]
+        },
+        "movieName": "The Island"
+    },
+    "gr3996733957": {
+        "castURL": "https://pro.imdb.com/title/tt0080549/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_8",
+        "individualURL": "gr3996733957",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 67182787.0,
+                    "countryOpeningAmount": 3366443.0,
+                    "countryReleaseDate": "03/07/1980"
+                }
+            ]
+        },
+        "movieName": "Coal Miner's Daughter"
+    },
+    "gr4023472645": {
+        "castURL": "https://pro.imdb.com/title/tt0081249/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_50",
+        "individualURL": "gr4023472645",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14662035.0,
+                    "countryOpeningAmount": 3565066.0,
+                    "countryReleaseDate": "05/09/1980"
+                }
+            ]
+        },
+        "movieName": "The Nude Bomb"
+    },
+    "gr405033477": {
+        "castURL": "https://pro.imdb.com/title/tt0080749/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_31",
+        "individualURL": "gr405033477",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 21378361.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/01/1980"
+                }
+            ]
+        },
+        "movieName": "The Fog"
+    },
+    "gr405885445": {
+        "castURL": "https://pro.imdb.com/title/tt0048280/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_24",
+        "individualURL": "gr405885445",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 26114207.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/07/1980"
+                }
+            ]
+        },
+        "movieName": "Lady and the Tramp 1980 Re-release"
+    },
+    "gr4089598469": {
+        "castURL": "https://pro.imdb.com/title/tt0081353/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_12",
+        "individualURL": "gr4089598469",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 49823037.0,
+                    "countryOpeningAmount": 6310520.0,
+                    "countryReleaseDate": "12/12/1980"
+                }
+            ]
+        },
+        "movieName": "Popeye"
+    },
+    "gr4125708805": {
+        "castURL": "https://pro.imdb.com/title/tt0080442/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_99",
+        "individualURL": "gr4125708805",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2500000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/01/1980"
+                }
+            ]
+        },
+        "movieName": "The Black Marble"
+    },
+    "gr417616389": {
+        "castURL": "https://pro.imdb.com/title/tt0080377/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_6",
+        "individualURL": "gr417616389",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 70687344.0,
+                    "countryOpeningAmount": 8024663.0,
+                    "countryReleaseDate": "12/17/1980"
+                }
+            ]
+        },
+        "movieName": "Any Which Way You Can"
+    },
+    "gr4176695813": {
+        "castURL": "https://pro.imdb.com/title/tt0081698/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_56",
+        "individualURL": "gr4176695813",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 11715321.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/18/1980"
+                }
+            ]
+        },
+        "movieName": "Used Cars"
+    },
+    "gr4180038149": {
+        "castURL": "https://pro.imdb.com/title/tt0080130/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_105",
+        "individualURL": "gr4180038149",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1262052.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/17/1980"
+                }
+            ]
+        },
+        "movieName": "When a Stranger Calls 1980 Re-release"
+    },
+    "gr4190261765": {
+        "castURL": "https://pro.imdb.com/title/tt0080863/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_44",
+        "individualURL": "gr4190261765",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 15934737.0,
+                    "countryOpeningAmount": 1850725.0,
+                    "countryReleaseDate": "02/08/1980"
+                }
+            ]
+        },
+        "movieName": "Hero at Large"
+    },
+    "gr4232073733": {
+        "castURL": "https://pro.imdb.com/title/tt0081656/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_65",
+        "individualURL": "gr4232073733",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 9000000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/14/1980"
+                }
+            ]
+        },
+        "movieName": "Tribute"
+    },
+    "gr4246557189": {
+        "castURL": "https://pro.imdb.com/title/tt0080907/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_43",
+        "individualURL": "gr4246557189",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 16274150.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/01/1980"
+                }
+            ]
+        },
+        "movieName": "The Hunter"
+    },
+    "gr437539333": {
+        "castURL": "https://pro.imdb.com/title/tt10192656/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_71",
+        "individualURL": "gr437539333",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7500000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/01/1980"
+                }
+            ]
+        },
+        "movieName": "How to Become a Detective"
+    },
+    "gr444224005": {
+        "castURL": "https://pro.imdb.com/title/tt0081696/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_13",
+        "individualURL": "gr444224005",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 46918287.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/06/1980"
+                }
+            ]
+        },
+        "movieName": "Urban Cowboy"
+    },
+    "gr458641925": {
+        "castURL": "https://pro.imdb.com/title/tt0080979/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_89",
+        "individualURL": "gr458641925",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4000000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/10/1980"
+                }
+            ]
+        },
+        "movieName": "Kagemusha"
+    },
+    "gr482628101": {
+        "castURL": "https://pro.imdb.com/title/tt0079501/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_67",
+        "individualURL": "gr482628101",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 8750000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/21/1980"
+                }
+            ]
+        },
+        "movieName": "Mad Max"
+    },
+    "gr506483205": {
+        "castURL": "https://pro.imdb.com/title/tt0081063/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_79",
+        "individualURL": "gr506483205",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6321392.0,
+                    "countryOpeningAmount": 853173.0,
+                    "countryReleaseDate": "03/21/1980"
+                }
+            ]
+        },
+        "movieName": "Little Miss Marker"
+    },
+    "gr561140229": {
+        "castURL": "https://pro.imdb.com/title/tt0075860/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_47",
+        "individualURL": "gr561140229",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 15693175.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/14/1980"
+                }
+            ]
+        },
+        "movieName": "Close Encounters of the Third Kind 1980 Special Edition"
+    },
+    "gr621105669": {
+        "castURL": "https://pro.imdb.com/title/tt0081268/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_51",
+        "individualURL": "gr621105669",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14504277.0,
+                    "countryOpeningAmount": 3439846.0,
+                    "countryReleaseDate": "10/03/1980"
+                }
+            ]
+        },
+        "movieName": "Oh, God! Book II"
+    },
+    "gr692146693": {
+        "castURL": "https://pro.imdb.com/title/tt0080472/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_26",
+        "individualURL": "gr692146693",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 24265659.0,
+                    "countryOpeningAmount": 3708710.0,
+                    "countryReleaseDate": "06/11/1980"
+                }
+            ]
+        },
+        "movieName": "Bronco Billy"
+    },
+    "gr725176837": {
+        "castURL": "https://pro.imdb.com/title/tt0081259/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_37",
+        "individualURL": "gr725176837",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 18971000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/14/1980"
+                }
+            ]
+        },
+        "movieName": "The Octagon"
+    },
+    "gr762860037": {
+        "castURL": "https://pro.imdb.com/title/tt0081280/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_109",
+        "individualURL": "gr762860037",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 843215.0,
+                    "countryOpeningAmount": 150809.0,
+                    "countryReleaseDate": "10/03/1980"
+                }
+            ]
+        },
+        "movieName": "One-Trick Pony"
+    },
+    "gr788943365": {
+        "castURL": "https://pro.imdb.com/title/tt0081505/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_14",
+        "individualURL": "gr788943365",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 44017374.0,
+                    "countryOpeningAmount": 622337.0,
+                    "countryReleaseDate": "05/23/1980"
+                }
+            ]
+        },
+        "movieName": "The Shining"
+    },
+    "gr790516229": {
+        "castURL": "https://pro.imdb.com/title/tt0080661/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_21",
+        "individualURL": "gr790516229",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 31899000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/23/1980"
+                }
+            ]
+        },
+        "movieName": "Dressed to Kill"
+    },
+    "gr853103109": {
+        "castURL": "https://pro.imdb.com/title/tt0080360/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_34",
+        "individualURL": "gr853103109",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 19853892.0,
+                    "countryOpeningAmount": 174650.0,
+                    "countryReleaseDate": "12/25/1980"
+                }
+            ]
+        },
+        "movieName": "Altered States"
+    },
+    "gr952324613": {
+        "castURL": "https://pro.imdb.com/title/tt0081159/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1980_96",
+        "individualURL": "gr952324613",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2900000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/08/1980"
+                }
+            ]
+        },
+        "movieName": "Midnight Madness"
+    }
+}

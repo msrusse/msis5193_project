@@ -1,0 +1,5154 @@
+{
+    "gr0741893": {
+        "castURL": "https://pro.imdb.com/title/tt0110115/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_233",
+        "individualURL": "gr0741893",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 89611.0,
+                    "countryOpeningAmount": 21748.0,
+                    "countryReleaseDate": "10/14/1994"
+                }
+            ]
+        },
+        "movieName": "Imaginary Crimes"
+    },
+    "gr100815365": {
+        "castURL": "https://pro.imdb.com/title/tt0103791/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_139",
+        "individualURL": "gr100815365",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5418216.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/25/1994"
+                }
+            ]
+        },
+        "movieName": "Belle Epoque"
+    },
+    "gr1012748805": {
+        "castURL": "https://pro.imdb.com/title/tt0110623/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_190",
+        "individualURL": "gr1012748805",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1038959.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/13/1994"
+                }
+            ]
+        },
+        "movieName": "Naked in New York"
+    },
+    "gr1023562245": {
+        "castURL": "https://pro.imdb.com/title/tt0110475/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_4",
+        "individualURL": "gr1023562245",
+        "markets": {
+            "asia_pacific": [
+                {
+                    "country": "Australia",
+                    "countryGrossAmount": 15123750.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/08/1994"
+                },
+                {
+                    "country": "Hong Kong",
+                    "countryGrossAmount": 2324568.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/27/1994"
+                },
+                {
+                    "country": "India",
+                    "countryGrossAmount": 349690.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/08/1995"
+                },
+                {
+                    "country": "Indonesia",
+                    "countryGrossAmount": 800000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/03/1995"
+                },
+                {
+                    "country": "Japan",
+                    "countryGrossAmount": 34875028.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/25/1995"
+                },
+                {
+                    "country": "Malaysia",
+                    "countryGrossAmount": 672468.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/22/1994"
+                },
+                {
+                    "country": "New Zealand",
+                    "countryGrossAmount": 1670864.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/16/1994"
+                },
+                {
+                    "country": "Philippines",
+                    "countryGrossAmount": 916667.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/23/1994"
+                },
+                {
+                    "country": "Russia/CIS",
+                    "countryGrossAmount": 433732.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/16/1995"
+                },
+                {
+                    "country": "Singapore",
+                    "countryGrossAmount": 2243452.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/01/1994"
+                },
+                {
+                    "country": "South Korea",
+                    "countryGrossAmount": 3245000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/20/1994"
+                },
+                {
+                    "country": "Taiwan",
+                    "countryGrossAmount": 2300333.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/12/1994"
+                },
+                {
+                    "country": "Thailand",
+                    "countryGrossAmount": 1530609.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/09/1994"
+                }
+            ],
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 119938730.0,
+                    "countryOpeningAmount": 23117068.0,
+                    "countryReleaseDate": "07/29/1994"
+                }
+            ],
+            "emea": [
+                {
+                    "country": "Austria",
+                    "countryGrossAmount": 1143454.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Baltic States",
+                    "countryGrossAmount": 59806.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/20/1995"
+                },
+                {
+                    "country": "Belgium",
+                    "countryGrossAmount": 3268091.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/21/1994"
+                },
+                {
+                    "country": "Bulgaria",
+                    "countryGrossAmount": 48530.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/12/1995"
+                },
+                {
+                    "country": "Croatia",
+                    "countryGrossAmount": 387901.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/02/1995"
+                },
+                {
+                    "country": "Czech Republic",
+                    "countryGrossAmount": 252096.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/02/1995"
+                },
+                {
+                    "country": "Denmark",
+                    "countryGrossAmount": 1788748.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1994"
+                },
+                {
+                    "country": "Egypt",
+                    "countryGrossAmount": 234758.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/17/1995"
+                },
+                {
+                    "country": "Finland",
+                    "countryGrossAmount": 668020.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/23/1994"
+                },
+                {
+                    "country": "France",
+                    "countryGrossAmount": 26000000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/26/1994"
+                },
+                {
+                    "country": "Germany",
+                    "countryGrossAmount": 9853637.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/24/1994"
+                },
+                {
+                    "country": "Greece",
+                    "countryGrossAmount": 1200000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/10/1995"
+                },
+                {
+                    "country": "Hungary",
+                    "countryGrossAmount": 457239.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/23/1995"
+                },
+                {
+                    "country": "Iceland",
+                    "countryGrossAmount": 291000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/19/1994"
+                },
+                {
+                    "country": "Israel",
+                    "countryGrossAmount": 1070000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/12/1994"
+                },
+                {
+                    "country": "Italy",
+                    "countryGrossAmount": 12773533.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/16/1994"
+                },
+                {
+                    "country": "Lebanon",
+                    "countryGrossAmount": 436447.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Netherlands",
+                    "countryGrossAmount": 2391537.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/20/1994"
+                },
+                {
+                    "country": "Norway",
+                    "countryGrossAmount": 1020998.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/11/1994"
+                },
+                {
+                    "country": "Poland",
+                    "countryGrossAmount": 1421123.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/26/1994"
+                },
+                {
+                    "country": "Portugal",
+                    "countryGrossAmount": 1000000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/10/1995"
+                },
+                {
+                    "country": "Romania",
+                    "countryGrossAmount": 127974.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/07/1995"
+                },
+                {
+                    "country": "Russia",
+                    "countryGrossAmount": "-",
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Slovenia",
+                    "countryGrossAmount": 388710.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/16/1995"
+                },
+                {
+                    "country": "South Africa",
+                    "countryGrossAmount": 2357498.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/17/1995"
+                },
+                {
+                    "country": "Spain",
+                    "countryGrossAmount": 10750000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/25/1994"
+                },
+                {
+                    "country": "Sweden",
+                    "countryGrossAmount": 2300000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1994"
+                },
+                {
+                    "country": "Switzerland",
+                    "countryGrossAmount": 2374700.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/28/1994"
+                },
+                {
+                    "country": "Turkey",
+                    "countryGrossAmount": 740069.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/23/1994"
+                },
+                {
+                    "country": "United Kingdom",
+                    "countryGrossAmount": 55000000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/19/1994"
+                }
+            ],
+            "latin_america": [
+                {
+                    "country": "Argentina",
+                    "countryGrossAmount": 7703153.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/01/1995"
+                },
+                {
+                    "country": "Bolivia",
+                    "countryGrossAmount": 101115.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/01/1995"
+                },
+                {
+                    "country": "Brazil",
+                    "countryGrossAmount": 9581042.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/23/1994"
+                },
+                {
+                    "country": "Central America+",
+                    "countryGrossAmount": 264419.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/28/1995"
+                },
+                {
+                    "country": "Chile",
+                    "countryGrossAmount": 1312607.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1994"
+                },
+                {
+                    "country": "Colombia",
+                    "countryGrossAmount": 1236360.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/23/1994"
+                },
+                {
+                    "country": "Dominican Republic",
+                    "countryGrossAmount": 65000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/10/1994"
+                },
+                {
+                    "country": "Ecuador",
+                    "countryGrossAmount": 69000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Mexico",
+                    "countryGrossAmount": 2959184.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/25/1994"
+                },
+                {
+                    "country": "Peru",
+                    "countryGrossAmount": 200000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/20/1995"
+                },
+                {
+                    "country": "Puerto Rico",
+                    "countryGrossAmount": 1393266.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/04/1994"
+                },
+                {
+                    "country": "Venezuela",
+                    "countryGrossAmount": 276811.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/21/1994"
+                },
+                {
+                    "country": "West Indies",
+                    "countryGrossAmount": 109680.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/07/1994"
+                }
+            ]
+        },
+        "movieName": "The Mask"
+    },
+    "gr1028346373": {
+        "castURL": "https://pro.imdb.com/title/tt0109506/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_31",
+        "individualURL": "gr1028346373",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 50693129.0,
+                    "countryOpeningAmount": 11774332.0,
+                    "countryReleaseDate": "05/13/1994"
+                }
+            ]
+        },
+        "movieName": "The Crow"
+    },
+    "gr1055937029": {
+        "castURL": "https://pro.imdb.com/title/tt0110413/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_75",
+        "individualURL": "gr1055937029",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 19501238.0,
+                    "countryOpeningAmount": 5306558.0,
+                    "countryReleaseDate": "11/18/1994"
+                }
+            ]
+        },
+        "movieName": "L\u00e9on: The Professional"
+    },
+    "gr1057313285": {
+        "castURL": "https://pro.imdb.com/title/tt0110527/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_38",
+        "individualURL": "gr1057313285",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 17320136.0,
+                    "countryOpeningAmount": 2753208.0,
+                    "countryReleaseDate": "11/18/1994"
+                }
+            ]
+        },
+        "movieName": "Miracle on 34th Street"
+    },
+    "gr1063866885": {
+        "castURL": "https://pro.imdb.com/title/tt0108135/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_240",
+        "individualURL": "gr1063866885",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 61274.0,
+                    "countryOpeningAmount": 18227.0,
+                    "countryReleaseDate": "02/25/1994"
+                }
+            ]
+        },
+        "movieName": "Silent Tongue"
+    },
+    "gr1089032709": {
+        "castURL": "https://pro.imdb.com/title/tt0111495/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_147",
+        "individualURL": "gr1089032709",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3581969.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/01/1994"
+                }
+            ]
+        },
+        "movieName": "Three Colors: Red"
+    },
+    "gr1112232453": {
+        "castURL": "https://pro.imdb.com/title/tt0106880/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_219",
+        "individualURL": "gr1112232453",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 233824.0,
+                    "countryOpeningAmount": 15191.0,
+                    "countryReleaseDate": "06/03/1994"
+                }
+            ]
+        },
+        "movieName": "Fear of a Black Hat"
+    },
+    "gr1125798405": {
+        "castURL": "https://pro.imdb.com/title/tt0111001/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_132",
+        "individualURL": "gr1125798405",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6562513.0,
+                    "countryOpeningAmount": 2580108.0,
+                    "countryReleaseDate": "10/28/1994"
+                }
+            ]
+        },
+        "movieName": "The Road to Wellville"
+    },
+    "gr1153847813": {
+        "castURL": "https://pro.imdb.com/title/tt0111252/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_183",
+        "individualURL": "gr1153847813",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1359736.0,
+                    "countryOpeningAmount": 35396.0,
+                    "countryReleaseDate": "07/15/1994"
+                }
+            ]
+        },
+        "movieName": "Spanking the Monkey"
+    },
+    "gr1154372101": {
+        "castURL": "https://pro.imdb.com/title/tt0111470/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_210",
+        "individualURL": "gr1154372101",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 319123.0,
+                    "countryOpeningAmount": 68570.0,
+                    "countryReleaseDate": "05/13/1994"
+                }
+            ]
+        },
+        "movieName": "Trading Mom"
+    },
+    "gr1176850949": {
+        "castURL": "https://pro.imdb.com/title/tt0111400/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_88",
+        "individualURL": "gr1176850949",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 16487349.0,
+                    "countryOpeningAmount": 5500404.0,
+                    "countryReleaseDate": "09/23/1994"
+                }
+            ]
+        },
+        "movieName": "Terminal Velocity"
+    },
+    "gr1178030597": {
+        "castURL": "https://pro.imdb.com/title/tt0107472/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_204",
+        "individualURL": "gr1178030597",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 449707.0,
+                    "countryOpeningAmount": 9711.0,
+                    "countryReleaseDate": "03/18/1994"
+                }
+            ]
+        },
+        "movieName": "The Wonderful, Horrible Life of Leni Riefenstahl"
+    },
+    "gr1208963589": {
+        "castURL": "https://pro.imdb.com/title/tt0107349/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_211",
+        "individualURL": "gr1208963589",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 308368.0,
+                    "countryOpeningAmount": 9711.0,
+                    "countryReleaseDate": "06/03/1994"
+                }
+            ]
+        },
+        "movieName": "The Slingshot"
+    },
+    "gr120934917": {
+        "castURL": "https://pro.imdb.com/title/tt0110950/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_46",
+        "individualURL": "gr120934917",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 20982557.0,
+                    "countryOpeningAmount": 5113050.0,
+                    "countryReleaseDate": "02/18/1994"
+                }
+            ]
+        },
+        "movieName": "Reality Bites"
+    },
+    "gr1212174853": {
+        "castURL": "https://pro.imdb.com/title/tt0110296/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_223",
+        "individualURL": "gr1212174853",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 152457.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/06/1994"
+                }
+            ]
+        },
+        "movieName": "Ladybird Ladybird"
+    },
+    "gr1214403077": {
+        "castURL": "https://pro.imdb.com/title/tt0111161/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_55",
+        "individualURL": "gr1214403077",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 28341469.0,
+                    "countryOpeningAmount": 727327.0,
+                    "countryReleaseDate": "09/23/1994"
+                }
+            ]
+        },
+        "movieName": "The Shawshank Redemption"
+    },
+    "gr1216107013": {
+        "castURL": "https://pro.imdb.com/title/tt0110097/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_109",
+        "individualURL": "gr1216107013",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 10424645.0,
+                    "countryOpeningAmount": 4702625.0,
+                    "countryReleaseDate": "02/04/1994"
+                }
+            ]
+        },
+        "movieName": "I'll Do Anything"
+    },
+    "gr1263489541": {
+        "castURL": "https://pro.imdb.com/title/tt0110391/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_79",
+        "individualURL": "gr1263489541",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 18272894.0,
+                    "countryOpeningAmount": 5438758.0,
+                    "countryReleaseDate": "10/21/1994"
+                }
+            ]
+        },
+        "movieName": "Love Affair"
+    },
+    "gr1272140293": {
+        "castURL": "https://pro.imdb.com/title/tt0110955/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_103",
+        "individualURL": "gr1272140293",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 11439193.0,
+                    "countryOpeningAmount": 3044097.0,
+                    "countryReleaseDate": "03/09/1994"
+                }
+            ]
+        },
+        "movieName": "The Ref"
+    },
+    "gr1304646149": {
+        "castURL": "https://pro.imdb.com/title/tt0109842/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_118",
+        "individualURL": "gr1304646149",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 8094616.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/19/1994"
+                }
+            ]
+        },
+        "movieName": "Fresh"
+    },
+    "gr1309561349": {
+        "castURL": "https://pro.imdb.com/title/tt0109813/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_6",
+        "individualURL": "gr1309561349",
+        "markets": {
+            "asia_pacific": [
+                {
+                    "country": "Australia",
+                    "countryGrossAmount": 10943476.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/15/1994"
+                }
+            ],
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 130531208.0,
+                    "countryOpeningAmount": 29688730.0,
+                    "countryReleaseDate": "05/27/1994"
+                }
+            ],
+            "emea": [
+                {
+                    "country": "France",
+                    "countryGrossAmount": 4204685.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/20/1994"
+                },
+                {
+                    "country": "Germany",
+                    "countryGrossAmount": 35343479.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/21/1994"
+                },
+                {
+                    "country": "Spain",
+                    "countryGrossAmount": 15839257.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/15/1994"
+                },
+                {
+                    "country": "United Kingdom",
+                    "countryGrossAmount": 31199853.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/22/1994"
+                }
+            ]
+        },
+        "movieName": "The Flintstones"
+    },
+    "gr1310020101": {
+        "castURL": "https://pro.imdb.com/title/tt0110357/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_1",
+        "individualURL": "gr1310020101",
+        "markets": {
+            "asia_pacific": [
+                {
+                    "country": "Australia",
+                    "countryGrossAmount": 20108702.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/25/1994"
+                },
+                {
+                    "country": "South Korea",
+                    "countryGrossAmount": 2933131.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/02/1994"
+                }
+            ],
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 312855561.0,
+                    "countryOpeningAmount": 1586753.0,
+                    "countryReleaseDate": "06/15/1994"
+                }
+            ],
+            "emea": [
+                {
+                    "country": "France",
+                    "countryGrossAmount": 63269231.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/18/1994"
+                },
+                {
+                    "country": "Germany",
+                    "countryGrossAmount": 63749765.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/17/1994"
+                },
+                {
+                    "country": "Italy",
+                    "countryGrossAmount": 32722567.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/18/1994"
+                },
+                {
+                    "country": "Spain",
+                    "countryGrossAmount": 25128761.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/18/1994"
+                }
+            ]
+        },
+        "movieName": "The Lion King"
+    },
+    "gr1338003973": {
+        "castURL": "https://pro.imdb.com/title/tt0107566/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_153",
+        "individualURL": "gr1338003973",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3267313.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/15/1994"
+                }
+            ]
+        },
+        "movieName": "Mi vida loca"
+    },
+    "gr1343967749": {
+        "castURL": "https://pro.imdb.com/title/tt0109731/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_246",
+        "individualURL": "gr1343967749",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 39003.0,
+                    "countryOpeningAmount": 9736.0,
+                    "countryReleaseDate": "10/19/1994"
+                }
+            ]
+        },
+        "movieName": "Torment"
+    },
+    "gr1346064901": {
+        "castURL": "https://pro.imdb.com/title/tt0110963/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_185",
+        "individualURL": "gr1346064901",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1292232.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/09/1994"
+                }
+            ]
+        },
+        "movieName": "Queen Margot"
+    },
+    "gr1358320133": {
+        "castURL": "https://pro.imdb.com/title/tt0111271/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_151",
+        "individualURL": "gr1358320133",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3342223.0,
+                    "countryOpeningAmount": 1119016.0,
+                    "countryReleaseDate": "10/28/1994"
+                }
+            ]
+        },
+        "movieName": "Squanto: A Warrior's Tale"
+    },
+    "gr1395544581": {
+        "castURL": "https://pro.imdb.com/title/tt0109836/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_22",
+        "individualURL": "gr1395544581",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 22006296.0,
+                    "countryOpeningAmount": 11212889.0,
+                    "countryReleaseDate": "11/04/1994"
+                }
+            ]
+        },
+        "movieName": "Mary Shelley's Frankenstein"
+    },
+    "gr1415860741": {
+        "castURL": "https://pro.imdb.com/title/tt0111255/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_16",
+        "individualURL": "gr1415860741",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 57362582.0,
+                    "countryOpeningAmount": 14317765.0,
+                    "countryReleaseDate": "10/07/1994"
+                }
+            ]
+        },
+        "movieName": "The Specialist"
+    },
+    "gr1426674181": {
+        "castURL": "https://pro.imdb.com/title/tt0109439/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_40",
+        "individualURL": "gr1426674181",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 43622150.0,
+                    "countryOpeningAmount": 11516375.0,
+                    "countryReleaseDate": "06/10/1994"
+                }
+            ]
+        },
+        "movieName": "City Slickers II: The Legend of Curly's Gold"
+    },
+    "gr1479037445": {
+        "castURL": "https://pro.imdb.com/title/tt0111256/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_67",
+        "individualURL": "gr1479037445",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 20667959.0,
+                    "countryOpeningAmount": 3969048.0,
+                    "countryReleaseDate": "12/16/1994"
+                }
+            ]
+        },
+        "movieName": "Speechless"
+    },
+    "gr1490309637": {
+        "castURL": "https://pro.imdb.com/title/tt0109484/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_69",
+        "individualURL": "gr1490309637",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 20164171.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/12/1994"
+                }
+            ]
+        },
+        "movieName": "Corrina, Corrina"
+    },
+    "gr1510887941": {
+        "castURL": "https://pro.imdb.com/title/tt0104779/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_174",
+        "individualURL": "gr1510887941",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1862805.0,
+                    "countryOpeningAmount": 37997.0,
+                    "countryReleaseDate": "03/18/1994"
+                }
+            ]
+        },
+        "movieName": "Bitter Moon"
+    },
+    "gr1515213317": {
+        "castURL": "https://pro.imdb.com/title/tt0110265/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_206",
+        "individualURL": "gr1515213317",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 418961.0,
+                    "countryOpeningAmount": 30586.0,
+                    "countryReleaseDate": "08/19/1994"
+                }
+            ]
+        },
+        "movieName": "Killing Zoe"
+    },
+    "gr1534087685": {
+        "castURL": "https://pro.imdb.com/title/tt0110516/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_81",
+        "individualURL": "gr1534087685",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 18137661.0,
+                    "countryOpeningAmount": 5846533.0,
+                    "countryReleaseDate": "09/02/1994"
+                }
+            ]
+        },
+        "movieName": "Milk Money"
+    },
+    "gr1557418501": {
+        "castURL": "https://pro.imdb.com/title/tt0110169/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_241",
+        "individualURL": "gr1557418501",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 60822.0,
+                    "countryOpeningAmount": 31370.0,
+                    "countryReleaseDate": "08/26/1994"
+                }
+            ]
+        },
+        "movieName": "It's Pat: The Movie"
+    },
+    "gr1574785541": {
+        "castURL": "https://pro.imdb.com/title/tt0111282/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_13",
+        "individualURL": "gr1574785541",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 71567262.0,
+                    "countryOpeningAmount": 16651018.0,
+                    "countryReleaseDate": "10/28/1994"
+                }
+            ]
+        },
+        "movieName": "Stargate"
+    },
+    "gr1576096261": {
+        "castURL": "https://pro.imdb.com/title/tt0110186/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_66",
+        "individualURL": "gr1576096261",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 20851521.0,
+                    "countryOpeningAmount": 5122600.0,
+                    "countryReleaseDate": "09/30/1994"
+                }
+            ]
+        },
+        "movieName": "Jason's Lyric"
+    },
+    "gr1601655301": {
+        "castURL": "https://pro.imdb.com/title/tt0111070/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_14",
+        "individualURL": "gr1601655301",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 144833357.0,
+                    "countryOpeningAmount": 19321992.0,
+                    "countryReleaseDate": "11/11/1994"
+                }
+            ]
+        },
+        "movieName": "The Santa Clause"
+    },
+    "gr1647661573": {
+        "castURL": "https://pro.imdb.com/title/tt0111797/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_126",
+        "individualURL": "gr1647661573",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7294403.0,
+                    "countryOpeningAmount": 155512.0,
+                    "countryReleaseDate": "08/03/1994"
+                }
+            ]
+        },
+        "movieName": "Eat Drink Man Woman"
+    },
+    "gr1657623045": {
+        "castURL": "https://pro.imdb.com/title/tt0106379/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_182",
+        "individualURL": "gr1657623045",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1519366.0,
+                    "countryOpeningAmount": 764011.0,
+                    "countryReleaseDate": "05/06/1994"
+                }
+            ]
+        },
+        "movieName": "Being Human"
+    },
+    "gr1662013957": {
+        "castURL": "https://pro.imdb.com/title/tt0111143/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_37",
+        "individualURL": "gr1662013957",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 32063435.0,
+                    "countryOpeningAmount": 11713845.0,
+                    "countryReleaseDate": "07/01/1994"
+                }
+            ]
+        },
+        "movieName": "The Shadow"
+    },
+    "gr1666142725": {
+        "castURL": "https://pro.imdb.com/title/tt0110057/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_101",
+        "individualURL": "gr1666142725",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7830611.0,
+                    "countryOpeningAmount": 18396.0,
+                    "countryReleaseDate": "10/14/1994"
+                }
+            ]
+        },
+        "movieName": "Hoop Dreams"
+    },
+    "gr1674924549": {
+        "castURL": "https://pro.imdb.com/title/tt0110912/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_12",
+        "individualURL": "gr1674924549",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 107928762.0,
+                    "countryOpeningAmount": 9311882.0,
+                    "countryReleaseDate": "10/14/1994"
+                }
+            ]
+        },
+        "movieName": "Pulp Fiction"
+    },
+    "gr1676169733": {
+        "castURL": "https://pro.imdb.com/title/tt0111127/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_121",
+        "individualURL": "gr1676169733",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7820688.0,
+                    "countryOpeningAmount": 2040450.0,
+                    "countryReleaseDate": "04/13/1994"
+                }
+            ]
+        },
+        "movieName": "Serial Mom"
+    },
+    "gr167793157": {
+        "castURL": "https://pro.imdb.com/title/tt0110557/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_89",
+        "individualURL": "gr167793157",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 16453258.0,
+                    "countryOpeningAmount": 4523597.0,
+                    "countryReleaseDate": "03/18/1994"
+                }
+            ]
+        },
+        "movieName": "Monkey Trouble"
+    },
+    "gr1693012485": {
+        "castURL": "https://pro.imdb.com/title/tt0111301/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_27",
+        "individualURL": "gr1693012485",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 33423521.0,
+                    "countryOpeningAmount": 6859495.0,
+                    "countryReleaseDate": "12/23/1994"
+                }
+            ],
+            "emea": [
+                {
+                    "country": "Italy",
+                    "countryGrossAmount": 2794549.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/13/1995"
+                }
+            ]
+        },
+        "movieName": "Street Fighter"
+    },
+    "gr1779978757": {
+        "castURL": "https://pro.imdb.com/title/tt0110137/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_115",
+        "individualURL": "gr1779978757",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 8880705.0,
+                    "countryOpeningAmount": 2358988.0,
+                    "countryReleaseDate": "04/22/1994"
+                }
+            ]
+        },
+        "movieName": "The Inkwell"
+    },
+    "gr1781879301": {
+        "castURL": "https://pro.imdb.com/title/tt0111590/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_176",
+        "individualURL": "gr1781879301",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1746050.0,
+                    "countryOpeningAmount": 17636.0,
+                    "countryReleaseDate": "10/21/1994"
+                }
+            ]
+        },
+        "movieName": "Vanya on 42nd Street"
+    },
+    "gr1799574021": {
+        "castURL": "https://pro.imdb.com/title/tt0109288/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_119",
+        "individualURL": "gr1799574021",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7941977.0,
+                    "countryOpeningAmount": 3715480.0,
+                    "countryReleaseDate": "08/19/1994"
+                }
+            ]
+        },
+        "movieName": "Blankman"
+    },
+    "gr1834963461": {
+        "castURL": "https://pro.imdb.com/title/tt0109361/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_146",
+        "individualURL": "gr1834963461",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3662459.0,
+                    "countryOpeningAmount": 1513507.0,
+                    "countryReleaseDate": "01/07/1994"
+                }
+            ]
+        },
+        "movieName": "Cabin Boy"
+    },
+    "gr1847546373": {
+        "castURL": "https://pro.imdb.com/title/tt0107875/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_171",
+        "individualURL": "gr1847546373",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2105078.0,
+                    "countryOpeningAmount": 451560.0,
+                    "countryReleaseDate": "06/03/1994"
+                }
+            ]
+        },
+        "movieName": "The Princess and the Goblin"
+    },
+    "gr185356805": {
+        "castURL": "https://pro.imdb.com/title/tt0106452/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_205",
+        "individualURL": "gr185356805",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 428868.0,
+                    "countryOpeningAmount": 31494.0,
+                    "countryReleaseDate": "01/14/1994"
+                }
+            ]
+        },
+        "movieName": "Body Snatchers"
+    },
+    "gr1864847877": {
+        "castURL": "https://pro.imdb.com/title/tt0111667/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_83",
+        "individualURL": "gr1864847877",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 16928556.0,
+                    "countryOpeningAmount": 5203275.0,
+                    "countryReleaseDate": "11/04/1994"
+                }
+            ]
+        },
+        "movieName": "The War"
+    },
+    "gr1875071493": {
+        "castURL": "https://pro.imdb.com/title/tt0109067/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_64",
+        "individualURL": "gr1875071493",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 21011318.0,
+                    "countryOpeningAmount": 5240859.0,
+                    "countryReleaseDate": "01/07/1994"
+                }
+            ]
+        },
+        "movieName": "The Air Up There"
+    },
+    "gr187847173": {
+        "castURL": "https://pro.imdb.com/title/tt0110689/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_208",
+        "individualURL": "gr187847173",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 364164.0,
+                    "countryOpeningAmount": 27312.0,
+                    "countryReleaseDate": "09/16/1994"
+                }
+            ]
+        },
+        "movieName": "Nostradamus"
+    },
+    "gr1895977477": {
+        "castURL": "https://pro.imdb.com/title/tt0111804/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_110",
+        "individualURL": "gr1895977477",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 10184701.0,
+                    "countryOpeningAmount": 2521746.0,
+                    "countryReleaseDate": "04/29/1994"
+                }
+            ]
+        },
+        "movieName": "Martin Lawrence: You So Crazy"
+    },
+    "gr1898729989": {
+        "castURL": "https://pro.imdb.com/title/tt0111706/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_253",
+        "individualURL": "gr1898729989",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14320.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/28/1994"
+                }
+            ]
+        },
+        "movieName": "Whore 2"
+    },
+    "gr1961447941": {
+        "castURL": "https://pro.imdb.com/title/tt0107617/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_179",
+        "individualURL": "gr1961447941",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1700992.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/28/1994"
+                }
+            ]
+        },
+        "movieName": "The Scent of Green Papaya"
+    },
+    "gr1966559749": {
+        "castURL": "https://pro.imdb.com/title/tt0110989/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_44",
+        "individualURL": "gr1966559749",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 38087756.0,
+                    "countryOpeningAmount": 5830302.0,
+                    "countryReleaseDate": "12/21/1994"
+                }
+            ]
+        },
+        "movieName": "Ri\u00a2hie Ri\u00a2h"
+    },
+    "gr1974096389": {
+        "castURL": "https://pro.imdb.com/title/tt0110044/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_195",
+        "individualURL": "gr1974096389",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 713234.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/08/1994"
+                }
+            ]
+        },
+        "movieName": "Holy Matrimony"
+    },
+    "gr2001228293": {
+        "castURL": "https://pro.imdb.com/title/tt0111323/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_123",
+        "individualURL": "gr2001228293",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7727256.0,
+                    "countryOpeningAmount": 2907468.0,
+                    "countryReleaseDate": "04/15/1994"
+                }
+            ]
+        },
+        "movieName": "Surviving the Game"
+    },
+    "gr2004570629": {
+        "castURL": "https://pro.imdb.com/title/tt0111257/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_5",
+        "individualURL": "gr2004570629",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 121248145.0,
+                    "countryOpeningAmount": 14456194.0,
+                    "countryReleaseDate": "06/10/1994"
+                }
+            ]
+        },
+        "movieName": "Speed"
+    },
+    "gr2018464261": {
+        "castURL": "https://pro.imdb.com/title/tt0110168/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_238",
+        "individualURL": "gr2018464261",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 70936.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/23/1994"
+                }
+            ]
+        },
+        "movieName": "It Runs in the Family"
+    },
+    "gr2031440389": {
+        "castURL": "https://pro.imdb.com/title/tt0111218/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_221",
+        "individualURL": "gr2031440389",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 200151.0,
+                    "countryOpeningAmount": 33004.0,
+                    "countryReleaseDate": "09/23/1994"
+                }
+            ]
+        },
+        "movieName": "Sleep with Me"
+    },
+    "gr2045137413": {
+        "castURL": "https://pro.imdb.com/title/tt0104029/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_197",
+        "individualURL": "gr2045137413",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 621392.0,
+                    "countryOpeningAmount": 17538.0,
+                    "countryReleaseDate": "04/01/1994"
+                }
+            ]
+        },
+        "movieName": "Cronos"
+    },
+    "gr2064470533": {
+        "castURL": "https://pro.imdb.com/title/tt0110216/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_23",
+        "individualURL": "gr2064470533",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 36763355.0,
+                    "countryOpeningAmount": 9803145.0,
+                    "countryReleaseDate": "11/23/1994"
+                }
+            ]
+        },
+        "movieName": "Junior"
+    },
+    "gr2078560773": {
+        "castURL": "https://pro.imdb.com/title/tt0109675/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_194",
+        "individualURL": "gr2078560773",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 734693.0,
+                    "countryOpeningAmount": 348192.0,
+                    "countryReleaseDate": "10/28/1994"
+                }
+            ]
+        },
+        "movieName": "Drop Squad"
+    },
+    "gr2094158341": {
+        "castURL": "https://pro.imdb.com/title/tt0110622/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_30",
+        "individualURL": "gr2094158341",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 51132598.0,
+                    "countryOpeningAmount": 13216531.0,
+                    "countryReleaseDate": "03/18/1994"
+                }
+            ]
+        },
+        "movieName": "Naked Gun 33 1/3: The Final Insult"
+    },
+    "gr2116047365": {
+        "castURL": "https://pro.imdb.com/title/tt0110363/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_100",
+        "individualURL": "gr2116047365",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 12267790.0,
+                    "countryOpeningAmount": 3105618.0,
+                    "countryReleaseDate": "07/01/1994"
+                }
+            ]
+        },
+        "movieName": "Little Big League"
+    },
+    "gr2128564741": {
+        "castURL": "https://pro.imdb.com/title/tt0111419/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_105",
+        "individualURL": "gr2128564741",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 11373501.0,
+                    "countryOpeningAmount": 2318822.0,
+                    "countryReleaseDate": "04/01/1994"
+                }
+            ]
+        },
+        "movieName": "Thumbelina"
+    },
+    "gr2149143045": {
+        "castURL": "https://pro.imdb.com/title/tt0110305/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_111",
+        "individualURL": "gr2149143045",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 9979683.0,
+                    "countryOpeningAmount": 3201843.0,
+                    "countryReleaseDate": "07/22/1994"
+                }
+            ]
+        },
+        "movieName": "Lassie"
+    },
+    "gr217534981": {
+        "castURL": "https://pro.imdb.com/title/tt0110638/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_25",
+        "individualURL": "gr217534981",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 33683817.0,
+                    "countryOpeningAmount": 62663.0,
+                    "countryReleaseDate": "12/16/1994"
+                }
+            ]
+        },
+        "movieName": "Nell"
+    },
+    "gr2183221765": {
+        "castURL": "https://pro.imdb.com/title/tt0110428/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_94",
+        "individualURL": "gr2183221765",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 15238689.0,
+                    "countryOpeningAmount": 65226.0,
+                    "countryReleaseDate": "12/30/1994"
+                }
+            ]
+        },
+        "movieName": "The Madness of King George"
+    },
+    "gr2185515525": {
+        "castURL": "https://pro.imdb.com/title/tt0106834/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_177",
+        "individualURL": "gr2185515525",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1708873.0,
+                    "countryOpeningAmount": 676978.0,
+                    "countryReleaseDate": "05/20/1994"
+                }
+            ]
+        },
+        "movieName": "Even Cowgirls Get the Blues"
+    },
+    "gr2195804677": {
+        "castURL": "https://pro.imdb.com/title/tt0109444/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_10",
+        "individualURL": "gr2195804677",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 122187717.0,
+                    "countryOpeningAmount": 20348017.0,
+                    "countryReleaseDate": "08/05/1994"
+                }
+            ]
+        },
+        "movieName": "Clear and Present Danger"
+    },
+    "gr2220184069": {
+        "castURL": "https://pro.imdb.com/title/tt0109936/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_99",
+        "individualURL": "gr2220184069",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 13137484.0,
+                    "countryOpeningAmount": 4805115.0,
+                    "countryReleaseDate": "03/04/1994"
+                }
+            ]
+        },
+        "movieName": "Greedy"
+    },
+    "gr2229555717": {
+        "castURL": "https://pro.imdb.com/title/tt0109045/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_107",
+        "individualURL": "gr2229555717",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 11220670.0,
+                    "countryOpeningAmount": 219433.0,
+                    "countryReleaseDate": "08/10/1994"
+                }
+            ]
+        },
+        "movieName": "The Adventures of Priscilla, Queen of the Desert"
+    },
+    "gr2238992901": {
+        "castURL": "https://pro.imdb.com/title/tt0110329/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_168",
+        "individualURL": "gr2238992901",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2260622.0,
+                    "countryOpeningAmount": 672775.0,
+                    "countryReleaseDate": "04/08/1994"
+                }
+            ]
+        },
+        "movieName": "Leprechaun 2"
+    },
+    "gr2272743941": {
+        "castURL": "https://pro.imdb.com/title/tt0110099/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_57",
+        "individualURL": "gr2272743941",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 26381221.0,
+                    "countryOpeningAmount": 3131201.0,
+                    "countryReleaseDate": "12/25/1994"
+                }
+            ]
+        },
+        "movieName": "I.Q."
+    },
+    "gr229265925": {
+        "castURL": "https://pro.imdb.com/title/tt0110146/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_63",
+        "individualURL": "gr229265925",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 21355893.0,
+                    "countryOpeningAmount": 7818502.0,
+                    "countryReleaseDate": "01/21/1994"
+                }
+            ]
+        },
+        "movieName": "Intersection"
+    },
+    "gr229331461": {
+        "castURL": "https://pro.imdb.com/title/tt0105032/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_196",
+        "individualURL": "gr229331461",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 662341.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/25/1994"
+                }
+            ]
+        },
+        "movieName": "Savage Nights"
+    },
+    "gr2294632965": {
+        "castURL": "https://pro.imdb.com/title/tt0110259/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_213",
+        "individualURL": "gr2294632965",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 297415.0,
+                    "countryOpeningAmount": 3406.0,
+                    "countryReleaseDate": "12/30/1994"
+                }
+            ]
+        },
+        "movieName": "Killer"
+    },
+    "gr2329170437": {
+        "castURL": "https://pro.imdb.com/title/tt0102829/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_247",
+        "individualURL": "gr2329170437",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 37484.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/11/1994"
+                }
+            ]
+        },
+        "movieName": "Salmonberries"
+    },
+    "gr2332971525": {
+        "castURL": "https://pro.imdb.com/title/tt0109450/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_191",
+        "individualURL": "gr2332971525",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1007583.0,
+                    "countryOpeningAmount": 63786.0,
+                    "countryReleaseDate": "12/02/1994"
+                }
+            ]
+        },
+        "movieName": "Cobb"
+    },
+    "gr2333889029": {
+        "castURL": "https://pro.imdb.com/title/tt0110892/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_158",
+        "individualURL": "gr2333889029",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3062530.0,
+                    "countryOpeningAmount": 1005287.0,
+                    "countryReleaseDate": "09/16/1994"
+                }
+            ]
+        },
+        "movieName": "Princess Caraboo"
+    },
+    "gr2345292293": {
+        "castURL": "https://pro.imdb.com/title/tt0110632/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_32",
+        "individualURL": "gr2345292293",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 50282766.0,
+                    "countryOpeningAmount": 11166687.0,
+                    "countryReleaseDate": "08/26/1994"
+                }
+            ]
+        },
+        "movieName": "Natural Born Killers"
+    },
+    "gr2373407237": {
+        "castURL": "https://pro.imdb.com/title/tt0109369/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_108",
+        "individualURL": "gr2373407237",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 10475705.0,
+                    "countryOpeningAmount": 2755661.0,
+                    "countryReleaseDate": "08/26/1994"
+                }
+            ]
+        },
+        "movieName": "Camp Nowhere"
+    },
+    "gr2384351749": {
+        "castURL": "https://pro.imdb.com/title/tt0111653/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_142",
+        "individualURL": "gr2384351749",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4412297.0,
+                    "countryOpeningAmount": 1802878.0,
+                    "countryReleaseDate": "08/26/1994"
+                }
+            ]
+        },
+        "movieName": "Wagons East"
+    },
+    "gr2395034117": {
+        "castURL": "https://pro.imdb.com/title/tt0109376/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_186",
+        "individualURL": "gr2395034117",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1238080.0,
+                    "countryOpeningAmount": 791182.0,
+                    "countryReleaseDate": "01/28/1994"
+                }
+            ]
+        },
+        "movieName": "Car 54, Where Are You?"
+    },
+    "gr2402767365": {
+        "castURL": "https://pro.imdb.com/title/tt0111503/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_3",
+        "individualURL": "gr2402767365",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 146282411.0,
+                    "countryOpeningAmount": 25869770.0,
+                    "countryReleaseDate": "07/15/1994"
+                }
+            ]
+        },
+        "movieName": "True Lies"
+    },
+    "gr2403422725": {
+        "castURL": "https://pro.imdb.com/title/tt0110997/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_28",
+        "individualURL": "gr2403422725",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 46816343.0,
+                    "countryOpeningAmount": 10214450.0,
+                    "countryReleaseDate": "09/30/1994"
+                }
+            ]
+        },
+        "movieName": "The River Wild"
+    },
+    "gr2415546885": {
+        "castURL": "https://pro.imdb.com/title/tt0111454/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_200",
+        "individualURL": "gr2415546885",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 538534.0,
+                    "countryOpeningAmount": 21968.0,
+                    "countryReleaseDate": "12/02/1994"
+                }
+            ]
+        },
+        "movieName": "Tom & Viv"
+    },
+    "gr2428654085": {
+        "castURL": "https://pro.imdb.com/title/tt0109830/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_2",
+        "individualURL": "gr2428654085",
+        "markets": {
+            "asia_pacific": [
+                {
+                    "country": "Australia",
+                    "countryGrossAmount": 22839211.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Hong Kong",
+                    "countryGrossAmount": 4733165.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "India",
+                    "countryGrossAmount": 46282.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Indonesia",
+                    "countryGrossAmount": 1523886.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Japan",
+                    "countryGrossAmount": 69786781.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Malaysia",
+                    "countryGrossAmount": 452654.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "New Zealand",
+                    "countryGrossAmount": 4163826.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Philippines",
+                    "countryGrossAmount": 875559.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Singapore",
+                    "countryGrossAmount": 2004000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "South Korea",
+                    "countryGrossAmount": 10292970.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Taiwan",
+                    "countryGrossAmount": 8516187.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Thailand",
+                    "countryGrossAmount": 1672945.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                }
+            ],
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 329694499.0,
+                    "countryOpeningAmount": 24450602.0,
+                    "countryReleaseDate": "07/06/1994"
+                }
+            ],
+            "emea": [
+                {
+                    "country": "Austria",
+                    "countryGrossAmount": 5562917.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Belgium",
+                    "countryGrossAmount": 5381320.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Bulgaria",
+                    "countryGrossAmount": 48723.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Croatia",
+                    "countryGrossAmount": 485368.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Cyprus",
+                    "countryGrossAmount": 47061.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Czech Republic/Slovakia",
+                    "countryGrossAmount": 348363.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Denmark",
+                    "countryGrossAmount": 3560193.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Egypt",
+                    "countryGrossAmount": 88941.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Finland",
+                    "countryGrossAmount": 4578830.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "France",
+                    "countryGrossAmount": 25986604.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Germany",
+                    "countryGrossAmount": 50461989.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Greece",
+                    "countryGrossAmount": 2533442.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Hungary",
+                    "countryGrossAmount": 429056.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Israel",
+                    "countryGrossAmount": 3572874.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Italy",
+                    "countryGrossAmount": 19047527.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Lebanon",
+                    "countryGrossAmount": 90016.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Netherlands",
+                    "countryGrossAmount": 5333562.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Norway",
+                    "countryGrossAmount": 4181867.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Poland",
+                    "countryGrossAmount": 1869247.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Portugal",
+                    "countryGrossAmount": 1387915.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Romania",
+                    "countryGrossAmount": 102304.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Slovenia",
+                    "countryGrossAmount": 399480.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "South Africa",
+                    "countryGrossAmount": 2315127.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Spain",
+                    "countryGrossAmount": 16326616.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Sweden",
+                    "countryGrossAmount": 8296978.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Switzerland",
+                    "countryGrossAmount": 9138462.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Turkey",
+                    "countryGrossAmount": 1219043.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "United Kingdom",
+                    "countryGrossAmount": 25253639.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Yugoslavia",
+                    "countryGrossAmount": 2647.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                }
+            ],
+            "latin_america": [
+                {
+                    "country": "Argentina",
+                    "countryGrossAmount": 4999308.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Brazil",
+                    "countryGrossAmount": 9158603.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Central America",
+                    "countryGrossAmount": 106331.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Chile",
+                    "countryGrossAmount": 682686.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Colombia",
+                    "countryGrossAmount": 1924037.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Dominican Republic",
+                    "countryGrossAmount": 67946.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Ecuador",
+                    "countryGrossAmount": 125582.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Lesser Antilles",
+                    "countryGrossAmount": 44658.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Mexico",
+                    "countryGrossAmount": 4393743.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Peru",
+                    "countryGrossAmount": 272330.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Uruguay",
+                    "countryGrossAmount": 388901.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Venezuela",
+                    "countryGrossAmount": 571514.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                }
+            ]
+        },
+        "movieName": "Forrest Gump"
+    },
+    "gr2445365765": {
+        "castURL": "https://pro.imdb.com/title/tt0105226/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_163",
+        "individualURL": "gr2445365765",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2502551.0,
+                    "countryOpeningAmount": 11562.0,
+                    "countryReleaseDate": "01/28/1994"
+                }
+            ]
+        },
+        "movieName": "Red Rock West"
+    },
+    "gr2452050437": {
+        "castURL": "https://pro.imdb.com/title/tt0109254/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_19",
+        "individualURL": "gr2452050437",
+        "markets": {
+            "asia_pacific": [
+                {
+                    "country": "Australia",
+                    "countryGrossAmount": 3804832.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/16/1994"
+                },
+                {
+                    "country": "Hong Kong",
+                    "countryGrossAmount": 554270.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/23/1994"
+                },
+                {
+                    "country": "Indonesia",
+                    "countryGrossAmount": 449635.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/04/1994"
+                },
+                {
+                    "country": "Japan",
+                    "countryGrossAmount": 12339049.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/23/1994"
+                },
+                {
+                    "country": "New Zealand",
+                    "countryGrossAmount": 224136.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/24/1994"
+                },
+                {
+                    "country": "Philippines",
+                    "countryGrossAmount": 401426.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/21/1994"
+                },
+                {
+                    "country": "Singapore",
+                    "countryGrossAmount": 542515.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/11/1994"
+                },
+                {
+                    "country": "South Korea",
+                    "countryGrossAmount": 406319.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/03/1994"
+                },
+                {
+                    "country": "Taiwan",
+                    "countryGrossAmount": 1617169.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/09/1994"
+                },
+                {
+                    "country": "Thailand",
+                    "countryGrossAmount": 384972.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/22/1994"
+                }
+            ],
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 42614912.0,
+                    "countryOpeningAmount": 12426169.0,
+                    "countryReleaseDate": "05/25/1994"
+                }
+            ],
+            "emea": [
+                {
+                    "country": "Austria",
+                    "countryGrossAmount": 589526.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/05/1994"
+                },
+                {
+                    "country": "Belgium",
+                    "countryGrossAmount": 2290095.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/17/1994"
+                },
+                {
+                    "country": "Bulgaria",
+                    "countryGrossAmount": 17837.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/26/1994"
+                },
+                {
+                    "country": "Croatia",
+                    "countryGrossAmount": 141043.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/15/1994"
+                },
+                {
+                    "country": "Cyprus",
+                    "countryGrossAmount": 28076.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/07/1994"
+                },
+                {
+                    "country": "Czech Republic/Slovakia",
+                    "countryGrossAmount": 127276.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/11/1994"
+                },
+                {
+                    "country": "Denmark",
+                    "countryGrossAmount": 1409576.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/12/1994"
+                },
+                {
+                    "country": "Finland",
+                    "countryGrossAmount": 921506.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/22/1994"
+                },
+                {
+                    "country": "France",
+                    "countryGrossAmount": 14263913.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/17/1994"
+                },
+                {
+                    "country": "Germany",
+                    "countryGrossAmount": 7298139.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/04/1994"
+                },
+                {
+                    "country": "Greece",
+                    "countryGrossAmount": 316261.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/28/1994"
+                },
+                {
+                    "country": "Hungary",
+                    "countryGrossAmount": 474916.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/11/1994"
+                },
+                {
+                    "country": "Israel",
+                    "countryGrossAmount": 693183.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/29/1994"
+                },
+                {
+                    "country": "Italy",
+                    "countryGrossAmount": 2259461.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/16/1994"
+                },
+                {
+                    "country": "Lebanon",
+                    "countryGrossAmount": 78830.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/12/1994"
+                },
+                {
+                    "country": "Netherlands",
+                    "countryGrossAmount": 2444109.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/04/1994"
+                },
+                {
+                    "country": "Norway",
+                    "countryGrossAmount": 2249023.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/26/1994"
+                },
+                {
+                    "country": "Poland",
+                    "countryGrossAmount": 1335381.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/12/1994"
+                },
+                {
+                    "country": "Portugal",
+                    "countryGrossAmount": 380910.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/02/1994"
+                },
+                {
+                    "country": "Romania",
+                    "countryGrossAmount": 74382.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/26/1994"
+                },
+                {
+                    "country": "Slovenia",
+                    "countryGrossAmount": 65288.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/04/1994"
+                },
+                {
+                    "country": "South Africa",
+                    "countryGrossAmount": 980478.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/22/1994"
+                },
+                {
+                    "country": "Spain",
+                    "countryGrossAmount": 2481294.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/19/1994"
+                },
+                {
+                    "country": "Sweden",
+                    "countryGrossAmount": 1407125.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/02/1994"
+                },
+                {
+                    "country": "Switzerland",
+                    "countryGrossAmount": 1654216.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/05/1994"
+                },
+                {
+                    "country": "Turkey",
+                    "countryGrossAmount": 154689.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/02/1994"
+                },
+                {
+                    "country": "United Kingdom",
+                    "countryGrossAmount": 5850519.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/24/1994"
+                }
+            ],
+            "latin_america": [
+                {
+                    "country": "Argentina",
+                    "countryGrossAmount": 548248.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/29/1994"
+                },
+                {
+                    "country": "Brazil",
+                    "countryGrossAmount": 1871980.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/29/1994"
+                },
+                {
+                    "country": "Central America+",
+                    "countryGrossAmount": 233811.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/01/1994"
+                },
+                {
+                    "country": "Chile",
+                    "countryGrossAmount": 57345.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/14/1994"
+                },
+                {
+                    "country": "Colombia",
+                    "countryGrossAmount": 467924.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/04/1994"
+                },
+                {
+                    "country": "Dominican Republic",
+                    "countryGrossAmount": 64066.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/11/1994"
+                },
+                {
+                    "country": "Ecuador",
+                    "countryGrossAmount": 31763.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/19/1994"
+                },
+                {
+                    "country": "Lesser Antilles",
+                    "countryGrossAmount": 35055.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/28/1994"
+                },
+                {
+                    "country": "Mexico",
+                    "countryGrossAmount": 2115024.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/24/1994"
+                },
+                {
+                    "country": "Peru",
+                    "countryGrossAmount": 92821.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/29/1994"
+                },
+                {
+                    "country": "Uruguay",
+                    "countryGrossAmount": 25416.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/30/1994"
+                },
+                {
+                    "country": "Venezuela",
+                    "countryGrossAmount": 81805.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/05/1994"
+                }
+            ]
+        },
+        "movieName": "Beverly Hills Cop III"
+    },
+    "gr2464174597": {
+        "castURL": "https://pro.imdb.com/title/tt0110612/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_58",
+        "individualURL": "gr2464174597",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 25479558.0,
+                    "countryOpeningAmount": 5645251.0,
+                    "countryReleaseDate": "02/04/1994"
+                }
+            ]
+        },
+        "movieName": "My Father the Hero"
+    },
+    "gr2473218565": {
+        "castURL": "https://pro.imdb.com/title/tt0107606/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_193",
+        "individualURL": "gr2473218565",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 737548.0,
+                    "countryOpeningAmount": 318332.0,
+                    "countryReleaseDate": "03/18/1994"
+                }
+            ]
+        },
+        "movieName": "Mother's Boys"
+    },
+    "gr2486587909": {
+        "castURL": "https://pro.imdb.com/title/tt0108069/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_239",
+        "individualURL": "gr2486587909",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 70441.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/04/1994"
+                }
+            ]
+        },
+        "movieName": "The Secret Adventures of Tom Thumb"
+    },
+    "gr2499826181": {
+        "castURL": "https://pro.imdb.com/title/tt0057012/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_215",
+        "individualURL": "gr2499826181",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 275902.0,
+                    "countryOpeningAmount": 11751.0,
+                    "countryReleaseDate": "07/13/1994"
+                }
+            ]
+        },
+        "movieName": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb 1994 Re-release"
+    },
+    "gr2500022789": {
+        "castURL": "https://pro.imdb.com/title/tt0111507/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_187",
+        "individualURL": "gr2500022789",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1237219.0,
+                    "countryOpeningAmount": 22284.0,
+                    "countryReleaseDate": "06/10/1994"
+                }
+            ]
+        },
+        "movieName": "Three Colors: White"
+    },
+    "gr2501202437": {
+        "castURL": "https://pro.imdb.com/title/tt0106761/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_165",
+        "individualURL": "gr2501202437",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2341309.0,
+                    "countryOpeningAmount": 1376561.0,
+                    "countryReleaseDate": "11/04/1994"
+                }
+            ]
+        },
+        "movieName": "Double Dragon"
+    },
+    "gr2516341253": {
+        "castURL": "https://pro.imdb.com/title/tt0106537/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_255",
+        "individualURL": "gr2516341253",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7271.0,
+                    "countryOpeningAmount": 3535.0,
+                    "countryReleaseDate": "12/09/1994"
+                }
+            ]
+        },
+        "movieName": "Century"
+    },
+    "gr252072453": {
+        "castURL": "https://pro.imdb.com/title/tt0110455/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_192",
+        "individualURL": "gr252072453",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 920916.0,
+                    "countryOpeningAmount": 36606.0,
+                    "countryReleaseDate": "12/22/1994"
+                }
+            ]
+        },
+        "movieName": "A Man of No Importance"
+    },
+    "gr2611499525": {
+        "castURL": "https://pro.imdb.com/title/tt0111438/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_26",
+        "individualURL": "gr2611499525",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 44853581.0,
+                    "countryOpeningAmount": 12064625.0,
+                    "countryReleaseDate": "09/16/1994"
+                }
+            ]
+        },
+        "movieName": "Timecop"
+    },
+    "gr2621985285": {
+        "castURL": "https://pro.imdb.com/title/tt0111280/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_20",
+        "individualURL": "gr2621985285",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 75671125.0,
+                    "countryOpeningAmount": 23116394.0,
+                    "countryReleaseDate": "11/18/1994"
+                }
+            ]
+        },
+        "movieName": "Star Trek: Generations"
+    },
+    "gr2654687749": {
+        "castURL": "https://pro.imdb.com/title/tt0107199/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_231",
+        "individualURL": "gr2654687749",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 92612.0,
+                    "countryOpeningAmount": 7701.0,
+                    "countryReleaseDate": "04/15/1994"
+                }
+            ]
+        },
+        "movieName": "In Custody"
+    },
+    "gr2656391685": {
+        "castURL": "https://pro.imdb.com/title/tt0109890/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_51",
+        "individualURL": "gr2656391685",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 16094974.0,
+                    "countryOpeningAmount": 5806515.0,
+                    "countryReleaseDate": "02/11/1994"
+                }
+            ]
+        },
+        "movieName": "The Getaway"
+    },
+    "gr2667532805": {
+        "castURL": "https://pro.imdb.com/title/tt0110123/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_53",
+        "individualURL": "gr2667532805",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 28881266.0,
+                    "countryOpeningAmount": 6367194.0,
+                    "countryReleaseDate": "08/12/1994"
+                }
+            ]
+        },
+        "movieName": "In the Army Now"
+    },
+    "gr2671399429": {
+        "castURL": "https://pro.imdb.com/title/tt0109758/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_130",
+        "individualURL": "gr2671399429",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6841570.0,
+                    "countryOpeningAmount": 3012695.0,
+                    "countryReleaseDate": "10/14/1994"
+                }
+            ]
+        },
+        "movieName": "Exit to Eden"
+    },
+    "gr272847365": {
+        "castURL": "https://pro.imdb.com/title/tt0111614/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_173",
+        "individualURL": "gr272847365",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1951429.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/19/1994"
+                }
+            ]
+        },
+        "movieName": "Vertical Reality"
+    },
+    "gr2737066501": {
+        "castURL": "https://pro.imdb.com/title/tt0109456/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_72",
+        "individualURL": "gr2737066501",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 19726050.0,
+                    "countryOpeningAmount": 6610488.0,
+                    "countryReleaseDate": "08/19/1994"
+                }
+            ]
+        },
+        "movieName": "Color of Night"
+    },
+    "gr2771669509": {
+        "castURL": "https://pro.imdb.com/title/tt0111488/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_129",
+        "individualURL": "gr2771669509",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6971777.0,
+                    "countryOpeningAmount": 2855852.0,
+                    "countryReleaseDate": "09/09/1994"
+                }
+            ]
+        },
+        "movieName": "Trial by Jury"
+    },
+    "gr279663109": {
+        "castURL": "https://pro.imdb.com/title/tt0109917/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_207",
+        "individualURL": "gr279663109",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 395105.0,
+                    "countryOpeningAmount": 258040.0,
+                    "countryReleaseDate": "01/28/1994"
+                }
+            ]
+        },
+        "movieName": "Golden Gate"
+    },
+    "gr2797818373": {
+        "castURL": "https://pro.imdb.com/title/tt0108320/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_228",
+        "individualURL": "gr2797818373",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 123509.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/02/1994"
+                }
+            ]
+        },
+        "movieName": "There Goes My Baby"
+    },
+    "gr2798146053": {
+        "castURL": "https://pro.imdb.com/title/tt0109120/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_86",
+        "individualURL": "gr2798146053",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 16820893.0,
+                    "countryOpeningAmount": 4020760.0,
+                    "countryReleaseDate": "08/19/1994"
+                }
+            ]
+        },
+        "movieName": "Andre"
+    },
+    "gr2804175365": {
+        "castURL": "https://pro.imdb.com/title/tt0109127/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_33",
+        "individualURL": "gr2804175365",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 50236831.0,
+                    "countryOpeningAmount": 8916463.0,
+                    "countryReleaseDate": "07/15/1994"
+                }
+            ]
+        },
+        "movieName": "Angels in the Outfield"
+    },
+    "gr2849853957": {
+        "castURL": "https://pro.imdb.com/title/tt0110588/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_170",
+        "individualURL": "gr2849853957",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2144667.0,
+                    "countryOpeningAmount": 74512.0,
+                    "countryReleaseDate": "11/23/1994"
+                }
+            ]
+        },
+        "movieName": "Mrs. Parker and the Vicious Circle"
+    },
+    "gr2870366725": {
+        "castURL": "https://pro.imdb.com/title/tt0111693/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_35",
+        "individualURL": "gr2870366725",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 50021959.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/29/1994"
+                }
+            ]
+        },
+        "movieName": "When a Man Loves a Woman"
+    },
+    "gr2905297413": {
+        "castURL": "https://pro.imdb.com/title/tt0109015/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_102",
+        "individualURL": "gr2905297413",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 11798854.0,
+                    "countryOpeningAmount": 3556310.0,
+                    "countryReleaseDate": "05/06/1994"
+                }
+            ]
+        },
+        "movieName": "3 Ninjas Kick Back"
+    },
+    "gr2933281285": {
+        "castURL": "https://pro.imdb.com/title/tt0107631/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_222",
+        "individualURL": "gr2933281285",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 163383.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/17/1994"
+                }
+            ]
+        },
+        "movieName": "My Life's in Turnaround"
+    },
+    "gr2973585925": {
+        "castURL": "https://pro.imdb.com/title/tt0109676/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_54",
+        "individualURL": "gr2973585925",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 28735315.0,
+                    "countryOpeningAmount": 6143566.0,
+                    "countryReleaseDate": "12/09/1994"
+                }
+            ]
+        },
+        "movieName": "Drop Zone"
+    },
+    "gr3008713221": {
+        "castURL": "https://pro.imdb.com/title/tt0110167/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_45",
+        "individualURL": "gr3008713221",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 37939757.0,
+                    "countryOpeningAmount": 8112822.0,
+                    "countryReleaseDate": "07/29/1994"
+                }
+            ]
+        },
+        "movieName": "It Could Happen to You"
+    },
+    "gr3020968453": {
+        "castURL": "https://pro.imdb.com/title/tt0109447/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_124",
+        "individualURL": "gr3020968453",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7408745.0,
+                    "countryOpeningAmount": 2571043.0,
+                    "countryReleaseDate": "04/01/1994"
+                }
+            ]
+        },
+        "movieName": "Clifford"
+    },
+    "gr3023000069": {
+        "castURL": "https://pro.imdb.com/title/tt0108649/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_220",
+        "individualURL": "gr3023000069",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 217300.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/30/1994"
+                }
+            ]
+        },
+        "movieName": "Zero Patience"
+    },
+    "gr3025555973": {
+        "castURL": "https://pro.imdb.com/title/tt0107426/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_140",
+        "individualURL": "gr3025555973",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4858139.0,
+                    "countryOpeningAmount": 873983.0,
+                    "countryReleaseDate": "05/27/1994"
+                }
+            ]
+        },
+        "movieName": "Little Buddha"
+    },
+    "gr3033616901": {
+        "castURL": "https://pro.imdb.com/title/tt0109578/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_178",
+        "individualURL": "gr3033616901",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1702394.0,
+                    "countryOpeningAmount": 503936.0,
+                    "countryReleaseDate": "01/14/1994"
+                }
+            ]
+        },
+        "movieName": "Death Wish V: The Face of Death"
+    },
+    "gr3040825861": {
+        "castURL": "https://pro.imdb.com/title/tt0109920/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_167",
+        "individualURL": "gr3040825861",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2308390.0,
+                    "countryOpeningAmount": 1144942.0,
+                    "countryReleaseDate": "09/09/1994"
+                }
+            ]
+        },
+        "movieName": "A Good Man in Africa"
+    },
+    "gr3045020165": {
+        "castURL": "https://pro.imdb.com/title/tt0109493/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_68",
+        "individualURL": "gr3045020165",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 20280016.0,
+                    "countryOpeningAmount": 5048640.0,
+                    "countryReleaseDate": "06/03/1994"
+                }
+            ]
+        },
+        "movieName": "The Cowboy Way"
+    },
+    "gr3059634693": {
+        "castURL": "https://pro.imdb.com/title/tt0110759/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_144",
+        "individualURL": "gr3059634693",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4330020.0,
+                    "countryOpeningAmount": 2129483.0,
+                    "countryReleaseDate": "04/29/1994"
+                }
+            ]
+        },
+        "movieName": "PCU"
+    },
+    "gr3094368773": {
+        "castURL": "https://pro.imdb.com/title/tt0108395/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_236",
+        "individualURL": "gr3094368773",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 71368.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/07/1994"
+                }
+            ]
+        },
+        "movieName": "A Troll in Central Park"
+    },
+    "gr3100267013": {
+        "castURL": "https://pro.imdb.com/title/tt0109226/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_235",
+        "individualURL": "gr3100267013",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 73956.0,
+                    "countryOpeningAmount": 5263.0,
+                    "countryReleaseDate": "11/23/1994"
+                }
+            ]
+        },
+        "movieName": "The Beans of Egypt, Maine"
+    },
+    "gr3118027269": {
+        "castURL": "https://pro.imdb.com/title/tt0109445/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_155",
+        "individualURL": "gr3118027269",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3151130.0,
+                    "countryOpeningAmount": 31665.0,
+                    "countryReleaseDate": "10/19/1994"
+                }
+            ]
+        },
+        "movieName": "Clerks"
+    },
+    "gr3136508421": {
+        "castURL": "https://pro.imdb.com/title/tt0110308/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_137",
+        "individualURL": "gr3136508421",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5842603.0,
+                    "countryOpeningAmount": 45058.0,
+                    "countryReleaseDate": "10/26/1994"
+                }
+            ]
+        },
+        "movieName": "The Last Seduction"
+    },
+    "gr3144962565": {
+        "castURL": "https://pro.imdb.com/title/tt0109190/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_84",
+        "individualURL": "gr3144962565",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 16827402.0,
+                    "countryOpeningAmount": 4044662.0,
+                    "countryReleaseDate": "07/01/1994"
+                }
+            ]
+        },
+        "movieName": "Baby's Day Out"
+    },
+    "gr3154334213": {
+        "castURL": "https://pro.imdb.com/title/tt0110157/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_65",
+        "individualURL": "gr3154334213",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 21006361.0,
+                    "countryOpeningAmount": 5313406.0,
+                    "countryReleaseDate": "01/14/1994"
+                }
+            ]
+        },
+        "movieName": "Iron Will"
+    },
+    "gr3157217797": {
+        "castURL": "https://pro.imdb.com/title/tt0109686/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_7",
+        "individualURL": "gr3157217797",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 127175374.0,
+                    "countryOpeningAmount": 16363442.0,
+                    "countryReleaseDate": "12/16/1994"
+                }
+            ]
+        },
+        "movieName": "Dumb and Dumber"
+    },
+    "gr3158397445": {
+        "castURL": "https://pro.imdb.com/title/tt0110857/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_226",
+        "individualURL": "gr3158397445",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 126247.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/26/1994"
+                }
+            ]
+        },
+        "movieName": "Police Academy: Mission to Moscow"
+    },
+    "gr3172553221": {
+        "castURL": "https://pro.imdb.com/title/tt0111194/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_148",
+        "individualURL": "gr3172553221",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3430583.0,
+                    "countryOpeningAmount": 1404904.0,
+                    "countryReleaseDate": "09/02/1994"
+                }
+            ]
+        },
+        "movieName": "A Simple Twist of Fate"
+    },
+    "gr3175109125": {
+        "castURL": "https://pro.imdb.com/title/tt0109303/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_50",
+        "individualURL": "gr3175109125",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 30156002.0,
+                    "countryOpeningAmount": 10424873.0,
+                    "countryReleaseDate": "07/01/1994"
+                }
+            ]
+        },
+        "movieName": "Blown Away"
+    },
+    "gr3175305733": {
+        "castURL": "https://pro.imdb.com/title/tt0110613/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_82",
+        "individualURL": "gr3175305733",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 17359799.0,
+                    "countryOpeningAmount": 5012295.0,
+                    "countryReleaseDate": "02/11/1994"
+                }
+            ]
+        },
+        "movieName": "My Girl 2"
+    },
+    "gr3221901829": {
+        "castURL": "https://pro.imdb.com/title/tt0110367/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_34",
+        "individualURL": "gr3221901829",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 50083616.0,
+                    "countryOpeningAmount": 2411247.0,
+                    "countryReleaseDate": "12/21/1994"
+                }
+            ]
+        },
+        "movieName": "Little Women"
+    },
+    "gr3251917317": {
+        "castURL": "https://pro.imdb.com/title/tt0110148/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_9",
+        "individualURL": "gr3251917317",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 105264608.0,
+                    "countryOpeningAmount": 36389705.0,
+                    "countryReleaseDate": "11/11/1994"
+                }
+            ]
+        },
+        "movieName": "Interview with the Vampire: The Vampire Chronicles"
+    },
+    "gr3287831045": {
+        "castURL": "https://pro.imdb.com/title/tt0109783/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_156",
+        "individualURL": "gr3287831045",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3134381.0,
+                    "countryOpeningAmount": 1487238.0,
+                    "countryReleaseDate": "04/29/1994"
+                }
+            ]
+        },
+        "movieName": "The Favor"
+    },
+    "gr3310178821": {
+        "castURL": "https://pro.imdb.com/title/tt0111054/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_180",
+        "individualURL": "gr3310178821",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1618282.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1994"
+                }
+            ]
+        },
+        "movieName": "Safe Passage"
+    },
+    "gr3313324549": {
+        "castURL": "https://pro.imdb.com/title/tt0110353/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_85",
+        "individualURL": "gr3313324549",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 16821273.0,
+                    "countryOpeningAmount": 5401743.0,
+                    "countryReleaseDate": "03/11/1994"
+                }
+            ]
+        },
+        "movieName": "Lightning Jack"
+    },
+    "gr3334558213": {
+        "castURL": "https://pro.imdb.com/title/tt0110213/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_41",
+        "individualURL": "gr3334558213",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 43229904.0,
+                    "countryOpeningAmount": 5129959.0,
+                    "countryReleaseDate": "12/25/1994"
+                }
+            ]
+        },
+        "movieName": "The Jungle Book"
+    },
+    "gr3342225925": {
+        "castURL": "https://pro.imdb.com/title/tt0107111/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_243",
+        "individualURL": "gr3342225925",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 53319.0,
+                    "countryOpeningAmount": 9571.0,
+                    "countryReleaseDate": "04/29/1994"
+                }
+            ]
+        },
+        "movieName": "High Lonesome: The Story of Bluegrass Music"
+    },
+    "gr3377680901": {
+        "castURL": "https://pro.imdb.com/title/tt0109454/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_203",
+        "individualURL": "gr3377680901",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 464284.0,
+                    "countryOpeningAmount": 19101.0,
+                    "countryReleaseDate": "12/23/1994"
+                }
+            ]
+        },
+        "movieName": "Colonel Chabert"
+    },
+    "gr3402715653": {
+        "castURL": "https://pro.imdb.com/title/tt0110932/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_60",
+        "individualURL": "gr3402715653",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 24822619.0,
+                    "countryOpeningAmount": 757714.0,
+                    "countryReleaseDate": "09/16/1994"
+                }
+            ]
+        },
+        "movieName": "Quiz Show"
+    },
+    "gr3404091909": {
+        "castURL": "https://pro.imdb.com/title/tt0109579/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_157",
+        "individualURL": "gr3404091909",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3103716.0,
+                    "countryOpeningAmount": 74366.0,
+                    "countryReleaseDate": "12/23/1994"
+                }
+            ]
+        },
+        "movieName": "Death and the Maiden"
+    },
+    "gr340480517": {
+        "castURL": "https://pro.imdb.com/title/tt0110442/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_48",
+        "individualURL": "gr340480517",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 30626182.0,
+                    "countryOpeningAmount": 7040777.0,
+                    "countryReleaseDate": "04/01/1994"
+                }
+            ]
+        },
+        "movieName": "Major League II"
+    },
+    "gr340677125": {
+        "castURL": "https://pro.imdb.com/title/tt0111686/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_73",
+        "individualURL": "gr340677125",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 18090181.0,
+                    "countryOpeningAmount": 6667118.0,
+                    "countryReleaseDate": "10/14/1994"
+                }
+            ],
+            "emea": [
+                {
+                    "country": "Italy",
+                    "countryGrossAmount": 1622522.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/03/1995"
+                }
+            ]
+        },
+        "movieName": "Wes Craven's New Nightmare"
+    },
+    "gr3413725701": {
+        "castURL": "https://pro.imdb.com/title/tt0110684/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_42",
+        "individualURL": "gr3413725701",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 39491975.0,
+                    "countryOpeningAmount": 92838.0,
+                    "countryReleaseDate": "12/23/1994"
+                }
+            ]
+        },
+        "movieName": "Nobody's Fool"
+    },
+    "gr3420279301": {
+        "castURL": "https://pro.imdb.com/title/tt0110197/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_145",
+        "individualURL": "gr3420279301",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3783003.0,
+                    "countryOpeningAmount": 1451000.0,
+                    "countryReleaseDate": "04/01/1994"
+                }
+            ]
+        },
+        "movieName": "Jimmy Hollywood"
+    },
+    "gr342315525": {
+        "castURL": "https://pro.imdb.com/title/tt0109279/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_141",
+        "individualURL": "gr342315525",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4630377.0,
+                    "countryOpeningAmount": 1285820.0,
+                    "countryReleaseDate": "07/29/1994"
+                }
+            ]
+        },
+        "movieName": "Black Beauty"
+    },
+    "gr3423556101": {
+        "castURL": "https://pro.imdb.com/title/tt0107151/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_133",
+        "individualURL": "gr3423556101",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6265311.0,
+                    "countryOpeningAmount": 1719085.0,
+                    "countryReleaseDate": "04/01/1994"
+                }
+            ]
+        },
+        "movieName": "The House of the Spirits"
+    },
+    "gr3426767365": {
+        "castURL": "https://pro.imdb.com/title/tt0109340/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_202",
+        "individualURL": "gr3426767365",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 487391.0,
+                    "countryOpeningAmount": 48719.0,
+                    "countryReleaseDate": "10/12/1994"
+                }
+            ]
+        },
+        "movieName": "The Browning Version"
+    },
+    "gr3447149061": {
+        "castURL": "https://pro.imdb.com/title/tt0110322/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_17",
+        "individualURL": "gr3447149061",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 66638883.0,
+                    "countryOpeningAmount": 101670.0,
+                    "countryReleaseDate": "12/23/1994"
+                }
+            ]
+        },
+        "movieName": "Legends of the Fall"
+    },
+    "gr3459928581": {
+        "castURL": "https://pro.imdb.com/title/tt0109504/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_97",
+        "individualURL": "gr3459928581",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 13642861.0,
+                    "countryOpeningAmount": 4209475.0,
+                    "countryReleaseDate": "05/13/1994"
+                }
+            ]
+        },
+        "movieName": "Crooklyn"
+    },
+    "gr349458949": {
+        "castURL": "https://pro.imdb.com/title/tt0110971/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_61",
+        "individualURL": "gr349458949",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 24332324.0,
+                    "countryOpeningAmount": 5557590.0,
+                    "countryReleaseDate": "06/03/1994"
+                }
+            ]
+        },
+        "movieName": "Renaissance Man"
+    },
+    "gr35410437": {
+        "castURL": "https://pro.imdb.com/title/tt0111408/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_214",
+        "individualURL": "gr35410437",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 280163.0,
+                    "countryOpeningAmount": 36220.0,
+                    "countryReleaseDate": "05/06/1994"
+                }
+            ]
+        },
+        "movieName": "That's Entertainment! III"
+    },
+    "gr3573961221": {
+        "castURL": "https://pro.imdb.com/title/tt0110771/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_36",
+        "individualURL": "gr3573961221",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 38824341.0,
+                    "countryOpeningAmount": 175507.0,
+                    "countryReleaseDate": "03/18/1994"
+                }
+            ]
+        },
+        "movieName": "The Paper"
+    },
+    "gr3612824069": {
+        "castURL": "https://pro.imdb.com/title/tt0109035/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_90",
+        "individualURL": "gr3612824069",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 16192320.0,
+                    "countryOpeningAmount": 3738800.0,
+                    "countryReleaseDate": "03/25/1994"
+                }
+            ]
+        },
+        "movieName": "Above the Rim"
+    },
+    "gr3618198021": {
+        "castURL": "https://pro.imdb.com/title/tt0109835/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_244",
+        "individualURL": "gr3618198021",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 50004.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/28/1994"
+                }
+            ]
+        },
+        "movieName": "Frank & Jesse"
+    },
+    "gr3620819461": {
+        "castURL": "https://pro.imdb.com/title/tt0110478/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_15",
+        "individualURL": "gr3620819461",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 101631272.0,
+                    "countryOpeningAmount": 17248545.0,
+                    "countryReleaseDate": "05/20/1994"
+                }
+            ]
+        },
+        "movieName": "Maverick"
+    },
+    "gr3640218117": {
+        "castURL": "https://pro.imdb.com/title/tt0109305/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_62",
+        "individualURL": "gr3640218117",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 23070663.0,
+                    "countryOpeningAmount": 10123605.0,
+                    "countryReleaseDate": "02/18/1994"
+                }
+            ]
+        },
+        "movieName": "Blue Chips"
+    },
+    "gr3640873477": {
+        "castURL": "https://pro.imdb.com/title/tt0109520/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_39",
+        "individualURL": "gr3640873477",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 45610410.0,
+                    "countryOpeningAmount": 10356748.0,
+                    "countryReleaseDate": "03/25/1994"
+                }
+            ]
+        },
+        "movieName": "D2: The Mighty Ducks"
+    },
+    "gr3642642949": {
+        "castURL": "https://pro.imdb.com/title/tt0109839/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_237",
+        "individualURL": "gr3642642949",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 71176.0,
+                    "countryOpeningAmount": 4272.0,
+                    "countryReleaseDate": "06/22/1994"
+                }
+            ]
+        },
+        "movieName": "Freedom on My Mind"
+    },
+    "gr3657191941": {
+        "castURL": "https://pro.imdb.com/title/tt0109402/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_120",
+        "individualURL": "gr3657191941",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7924955.0,
+                    "countryOpeningAmount": 3421028.0,
+                    "countryReleaseDate": "03/04/1994"
+                }
+            ]
+        },
+        "movieName": "The Chase"
+    },
+    "gr3660009989": {
+        "castURL": "https://pro.imdb.com/title/tt0110763/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_96",
+        "individualURL": "gr3660009989",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 13670688.0,
+                    "countryOpeningAmount": 4188399.0,
+                    "countryReleaseDate": "11/23/1994"
+                }
+            ]
+        },
+        "movieName": "The Pagemaster"
+    },
+    "gr3680391685": {
+        "castURL": "https://pro.imdb.com/title/tt0109831/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_8",
+        "individualURL": "gr3680391685",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 52700832.0,
+                    "countryOpeningAmount": 138486.0,
+                    "countryReleaseDate": "03/11/1994"
+                }
+            ]
+        },
+        "movieName": "Four Weddings and a Funeral"
+    },
+    "gr3692712453": {
+        "castURL": "https://pro.imdb.com/title/tt0110538/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_131",
+        "individualURL": "gr3692712453",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6821850.0,
+                    "countryOpeningAmount": 2307850.0,
+                    "countryReleaseDate": "12/21/1994"
+                }
+            ]
+        },
+        "movieName": "Mixed Nuts"
+    },
+    "gr3727380997": {
+        "castURL": "https://pro.imdb.com/title/tt0107146/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_198",
+        "individualURL": "gr3727380997",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 602329.0,
+                    "countryOpeningAmount": 30892.0,
+                    "countryReleaseDate": "08/24/1994"
+                }
+            ]
+        },
+        "movieName": "The Advocate"
+    },
+    "gr3741209093": {
+        "castURL": "https://pro.imdb.com/title/tt0104658/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_249",
+        "individualURL": "gr3741209093",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 28540.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/08/1994"
+                }
+            ]
+        },
+        "movieName": "L.627"
+    },
+    "gr3742323205": {
+        "castURL": "https://pro.imdb.com/title/tt0110081/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_166",
+        "individualURL": "gr3742323205",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2332728.0,
+                    "countryOpeningAmount": 32900.0,
+                    "countryReleaseDate": "11/18/1994"
+                }
+            ]
+        },
+        "movieName": "To Live"
+    },
+    "gr3763622405": {
+        "castURL": "https://pro.imdb.com/title/tt0109403/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_181",
+        "individualURL": "gr3763622405",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1596687.0,
+                    "countryOpeningAmount": 733859.0,
+                    "countryReleaseDate": "04/22/1994"
+                }
+            ]
+        },
+        "movieName": "Chasers"
+    },
+    "gr3772862981": {
+        "castURL": "https://pro.imdb.com/title/tt0110687/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_128",
+        "individualURL": "gr3772862981",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7182747.0,
+                    "countryOpeningAmount": 3036050.0,
+                    "countryReleaseDate": "07/22/1994"
+                }
+            ]
+        },
+        "movieName": "North"
+    },
+    "gr3877392901": {
+        "castURL": "https://pro.imdb.com/title/tt0111003/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_117",
+        "individualURL": "gr3877392901",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 8647042.0,
+                    "countryOpeningAmount": 4069057.0,
+                    "countryReleaseDate": "10/21/1994"
+                }
+            ]
+        },
+        "movieName": "The Puppet Masters"
+    },
+    "gr3890762245": {
+        "castURL": "https://pro.imdb.com/title/tt0110399/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_52",
+        "individualURL": "gr3890762245",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 29392418.0,
+                    "countryOpeningAmount": 7970574.0,
+                    "countryReleaseDate": "11/25/1994"
+                }
+            ]
+        },
+        "movieName": "A Low Down Dirty Shame"
+    },
+    "gr3900527109": {
+        "castURL": "https://pro.imdb.com/title/tt0111094/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_162",
+        "individualURL": "gr3900527109",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2694234.0,
+                    "countryOpeningAmount": 1458837.0,
+                    "countryReleaseDate": "09/30/1994"
+                }
+            ]
+        },
+        "movieName": "The Scout"
+    },
+    "gr3905573381": {
+        "castURL": "https://pro.imdb.com/title/tt0111756/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_59",
+        "individualURL": "gr3905573381",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 25052000.0,
+                    "countryOpeningAmount": 7543504.0,
+                    "countryReleaseDate": "06/24/1994"
+                }
+            ]
+        },
+        "movieName": "Wyatt Earp"
+    },
+    "gr3927986693": {
+        "castURL": "https://pro.imdb.com/title/tt0109959/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_149",
+        "individualURL": "gr3927986693",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3411885.0,
+                    "countryOpeningAmount": 1909919.0,
+                    "countryReleaseDate": "02/04/1994"
+                }
+            ]
+        },
+        "movieName": "Gunmen"
+    },
+    "gr393171461": {
+        "castURL": "https://pro.imdb.com/title/tt0110064/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_77",
+        "individualURL": "gr393171461",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 19281235.0,
+                    "countryOpeningAmount": 6850010.0,
+                    "countryReleaseDate": "01/14/1994"
+                }
+            ]
+        },
+        "movieName": "House Party 3"
+    },
+    "gr3932312069": {
+        "castURL": "https://pro.imdb.com/title/tt0104774/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_230",
+        "individualURL": "gr3932312069",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 99707.0,
+                    "countryOpeningAmount": 9970.0,
+                    "countryReleaseDate": "07/01/1994"
+                }
+            ]
+        },
+        "movieName": "A Place in the World"
+    },
+    "gr3972354565": {
+        "castURL": "https://pro.imdb.com/title/tt0108557/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_199",
+        "individualURL": "gr3972354565",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 595505.0,
+                    "countryOpeningAmount": 46775.0,
+                    "countryReleaseDate": "01/14/1994"
+                }
+            ]
+        },
+        "movieName": "Where the Rivers Flow North"
+    },
+    "gr3989918213": {
+        "castURL": "https://pro.imdb.com/title/tt0110944/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_212",
+        "individualURL": "gr3989918213",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 305070.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/09/1994"
+                }
+            ]
+        },
+        "movieName": "Rapa Nui"
+    },
+    "gr400052741": {
+        "castURL": "https://pro.imdb.com/title/tt0109480/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_104",
+        "individualURL": "gr400052741",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 11391093.0,
+                    "countryOpeningAmount": 3724254.0,
+                    "countryReleaseDate": "04/15/1994"
+                }
+            ]
+        },
+        "movieName": "Cops and Robbersons"
+    },
+    "gr4012593669": {
+        "castURL": "https://pro.imdb.com/title/tt0109327/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_143",
+        "individualURL": "gr4012593669",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4352094.0,
+                    "countryOpeningAmount": 1725000.0,
+                    "countryReleaseDate": "04/22/1994"
+                }
+            ]
+        },
+        "movieName": "Brainscan"
+    },
+    "gr403657221": {
+        "castURL": "https://pro.imdb.com/title/tt0107492/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_242",
+        "individualURL": "gr403657221",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 58484.0,
+                    "countryOpeningAmount": 18886.0,
+                    "countryReleaseDate": "09/23/1994"
+                }
+            ]
+        },
+        "movieName": "The Making of '...And God Spoke'"
+    },
+    "gr4047393285": {
+        "castURL": "https://pro.imdb.com/title/tt0111187/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_154",
+        "individualURL": "gr4047393285",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3180674.0,
+                    "countryOpeningAmount": 1531244.0,
+                    "countryReleaseDate": "10/28/1994"
+                }
+            ]
+        },
+        "movieName": "Silent Fall"
+    },
+    "gr4065088005": {
+        "castURL": "https://pro.imdb.com/title/tt0109816/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_251",
+        "individualURL": "gr4065088005",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 20031.0,
+                    "countryOpeningAmount": 2604.0,
+                    "countryReleaseDate": "11/04/1994"
+                }
+            ]
+        },
+        "movieName": "Floundering"
+    },
+    "gr407589381": {
+        "castURL": "https://pro.imdb.com/title/tt0110657/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_91",
+        "individualURL": "gr407589381",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 8914777.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/12/1994"
+                }
+            ],
+            "emea": [
+                {
+                    "country": "Italy",
+                    "countryGrossAmount": 74376.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/09/1994"
+                }
+            ]
+        },
+        "movieName": "The Next Karate Kid"
+    },
+    "gr4090581509": {
+        "castURL": "https://pro.imdb.com/title/tt0110737/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_70",
+        "individualURL": "gr4090581509",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 20059210.0,
+                    "countryOpeningAmount": 5711738.0,
+                    "countryReleaseDate": "10/07/1994"
+                }
+            ]
+        },
+        "movieName": "Only You"
+    },
+    "gr4092547589": {
+        "castURL": "https://pro.imdb.com/title/tt0111418/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_95",
+        "individualURL": "gr4092547589",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14815317.0,
+                    "countryOpeningAmount": 4001024.0,
+                    "countryReleaseDate": "04/08/1994"
+                }
+            ]
+        },
+        "movieName": "Threesome"
+    },
+    "gr4130820613": {
+        "castURL": "https://pro.imdb.com/title/tt0110867/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_254",
+        "individualURL": "gr4130820613",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 11669.0,
+                    "countryOpeningAmount": 5128.0,
+                    "countryReleaseDate": "11/04/1994"
+                }
+            ]
+        },
+        "movieName": "Pontiac Moon"
+    },
+    "gr4158870021": {
+        "castURL": "https://pro.imdb.com/title/tt0107779/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_245",
+        "individualURL": "gr4158870021",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 44159.0,
+                    "countryOpeningAmount": 10589.0,
+                    "countryReleaseDate": "02/04/1994"
+                }
+            ]
+        },
+        "movieName": "Paris, France"
+    },
+    "gr4160246277": {
+        "castURL": "https://pro.imdb.com/title/tt0109729/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_169",
+        "individualURL": "gr4160246277",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2155385.0,
+                    "countryOpeningAmount": 657292.0,
+                    "countryReleaseDate": "06/03/1994"
+                }
+            ]
+        },
+        "movieName": "The Endless Summer 2"
+    },
+    "gr4188557829": {
+        "castURL": "https://pro.imdb.com/title/tt0110395/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_248",
+        "individualURL": "gr4188557829",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 35200.0,
+                    "countryOpeningAmount": 9086.0,
+                    "countryReleaseDate": "11/23/1994"
+                }
+            ]
+        },
+        "movieName": "Love and a .45"
+    },
+    "gr4190392837": {
+        "castURL": "https://pro.imdb.com/title/tt0109635/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_11",
+        "individualURL": "gr4190392837",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 83015089.0,
+                    "countryOpeningAmount": 10068126.0,
+                    "countryReleaseDate": "12/09/1994"
+                }
+            ]
+        },
+        "movieName": "Disclosure"
+    },
+    "gr4211888645": {
+        "castURL": "https://pro.imdb.com/title/tt0111742/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_18",
+        "individualURL": "gr4211888645",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 65002597.0,
+                    "countryOpeningAmount": 17911366.0,
+                    "countryReleaseDate": "06/17/1994"
+                }
+            ]
+        },
+        "movieName": "Wolf"
+    },
+    "gr4215362053": {
+        "castURL": "https://pro.imdb.com/title/tt0108059/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_224",
+        "individualURL": "gr4215362053",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 147107.0,
+                    "countryOpeningAmount": 6998.0,
+                    "countryReleaseDate": "05/06/1994"
+                }
+            ]
+        },
+        "movieName": "La scorta"
+    },
+    "gr421614085": {
+        "castURL": "https://pro.imdb.com/title/tt0110939/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_184",
+        "individualURL": "gr421614085",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1316865.0,
+                    "countryOpeningAmount": 835570.0,
+                    "countryReleaseDate": "10/21/1994"
+                }
+            ]
+        },
+        "movieName": "Radioland Murders"
+    },
+    "gr4216607237": {
+        "castURL": "https://pro.imdb.com/title/tt0111201/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_122",
+        "individualURL": "gr4216607237",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7770731.0,
+                    "countryOpeningAmount": 34299.0,
+                    "countryReleaseDate": "03/04/1994"
+                }
+            ]
+        },
+        "movieName": "Sirens"
+    },
+    "gr421679621": {
+        "castURL": "https://pro.imdb.com/title/tt0110364/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_76",
+        "individualURL": "gr421679621",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 19306362.0,
+                    "countryOpeningAmount": 4778029.0,
+                    "countryReleaseDate": "10/14/1994"
+                }
+            ]
+        },
+        "movieName": "Little Giants"
+    },
+    "gr4229648901": {
+        "castURL": "https://pro.imdb.com/title/tt0108366/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_229",
+        "individualURL": "gr4229648901",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 101071.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/19/1994"
+                }
+            ]
+        },
+        "movieName": "Totally F***ed Up"
+    },
+    "gr4231746053": {
+        "castURL": "https://pro.imdb.com/title/tt0110678/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_92",
+        "individualURL": "gr4231746053",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 15339030.0,
+                    "countryOpeningAmount": 4588736.0,
+                    "countryReleaseDate": "04/29/1994"
+                }
+            ]
+        },
+        "movieName": "No Escape"
+    },
+    "gr4249309701": {
+        "castURL": "https://pro.imdb.com/title/tt0111701/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_116",
+        "individualURL": "gr4249309701",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 8878839.0,
+                    "countryOpeningAmount": 2692624.0,
+                    "countryReleaseDate": "04/15/1994"
+                }
+            ]
+        },
+        "movieName": "White Fang 2: Myth of the White Wolf"
+    },
+    "gr4261696005": {
+        "castURL": "https://pro.imdb.com/title/tt0109129/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_114",
+        "individualURL": "gr4261696005",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 9398308.0,
+                    "countryOpeningAmount": 2779640.0,
+                    "countryReleaseDate": "03/04/1994"
+                }
+            ]
+        },
+        "movieName": "Angie"
+    },
+    "gr4264186373": {
+        "castURL": "https://pro.imdb.com/title/tt0108072/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_252",
+        "individualURL": "gr4264186373",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 18719.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/29/1994"
+                }
+            ]
+        },
+        "movieName": "The Secret Rapture"
+    },
+    "gr4278014469": {
+        "castURL": "https://pro.imdb.com/title/tt0109443/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_125",
+        "individualURL": "gr4278014469",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7355425.0,
+                    "countryOpeningAmount": 3136130.0,
+                    "countryReleaseDate": "05/06/1994"
+                }
+            ]
+        },
+        "movieName": "Clean Slate"
+    },
+    "gr4279390725": {
+        "castURL": "https://pro.imdb.com/title/tt0106535/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_209",
+        "individualURL": "gr4279390725",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 322975.0,
+                    "countryOpeningAmount": 23410.0,
+                    "countryReleaseDate": "02/11/1994"
+                }
+            ]
+        },
+        "movieName": "The Cement Garden"
+    },
+    "gr440685061": {
+        "castURL": "https://pro.imdb.com/title/tt0111712/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_134",
+        "individualURL": "gr440685061",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6243722.0,
+                    "countryOpeningAmount": 133084.0,
+                    "countryReleaseDate": "05/13/1994"
+                }
+            ]
+        },
+        "movieName": "Widows' Peak"
+    },
+    "gr454644229": {
+        "castURL": "https://pro.imdb.com/title/tt0110725/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_43",
+        "individualURL": "gr454644229",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 38590458.0,
+                    "countryOpeningAmount": 12679573.0,
+                    "countryReleaseDate": "02/18/1994"
+                }
+            ]
+        },
+        "movieName": "On Deadly Ground"
+    },
+    "gr483348997": {
+        "castURL": "https://pro.imdb.com/title/tt0109707/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_136",
+        "individualURL": "gr483348997",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5887457.0,
+                    "countryOpeningAmount": 71566.0,
+                    "countryReleaseDate": "09/30/1994"
+                }
+            ]
+        },
+        "movieName": "Ed Wood"
+    },
+    "gr48648709": {
+        "castURL": "https://pro.imdb.com/title/tt0111732/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_71",
+        "individualURL": "gr48648709",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 20016254.0,
+                    "countryOpeningAmount": 4328543.0,
+                    "countryReleaseDate": "04/29/1994"
+                }
+            ]
+        },
+        "movieName": "With Honors"
+    },
+    "gr507597317": {
+        "castURL": "https://pro.imdb.com/title/tt0109891/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_78",
+        "individualURL": "gr507597317",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 18869594.0,
+                    "countryOpeningAmount": 5579480.0,
+                    "countryReleaseDate": "06/17/1994"
+                }
+            ]
+        },
+        "movieName": "Getting Even with Dad"
+    },
+    "gr511463941": {
+        "castURL": "https://pro.imdb.com/title/tt0107225/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_189",
+        "individualURL": "gr511463941",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1113435.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/15/1994"
+                }
+            ]
+        },
+        "movieName": "Ciao, Professore!"
+    },
+    "gr521884165": {
+        "castURL": "https://pro.imdb.com/title/tt0111477/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_135",
+        "individualURL": "gr521884165",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6017509.0,
+                    "countryOpeningAmount": 2744653.0,
+                    "countryReleaseDate": "12/02/1994"
+                }
+            ]
+        },
+        "movieName": "Trapped in Paradise"
+    },
+    "gr53236229": {
+        "castURL": "https://pro.imdb.com/title/tt0110366/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_29",
+        "individualURL": "gr53236229",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 52125282.0,
+                    "countryOpeningAmount": 10028065.0,
+                    "countryReleaseDate": "08/05/1994"
+                }
+            ]
+        },
+        "movieName": "The Little Rascals"
+    },
+    "gr533090821": {
+        "castURL": "https://pro.imdb.com/title/tt0109348/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_98",
+        "individualURL": "gr533090821",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 13383747.0,
+                    "countryOpeningAmount": 86072.0,
+                    "countryReleaseDate": "10/21/1994"
+                }
+            ]
+        },
+        "movieName": "Bullets Over Broadway"
+    },
+    "gr536236549": {
+        "castURL": "https://pro.imdb.com/title/tt0109021/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_74",
+        "individualURL": "gr536236549",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 19623396.0,
+                    "countryOpeningAmount": 3369037.0,
+                    "countryReleaseDate": "02/25/1994"
+                }
+            ]
+        },
+        "movieName": "8 Seconds"
+    },
+    "gr560419333": {
+        "castURL": "https://pro.imdb.com/title/tt0109417/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_160",
+        "individualURL": "gr560419333",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3038499.0,
+                    "countryOpeningAmount": 1183843.0,
+                    "countryReleaseDate": "03/04/1994"
+                }
+            ]
+        },
+        "movieName": "China Moon"
+    },
+    "gr576279045": {
+        "castURL": "https://pro.imdb.com/title/tt0110005/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_159",
+        "individualURL": "gr576279045",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3049135.0,
+                    "countryOpeningAmount": 31592.0,
+                    "countryReleaseDate": "11/16/1994"
+                }
+            ]
+        },
+        "movieName": "Heavenly Creatures"
+    },
+    "gr584798725": {
+        "castURL": "https://pro.imdb.com/title/tt0107315/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_172",
+        "individualURL": "gr584798725",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2019581.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/06/1994"
+                }
+            ]
+        },
+        "movieName": "Kika"
+    },
+    "gr588468741": {
+        "castURL": "https://pro.imdb.com/title/tt0109951/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_56",
+        "individualURL": "gr588468741",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 27058304.0,
+                    "countryOpeningAmount": 7065213.0,
+                    "countryReleaseDate": "03/11/1994"
+                }
+            ]
+        },
+        "movieName": "Guarding Tess"
+    },
+    "gr590172677": {
+        "castURL": "https://pro.imdb.com/title/tt0111333/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_113",
+        "individualURL": "gr590172677",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 9771658.0,
+                    "countryOpeningAmount": 2445155.0,
+                    "countryReleaseDate": "11/18/1994"
+                }
+            ]
+        },
+        "movieName": "The Swan Princess"
+    },
+    "gr594825733": {
+        "castURL": "https://pro.imdb.com/title/tt0109068/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_138",
+        "individualURL": "gr594825733",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5751882.0,
+                    "countryOpeningAmount": 1911739.0,
+                    "countryReleaseDate": "08/05/1994"
+                }
+            ]
+        },
+        "movieName": "Airheads"
+    },
+    "gr633688581": {
+        "castURL": "https://pro.imdb.com/title/tt0109287/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_49",
+        "individualURL": "gr633688581",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 30577969.0,
+                    "countryOpeningAmount": 5411897.0,
+                    "countryReleaseDate": "02/11/1994"
+                }
+            ]
+        },
+        "movieName": "Blank Check"
+    },
+    "gr658985477": {
+        "castURL": "https://pro.imdb.com/title/tt0107920/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_232",
+        "individualURL": "gr658985477",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 89388.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/11/1994"
+                }
+            ]
+        },
+        "movieName": "Raining Stones"
+    },
+    "gr675041797": {
+        "castURL": "https://pro.imdb.com/title/tt0109297/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_87",
+        "individualURL": "gr675041797",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 16696219.0,
+                    "countryOpeningAmount": 4410077.0,
+                    "countryReleaseDate": "01/28/1994"
+                }
+            ]
+        },
+        "movieName": "Blink"
+    },
+    "gr695030277": {
+        "castURL": "https://pro.imdb.com/title/tt0109040/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_24",
+        "individualURL": "gr695030277",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 72217396.0,
+                    "countryOpeningAmount": 12115105.0,
+                    "countryReleaseDate": "02/04/1994"
+                }
+            ]
+        },
+        "movieName": "Ace Ventura: Pet Detective"
+    },
+    "gr701452805": {
+        "castURL": "https://pro.imdb.com/title/tt0110116/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_112",
+        "individualURL": "gr701452805",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 9914409.0,
+                    "countryOpeningAmount": 120108.0,
+                    "countryReleaseDate": "12/16/1994"
+                }
+            ]
+        },
+        "movieName": "Immortal Beloved"
+    },
+    "gr711152133": {
+        "castURL": "https://pro.imdb.com/title/tt0109306/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_150",
+        "individualURL": "gr711152133",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3359465.0,
+                    "countryOpeningAmount": 763890.0,
+                    "countryReleaseDate": "09/16/1994"
+                }
+            ]
+        },
+        "movieName": "Blue Sky"
+    },
+    "gr724324869": {
+        "castURL": "https://pro.imdb.com/title/tt0111102/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_234",
+        "individualURL": "gr724324869",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 86115.0,
+                    "countryOpeningAmount": 19190.0,
+                    "countryReleaseDate": "09/30/1994"
+                }
+            ]
+        },
+        "movieName": "Second Best"
+    },
+    "gr750998021": {
+        "castURL": "https://pro.imdb.com/title/tt0109665/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_217",
+        "individualURL": "gr750998021",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 256264.0,
+                    "countryOpeningAmount": 44701.0,
+                    "countryReleaseDate": "05/06/1994"
+                }
+            ]
+        },
+        "movieName": "Dream Lover"
+    },
+    "gr760500741": {
+        "castURL": "https://pro.imdb.com/title/tt0107983/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_152",
+        "individualURL": "gr760500741",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3275585.0,
+                    "countryOpeningAmount": 1225737.0,
+                    "countryReleaseDate": "02/04/1994"
+                }
+            ]
+        },
+        "movieName": "Romeo Is Bleeding"
+    },
+    "gr769413637": {
+        "castURL": "https://pro.imdb.com/title/tt0110091/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_175",
+        "individualURL": "gr769413637",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1760527.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/14/1994"
+                }
+            ]
+        },
+        "movieName": "I Like It Like That"
+    },
+    "gr776622597": {
+        "castURL": "https://pro.imdb.com/title/tt0108906/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_225",
+        "individualURL": "gr776622597",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 83381.0,
+                    "countryOpeningAmount": 4110.0,
+                    "countryReleaseDate": "11/03/1995"
+                }
+            ],
+            "emea": [
+                {
+                    "country": "Italy",
+                    "countryGrossAmount": 61106.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/21/1994"
+                }
+            ]
+        },
+        "movieName": "The Kingdom"
+    },
+    "gr796807685": {
+        "castURL": "https://pro.imdb.com/title/tt0107642/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_216",
+        "individualURL": "gr796807685",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 274596.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/19/1994"
+                }
+            ]
+        },
+        "movieName": "Caf\u00e9 au lait"
+    },
+    "gr817910277": {
+        "castURL": "https://pro.imdb.com/title/tt0109219/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_127",
+        "individualURL": "gr817910277",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7266973.0,
+                    "countryOpeningAmount": 102820.0,
+                    "countryReleaseDate": "07/29/1994"
+                }
+            ]
+        },
+        "movieName": "Barcelona"
+    },
+    "gr821842437": {
+        "castURL": "https://pro.imdb.com/title/tt0110518/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_188",
+        "individualURL": "gr821842437",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1220842.0,
+                    "countryOpeningAmount": 381457.0,
+                    "countryReleaseDate": "05/13/1994"
+                }
+            ]
+        },
+        "movieName": "A Million to Juan"
+    },
+    "gr826364421": {
+        "castURL": "https://pro.imdb.com/title/tt0106339/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_164",
+        "individualURL": "gr826364421",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2392589.0,
+                    "countryOpeningAmount": 126740.0,
+                    "countryReleaseDate": "04/15/1994"
+                }
+            ]
+        },
+        "movieName": "Backbeat"
+    },
+    "gr827609605": {
+        "castURL": "https://pro.imdb.com/title/tt0107079/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_80",
+        "individualURL": "gr827609605",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 18225518.0,
+                    "countryOpeningAmount": 5712485.0,
+                    "countryReleaseDate": "02/25/1994"
+                }
+            ]
+        },
+        "movieName": "Sugar Hill"
+    },
+    "gr8344069": {
+        "castURL": "https://pro.imdb.com/title/tt0107411/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_250",
+        "individualURL": "gr8344069",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 22692.0,
+                    "countryOpeningAmount": 17112.0,
+                    "countryReleaseDate": "02/17/1994"
+                }
+            ]
+        },
+        "movieName": "American Masters: The Life and Times of Allen Ginsberg"
+    },
+    "gr840585733": {
+        "castURL": "https://pro.imdb.com/title/tt0109785/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_201",
+        "individualURL": "gr840585733",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 514775.0,
+                    "countryOpeningAmount": 20601.0,
+                    "countryReleaseDate": "12/09/1994"
+                }
+            ]
+        },
+        "movieName": "Federal Hill"
+    },
+    "gr854872581": {
+        "castURL": "https://pro.imdb.com/title/tt0109198/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_93",
+        "individualURL": "gr854872581",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 15240435.0,
+                    "countryOpeningAmount": 5012200.0,
+                    "countryReleaseDate": "04/22/1994"
+                }
+            ]
+        },
+        "movieName": "Bad Girls"
+    },
+    "gr856379909": {
+        "castURL": "https://pro.imdb.com/title/tt0110907/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_106",
+        "individualURL": "gr856379909",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 11300653.0,
+                    "countryOpeningAmount": 2026295.0,
+                    "countryReleaseDate": "12/25/1994"
+                }
+            ]
+        },
+        "movieName": "Ready to Wear"
+    },
+    "gr862278149": {
+        "castURL": "https://pro.imdb.com/title/tt0110074/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_161",
+        "individualURL": "gr862278149",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2816518.0,
+                    "countryOpeningAmount": 104490.0,
+                    "countryReleaseDate": "03/11/1994"
+                }
+            ]
+        },
+        "movieName": "The Hudsucker Proxy"
+    },
+    "gr862474757": {
+        "castURL": "https://pro.imdb.com/title/tt0110093/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_47",
+        "individualURL": "gr862474757",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 30806194.0,
+                    "countryOpeningAmount": 7827002.0,
+                    "countryReleaseDate": "07/01/1994"
+                }
+            ]
+        },
+        "movieName": "I Love Trouble"
+    },
+    "gr877154821": {
+        "castURL": "https://pro.imdb.com/title/tt0110649/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_218",
+        "individualURL": "gr877154821",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 245217.0,
+                    "countryOpeningAmount": 35797.0,
+                    "countryReleaseDate": "09/16/1994"
+                }
+            ]
+        },
+        "movieName": "The New Age"
+    },
+    "gr878400005": {
+        "castURL": "https://pro.imdb.com/title/tt0109446/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_21",
+        "individualURL": "gr878400005",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 92115211.0,
+                    "countryOpeningAmount": 17174262.0,
+                    "countryReleaseDate": "07/22/1994"
+                }
+            ]
+        },
+        "movieName": "The Client"
+    },
+    "gr986075653": {
+        "castURL": "https://pro.imdb.com/title/tt0110722/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1994_227",
+        "individualURL": "gr986075653",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 124693.0,
+                    "countryOpeningAmount": 25316.0,
+                    "countryReleaseDate": "11/04/1994"
+                }
+            ]
+        },
+        "movieName": "Oleanna"
+    }
+}

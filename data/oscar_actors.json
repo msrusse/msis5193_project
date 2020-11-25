@@ -1,0 +1,731 @@
+[
+    {
+        "movies": [
+            "Best actress in Silver Linings Playbook"
+        ],
+        "name": "Jennifer Lawrence"
+    },
+    {
+        "movies": [
+            "",
+            "",
+            "Best actor in My Left Foot"
+        ],
+        "name": "Daniel Day-Lewis"
+    },
+    {
+        "movies": [
+            "Best supportive actress in Les Miserables"
+        ],
+        "name": "Anne Hathaway"
+    },
+    {
+        "movies": [
+            "",
+            "Best supportive actor in Inglourious Basterds"
+        ],
+        "name": "Christoph Waltz"
+    },
+    {
+        "movies": [
+            "",
+            "",
+            "Best supporting actress in Kramer vs. Kramer"
+        ],
+        "name": "Meryl Streep"
+    },
+    {
+        "movies": [
+            "Best actor in The Artist"
+        ],
+        "name": "Jean Dujardin"
+    },
+    {
+        "movies": [
+            "Best supportive actress in The Help"
+        ],
+        "name": "Octavia Spencer"
+    },
+    {
+        "movies": [
+            "Best supportive actor in Beginners"
+        ],
+        "name": "Christopher Plummer"
+    },
+    {
+        "movies": [
+            "Best actress in Black Swan"
+        ],
+        "name": "Natalie Portman"
+    },
+    {
+        "movies": [
+            "Best actor in The King's Speech"
+        ],
+        "name": "Colin Firth"
+    },
+    {
+        "movies": [
+            "Best supportive actress in The Fighter"
+        ],
+        "name": "Melissa Leo"
+    },
+    {
+        "movies": [
+            "Best supportive actor in The Fighter"
+        ],
+        "name": "Christian Bale"
+    },
+    {
+        "movies": [
+            "Best actress in The Blind Side"
+        ],
+        "name": "Sandra Bullock"
+    },
+    {
+        "movies": [
+            "Best actor in Crazy Heart"
+        ],
+        "name": "Jeff Bridges"
+    },
+    {
+        "movies": [
+            "Best supportive actress in Precious"
+        ],
+        "name": "Mo'Nique"
+    },
+    {
+        "movies": [
+            "Best actress in The Reader"
+        ],
+        "name": "Kate Winslet"
+    },
+    {
+        "movies": [
+            "",
+            "Best actor in Mystic River"
+        ],
+        "name": "Sean Penn"
+    },
+    {
+        "movies": [],
+        "name": "Penelope Cruz"
+    },
+    {
+        "movies": [
+            "Best supportive actor in The Dark Knight"
+        ],
+        "name": "Heath Ledger"
+    },
+    {
+        "movies": [
+            "Best actress in La Vie en Rose"
+        ],
+        "name": "Marion Cotillard"
+    },
+    {
+        "movies": [
+            "Best supportive actress in Michael Clayton"
+        ],
+        "name": "Tilda Swinton"
+    },
+    {
+        "movies": [
+            "Best supportive actor in No Country for Old Men"
+        ],
+        "name": "Javier Bardem"
+    },
+    {
+        "movies": [
+            "Best actress in The Queen"
+        ],
+        "name": "Helen Mirren"
+    },
+    {
+        "movies": [
+            "Best actor in The Last King of Scotland"
+        ],
+        "name": "Forest Whitaker"
+    },
+    {
+        "movies": [
+            "Best supportive actress in Dreamgirls"
+        ],
+        "name": "Jennifer Hudson"
+    },
+    {
+        "movies": [
+            "Best supportive actor in Little Miss Sunshine"
+        ],
+        "name": "Alan Arkin"
+    },
+    {
+        "movies": [
+            "Best actress in Walk the Line"
+        ],
+        "name": "Reese Witherspoon"
+    },
+    {
+        "movies": [
+            "Best actor in Capote"
+        ],
+        "name": "Philip Seymour Hoffman"
+    },
+    {
+        "movies": [
+            "Best supportive actress in The Constant Gardener"
+        ],
+        "name": "Rachel Weisz"
+    },
+    {
+        "movies": [
+            "Best supportive actor in Syriana"
+        ],
+        "name": "George Clooney"
+    },
+    {
+        "movies": [
+            "",
+            "Best actress in Boys Don't Cry"
+        ],
+        "name": "Hilary Swank"
+    },
+    {
+        "movies": [
+            "Best actor in Ray"
+        ],
+        "name": "Jamie Foxx"
+    },
+    {
+        "movies": [
+            "Best supportive actress in The Aviator"
+        ],
+        "name": "Cate Blanchett"
+    },
+    {
+        "movies": [
+            "Best supportive actor in Million Dollar Baby"
+        ],
+        "name": "Morgan Freeman"
+    },
+    {
+        "movies": [
+            "Best actress in Monster"
+        ],
+        "name": "Charlize Theron"
+    },
+    {
+        "movies": [
+            "Best supportive actress in Cold Mountain"
+        ],
+        "name": "Renee Zellweger"
+    },
+    {
+        "movies": [
+            "Best supportive actor in Mystic River"
+        ],
+        "name": "Tim Robbins"
+    },
+    {
+        "movies": [
+            "Best actress in The Hours"
+        ],
+        "name": "Nicole Kidman"
+    },
+    {
+        "movies": [
+            "Best actor in The Pianist"
+        ],
+        "name": "Adrien Brody"
+    },
+    {
+        "movies": [
+            "Best supportive actress in Chicago"
+        ],
+        "name": "Catherine Zeta-Jones"
+    },
+    {
+        "movies": [
+            "Best supportive actor in Adaptation"
+        ],
+        "name": "Chris Cooper"
+    },
+    {
+        "movies": [
+            "Best actress in Monster's Ball"
+        ],
+        "name": "Halle Berry"
+    },
+    {
+        "movies": [
+            "",
+            "Best supporting actor in Glory"
+        ],
+        "name": "Denzel Washington"
+    },
+    {
+        "movies": [
+            "Best supportive actress in A Beautiful Mind"
+        ],
+        "name": "Jennifer Connelly"
+    },
+    {
+        "movies": [
+            "Best supportive actor in Iris"
+        ],
+        "name": "Jim Broadbent"
+    },
+    {
+        "movies": [
+            "Best actress in Erin Brockovich"
+        ],
+        "name": "Julia Roberts"
+    },
+    {
+        "movies": [
+            "Best actor in Gladiator"
+        ],
+        "name": "Russell Crowe"
+    },
+    {
+        "movies": [
+            "Best supportive actress in Pollock"
+        ],
+        "name": "Marcia Gay Harden"
+    },
+    {
+        "movies": [
+            "Best supporting actor in Traffic"
+        ],
+        "name": "Benicio Del Toro"
+    },
+    {
+        "movies": [
+            "",
+            "Best supporting actor in The Usual Suspects"
+        ],
+        "name": "Kevin Spacey"
+    },
+    {
+        "movies": [
+            "Best supporting actress in Girl, Interrupted"
+        ],
+        "name": "Angelina Jolie"
+    },
+    {
+        "movies": [
+            "",
+            "Best supporting actor in Hannah and Her Sisters"
+        ],
+        "name": "Michael Caine"
+    },
+    {
+        "movies": [
+            "Best actress in Shakespeare in Love"
+        ],
+        "name": "Gwyneth Paltrow"
+    },
+    {
+        "movies": [
+            "Best actor in Life is Beautiful"
+        ],
+        "name": "Roberto Benigni"
+    },
+    {
+        "movies": [
+            "Best supporting actress in Shakespeare in Love"
+        ],
+        "name": "Judi Dench"
+    },
+    {
+        "movies": [
+            "Best supporting actor in Affliction"
+        ],
+        "name": "James Coburn"
+    },
+    {
+        "movies": [
+            "Best actress in As Good As It Gets"
+        ],
+        "name": "Helen Hunt"
+    },
+    {
+        "movies": [
+            "",
+            "Best supporting actor in Terms of Endearment"
+        ],
+        "name": "Jack Nicholson"
+    },
+    {
+        "movies": [
+            "Best supporting actress in L.A. Confidential"
+        ],
+        "name": "Kim Basinger"
+    },
+    {
+        "movies": [
+            "Best supporting actor in Good Will Hunting"
+        ],
+        "name": "Robin Williams"
+    },
+    {
+        "movies": [
+            "Best actress in Fargo"
+        ],
+        "name": "Frances McDormand"
+    },
+    {
+        "movies": [
+            "Best actor in Shine"
+        ],
+        "name": "Geoffrey Rush"
+    },
+    {
+        "movies": [
+            "Best supporting actress in The English Patient"
+        ],
+        "name": "Juliette Binoche"
+    },
+    {
+        "movies": [
+            "Best supporting actor in Jerry Maguire"
+        ],
+        "name": "Cuba Gooding Jr"
+    },
+    {
+        "movies": [
+            "Best actress in Dead Man Walking"
+        ],
+        "name": "Susan Sarandon"
+    },
+    {
+        "movies": [
+            "Best actor in Leaving Las Vegas"
+        ],
+        "name": "Nicolas Cage"
+    },
+    {
+        "movies": [
+            "Best supporting actress in Mighty Aphrodite"
+        ],
+        "name": "Mira Sorvino"
+    },
+    {
+        "movies": [
+            "",
+            "Best supporting actress in Tootsie"
+        ],
+        "name": "Jessica Lange"
+    },
+    {
+        "movies": [
+            "",
+            "Best actor in Philadelphia"
+        ],
+        "name": "Tom Hanks"
+    },
+    {
+        "movies": [
+            "",
+            "Best supporting actress in Hannah and Her Sisters"
+        ],
+        "name": "Dianne Wiest"
+    },
+    {
+        "movies": [
+            "Best supporting actor in Ed Wood"
+        ],
+        "name": "Martin Landau"
+    },
+    {
+        "movies": [
+            "Best actress in The Piano"
+        ],
+        "name": "Holly Hunter"
+    },
+    {
+        "movies": [
+            "Best supporting actress in The Piano"
+        ],
+        "name": "Anna Paquin"
+    },
+    {
+        "movies": [
+            "Best supporting actor in The Fugitive"
+        ],
+        "name": "Tommy Lee Jones"
+    },
+    {
+        "movies": [
+            "Best actress in Howards End"
+        ],
+        "name": "Emma Thompson"
+    },
+    {
+        "movies": [
+            "Best actor in Scent of a Woman"
+        ],
+        "name": "Al Pacino"
+    },
+    {
+        "movies": [
+            "Best supporting actress in My Cousin Vinny"
+        ],
+        "name": "Marisa Tomei"
+    },
+    {
+        "movies": [
+            "Best supporting actor in Unforgiven"
+        ],
+        "name": "Gene Hackman"
+    },
+    {
+        "movies": [
+            "",
+            "Best actress in The Accused"
+        ],
+        "name": "Jodie Foster"
+    },
+    {
+        "movies": [
+            "Best actor in The Silence of the Lambs"
+        ],
+        "name": "Anthony Hopkins"
+    },
+    {
+        "movies": [
+            "Best supporting actress in The Fisher King"
+        ],
+        "name": "Mercedes Ruehl"
+    },
+    {
+        "movies": [
+            "Best supporting actor in City Slickers"
+        ],
+        "name": "Jack Palance"
+    },
+    {
+        "movies": [
+            "Best actress in Misery"
+        ],
+        "name": "Kathy Bates"
+    },
+    {
+        "movies": [
+            "Best actor in Reversal of Fortune"
+        ],
+        "name": "Jeremy Irons"
+    },
+    {
+        "movies": [
+            "Best supporting actress in Ghost"
+        ],
+        "name": "Whoopi Goldberg"
+    },
+    {
+        "movies": [
+            "Best supporting actor in GoodFellas"
+        ],
+        "name": "Joe Pesci"
+    },
+    {
+        "movies": [
+            "Best actress in Driving Miss Daisy"
+        ],
+        "name": "Jessica Tandy"
+    },
+    {
+        "movies": [
+            "Best supporting actress in My Left Foot"
+        ],
+        "name": "Brenda Fricker"
+    },
+    {
+        "movies": [
+            "",
+            "Best actor in Kramer vs. Kramer"
+        ],
+        "name": "Dustin Hoffman"
+    },
+    {
+        "movies": [
+            "Best supporting actress in The Accidental Tourist"
+        ],
+        "name": "Geena Davis"
+    },
+    {
+        "movies": [
+            "Best supporting actor in A Fish Called Wanda"
+        ],
+        "name": "Kevin Kline"
+    },
+    {
+        "movies": [
+            "Best actress in Moonstruck"
+        ],
+        "name": "Cher"
+    },
+    {
+        "movies": [
+            "Best actor in Wall Street"
+        ],
+        "name": "Michael Douglas"
+    },
+    {
+        "movies": [
+            "Best supporting actress in Moonstruck"
+        ],
+        "name": "Olympia Dukakis"
+    },
+    {
+        "movies": [
+            "Best supprting actor in The Untouchables"
+        ],
+        "name": "Sean Connery"
+    },
+    {
+        "movies": [
+            "Best actress in Children of a Lesser God"
+        ],
+        "name": "Marlee Matlin"
+    },
+    {
+        "movies": [
+            "Best actor in The Color of Money"
+        ],
+        "name": "Paul Newman"
+    },
+    {
+        "movies": [
+            "Best actress in The Trip to Bountiful"
+        ],
+        "name": "Geraldine Page"
+    },
+    {
+        "movies": [
+            "Best actor in Kiss of the Spider Woman"
+        ],
+        "name": "William Hurt"
+    },
+    {
+        "movies": [
+            "Best supporting actress in Prizzi's Honor"
+        ],
+        "name": "Anjelica Huston"
+    },
+    {
+        "movies": [
+            "Best supporting actor in Cocoon"
+        ],
+        "name": "Don Ameche"
+    },
+    {
+        "movies": [
+            "",
+            "Best actress in Norma Rae"
+        ],
+        "name": "Sally Field"
+    },
+    {
+        "movies": [
+            "Best actor in Amadeus"
+        ],
+        "name": "F"
+    },
+    {
+        "movies": [
+            "Best supporting actress in A Passage to India"
+        ],
+        "name": "Peggy Ashcroft"
+    },
+    {
+        "movies": [
+            "Best supporting actor in The Killing Fields"
+        ],
+        "name": "Haing S"
+    },
+    {
+        "movies": [
+            "Best actress in Terms of Endearment"
+        ],
+        "name": "Shirley MacLaine"
+    },
+    {
+        "movies": [
+            "Best actor in Tender Mercies"
+        ],
+        "name": "Robert Duvall"
+    },
+    {
+        "movies": [
+            "Best supporting actress in The Year of Living Dangerously"
+        ],
+        "name": "Linda Hunt"
+    },
+    {
+        "movies": [
+            "Best actor in Gandhi"
+        ],
+        "name": "Ben Kingsley"
+    },
+    {
+        "movies": [
+            "Best supporting actor in An Officer and a Gentleman"
+        ],
+        "name": "Louis Gossett Jr"
+    },
+    {
+        "movies": [
+            "Best actress in On Golden Pond"
+        ],
+        "name": "Katharine Hepburn"
+    },
+    {
+        "movies": [
+            "Best actor in On Golden Pond"
+        ],
+        "name": "Henry Fonda"
+    },
+    {
+        "movies": [
+            "Best supporting actress in Reds"
+        ],
+        "name": "Maureen Stapleton"
+    },
+    {
+        "movies": [
+            "Best supporing actor in Arthur"
+        ],
+        "name": "John Gielgud"
+    },
+    {
+        "movies": [
+            "Best actress in Coal Miner's Daughter"
+        ],
+        "name": "Sissy Spacek"
+    },
+    {
+        "movies": [
+            "Best actor in Raging Bull"
+        ],
+        "name": "Robert De Niro"
+    },
+    {
+        "movies": [
+            "Best supporting actress in Melvin and Howard"
+        ],
+        "name": "Mary Steenburgen"
+    },
+    {
+        "movies": [
+            "Best supporting actor in Ordinary People"
+        ],
+        "name": "Timothy Hutton"
+    },
+    {
+        "movies": [
+            "Best supporting actor in Being There"
+        ],
+        "name": "Melvyn Douglas"
+    }
+]

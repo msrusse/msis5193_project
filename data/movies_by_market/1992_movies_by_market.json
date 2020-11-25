@@ -1,0 +1,4524 @@
+{
+    "gr1061245445": {
+        "castURL": "https://pro.imdb.com/title/tt0083658/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_122",
+        "individualURL": "gr1061245445",
+        "markets": {
+            "asia_pacific": [
+                {
+                    "country": "South Korea",
+                    "countryGrossAmount": 65438.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/08/1993"
+                }
+            ],
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3740330.0,
+                    "countryOpeningAmount": 618586.0,
+                    "countryReleaseDate": "09/11/1992"
+                }
+            ]
+        },
+        "movieName": "Blade Runner The Final Cut"
+    },
+    "gr1078743557": {
+        "castURL": "https://pro.imdb.com/title/tt0105151/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_62",
+        "individualURL": "gr1078743557",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 21706101.0,
+                    "countryOpeningAmount": 302216.0,
+                    "countryReleaseDate": "04/10/1992"
+                }
+            ]
+        },
+        "movieName": "The Player"
+    },
+    "gr1097617925": {
+        "castURL": "https://pro.imdb.com/title/tt0105316/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_106",
+        "individualURL": "gr1097617925",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7306242.0,
+                    "countryOpeningAmount": 76488.0,
+                    "countryReleaseDate": "09/18/1992"
+                }
+            ]
+        },
+        "movieName": "Sarafina!"
+    },
+    "gr1104892421": {
+        "castURL": "https://pro.imdb.com/title/tt0103855/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_2",
+        "individualURL": "gr1104892421",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 121945720.0,
+                    "countryOpeningAmount": 16611793.0,
+                    "countryReleaseDate": "11/25/1992"
+                }
+            ]
+        },
+        "movieName": "The Bodyguard"
+    },
+    "gr1109348869": {
+        "castURL": "https://pro.imdb.com/title/tt0104139/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_102",
+        "individualURL": "gr1109348869",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 8403433.0,
+                    "countryOpeningAmount": 2714815.0,
+                    "countryReleaseDate": "10/23/1992"
+                }
+            ]
+        },
+        "movieName": "Dr. Giggles"
+    },
+    "gr1129927173": {
+        "castURL": "https://pro.imdb.com/title/tt0101700/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_153",
+        "individualURL": "gr1129927173",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1794187.0,
+                    "countryOpeningAmount": 4733.0,
+                    "countryReleaseDate": "04/03/1992"
+                }
+            ]
+        },
+        "movieName": "Delicatessen"
+    },
+    "gr1157911045": {
+        "castURL": "https://pro.imdb.com/title/tt0105480/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_193",
+        "individualURL": "gr1157911045",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 422503.0,
+                    "countryOpeningAmount": 101383.0,
+                    "countryReleaseDate": "08/26/1992"
+                }
+            ]
+        },
+        "movieName": "Storyville"
+    },
+    "gr1175278085": {
+        "castURL": "https://pro.imdb.com/title/tt0104237/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_104",
+        "individualURL": "gr1175278085",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7532911.0,
+                    "countryOpeningAmount": 101707.0,
+                    "countryReleaseDate": "12/25/1992"
+                }
+            ]
+        },
+        "movieName": "Damage"
+    },
+    "gr1198084613": {
+        "castURL": "https://pro.imdb.com/title/tt0103644/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_12",
+        "individualURL": "gr1198084613",
+        "markets": {
+            "asia_pacific": [
+                {
+                    "country": "Australia",
+                    "countryGrossAmount": 3813630.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/04/1992"
+                },
+                {
+                    "country": "Hong Kong",
+                    "countryGrossAmount": 1454400.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/02/1992"
+                },
+                {
+                    "country": "India",
+                    "countryGrossAmount": 169181.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/14/1993"
+                },
+                {
+                    "country": "Indonesia",
+                    "countryGrossAmount": 494100.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/11/1992"
+                },
+                {
+                    "country": "Japan",
+                    "countryGrossAmount": 28837404.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/22/1992"
+                },
+                {
+                    "country": "Malaysia",
+                    "countryGrossAmount": 426879.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/05/1992"
+                },
+                {
+                    "country": "New Zealand",
+                    "countryGrossAmount": 314129.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/03/1992"
+                },
+                {
+                    "country": "Philippines",
+                    "countryGrossAmount": 412592.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/01/1992"
+                },
+                {
+                    "country": "Singapore",
+                    "countryGrossAmount": 590692.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/12/1992"
+                },
+                {
+                    "country": "South Korea",
+                    "countryGrossAmount": 5090359.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/17/1992"
+                },
+                {
+                    "country": "Taiwan",
+                    "countryGrossAmount": 1404177.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/04/1992"
+                },
+                {
+                    "country": "Thailand",
+                    "countryGrossAmount": 347944.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/10/1992"
+                }
+            ],
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 55473545.0,
+                    "countryOpeningAmount": 19449867.0,
+                    "countryReleaseDate": "05/22/1992"
+                }
+            ],
+            "emea": [
+                {
+                    "country": "Austria",
+                    "countryGrossAmount": 710011.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/11/1992"
+                },
+                {
+                    "country": "Belgium",
+                    "countryGrossAmount": 1454730.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/26/1992"
+                },
+                {
+                    "country": "Bulgaria",
+                    "countryGrossAmount": 31675.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/02/1993"
+                },
+                {
+                    "country": "Croatia",
+                    "countryGrossAmount": 42940.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/21/1993"
+                },
+                {
+                    "country": "Czech Republic/Slovakia",
+                    "countryGrossAmount": 311964.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/01/1992"
+                },
+                {
+                    "country": "Denmark",
+                    "countryGrossAmount": 694962.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/29/1992"
+                },
+                {
+                    "country": "Egypt",
+                    "countryGrossAmount": 20773.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/12/1992"
+                },
+                {
+                    "country": "Finland",
+                    "countryGrossAmount": 1849431.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/28/1992"
+                },
+                {
+                    "country": "France",
+                    "countryGrossAmount": 9507969.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/26/1992"
+                },
+                {
+                    "country": "Germany",
+                    "countryGrossAmount": 9738700.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/03/1992"
+                },
+                {
+                    "country": "Greece and Cyprus",
+                    "countryGrossAmount": 276485.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/09/1992"
+                },
+                {
+                    "country": "Hungary",
+                    "countryGrossAmount": 422498.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/16/1992"
+                },
+                {
+                    "country": "Israel",
+                    "countryGrossAmount": 282573.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/14/1992"
+                },
+                {
+                    "country": "Italy",
+                    "countryGrossAmount": 3679471.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/01/1992"
+                },
+                {
+                    "country": "Netherlands",
+                    "countryGrossAmount": 1376378.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/28/1992"
+                },
+                {
+                    "country": "Norway",
+                    "countryGrossAmount": 640063.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/27/1992"
+                },
+                {
+                    "country": "Poland",
+                    "countryGrossAmount": 566426.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/18/1992"
+                },
+                {
+                    "country": "Portugal",
+                    "countryGrossAmount": 472921.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/25/1992"
+                },
+                {
+                    "country": "Romania",
+                    "countryGrossAmount": 61271.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/03/1993"
+                },
+                {
+                    "country": "S/E/W Africa",
+                    "countryGrossAmount": 348823.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/14/1992"
+                },
+                {
+                    "country": "Slovenia",
+                    "countryGrossAmount": 65656.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/21/1993"
+                },
+                {
+                    "country": "Spain",
+                    "countryGrossAmount": 5752849.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/07/1992"
+                },
+                {
+                    "country": "Sweden",
+                    "countryGrossAmount": 1797084.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/25/1992"
+                },
+                {
+                    "country": "Switzerland",
+                    "countryGrossAmount": 1308556.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/11/1992"
+                },
+                {
+                    "country": "Turkey",
+                    "countryGrossAmount": 282710.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/11/1992"
+                },
+                {
+                    "country": "United Kingdom",
+                    "countryGrossAmount": 12766914.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/21/1992"
+                }
+            ],
+            "latin_america": [
+                {
+                    "country": "Argentina",
+                    "countryGrossAmount": 527192.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/27/1992"
+                },
+                {
+                    "country": "Bolivia",
+                    "countryGrossAmount": 27217.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/03/1992"
+                },
+                {
+                    "country": "Brazil",
+                    "countryGrossAmount": 1782526.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/04/1992"
+                },
+                {
+                    "country": "Central America",
+                    "countryGrossAmount": 192571.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/14/1992"
+                },
+                {
+                    "country": "Chile",
+                    "countryGrossAmount": 212851.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/10/1992"
+                },
+                {
+                    "country": "Colombia",
+                    "countryGrossAmount": 210546.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/29/1992"
+                },
+                {
+                    "country": "Ecuador",
+                    "countryGrossAmount": 52875.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/15/1992"
+                },
+                {
+                    "country": "Jamaica",
+                    "countryGrossAmount": 14992.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/24/1992"
+                },
+                {
+                    "country": "Mexico",
+                    "countryGrossAmount": 2571309.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/10/1992"
+                },
+                {
+                    "country": "Peru",
+                    "countryGrossAmount": 144846.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/02/1992"
+                },
+                {
+                    "country": "Puerto Rico",
+                    "countryGrossAmount": 389952.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/23/1992"
+                },
+                {
+                    "country": "Uruguay",
+                    "countryGrossAmount": 66699.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/21/1992"
+                },
+                {
+                    "country": "Venezuela",
+                    "countryGrossAmount": 328057.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/01/1992"
+                }
+            ]
+        },
+        "movieName": "Alien\u00b3"
+    },
+    "gr121852421": {
+        "castURL": "https://pro.imdb.com/title/tt0105089/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_198",
+        "individualURL": "gr121852421",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 309596.0,
+                    "countryOpeningAmount": 6563.0,
+                    "countryReleaseDate": "07/31/1992"
+                }
+            ]
+        },
+        "movieName": "The Panama Deception"
+    },
+    "gr1228231173": {
+        "castURL": "https://pro.imdb.com/title/tt0103978/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_85",
+        "individualURL": "gr1228231173",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 13272113.0,
+                    "countryOpeningAmount": 3421827.0,
+                    "countryReleaseDate": "06/05/1992"
+                }
+            ]
+        },
+        "movieName": "Class Act"
+    },
+    "gr1240551941": {
+        "castURL": "https://pro.imdb.com/title/tt0105128/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_73",
+        "individualURL": "gr1240551941",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 17092453.0,
+                    "countryOpeningAmount": 4825100.0,
+                    "countryReleaseDate": "08/28/1992"
+                }
+            ]
+        },
+        "movieName": "Pet Sematary II"
+    },
+    "gr1257460229": {
+        "castURL": "https://pro.imdb.com/title/tt0104549/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_92",
+        "individualURL": "gr1257460229",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 11390479.0,
+                    "countryOpeningAmount": 3619666.0,
+                    "countryReleaseDate": "11/06/1992"
+                }
+            ]
+        },
+        "movieName": "Jennifer 8"
+    },
+    "gr1259819525": {
+        "castURL": "https://pro.imdb.com/title/tt0104427/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_51",
+        "individualURL": "gr1259819525",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 24276506.0,
+                    "countryOpeningAmount": 6406012.0,
+                    "countryReleaseDate": "12/25/1992"
+                }
+            ]
+        },
+        "movieName": "Hoffa"
+    },
+    "gr1274761733": {
+        "castURL": "https://pro.imdb.com/title/tt0103243/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_162",
+        "individualURL": "gr1274761733",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1403033.0,
+                    "countryOpeningAmount": 42404.0,
+                    "countryReleaseDate": "02/28/1992"
+                }
+            ]
+        },
+        "movieName": "Where Angels Fear to Tread"
+    },
+    "gr1311592965": {
+        "castURL": "https://pro.imdb.com/title/tt0101773/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_229",
+        "individualURL": "gr1311592965",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 15084.0,
+                    "countryOpeningAmount": 4715.0,
+                    "countryReleaseDate": "08/07/1992"
+                }
+            ]
+        },
+        "movieName": "Drive"
+    },
+    "gr1312969221": {
+        "castURL": "https://pro.imdb.com/title/tt0105211/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_121",
+        "individualURL": "gr1312969221",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4651977.0,
+                    "countryOpeningAmount": 1932595.0,
+                    "countryReleaseDate": "02/21/1992"
+                }
+            ]
+        },
+        "movieName": "Radio Flyer"
+    },
+    "gr1316049413": {
+        "castURL": "https://pro.imdb.com/title/tt0105450/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_163",
+        "individualURL": "gr1316049413",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1373196.0,
+                    "countryOpeningAmount": 147629.0,
+                    "countryReleaseDate": "09/18/1992"
+                }
+            ]
+        },
+        "movieName": "South Central"
+    },
+    "gr1346195973": {
+        "castURL": "https://pro.imdb.com/title/tt0101625/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_100",
+        "individualURL": "gr1346195973",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 8669847.0,
+                    "countryOpeningAmount": 3249740.0,
+                    "countryReleaseDate": "03/06/1992"
+                }
+            ]
+        },
+        "movieName": "Once Upon a Crime..."
+    },
+    "gr1395085829": {
+        "castURL": "https://pro.imdb.com/title/tt0102721/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_189",
+        "individualURL": "gr1395085829",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 524668.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/20/1992"
+                }
+            ]
+        },
+        "movieName": "Proof"
+    },
+    "gr1409241605": {
+        "castURL": "https://pro.imdb.com/title/tt0104504/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_188",
+        "individualURL": "gr1409241605",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 536848.0,
+                    "countryOpeningAmount": 19070.0,
+                    "countryReleaseDate": "05/08/1992"
+                }
+            ]
+        },
+        "movieName": "Incident at Oglala"
+    },
+    "gr14111237": {
+        "castURL": "https://pro.imdb.com/title/tt0102966/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_167",
+        "individualURL": "gr14111237",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1268529.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/16/1992"
+                }
+            ]
+        },
+        "movieName": "Spike & Mike's Festival of Animation Volume 1"
+    },
+    "gr1424183813": {
+        "castURL": "https://pro.imdb.com/title/tt0102050/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_190",
+        "individualURL": "gr1424183813",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 516517.0,
+                    "countryOpeningAmount": 19807.0,
+                    "countryReleaseDate": "01/31/1992"
+                }
+            ]
+        },
+        "movieName": "Voyager"
+    },
+    "gr1429557765": {
+        "castURL": "https://pro.imdb.com/title/tt0108525/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_34",
+        "individualURL": "gr1429557765",
+        "markets": {
+            "asia_pacific": [
+                {
+                    "country": "New Zealand",
+                    "countryGrossAmount": 759.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/07/1992"
+                }
+            ],
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 48197805.0,
+                    "countryOpeningAmount": 13516699.0,
+                    "countryReleaseDate": "12/10/1993"
+                }
+            ]
+        },
+        "movieName": "Wayne's World 2"
+    },
+    "gr1439453701": {
+        "castURL": "https://pro.imdb.com/title/tt0096978/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_218",
+        "individualURL": "gr1439453701",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 67878.0,
+                    "countryOpeningAmount": 30035.0,
+                    "countryReleaseDate": "04/17/1992"
+                }
+            ]
+        },
+        "movieName": "Brenda Starr"
+    },
+    "gr1458917893": {
+        "castURL": "https://pro.imdb.com/title/tt0105017/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_146",
+        "individualURL": "gr1458917893",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2280148.0,
+                    "countryOpeningAmount": 981452.0,
+                    "countryReleaseDate": "03/20/1992"
+                }
+            ]
+        },
+        "movieName": "Noises Off..."
+    },
+    "gr1466847749": {
+        "castURL": "https://pro.imdb.com/title/tt0104107/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_119",
+        "individualURL": "gr1466847749",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4836637.0,
+                    "countryOpeningAmount": 1504099.0,
+                    "countryReleaseDate": "08/14/1992"
+                }
+            ]
+        },
+        "movieName": "Diggstown"
+    },
+    "gr149639685": {
+        "castURL": "https://pro.imdb.com/title/tt0126079/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_174",
+        "individualURL": "gr149639685",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1076685.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/01/1992"
+                }
+            ]
+        },
+        "movieName": "Steeper & Deeper"
+    },
+    "gr1508135429": {
+        "castURL": "https://pro.imdb.com/title/tt0103982/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_216",
+        "individualURL": "gr1508135429",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 99219.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/29/1992"
+                }
+            ]
+        },
+        "movieName": "Cold Heaven"
+    },
+    "gr1516130821": {
+        "castURL": "https://pro.imdb.com/title/tt0091149/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_84",
+        "individualURL": "gr1516130821",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 13288756.0,
+                    "countryOpeningAmount": 4126855.0,
+                    "countryReleaseDate": "02/14/1992"
+                }
+            ]
+        },
+        "movieName": "The Great Mouse Detective 1992 Re-release"
+    },
+    "gr1533694469": {
+        "castURL": "https://pro.imdb.com/title/tt0104694/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_19",
+        "individualURL": "gr1533694469",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 107533928.0,
+                    "countryOpeningAmount": 13739456.0,
+                    "countryReleaseDate": "07/01/1992"
+                }
+            ]
+        },
+        "movieName": "A League of Their Own"
+    },
+    "gr1550144005": {
+        "castURL": "https://pro.imdb.com/title/tt0103827/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_132",
+        "individualURL": "gr1550144005",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3104545.0,
+                    "countryOpeningAmount": 1326472.0,
+                    "countryReleaseDate": "03/06/1992"
+                }
+            ]
+        },
+        "movieName": "Blame It on the Bellboy"
+    },
+    "gr1551389189": {
+        "castURL": "https://pro.imdb.com/title/tt0104036/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_29",
+        "individualURL": "gr1551389189",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 62548947.0,
+                    "countryOpeningAmount": 101107.0,
+                    "countryReleaseDate": "11/27/1992"
+                }
+            ]
+        },
+        "movieName": "The Crying Game"
+    },
+    "gr1568231941": {
+        "castURL": "https://pro.imdb.com/title/tt0104346/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_98",
+        "individualURL": "gr1568231941",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 9223441.0,
+                    "countryOpeningAmount": 3305189.0,
+                    "countryReleaseDate": "03/06/1992"
+                }
+            ]
+        },
+        "movieName": "Gladiator"
+    },
+    "gr1574195717": {
+        "castURL": "https://pro.imdb.com/title/tt0101529/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_181",
+        "individualURL": "gr1574195717",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 789127.0,
+                    "countryOpeningAmount": 5960.0,
+                    "countryReleaseDate": "05/15/1992"
+                }
+            ]
+        },
+        "movieName": "Cabeza de Vaca"
+    },
+    "gr1576489477": {
+        "castURL": "https://pro.imdb.com/title/tt0105813/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_99",
+        "individualURL": "gr1576489477",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 9011574.0,
+                    "countryOpeningAmount": 3151629.0,
+                    "countryReleaseDate": "04/24/1992"
+                }
+            ]
+        },
+        "movieName": "White Sands"
+    },
+    "gr157897221": {
+        "castURL": "https://pro.imdb.com/title/tt0104040/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_56",
+        "individualURL": "gr157897221",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 25105517.0,
+                    "countryOpeningAmount": 4478919.0,
+                    "countryReleaseDate": "03/27/1992"
+                }
+            ]
+        },
+        "movieName": "The Cutting Edge"
+    },
+    "gr1609650693": {
+        "castURL": "https://pro.imdb.com/title/tt0105483/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_90",
+        "individualURL": "gr1609650693",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 12282994.0,
+                    "countryOpeningAmount": 2886082.0,
+                    "countryReleaseDate": "07/17/1992"
+                }
+            ]
+        },
+        "movieName": "A Stranger Among Us"
+    },
+    "gr1610699269": {
+        "castURL": "https://pro.imdb.com/title/tt0102456/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_105",
+        "individualURL": "gr1610699269",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7308786.0,
+                    "countryOpeningAmount": 45831.0,
+                    "countryReleaseDate": "02/05/1992"
+                }
+            ]
+        },
+        "movieName": "Mississippi Masala"
+    },
+    "gr1644319237": {
+        "castURL": "https://pro.imdb.com/title/tt0103594/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_107",
+        "individualURL": "gr1644319237",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7191399.0,
+                    "countryOpeningAmount": 3002680.0,
+                    "countryReleaseDate": "10/09/1992"
+                }
+            ]
+        },
+        "movieName": "1492: Conquest of Paradise"
+    },
+    "gr1681019397": {
+        "castURL": "https://pro.imdb.com/title/tt0102343/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_183",
+        "individualURL": "gr1681019397",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 754935.0,
+                    "countryOpeningAmount": 416641.0,
+                    "countryReleaseDate": "11/13/1992"
+                }
+            ]
+        },
+        "movieName": "Love Potion No. 9"
+    },
+    "gr1690456581": {
+        "castURL": "https://pro.imdb.com/title/tt0104389/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_25",
+        "individualURL": "gr1690456581",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 88036683.0,
+                    "countryOpeningAmount": 7675016.0,
+                    "countryReleaseDate": "01/10/1992"
+                }
+            ]
+        },
+        "movieName": "The Hand That Rocks the Cradle"
+    },
+    "gr1691243013": {
+        "castURL": "https://pro.imdb.com/title/tt0102802/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_91",
+        "individualURL": "gr1691243013",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 11657385.0,
+                    "countryOpeningAmount": 2603286.0,
+                    "countryReleaseDate": "04/03/1992"
+                }
+            ]
+        },
+        "movieName": "Rock-A-Doodle"
+    },
+    "gr1698648581": {
+        "castURL": "https://pro.imdb.com/title/tt0103759/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_150",
+        "individualURL": "gr1698648581",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2000022.0,
+                    "countryOpeningAmount": 47454.0,
+                    "countryReleaseDate": "11/20/1992"
+                }
+            ]
+        },
+        "movieName": "Bad Lieutenant"
+    },
+    "gr1715950085": {
+        "castURL": "https://pro.imdb.com/title/tt0103776/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_6",
+        "individualURL": "gr1715950085",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 162831698.0,
+                    "countryOpeningAmount": 45687711.0,
+                    "countryReleaseDate": "06/19/1992"
+                }
+            ],
+            "emea": [
+                {
+                    "country": "Germany",
+                    "countryGrossAmount": 5939559.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/16/1992"
+                },
+                {
+                    "country": "United Kingdom",
+                    "countryGrossAmount": 21091810.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/10/1992"
+                }
+            ]
+        },
+        "movieName": "Batman Returns"
+    },
+    "gr1749307909": {
+        "castURL": "https://pro.imdb.com/title/tt0105217/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_44",
+        "individualURL": "gr1749307909",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 21370057.0,
+                    "countryOpeningAmount": 6203835.0,
+                    "countryReleaseDate": "08/07/1992"
+                }
+            ]
+        },
+        "movieName": "Raising Cain"
+    },
+    "gr1761759749": {
+        "castURL": "https://pro.imdb.com/title/tt0104057/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_157",
+        "individualURL": "gr1761759749",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1642436.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/03/1992"
+                }
+            ]
+        },
+        "movieName": "Daughters of the Dust"
+    },
+    "gr1791054341": {
+        "castURL": "https://pro.imdb.com/title/tt0105428/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_50",
+        "individualURL": "gr1791054341",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 30524763.0,
+                    "countryOpeningAmount": 10017354.0,
+                    "countryReleaseDate": "04/10/1992"
+                }
+            ]
+        },
+        "movieName": "Sleepwalkers"
+    },
+    "gr1794068997": {
+        "castURL": "https://pro.imdb.com/title/tt0104265/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_53",
+        "individualURL": "gr1794068997",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 28590665.0,
+                    "countryOpeningAmount": 6411441.0,
+                    "countryReleaseDate": "02/07/1992"
+                }
+            ]
+        },
+        "movieName": "Final Analysis"
+    },
+    "gr1798590981": {
+        "castURL": "https://pro.imdb.com/title/tt0104740/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_164",
+        "individualURL": "gr1798590981",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1368000.0,
+                    "countryOpeningAmount": 407695.0,
+                    "countryReleaseDate": "08/21/1992"
+                }
+            ]
+        },
+        "movieName": "Little Nemo: Adventures in Slumberland"
+    },
+    "gr1817203205": {
+        "castURL": "https://pro.imdb.com/title/tt0104254/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_47",
+        "individualURL": "gr1817203205",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 24650296.0,
+                    "countryOpeningAmount": 3549338.0,
+                    "countryReleaseDate": "04/10/1992"
+                }
+            ]
+        },
+        "movieName": "FernGully: The Last Rainforest"
+    },
+    "gr1818448389": {
+        "castURL": "https://pro.imdb.com/title/tt0105435/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_22",
+        "individualURL": "gr1818448389",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 51432691.0,
+                    "countryOpeningAmount": 10031145.0,
+                    "countryReleaseDate": "09/11/1992"
+                }
+            ]
+        },
+        "movieName": "Sneakers"
+    },
+    "gr1831227909": {
+        "castURL": "https://pro.imdb.com/title/tt0104897/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_43",
+        "individualURL": "gr1831227909",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 40227006.0,
+                    "countryOpeningAmount": 12385415.0,
+                    "countryReleaseDate": "07/24/1992"
+                }
+            ]
+        },
+        "movieName": "Mo' Money"
+    },
+    "gr1841582597": {
+        "castURL": "https://pro.imdb.com/title/tt0104892/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_172",
+        "individualURL": "gr1841582597",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1102469.0,
+                    "countryOpeningAmount": 34146.0,
+                    "countryReleaseDate": "08/07/1992"
+                }
+            ]
+        },
+        "movieName": "Mistress"
+    },
+    "gr1843548677": {
+        "castURL": "https://pro.imdb.com/title/tt0101658/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_192",
+        "individualURL": "gr1843548677",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 450501.0,
+                    "countryOpeningAmount": 9096.0,
+                    "countryReleaseDate": "09/25/1992"
+                }
+            ]
+        },
+        "movieName": "Danz\u00f3n"
+    },
+    "gr1850298885": {
+        "castURL": "https://pro.imdb.com/title/tt0104905/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_148",
+        "individualURL": "gr1850298885",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2034470.0,
+                    "countryOpeningAmount": 984627.0,
+                    "countryReleaseDate": "07/24/1992"
+                }
+            ]
+        },
+        "movieName": "Mom and Dad Save the World"
+    },
+    "gr1852002821": {
+        "castURL": "https://pro.imdb.com/title/tt0095958/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_180",
+        "individualURL": "gr1852002821",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 796368.0,
+                    "countryOpeningAmount": 322500.0,
+                    "countryReleaseDate": "10/30/1992"
+                }
+            ]
+        },
+        "movieName": "Rampage"
+    },
+    "gr1865241093": {
+        "castURL": "https://pro.imdb.com/title/tt0105466/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_94",
+        "individualURL": "gr1865241093",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 10736401.0,
+                    "countryOpeningAmount": 3532540.0,
+                    "countryReleaseDate": "08/14/1992"
+                }
+            ]
+        },
+        "movieName": "Stay Tuned"
+    },
+    "gr1867862533": {
+        "castURL": "https://pro.imdb.com/title/tt0102817/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_228",
+        "individualURL": "gr1867862533",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 15675.0,
+                    "countryOpeningAmount": 4131.0,
+                    "countryReleaseDate": "05/15/1992"
+                }
+            ]
+        },
+        "movieName": "Rubin and Ed"
+    },
+    "gr1881821701": {
+        "castURL": "https://pro.imdb.com/title/tt0103190/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_207",
+        "individualURL": "gr1881821701",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 193205.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/30/1992"
+                }
+            ]
+        },
+        "movieName": "Van Gogh"
+    },
+    "gr1883853317": {
+        "castURL": "https://pro.imdb.com/title/tt0103859/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_20",
+        "individualURL": "gr1883853317",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 70052444.0,
+                    "countryOpeningAmount": 13640706.0,
+                    "countryReleaseDate": "07/01/1992"
+                }
+            ]
+        },
+        "movieName": "Boomerang"
+    },
+    "gr189747717": {
+        "castURL": "https://pro.imdb.com/title/tt0104298/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_171",
+        "individualURL": "gr189747717",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1119368.0,
+                    "countryOpeningAmount": 501230.0,
+                    "countryReleaseDate": "08/28/1992"
+                }
+            ]
+        },
+        "movieName": "Freddie as F.R.O.7."
+    },
+    "gr1902072325": {
+        "castURL": "https://pro.imdb.com/title/tt0103976/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_79",
+        "individualURL": "gr1902072325",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14683921.0,
+                    "countryOpeningAmount": 3405890.0,
+                    "countryReleaseDate": "04/17/1992"
+                }
+            ]
+        },
+        "movieName": "City of Joy"
+    },
+    "gr190665221": {
+        "castURL": "https://pro.imdb.com/title/tt0104868/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_33",
+        "individualURL": "gr190665221",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 50752337.0,
+                    "countryOpeningAmount": 6035133.0,
+                    "countryReleaseDate": "10/02/1992"
+                }
+            ]
+        },
+        "movieName": "The Mighty Ducks"
+    },
+    "gr1915769349": {
+        "castURL": "https://pro.imdb.com/title/tt0105871/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_140",
+        "individualURL": "gr1915769349",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2791515.0,
+                    "countryOpeningAmount": 1350939.0,
+                    "countryReleaseDate": "04/24/1992"
+                }
+            ]
+        },
+        "movieName": "Year of the Comet"
+    },
+    "gr1923699205": {
+        "castURL": "https://pro.imdb.com/title/tt0100930/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_234",
+        "individualURL": "gr1923699205",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2343.0,
+                    "countryOpeningAmount": 2343.0,
+                    "countryReleaseDate": "05/01/1992"
+                }
+            ]
+        },
+        "movieName": "Who Shot Pat?"
+    },
+    "gr1950241285": {
+        "castURL": "https://pro.imdb.com/title/tt0104691/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_26",
+        "individualURL": "gr1950241285",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 75505856.0,
+                    "countryOpeningAmount": 10976661.0,
+                    "countryReleaseDate": "09/25/1992"
+                }
+            ]
+        },
+        "movieName": "The Last of the Mohicans"
+    },
+    "gr2012107269": {
+        "castURL": "https://pro.imdb.com/title/tt0105265/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_41",
+        "individualURL": "gr2012107269",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 43440294.0,
+                    "countryOpeningAmount": 298277.0,
+                    "countryReleaseDate": "10/09/1992"
+                }
+            ]
+        },
+        "movieName": "A River Runs Through It"
+    },
+    "gr2027704837": {
+        "castURL": "https://pro.imdb.com/title/tt0103874/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_9",
+        "individualURL": "gr2027704837",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 82522790.0,
+                    "countryOpeningAmount": 30521679.0,
+                    "countryReleaseDate": "11/13/1992"
+                }
+            ]
+        },
+        "movieName": "Dracula"
+    },
+    "gr204231173": {
+        "castURL": "https://pro.imdb.com/title/tt0099636/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_149",
+        "individualURL": "gr204231173",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2032973.0,
+                    "countryOpeningAmount": 1053175.0,
+                    "countryReleaseDate": "02/28/1992"
+                }
+            ]
+        },
+        "movieName": "Gate 2: The Trespassers"
+    },
+    "gr2042843653": {
+        "castURL": "https://pro.imdb.com/title/tt0104692/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_48",
+        "individualURL": "gr2042843653",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 32100816.0,
+                    "countryOpeningAmount": 7751971.0,
+                    "countryReleaseDate": "03/06/1992"
+                }
+            ]
+        },
+        "movieName": "The Lawnmower Man"
+    },
+    "gr204755461": {
+        "castURL": "https://pro.imdb.com/title/tt0102443/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_160",
+        "individualURL": "gr204755461",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1526697.0,
+                    "countryOpeningAmount": 46938.0,
+                    "countryReleaseDate": "04/24/1992"
+                }
+            ]
+        },
+        "movieName": "A Midnight Clear"
+    },
+    "gr2070106629": {
+        "castURL": "https://pro.imdb.com/title/tt0102566/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_232",
+        "individualURL": "gr2070106629",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6397.0,
+                    "countryOpeningAmount": 4754.0,
+                    "countryReleaseDate": "12/11/1992"
+                }
+            ]
+        },
+        "movieName": "Nuit et jour"
+    },
+    "gr2070434309": {
+        "castURL": "https://pro.imdb.com/title/tt0104231/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_17",
+        "individualURL": "gr2070434309",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 58883840.0,
+                    "countryOpeningAmount": 10194520.0,
+                    "countryReleaseDate": "05/22/1992"
+                }
+            ]
+        },
+        "movieName": "Far and Away"
+    },
+    "gr2103792133": {
+        "castURL": "https://pro.imdb.com/title/tt0105885/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_158",
+        "individualURL": "gr2103792133",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1557771.0,
+                    "countryOpeningAmount": 609041.0,
+                    "countryReleaseDate": "10/23/1992"
+                }
+            ]
+        },
+        "movieName": "Zebrahead"
+    },
+    "gr2110673413": {
+        "castURL": "https://pro.imdb.com/title/tt0105417/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_8",
+        "individualURL": "gr2110673413",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 139605150.0,
+                    "countryOpeningAmount": 11894587.0,
+                    "countryReleaseDate": "05/29/1992"
+                }
+            ]
+        },
+        "movieName": "Sister Act"
+    },
+    "gr2127974917": {
+        "castURL": "https://pro.imdb.com/title/tt0103055/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_226",
+        "individualURL": "gr2127974917",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 16497.0,
+                    "countryOpeningAmount": 10064.0,
+                    "countryReleaseDate": "09/11/1992"
+                }
+            ]
+        },
+        "movieName": "A Fine Romance"
+    },
+    "gr2130792965": {
+        "castURL": "https://pro.imdb.com/title/tt0104647/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_65",
+        "individualURL": "gr2130792965",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 21142815.0,
+                    "countryOpeningAmount": 5651055.0,
+                    "countryReleaseDate": "01/10/1992"
+                }
+            ]
+        },
+        "movieName": "Kuffs"
+    },
+    "gr2132562437": {
+        "castURL": "https://pro.imdb.com/title/tt0105187/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_134",
+        "individualURL": "gr2132562437",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3067917.0,
+                    "countryOpeningAmount": 1139825.0,
+                    "countryReleaseDate": "10/16/1992"
+                }
+            ]
+        },
+        "movieName": "The Public Eye"
+    },
+    "gr2134135301": {
+        "castURL": "https://pro.imdb.com/title/tt0104507/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_112",
+        "individualURL": "gr2134135301",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5603158.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/23/1992"
+                }
+            ]
+        },
+        "movieName": "Indochine"
+    },
+    "gr2155762181": {
+        "castURL": "https://pro.imdb.com/title/tt0105789/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_154",
+        "individualURL": "gr2155762181",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1723319.0,
+                    "countryOpeningAmount": 138313.0,
+                    "countryReleaseDate": "05/15/1992"
+                }
+            ]
+        },
+        "movieName": "The Waterdance"
+    },
+    "gr2183942661": {
+        "castURL": "https://pro.imdb.com/title/tt0105819/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_187",
+        "individualURL": "gr2183942661",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 573904.0,
+                    "countryOpeningAmount": 323288.0,
+                    "countryReleaseDate": "05/08/1992"
+                }
+            ]
+        },
+        "movieName": "Wild Orchid II: Two Shades of Blue"
+    },
+    "gr2184532485": {
+        "castURL": "https://pro.imdb.com/title/tt0101798/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_184",
+        "individualURL": "gr2184532485",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 694438.0,
+                    "countryOpeningAmount": 28318.0,
+                    "countryReleaseDate": "03/20/1992"
+                }
+            ]
+        },
+        "movieName": "Edward II"
+    },
+    "gr219894277": {
+        "castURL": "https://pro.imdb.com/title/tt0103772/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_4",
+        "individualURL": "gr219894277",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 117727224.0,
+                    "countryOpeningAmount": 15129385.0,
+                    "countryReleaseDate": "03/20/1992"
+                }
+            ]
+        },
+        "movieName": "Basic Instinct"
+    },
+    "gr2233553413": {
+        "castURL": "https://pro.imdb.com/title/tt0103919/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_55",
+        "individualURL": "gr2233553413",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 25792310.0,
+                    "countryOpeningAmount": 5404320.0,
+                    "countryReleaseDate": "10/16/1992"
+                }
+            ]
+        },
+        "movieName": "Candyman"
+    },
+    "gr2249871877": {
+        "castURL": "https://pro.imdb.com/title/tt0104928/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_83",
+        "individualURL": "gr2249871877",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 13351357.0,
+                    "countryOpeningAmount": 4514027.0,
+                    "countryReleaseDate": "09/25/1992"
+                }
+            ]
+        },
+        "movieName": "Mr. Saturday Night"
+    },
+    "gr2255770117": {
+        "castURL": "https://pro.imdb.com/title/tt0104350/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_168",
+        "individualURL": "gr2255770117",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1253106.0,
+                    "countryOpeningAmount": 15186.0,
+                    "countryReleaseDate": "07/10/1992"
+                }
+            ]
+        },
+        "movieName": "The Best Intentions"
+    },
+    "gr2380747269": {
+        "castURL": "https://pro.imdb.com/title/tt0104695/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_57",
+        "individualURL": "gr2380747269",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 23369283.0,
+                    "countryOpeningAmount": 3222768.0,
+                    "countryReleaseDate": "12/18/1992"
+                }
+            ]
+        },
+        "movieName": "Leap of Faith"
+    },
+    "gr2399621637": {
+        "castURL": "https://pro.imdb.com/title/tt0104291/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_21",
+        "individualURL": "gr2399621637",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 55956187.0,
+                    "countryOpeningAmount": 5609875.0,
+                    "countryReleaseDate": "12/18/1992"
+                }
+            ]
+        },
+        "movieName": "Forever Young"
+    },
+    "gr2415219205": {
+        "castURL": "https://pro.imdb.com/title/tt0104321/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_165",
+        "individualURL": "gr2415219205",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1342613.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/10/1992"
+                }
+            ]
+        },
+        "movieName": "Gas Food Lodging"
+    },
+    "gr2448380421": {
+        "castURL": "https://pro.imdb.com/title/tt0105459/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_115",
+        "individualURL": "gr2448380421",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5430822.0,
+                    "countryOpeningAmount": 2250000.0,
+                    "countryReleaseDate": "05/01/1992"
+                }
+            ]
+        },
+        "movieName": "Split Second"
+    },
+    "gr2469483013": {
+        "castURL": "https://pro.imdb.com/title/tt0105631/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_130",
+        "individualURL": "gr2469483013",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3206714.0,
+                    "countryOpeningAmount": 804336.0,
+                    "countryReleaseDate": "11/13/1992"
+                }
+            ]
+        },
+        "movieName": "Traces of Red"
+    },
+    "gr2480493061": {
+        "castURL": "https://pro.imdb.com/title/tt0104567/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_217",
+        "individualURL": "gr2480493061",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 90091.0,
+                    "countryOpeningAmount": 8535.0,
+                    "countryReleaseDate": "08/14/1992"
+                }
+            ]
+        },
+        "movieName": "Johnny Suede"
+    },
+    "gr2485539333": {
+        "castURL": "https://pro.imdb.com/title/tt0105699/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_31",
+        "individualURL": "gr2485539333",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 57138719.0,
+                    "countryOpeningAmount": 10067609.0,
+                    "countryReleaseDate": "06/26/1992"
+                }
+            ]
+        },
+        "movieName": "Unlawful Entry"
+    },
+    "gr2519093765": {
+        "castURL": "https://pro.imdb.com/title/tt0105156/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_152",
+        "individualURL": "gr2519093765",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1829804.0,
+                    "countryOpeningAmount": 119840.0,
+                    "countryReleaseDate": "05/08/1992"
+                }
+            ]
+        },
+        "movieName": "Poison Ivy"
+    },
+    "gr2537378309": {
+        "castURL": "https://pro.imdb.com/title/tt0103747/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_68",
+        "individualURL": "gr2537378309",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 17530973.0,
+                    "countryOpeningAmount": 5011205.0,
+                    "countryReleaseDate": "04/17/1992"
+                }
+            ]
+        },
+        "movieName": "The Babe"
+    },
+    "gr2552386053": {
+        "castURL": "https://pro.imdb.com/title/tt0104006/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_63",
+        "individualURL": "gr2552386053",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 21591728.0,
+                    "countryOpeningAmount": 5023467.0,
+                    "countryReleaseDate": "10/16/1992"
+                }
+            ]
+        },
+        "movieName": "Consenting Adults"
+    },
+    "gr2569622021": {
+        "castURL": "https://pro.imdb.com/title/tt0104009/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_82",
+        "individualURL": "gr2569622021",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14110589.0,
+                    "countryOpeningAmount": 5556451.0,
+                    "countryReleaseDate": "07/10/1992"
+                }
+            ]
+        },
+        "movieName": "Cool World"
+    },
+    "gr2589807109": {
+        "castURL": "https://pro.imdb.com/title/tt0104376/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_129",
+        "individualURL": "gr2589807109",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3721911.0,
+                    "countryOpeningAmount": 1206799.0,
+                    "countryReleaseDate": "08/21/1992"
+                }
+            ]
+        },
+        "movieName": "The Gun in Betty Lou's Handbag"
+    },
+    "gr2604618245": {
+        "castURL": "https://pro.imdb.com/title/tt0105103/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_128",
+        "individualURL": "gr2604618245",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4030793.0,
+                    "countryOpeningAmount": 1506887.0,
+                    "countryReleaseDate": "04/24/1992"
+                }
+            ]
+        },
+        "movieName": "Passed Away"
+    },
+    "gr264524293": {
+        "castURL": "https://pro.imdb.com/title/tt0105698/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_45",
+        "individualURL": "gr264524293",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 36299898.0,
+                    "countryOpeningAmount": 10057084.0,
+                    "countryReleaseDate": "07/10/1992"
+                }
+            ]
+        },
+        "movieName": "Universal Soldier"
+    },
+    "gr2704626181": {
+        "castURL": "https://pro.imdb.com/title/tt0105477/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_27",
+        "individualURL": "gr2704626181",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 28411210.0,
+                    "countryOpeningAmount": 7058590.0,
+                    "countryReleaseDate": "02/21/1992"
+                }
+            ]
+        },
+        "movieName": "Stop! Or My Mom Will Shoot"
+    },
+    "gr2735362565": {
+        "castURL": "https://pro.imdb.com/title/tt0104412/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_69",
+        "individualURL": "gr2735362565",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 19507345.0,
+                    "countryOpeningAmount": 5210875.0,
+                    "countryReleaseDate": "10/02/1992"
+                }
+            ]
+        },
+        "movieName": "Hero"
+    },
+    "gr2750173701": {
+        "castURL": "https://pro.imdb.com/title/tt0105191/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_76",
+        "individualURL": "gr2750173701",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 15164458.0,
+                    "countryOpeningAmount": 2739680.0,
+                    "countryReleaseDate": "10/23/1992"
+                }
+            ]
+        },
+        "movieName": "Pure Country"
+    },
+    "gr2751025669": {
+        "castURL": "https://pro.imdb.com/title/tt0105236/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_137",
+        "individualURL": "gr2751025669",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2832029.0,
+                    "countryOpeningAmount": 147839.0,
+                    "countryReleaseDate": "10/23/1992"
+                }
+            ]
+        },
+        "movieName": "Reservoir Dogs"
+    },
+    "gr2753581573": {
+        "castURL": "https://pro.imdb.com/title/tt0101898/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_144",
+        "individualURL": "gr2753581573",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2415396.0,
+                    "countryOpeningAmount": 10125.0,
+                    "countryReleaseDate": "11/06/1992"
+                }
+            ]
+        },
+        "movieName": "Flirting"
+    },
+    "gr2754957829": {
+        "castURL": "https://pro.imdb.com/title/tt0103141/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_182",
+        "individualURL": "gr2754957829",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 778535.0,
+                    "countryOpeningAmount": 350951.0,
+                    "countryReleaseDate": "05/01/1992"
+                }
+            ]
+        },
+        "movieName": "Turtle Beach"
+    },
+    "gr2758889989": {
+        "castURL": "https://pro.imdb.com/title/tt0103893/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_75",
+        "individualURL": "gr2758889989",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 16624456.0,
+                    "countryOpeningAmount": 4515541.0,
+                    "countryReleaseDate": "07/31/1992"
+                }
+            ]
+        },
+        "movieName": "Buffy the Vampire Slayer"
+    },
+    "gr2774487557": {
+        "castURL": "https://pro.imdb.com/title/tt0104070/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_15",
+        "individualURL": "gr2774487557",
+        "markets": {
+            "asia_pacific": [
+                {
+                    "country": "New Zealand",
+                    "countryGrossAmount": "-",
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                }
+            ],
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 58422650.0,
+                    "countryOpeningAmount": 12110355.0,
+                    "countryReleaseDate": "07/31/1992"
+                }
+            ]
+        },
+        "movieName": "Death Becomes Her"
+    },
+    "gr2800701957": {
+        "castURL": "https://pro.imdb.com/title/tt0105706/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_71",
+        "individualURL": "gr2800701957",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 17957265.0,
+                    "countryOpeningAmount": 51955.0,
+                    "countryReleaseDate": "12/18/1992"
+                }
+            ]
+        },
+        "movieName": "Used People"
+    },
+    "gr2812891653": {
+        "castURL": "https://pro.imdb.com/title/tt0104670/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_77",
+        "individualURL": "gr2812891653",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14796494.0,
+                    "countryOpeningAmount": 5180414.0,
+                    "countryReleaseDate": "03/27/1992"
+                }
+            ]
+        },
+        "movieName": "Ladybugs"
+    },
+    "gr2816365061": {
+        "castURL": "https://pro.imdb.com/title/tt0105112/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_11",
+        "individualURL": "gr2816365061",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 83351587.0,
+                    "countryOpeningAmount": 18511191.0,
+                    "countryReleaseDate": "06/05/1992"
+                }
+            ]
+        },
+        "movieName": "Patriot Games"
+    },
+    "gr2852016645": {
+        "castURL": "https://pro.imdb.com/title/tt0104714/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_5",
+        "individualURL": "gr2852016645",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 144731527.0,
+                    "countryOpeningAmount": 33243086.0,
+                    "countryReleaseDate": "05/15/1992"
+                }
+            ]
+        },
+        "movieName": "Lethal Weapon 3"
+    },
+    "gr2852147717": {
+        "castURL": "https://pro.imdb.com/title/tt0102898/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_215",
+        "individualURL": "gr2852147717",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 115103.0,
+                    "countryOpeningAmount": 35589.0,
+                    "countryReleaseDate": "03/13/1992"
+                }
+            ]
+        },
+        "movieName": "Shakes the Clown"
+    },
+    "gr2856604165": {
+        "castURL": "https://pro.imdb.com/title/tt0101829/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_176",
+        "individualURL": "gr2856604165",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1007001.0,
+                    "countryOpeningAmount": 21447.0,
+                    "countryReleaseDate": "05/22/1992"
+                }
+            ]
+        },
+        "movieName": "Europa"
+    },
+    "gr2890813957": {
+        "castURL": "https://pro.imdb.com/title/tt0103924/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_61",
+        "individualURL": "gr2890813957",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 22518097.0,
+                    "countryOpeningAmount": 4893112.0,
+                    "countryReleaseDate": "09/18/1992"
+                }
+            ]
+        },
+        "movieName": "Captain Ron"
+    },
+    "gr2916438533": {
+        "castURL": "https://pro.imdb.com/title/tt0105411/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_213",
+        "individualURL": "gr2916438533",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 141554.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/14/1992"
+                }
+            ]
+        },
+        "movieName": "Simple Men"
+    },
+    "gr2921943557": {
+        "castURL": "https://pro.imdb.com/title/tt0102032/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_235",
+        "individualURL": "gr2921943557",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 904.0,
+                    "countryOpeningAmount": 718.0,
+                    "countryReleaseDate": "12/04/1992"
+                }
+            ]
+        },
+        "movieName": "High Strung"
+    },
+    "gr2938130949": {
+        "castURL": "https://pro.imdb.com/title/tt0105691/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_205",
+        "individualURL": "gr2938130949",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 221295.0,
+                    "countryOpeningAmount": 47349.0,
+                    "countryReleaseDate": "02/28/1992"
+                }
+            ]
+        },
+        "movieName": "Under Suspicion"
+    },
+    "gr2960740869": {
+        "castURL": "https://pro.imdb.com/title/tt0104952/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_28",
+        "individualURL": "gr2960740869",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 52929168.0,
+                    "countryOpeningAmount": 7416751.0,
+                    "countryReleaseDate": "03/13/1992"
+                }
+            ]
+        },
+        "movieName": "My Cousin Vinny"
+    },
+    "gr3016839685": {
+        "castURL": "https://pro.imdb.com/title/tt0104850/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_80",
+        "individualURL": "gr3016839685",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14358033.0,
+                    "countryOpeningAmount": 4601954.0,
+                    "countryReleaseDate": "02/28/1992"
+                }
+            ]
+        },
+        "movieName": "Memoirs of an Invisible Man"
+    },
+    "gr3066319365": {
+        "castURL": "https://pro.imdb.com/title/tt0104990/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_139",
+        "individualURL": "gr3066319365",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2819485.0,
+                    "countryOpeningAmount": 1232508.0,
+                    "countryReleaseDate": "04/10/1992"
+                }
+            ]
+        },
+        "movieName": "Newsies"
+    },
+    "gr3083883013": {
+        "castURL": "https://pro.imdb.com/title/tt0105291/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_178",
+        "individualURL": "gr3083883013",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 919286.0,
+                    "countryOpeningAmount": 614327.0,
+                    "countryReleaseDate": "03/27/1992"
+                }
+            ]
+        },
+        "movieName": "Ruby"
+    },
+    "gr3104330245": {
+        "castURL": "https://pro.imdb.com/title/tt0034583/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_155",
+        "individualURL": "gr3104330245",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1719913.0,
+                    "countryOpeningAmount": 181494.0,
+                    "countryReleaseDate": "04/10/1992"
+                }
+            ]
+        },
+        "movieName": "Casablanca 1992 Re-release"
+    },
+    "gr3141227013": {
+        "castURL": "https://pro.imdb.com/title/tt0105323/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_18",
+        "individualURL": "gr3141227013",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 63095253.0,
+                    "countryOpeningAmount": 357468.0,
+                    "countryReleaseDate": "12/23/1992"
+                }
+            ]
+        },
+        "movieName": "Scent of a Woman"
+    },
+    "gr3187560965": {
+        "castURL": "https://pro.imdb.com/title/tt0105690/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_14",
+        "individualURL": "gr3187560965",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 83563139.0,
+                    "countryOpeningAmount": 15760003.0,
+                    "countryReleaseDate": "10/09/1992"
+                }
+            ]
+        },
+        "movieName": "Under Siege"
+    },
+    "gr3188806149": {
+        "castURL": "https://pro.imdb.com/title/tt0101811/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_87",
+        "individualURL": "gr3188806149",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 13200170.0,
+                    "countryOpeningAmount": 73041.0,
+                    "countryReleaseDate": "07/31/1992"
+                }
+            ]
+        },
+        "movieName": "Enchanted April"
+    },
+    "gr3253162501": {
+        "castURL": "https://pro.imdb.com/title/tt0102467/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_197",
+        "individualURL": "gr3253162501",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 311245.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/15/1992"
+                }
+            ]
+        },
+        "movieName": "Monster in a Box"
+    },
+    "gr3270267397": {
+        "castURL": "https://pro.imdb.com/title/tt0101725/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_224",
+        "individualURL": "gr3270267397",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 31815.0,
+                    "countryOpeningAmount": 17388.0,
+                    "countryReleaseDate": "05/01/1992"
+                }
+            ]
+        },
+        "movieName": "Diary of a Hitman"
+    },
+    "gr3274789381": {
+        "castURL": "https://pro.imdb.com/title/tt0105150/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_118",
+        "individualURL": "gr3274789381",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4906900.0,
+                    "countryOpeningAmount": 32525.0,
+                    "countryReleaseDate": "04/24/1992"
+                }
+            ]
+        },
+        "movieName": "The Playboys"
+    },
+    "gr3284881925": {
+        "castURL": "https://pro.imdb.com/title/tt0102592/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_159",
+        "individualURL": "gr3284881925",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1543112.0,
+                    "countryOpeningAmount": 44545.0,
+                    "countryReleaseDate": "05/08/1992"
+                }
+            ]
+        },
+        "movieName": "One False Move"
+    },
+    "gr3286913541": {
+        "castURL": "https://pro.imdb.com/title/tt0105577/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_136",
+        "individualURL": "gr3286913541",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2922094.0,
+                    "countryOpeningAmount": 72440.0,
+                    "countryReleaseDate": "02/21/1992"
+                }
+            ]
+        },
+        "movieName": "This Is My Life"
+    },
+    "gr3292418565": {
+        "castURL": "https://pro.imdb.com/title/tt0102178/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_131",
+        "individualURL": "gr3292418565",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3106559.0,
+                    "countryOpeningAmount": 930655.0,
+                    "countryReleaseDate": "05/01/1992"
+                }
+            ]
+        },
+        "movieName": "K2"
+    },
+    "gr3309457925": {
+        "castURL": "https://pro.imdb.com/title/tt0105695/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_13",
+        "individualURL": "gr3309457925",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 101157447.0,
+                    "countryOpeningAmount": 15018007.0,
+                    "countryReleaseDate": "08/07/1992"
+                }
+            ]
+        },
+        "movieName": "Unforgiven"
+    },
+    "gr331895301": {
+        "castURL": "https://pro.imdb.com/title/tt0105104/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_39",
+        "individualURL": "gr331895301",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 44065653.0,
+                    "countryOpeningAmount": 10513925.0,
+                    "countryReleaseDate": "11/06/1992"
+                }
+            ]
+        },
+        "movieName": "Passenger 57"
+    },
+    "gr3328725509": {
+        "castURL": "https://pro.imdb.com/title/tt0105107/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_120",
+        "individualURL": "gr3328725509",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4814619.0,
+                    "countryOpeningAmount": 14385.0,
+                    "countryReleaseDate": "12/09/1992"
+                }
+            ]
+        },
+        "movieName": "Passion Fish"
+    },
+    "gr3337507333": {
+        "castURL": "https://pro.imdb.com/title/tt0105585/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_60",
+        "individualURL": "gr3337507333",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 22660758.0,
+                    "countryOpeningAmount": 4507425.0,
+                    "countryReleaseDate": "04/03/1992"
+                }
+            ]
+        },
+        "movieName": "Thunderheart"
+    },
+    "gr3352777221": {
+        "castURL": "https://pro.imdb.com/title/tt0105719/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_233",
+        "individualURL": "gr3352777221",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5900.0,
+                    "countryOpeningAmount": 4300.0,
+                    "countryReleaseDate": "05/15/1992"
+                }
+            ]
+        },
+        "movieName": "The Vagrant"
+    },
+    "gr3353432581": {
+        "castURL": "https://pro.imdb.com/title/tt0895770/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_208",
+        "individualURL": "gr3353432581",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 181273.0,
+                    "countryOpeningAmount": 35216.0,
+                    "countryReleaseDate": "04/01/1992"
+                }
+            ]
+        },
+        "movieName": "Dancing/The Song of Wolfgang the Intrepid, the Glorious Destroyer of Dragons/A Smaller World/The Green Beret/Weeds/The Tale of Nippoless Nippleby/Office Space/The Boss/Unsavory Avery/Rrring/Pre-Hysterical Daze"
+    },
+    "gr3373683205": {
+        "castURL": "https://pro.imdb.com/title/tt0104225/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_204",
+        "individualURL": "gr3373683205",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 231826.0,
+                    "countryOpeningAmount": 49708.0,
+                    "countryReleaseDate": "02/21/1992"
+                }
+            ]
+        },
+        "movieName": "Falling from Grace"
+    },
+    "gr3379778053": {
+        "castURL": "https://pro.imdb.com/title/tt0105665/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_125",
+        "individualURL": "gr3379778053",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4160851.0,
+                    "countryOpeningAmount": 1813559.0,
+                    "countryReleaseDate": "08/28/1992"
+                }
+            ]
+        },
+        "movieName": "Twin Peaks: Fire Walk with Me"
+    },
+    "gr338317829": {
+        "castURL": "https://pro.imdb.com/title/tt0101444/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_201",
+        "individualURL": "gr338317829",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 271327.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/08/1992"
+                }
+            ]
+        },
+        "movieName": "Big Girls Don't Cry... They Get Even"
+    },
+    "gr3385676293": {
+        "castURL": "https://pro.imdb.com/title/tt0105812/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_24",
+        "individualURL": "gr3385676293",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 76253806.0,
+                    "countryOpeningAmount": 14711124.0,
+                    "countryReleaseDate": "03/27/1992"
+                }
+            ]
+        },
+        "movieName": "White Men Can't Jump"
+    },
+    "gr3387511301": {
+        "castURL": "https://pro.imdb.com/title/tt0104745/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_185",
+        "individualURL": "gr3387511301",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 692585.0,
+                    "countryOpeningAmount": 43715.0,
+                    "countryReleaseDate": "08/14/1992"
+                }
+            ]
+        },
+        "movieName": "The Living End"
+    },
+    "gr3412611589": {
+        "castURL": "https://pro.imdb.com/title/tt0105629/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_58",
+        "individualURL": "gr3412611589",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 23278931.0,
+                    "countryOpeningAmount": 4810027.0,
+                    "countryReleaseDate": "12/18/1992"
+                }
+            ]
+        },
+        "movieName": "Toys"
+    },
+    "gr3430830597": {
+        "castURL": "https://pro.imdb.com/title/tt0104466/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_96",
+        "individualURL": "gr3430830597",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 10555619.0,
+                    "countryOpeningAmount": 3520550.0,
+                    "countryReleaseDate": "09/18/1992"
+                }
+            ]
+        },
+        "movieName": "Husbands and Wives"
+    },
+    "gr3435549189": {
+        "castURL": "https://pro.imdb.com/title/tt0104454/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_54",
+        "individualURL": "gr3435549189",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 25966555.0,
+                    "countryOpeningAmount": 52568.0,
+                    "countryReleaseDate": "03/13/1992"
+                }
+            ]
+        },
+        "movieName": "Howards End"
+    },
+    "gr350179845": {
+        "castURL": "https://pro.imdb.com/title/tt0102536/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_151",
+        "individualURL": "gr350179845",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2015810.0,
+                    "countryOpeningAmount": 34039.0,
+                    "countryReleaseDate": "05/01/1992"
+                }
+            ]
+        },
+        "movieName": "Night on Earth"
+    },
+    "gr3529069061": {
+        "castURL": "https://pro.imdb.com/title/tt0103617/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_143",
+        "individualURL": "gr3529069061",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2517600.0,
+                    "countryOpeningAmount": 942814.0,
+                    "countryReleaseDate": "06/12/1992"
+                }
+            ]
+        },
+        "movieName": "Aces: Iron Eagle III"
+    },
+    "gr3529396741": {
+        "castURL": "https://pro.imdb.com/title/tt0032910/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_32",
+        "individualURL": "gr3529396741",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 18863559.0,
+                    "countryOpeningAmount": 3145140.0,
+                    "countryReleaseDate": "06/26/1992"
+                }
+            ]
+        },
+        "movieName": "Pinocchio 1992 Re-release"
+    },
+    "gr3557970437": {
+        "castURL": "https://pro.imdb.com/title/tt0093267/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_214",
+        "individualURL": "gr3557970437",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 138608.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/20/1992"
+                }
+            ]
+        },
+        "movieName": "Intervista"
+    },
+    "gr3570487813": {
+        "castURL": "https://pro.imdb.com/title/tt0103639/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_1",
+        "individualURL": "gr3570487813",
+        "markets": {
+            "asia_pacific": [
+                {
+                    "country": "Australia",
+                    "countryGrossAmount": 13067793.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/03/1993"
+                }
+            ],
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 217350219.0,
+                    "countryOpeningAmount": 196664.0,
+                    "countryReleaseDate": "11/13/1992"
+                }
+            ],
+            "emea": [
+                {
+                    "country": "France",
+                    "countryGrossAmount": 41143849.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/10/1993"
+                },
+                {
+                    "country": "Germany",
+                    "countryGrossAmount": 31328508.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/17/1993"
+                },
+                {
+                    "country": "Italy",
+                    "countryGrossAmount": 28543298.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/03/1993"
+                },
+                {
+                    "country": "Spain",
+                    "countryGrossAmount": 15042628.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/19/1993"
+                }
+            ]
+        },
+        "movieName": "Aladdin"
+    },
+    "gr3574157829": {
+        "castURL": "https://pro.imdb.com/title/tt0102340/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_145",
+        "individualURL": "gr3574157829",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2287928.0,
+                    "countryOpeningAmount": 1157370.0,
+                    "countryReleaseDate": "01/24/1992"
+                }
+            ]
+        },
+        "movieName": "Love Crimes"
+    },
+    "gr3589493253": {
+        "castURL": "https://pro.imdb.com/title/tt0101640/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_142",
+        "individualURL": "gr3589493253",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2603061.0,
+                    "countryOpeningAmount": 22554.0,
+                    "countryReleaseDate": "03/13/1992"
+                }
+            ]
+        },
+        "movieName": "Raise the Red Lantern"
+    },
+    "gr3593556485": {
+        "castURL": "https://pro.imdb.com/title/tt0099028/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_202",
+        "individualURL": "gr3593556485",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 269823.0,
+                    "countryOpeningAmount": 9291.0,
+                    "countryReleaseDate": "03/18/1992"
+                }
+            ]
+        },
+        "movieName": "American Dream"
+    },
+    "gr3603386885": {
+        "castURL": "https://pro.imdb.com/title/tt0100112/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_170",
+        "individualURL": "gr3603386885",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1217084.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/19/1992"
+                }
+            ]
+        },
+        "movieName": "The Hairdresser's Husband"
+    },
+    "gr3606401541": {
+        "castURL": "https://pro.imdb.com/title/tt0102002/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_199",
+        "individualURL": "gr3606401541",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 306319.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/31/1992"
+                }
+            ]
+        },
+        "movieName": "Hard Promises"
+    },
+    "gr3630125573": {
+        "castURL": "https://pro.imdb.com/title/tt0103784/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_222",
+        "individualURL": "gr3630125573",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 44947.0,
+                    "countryOpeningAmount": 4767.0,
+                    "countryReleaseDate": "08/07/1992"
+                }
+            ]
+        },
+        "movieName": "Bed & Breakfast"
+    },
+    "gr3639955973": {
+        "castURL": "https://pro.imdb.com/title/tt0105078/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_156",
+        "individualURL": "gr3639955973",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1659542.0,
+                    "countryOpeningAmount": 1114255.0,
+                    "countryReleaseDate": "09/04/1992"
+                }
+            ]
+        },
+        "movieName": "Out on a Limb"
+    },
+    "gr3644871173": {
+        "castURL": "https://pro.imdb.com/title/tt0104187/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_42",
+        "individualURL": "gr3644871173",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 40693477.0,
+                    "countryOpeningAmount": 9866120.0,
+                    "countryReleaseDate": "05/22/1992"
+                }
+            ]
+        },
+        "movieName": "Encino Man"
+    },
+    "gr3691991557": {
+        "castURL": "https://pro.imdb.com/title/tt0103882/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_147",
+        "individualURL": "gr3691991557",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2279692.0,
+                    "countryOpeningAmount": 84025.0,
+                    "countryReleaseDate": "08/21/1992"
+                }
+            ]
+        },
+        "movieName": "A Brief History of Time"
+    },
+    "gr3706278405": {
+        "castURL": "https://pro.imdb.com/title/tt0104940/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_49",
+        "individualURL": "gr3706278405",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 27281507.0,
+                    "countryOpeningAmount": 5010109.0,
+                    "countryReleaseDate": "12/11/1992"
+                }
+            ],
+            "emea": [
+                {
+                    "country": "France",
+                    "countryGrossAmount": 222120.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/15/1993"
+                },
+                {
+                    "country": "Germany",
+                    "countryGrossAmount": 2687149.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/09/1993"
+                },
+                {
+                    "country": "Italy",
+                    "countryGrossAmount": 611607.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/23/1993"
+                },
+                {
+                    "country": "Spain",
+                    "countryGrossAmount": 1077200.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/17/1993"
+                }
+            ]
+        },
+        "movieName": "The Muppet Christmas Carol"
+    },
+    "gr3712176645": {
+        "castURL": "https://pro.imdb.com/title/tt0102307/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_175",
+        "individualURL": "gr3712176645",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1050861.0,
+                    "countryOpeningAmount": 46302.0,
+                    "countryReleaseDate": "08/21/1992"
+                }
+            ],
+            "emea": [
+                {
+                    "country": "Italy",
+                    "countryGrossAmount": 5126.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                }
+            ]
+        },
+        "movieName": "Light Sleeper"
+    },
+    "gr373576197": {
+        "castURL": "https://pro.imdb.com/title/tt0102426/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_123",
+        "individualURL": "gr373576197",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4532791.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/20/1992"
+                }
+            ]
+        },
+        "movieName": "Mediterraneo"
+    },
+    "gr3737670149": {
+        "castURL": "https://pro.imdb.com/title/tt0104431/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_3",
+        "individualURL": "gr3737670149",
+        "markets": {
+            "asia_pacific": [
+                {
+                    "country": "Australia",
+                    "countryGrossAmount": 8878497.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/10/1992"
+                },
+                {
+                    "country": "Hong Kong",
+                    "countryGrossAmount": 1639045.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/17/1992"
+                },
+                {
+                    "country": "India",
+                    "countryGrossAmount": 177535.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/07/1993"
+                },
+                {
+                    "country": "Indonesia",
+                    "countryGrossAmount": 3058699.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/08/1992"
+                },
+                {
+                    "country": "Japan",
+                    "countryGrossAmount": 35321357.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/19/1992"
+                },
+                {
+                    "country": "Malaysia",
+                    "countryGrossAmount": 585123.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/14/1993"
+                },
+                {
+                    "country": "New Zealand",
+                    "countryGrossAmount": 571311.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/11/1992"
+                },
+                {
+                    "country": "Philippines",
+                    "countryGrossAmount": 1091912.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/04/1993"
+                },
+                {
+                    "country": "Russia/CIS/Ukraine",
+                    "countryGrossAmount": 125967.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/23/1994"
+                },
+                {
+                    "country": "Singapore",
+                    "countryGrossAmount": 875836.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/14/1993"
+                },
+                {
+                    "country": "South Korea",
+                    "countryGrossAmount": 8197952.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/18/1992"
+                },
+                {
+                    "country": "Taiwan",
+                    "countryGrossAmount": 1875114.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/24/1992"
+                },
+                {
+                    "country": "Thailand",
+                    "countryGrossAmount": 609531.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/20/1993"
+                }
+            ],
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 173585516.0,
+                    "countryOpeningAmount": 31126882.0,
+                    "countryReleaseDate": "11/20/1992"
+                }
+            ],
+            "emea": [
+                {
+                    "country": "Austria",
+                    "countryGrossAmount": 2410850.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/18/1992"
+                },
+                {
+                    "country": "Belgium",
+                    "countryGrossAmount": 3016314.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/16/1992"
+                },
+                {
+                    "country": "Bulgaria",
+                    "countryGrossAmount": 42877.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/24/1993"
+                },
+                {
+                    "country": "Croatia",
+                    "countryGrossAmount": 43521.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/31/1994"
+                },
+                {
+                    "country": "Czech Republic/Slovakia",
+                    "countryGrossAmount": 551482.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/17/1992"
+                },
+                {
+                    "country": "Denmark",
+                    "countryGrossAmount": 1458200.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1992"
+                },
+                {
+                    "country": "Egypt",
+                    "countryGrossAmount": 213522.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/18/1993"
+                },
+                {
+                    "country": "Estonia",
+                    "countryGrossAmount": 36217.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/17/1993"
+                },
+                {
+                    "country": "Finland",
+                    "countryGrossAmount": 1264297.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/11/1992"
+                },
+                {
+                    "country": "France",
+                    "countryGrossAmount": 11481489.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/26/1992"
+                },
+                {
+                    "country": "Germany",
+                    "countryGrossAmount": 23404837.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/10/1992"
+                },
+                {
+                    "country": "Greece and Cyprus",
+                    "countryGrossAmount": 1285549.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/11/1992"
+                },
+                {
+                    "country": "Hungary",
+                    "countryGrossAmount": 402292.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/18/1992"
+                },
+                {
+                    "country": "Israel",
+                    "countryGrossAmount": 1070391.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/19/1993"
+                },
+                {
+                    "country": "Latvia",
+                    "countryGrossAmount": 33155.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/24/1993"
+                },
+                {
+                    "country": "Lebanon",
+                    "countryGrossAmount": 122503.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1992"
+                },
+                {
+                    "country": "Lithuania",
+                    "countryGrossAmount": 3890.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/06/1994"
+                },
+                {
+                    "country": "Netherlands",
+                    "countryGrossAmount": 3954925.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/17/1992"
+                },
+                {
+                    "country": "Norway",
+                    "countryGrossAmount": 3452268.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/10/1992"
+                },
+                {
+                    "country": "Poland",
+                    "countryGrossAmount": 1156044.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1992"
+                },
+                {
+                    "country": "Portugal",
+                    "countryGrossAmount": 912214.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/18/1992"
+                },
+                {
+                    "country": "Romania",
+                    "countryGrossAmount": 222851.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/17/1993"
+                },
+                {
+                    "country": "S/E/W Africa",
+                    "countryGrossAmount": 1699305.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/04/1992"
+                },
+                {
+                    "country": "Slovenia",
+                    "countryGrossAmount": 156687.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/16/1993"
+                },
+                {
+                    "country": "Spain",
+                    "countryGrossAmount": 8676105.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/04/1992"
+                },
+                {
+                    "country": "Sweden",
+                    "countryGrossAmount": 3582324.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1992"
+                },
+                {
+                    "country": "Switzerland",
+                    "countryGrossAmount": 3239435.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/11/1992"
+                },
+                {
+                    "country": "Turkey",
+                    "countryGrossAmount": 1662950.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/15/1993"
+                },
+                {
+                    "country": "United Kingdom",
+                    "countryGrossAmount": 21520203.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/11/1992"
+                }
+            ],
+            "latin_america": [
+                {
+                    "country": "Argentina",
+                    "countryGrossAmount": 2166996.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1992"
+                },
+                {
+                    "country": "Bolivia",
+                    "countryGrossAmount": 124609.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1992"
+                },
+                {
+                    "country": "Brazil",
+                    "countryGrossAmount": 5074778.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/17/1992"
+                },
+                {
+                    "country": "Central America",
+                    "countryGrossAmount": 700754.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1992"
+                },
+                {
+                    "country": "Chile",
+                    "countryGrossAmount": 536229.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1992"
+                },
+                {
+                    "country": "Colombia",
+                    "countryGrossAmount": 951119.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1992"
+                },
+                {
+                    "country": "Ecuador",
+                    "countryGrossAmount": 198873.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1992"
+                },
+                {
+                    "country": "Jamaica",
+                    "countryGrossAmount": 179450.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1992"
+                },
+                {
+                    "country": "Mexico",
+                    "countryGrossAmount": 5904223.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/18/1992"
+                },
+                {
+                    "country": "Peru",
+                    "countryGrossAmount": 270837.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1992"
+                },
+                {
+                    "country": "Puerto Rico",
+                    "countryGrossAmount": 2253261.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/17/1992"
+                },
+                {
+                    "country": "Uruguay",
+                    "countryGrossAmount": 163493.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1992"
+                },
+                {
+                    "country": "Venezuela",
+                    "countryGrossAmount": 724410.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/16/1992"
+                }
+            ]
+        },
+        "movieName": "Home Alone 2: Lost in New York"
+    },
+    "gr3771355653": {
+        "castURL": "https://pro.imdb.com/title/tt0104839/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_38",
+        "individualURL": "gr3771355653",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 45500797.0,
+                    "countryOpeningAmount": 8494271.0,
+                    "countryReleaseDate": "02/07/1992"
+                }
+            ]
+        },
+        "movieName": "Medicine Man"
+    },
+    "gr37769733": {
+        "castURL": "https://pro.imdb.com/title/tt0104244/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_221",
+        "individualURL": "gr37769733",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 45488.0,
+                    "countryOpeningAmount": 11448.0,
+                    "countryReleaseDate": "10/07/1992"
+                }
+            ]
+        },
+        "movieName": "Feed"
+    },
+    "gr3785970181": {
+        "castURL": "https://pro.imdb.com/title/tt0103888/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_166",
+        "individualURL": "gr3785970181",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1305915.0,
+                    "countryOpeningAmount": 10758.0,
+                    "countryReleaseDate": "09/09/1992"
+                }
+            ]
+        },
+        "movieName": "Brother's Keeper"
+    },
+    "gr3794817541": {
+        "castURL": "https://pro.imdb.com/title/tt0101371/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_109",
+        "individualURL": "gr3794817541",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6375979.0,
+                    "countryOpeningAmount": 2461469.0,
+                    "countryReleaseDate": "03/13/1992"
+                }
+            ]
+        },
+        "movieName": "Article 99"
+    },
+    "gr3810546181": {
+        "castURL": "https://pro.imdb.com/title/tt0105481/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_64",
+        "individualURL": "gr3810546181",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 21202099.0,
+                    "countryOpeningAmount": 4575746.0,
+                    "countryReleaseDate": "04/03/1992"
+                }
+            ]
+        },
+        "movieName": "Straight Talk"
+    },
+    "gr3812315653": {
+        "castURL": "https://pro.imdb.com/title/tt0103962/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_103",
+        "individualURL": "gr3812315653",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 8251071.0,
+                    "countryOpeningAmount": 3101563.0,
+                    "countryReleaseDate": "08/21/1992"
+                }
+            ]
+        },
+        "movieName": "Christopher Columbus: The Discovery"
+    },
+    "gr3831583237": {
+        "castURL": "https://pro.imdb.com/title/tt0104418/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_225",
+        "individualURL": "gr3831583237",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 26055.0,
+                    "countryOpeningAmount": 12273.0,
+                    "countryReleaseDate": "03/13/1992"
+                }
+            ]
+        },
+        "movieName": "Highway to Hell"
+    },
+    "gr3850195461": {
+        "castURL": "https://pro.imdb.com/title/tt0104926/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_66",
+        "individualURL": "gr3850195461",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 20883046.0,
+                    "countryOpeningAmount": 5240375.0,
+                    "countryReleaseDate": "10/02/1992"
+                }
+            ]
+        },
+        "movieName": "Mr. Baseball"
+    },
+    "gr3871953413": {
+        "castURL": "https://pro.imdb.com/title/tt0104114/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_37",
+        "individualURL": "gr3871953413",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 46666502.0,
+                    "countryOpeningAmount": 10611040.0,
+                    "countryReleaseDate": "12/04/1992"
+                }
+            ]
+        },
+        "movieName": "The Distinguished Gentleman"
+    },
+    "gr387797509": {
+        "castURL": "https://pro.imdb.com/title/tt0104409/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_89",
+        "individualURL": "gr387797509",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 12534961.0,
+                    "countryOpeningAmount": 3208009.0,
+                    "countryReleaseDate": "09/11/1992"
+                }
+            ]
+        },
+        "movieName": "Hellraiser III: Hell on Earth"
+    },
+    "gr3886699013": {
+        "castURL": "https://pro.imdb.com/title/tt0104954/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_211",
+        "individualURL": "gr3886699013",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 169600.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/30/1992"
+                }
+            ]
+        },
+        "movieName": "My New Gun"
+    },
+    "gr3915141637": {
+        "castURL": "https://pro.imdb.com/title/tt0104283/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_111",
+        "individualURL": "gr3915141637",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6132924.0,
+                    "countryOpeningAmount": 2177518.0,
+                    "countryReleaseDate": "05/01/1992"
+                }
+            ]
+        },
+        "movieName": "Folks!"
+    },
+    "gr3963965957": {
+        "castURL": "https://pro.imdb.com/title/tt0105811/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_93",
+        "individualURL": "gr3963965957",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 11124511.0,
+                    "countryOpeningAmount": 3177158.0,
+                    "countryReleaseDate": "08/07/1992"
+                }
+            ]
+        },
+        "movieName": "Whispers in the Dark"
+    },
+    "gr39997957": {
+        "castURL": "https://pro.imdb.com/title/tt0105790/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_173",
+        "individualURL": "gr39997957",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1100218.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/30/1992"
+                }
+            ]
+        },
+        "movieName": "Waterland"
+    },
+    "gr4001321477": {
+        "castURL": "https://pro.imdb.com/title/tt0101416/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_200",
+        "individualURL": "gr4001321477",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 272931.0,
+                    "countryOpeningAmount": 12692.0,
+                    "countryReleaseDate": "11/06/1992"
+                }
+            ]
+        },
+        "movieName": "Becoming Colette"
+    },
+    "gr4011479557": {
+        "castURL": "https://pro.imdb.com/title/tt0105327/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_78",
+        "individualURL": "gr4011479557",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14715067.0,
+                    "countryOpeningAmount": 3020071.0,
+                    "countryReleaseDate": "09/18/1992"
+                }
+            ]
+        },
+        "movieName": "School Ties"
+    },
+    "gr4027404805": {
+        "castURL": "https://pro.imdb.com/title/tt0104797/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_35",
+        "individualURL": "gr4027404805",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 48169910.0,
+                    "countryOpeningAmount": 9871125.0,
+                    "countryReleaseDate": "11/20/1992"
+                }
+            ]
+        },
+        "movieName": "Malcolm X"
+    },
+    "gr4029108741": {
+        "castURL": "https://pro.imdb.com/title/tt0103877/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_220",
+        "individualURL": "gr4029108741",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 52285.0,
+                    "countryOpeningAmount": 23175.0,
+                    "countryReleaseDate": "10/09/1992"
+                }
+            ]
+        },
+        "movieName": "Breaking the Rules"
+    },
+    "gr4029698565": {
+        "castURL": "https://pro.imdb.com/title/tt0101276/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_219",
+        "individualURL": "gr4029698565",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 53932.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/24/1992"
+                }
+            ]
+        },
+        "movieName": "Afraid of the Dark"
+    },
+    "gr4032516613": {
+        "castURL": "https://pro.imdb.com/title/tt0105001/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_110",
+        "individualURL": "gr4032516613",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6202756.0,
+                    "countryOpeningAmount": 43036.0,
+                    "countryReleaseDate": "10/16/1992"
+                }
+            ]
+        },
+        "movieName": "Night and the City"
+    },
+    "gr404181509": {
+        "castURL": "https://pro.imdb.com/title/tt0102328/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_210",
+        "individualURL": "gr404181509",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 170667.0,
+                    "countryOpeningAmount": 16209.0,
+                    "countryReleaseDate": "08/07/1992"
+                }
+            ]
+        },
+        "movieName": "London Kills Me"
+    },
+    "gr4042543621": {
+        "castURL": "https://pro.imdb.com/title/tt0103176/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_196",
+        "individualURL": "gr4042543621",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 377832.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/30/1992"
+                }
+            ]
+        },
+        "movieName": "Close to Eden"
+    },
+    "gr4062597637": {
+        "castURL": "https://pro.imdb.com/title/tt0102164/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_186",
+        "individualURL": "gr4062597637",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 626057.0,
+                    "countryOpeningAmount": 15508.0,
+                    "countryReleaseDate": "10/09/1992"
+                }
+            ]
+        },
+        "movieName": "Johnny Stecchino"
+    },
+    "gr4064367109": {
+        "castURL": "https://pro.imdb.com/title/tt0103786/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_16",
+        "individualURL": "gr4064367109",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 57114049.0,
+                    "countryOpeningAmount": 7587565.0,
+                    "countryReleaseDate": "04/03/1992"
+                }
+            ]
+        },
+        "movieName": "Beethoven"
+    },
+    "gr406802949": {
+        "castURL": "https://pro.imdb.com/title/tt0104437/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_30",
+        "individualURL": "gr406802949",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 58662452.0,
+                    "countryOpeningAmount": 11083318.0,
+                    "countryReleaseDate": "07/17/1992"
+                }
+            ]
+        },
+        "movieName": "Honey, I Blew Up the Kid"
+    },
+    "gr4084224517": {
+        "castURL": "https://pro.imdb.com/title/tt0105165/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_59",
+        "individualURL": "gr4084224517",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 20006730.0,
+                    "countryOpeningAmount": 5273395.0,
+                    "countryReleaseDate": "07/10/1992"
+                }
+            ]
+        },
+        "movieName": "Prelude to a Kiss"
+    },
+    "gr4090712581": {
+        "castURL": "https://pro.imdb.com/title/tt0105824/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_113",
+        "individualURL": "gr4090712581",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5519569.0,
+                    "countryOpeningAmount": 2204590.0,
+                    "countryReleaseDate": "09/11/1992"
+                }
+            ]
+        },
+        "movieName": "Wind"
+    },
+    "gr4108800517": {
+        "castURL": "https://pro.imdb.com/title/tt0101273/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_194",
+        "individualURL": "gr4108800517",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 396573.0,
+                    "countryOpeningAmount": 10686.0,
+                    "countryReleaseDate": "05/29/1992"
+                }
+            ]
+        },
+        "movieName": "The Adjuster"
+    },
+    "gr4138422789": {
+        "castURL": "https://pro.imdb.com/title/tt0105391/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_40",
+        "individualURL": "gr4138422789",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 21633781.0,
+                    "countryOpeningAmount": 6406829.0,
+                    "countryReleaseDate": "01/31/1992"
+                }
+            ]
+        },
+        "movieName": "Shining Through"
+    },
+    "gr4146221573": {
+        "castURL": "https://pro.imdb.com/title/tt0105267/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_212",
+        "individualURL": "gr4146221573",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 147724.0,
+                    "countryOpeningAmount": 11066.0,
+                    "countryReleaseDate": "03/27/1992"
+                }
+            ]
+        },
+        "movieName": "Roadside Prophets"
+    },
+    "gr4179251717": {
+        "castURL": "https://pro.imdb.com/title/tt0104299/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_72",
+        "individualURL": "gr4179251717",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 17129026.0,
+                    "countryOpeningAmount": 6736243.0,
+                    "countryReleaseDate": "01/17/1992"
+                }
+            ]
+        },
+        "movieName": "Freejack"
+    },
+    "gr4180562437": {
+        "castURL": "https://pro.imdb.com/title/tt0105046/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_114",
+        "individualURL": "gr4180562437",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5471088.0,
+                    "countryOpeningAmount": 97851.0,
+                    "countryReleaseDate": "10/02/1992"
+                }
+            ]
+        },
+        "movieName": "Of Mice and Men"
+    },
+    "gr4182921733": {
+        "castURL": "https://pro.imdb.com/title/tt0104503/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_203",
+        "individualURL": "gr4182921733",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 256249.0,
+                    "countryOpeningAmount": 13922.0,
+                    "countryReleaseDate": "10/23/1992"
+                }
+            ]
+        },
+        "movieName": "In the Soup"
+    },
+    "gr4215301": {
+        "castURL": "https://pro.imdb.com/title/tt0104452/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_23",
+        "individualURL": "gr4215301",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 58500635.0,
+                    "countryOpeningAmount": 9106950.0,
+                    "countryReleaseDate": "06/12/1992"
+                }
+            ]
+        },
+        "movieName": "HouseSitter"
+    },
+    "gr4249702917": {
+        "castURL": "https://pro.imdb.com/title/tt0103939/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_97",
+        "individualURL": "gr4249702917",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 9493259.0,
+                    "countryOpeningAmount": 84669.0,
+                    "countryReleaseDate": "12/25/1992"
+                }
+            ]
+        },
+        "movieName": "Chaplin"
+    },
+    "gr4262416901": {
+        "castURL": "https://pro.imdb.com/title/tt0104027/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_135",
+        "individualURL": "gr4262416901",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3052738.0,
+                    "countryOpeningAmount": 1041264.0,
+                    "countryReleaseDate": "05/08/1992"
+                }
+            ]
+        },
+        "movieName": "CrissCross"
+    },
+    "gr436294149": {
+        "castURL": "https://pro.imdb.com/title/tt0103872/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_179",
+        "individualURL": "gr436294149",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 918239.0,
+                    "countryOpeningAmount": 504057.0,
+                    "countryReleaseDate": "04/17/1992"
+                }
+            ]
+        },
+        "movieName": "Brain Donors"
+    },
+    "gr439177733": {
+        "castURL": "https://pro.imdb.com/title/tt0102174/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_227",
+        "individualURL": "gr439177733",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 15706.0,
+                    "countryOpeningAmount": 5875.0,
+                    "countryReleaseDate": "09/18/1992"
+                }
+            ]
+        },
+        "movieName": "Jumpin' at the Boneyard"
+    },
+    "gr443961861": {
+        "castURL": "https://pro.imdb.com/title/tt0104697/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_161",
+        "individualURL": "gr443961861",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1514114.0,
+                    "countryOpeningAmount": 474220.0,
+                    "countryReleaseDate": "05/01/1992"
+                }
+            ]
+        },
+        "movieName": "Leaving Normal"
+    },
+    "gr452153861": {
+        "castURL": "https://pro.imdb.com/title/tt0105810/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_195",
+        "individualURL": "gr452153861",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 390152.0,
+                    "countryOpeningAmount": 190961.0,
+                    "countryReleaseDate": "09/11/1992"
+                }
+            ]
+        },
+        "movieName": "Where the Day Takes You"
+    },
+    "gr452481541": {
+        "castURL": "https://pro.imdb.com/title/tt0105793/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_10",
+        "individualURL": "gr452481541",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 121697323.0,
+                    "countryOpeningAmount": 18122710.0,
+                    "countryReleaseDate": "02/14/1992"
+                }
+            ]
+        },
+        "movieName": "Wayne's World"
+    },
+    "gr465981957": {
+        "castURL": "https://pro.imdb.com/title/tt0105219/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_81",
+        "individualURL": "gr465981957",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14356479.0,
+                    "countryOpeningAmount": 4815850.0,
+                    "countryReleaseDate": "08/21/1992"
+                }
+            ]
+        },
+        "movieName": "Rapid Fire"
+    },
+    "gr503271941": {
+        "castURL": "https://pro.imdb.com/title/tt0104240/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_231",
+        "individualURL": "gr503271941",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6960.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/06/1992"
+                }
+            ]
+        },
+        "movieName": "Fathers & Sons"
+    },
+    "gr523784709": {
+        "castURL": "https://pro.imdb.com/title/tt0104511/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_117",
+        "individualURL": "gr523784709",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4943279.0,
+                    "countryOpeningAmount": 1857658.0,
+                    "countryReleaseDate": "09/25/1992"
+                }
+            ]
+        },
+        "movieName": "Innocent Blood"
+    },
+    "gr561009157": {
+        "castURL": "https://pro.imdb.com/title/tt0105378/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_141",
+        "individualURL": "gr561009157",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2735731.0,
+                    "countryOpeningAmount": 1111314.0,
+                    "countryReleaseDate": "03/20/1992"
+                }
+            ]
+        },
+        "movieName": "Shadows and Fog"
+    },
+    "gr567104005": {
+        "castURL": "https://pro.imdb.com/title/tt0103105/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_169",
+        "individualURL": "gr567104005",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1228153.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/06/1992"
+                }
+            ]
+        },
+        "movieName": "Toto the Hero"
+    },
+    "gr584012293": {
+        "castURL": "https://pro.imdb.com/title/tt0104804/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_126",
+        "individualURL": "gr584012293",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4096030.0,
+                    "countryOpeningAmount": 2034475.0,
+                    "countryReleaseDate": "07/17/1992"
+                }
+            ]
+        },
+        "movieName": "Man Trouble"
+    },
+    "gr635458053": {
+        "castURL": "https://pro.imdb.com/title/tt0104802/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_108",
+        "individualURL": "gr635458053",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6742168.0,
+                    "countryOpeningAmount": 319793.0,
+                    "countryReleaseDate": "02/28/1992"
+                }
+            ]
+        },
+        "movieName": "The Mambo Kings"
+    },
+    "gr638079493": {
+        "castURL": "https://pro.imdb.com/title/tt0103110/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_133",
+        "individualURL": "gr638079493",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3089497.0,
+                    "countryOpeningAmount": 39277.0,
+                    "countryReleaseDate": "11/13/1992"
+                }
+            ]
+        },
+        "movieName": "Tous les matins du monde"
+    },
+    "gr639586821": {
+        "castURL": "https://pro.imdb.com/title/tt0105159/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_138",
+        "individualURL": "gr639586821",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2827107.0,
+                    "countryOpeningAmount": 684358.0,
+                    "countryReleaseDate": "03/27/1992"
+                }
+            ]
+        },
+        "movieName": "The Power of One"
+    },
+    "gr656691717": {
+        "castURL": "https://pro.imdb.com/title/tt0101254/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_177",
+        "individualURL": "gr656691717",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 922872.0,
+                    "countryOpeningAmount": 13690.0,
+                    "countryReleaseDate": "01/15/1992"
+                }
+            ]
+        },
+        "movieName": "35 Up"
+    },
+    "gr657216005": {
+        "castURL": "https://pro.imdb.com/title/tt0104438/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_46",
+        "individualURL": "gr657216005",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 35208854.0,
+                    "countryOpeningAmount": 7318157.0,
+                    "countryReleaseDate": "08/28/1992"
+                }
+            ]
+        },
+        "movieName": "Honeymoon in Vegas"
+    },
+    "gr66277893": {
+        "castURL": "https://pro.imdb.com/title/tt0101316/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_116",
+        "individualURL": "gr66277893",
+        "markets": {
+            "asia_pacific": [
+                {
+                    "country": "South Korea",
+                    "countryGrossAmount": 113896.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/20/1992"
+                }
+            ],
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4899194.0,
+                    "countryOpeningAmount": 181147.0,
+                    "countryReleaseDate": "10/30/1992"
+                }
+            ]
+        },
+        "movieName": "The Lover"
+    },
+    "gr688280069": {
+        "castURL": "https://pro.imdb.com/title/tt0103783/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_101",
+        "individualURL": "gr688280069",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 8442162.0,
+                    "countryOpeningAmount": 3010987.0,
+                    "countryReleaseDate": "07/31/1992"
+                }
+            ]
+        },
+        "movieName": "B\u00e9b\u00e9's Kids"
+    },
+    "gr734745093": {
+        "castURL": "https://pro.imdb.com/title/tt0104030/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_191",
+        "individualURL": "gr734745093",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 479676.0,
+                    "countryOpeningAmount": 243695.0,
+                    "countryReleaseDate": "09/11/1992"
+                }
+            ]
+        },
+        "movieName": "Crossing the Bridge"
+    },
+    "gr736383493": {
+        "castURL": "https://pro.imdb.com/title/tt0103850/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_124",
+        "individualURL": "gr736383493",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4479470.0,
+                    "countryOpeningAmount": 314275.0,
+                    "countryReleaseDate": "09/04/1992"
+                }
+            ]
+        },
+        "movieName": "Bob Roberts"
+    },
+    "gr768168453": {
+        "castURL": "https://pro.imdb.com/title/tt0105415/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_70",
+        "individualURL": "gr768168453",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 18471850.0,
+                    "countryOpeningAmount": 4184875.0,
+                    "countryReleaseDate": "09/18/1992"
+                }
+            ]
+        },
+        "movieName": "Singles"
+    },
+    "gr842748421": {
+        "castURL": "https://pro.imdb.com/title/tt0103671/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_88",
+        "individualURL": "gr842748421",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 13086430.0,
+                    "countryOpeningAmount": 3378100.0,
+                    "countryReleaseDate": "03/13/1992"
+                }
+            ]
+        },
+        "movieName": "American Me"
+    },
+    "gr88887813": {
+        "castURL": "https://pro.imdb.com/title/tt0102619/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_230",
+        "individualURL": "gr88887813",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14513.0,
+                    "countryOpeningAmount": 4285.0,
+                    "countryReleaseDate": "08/21/1992"
+                }
+            ]
+        },
+        "movieName": "The Ox"
+    },
+    "gr893669893": {
+        "castURL": "https://pro.imdb.com/title/tt0104257/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_7",
+        "individualURL": "gr893669893",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 141340178.0,
+                    "countryOpeningAmount": 15517468.0,
+                    "countryReleaseDate": "12/11/1992"
+                }
+            ]
+        },
+        "movieName": "A Few Good Men"
+    },
+    "gr901992965": {
+        "castURL": "https://pro.imdb.com/title/tt0104573/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_67",
+        "individualURL": "gr901992965",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 20146880.0,
+                    "countryOpeningAmount": 8085915.0,
+                    "countryReleaseDate": "01/17/1992"
+                }
+            ]
+        },
+        "movieName": "Juice"
+    },
+    "gr907563525": {
+        "castURL": "https://pro.imdb.com/title/tt0105562/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_206",
+        "individualURL": "gr907563525",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 215500.0,
+                    "countryOpeningAmount": 215500.0,
+                    "countryReleaseDate": "03/06/1992"
+                }
+            ]
+        },
+        "movieName": "Terminal Bliss"
+    },
+    "gr926437893": {
+        "castURL": "https://pro.imdb.com/title/tt0104073/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_74",
+        "individualURL": "gr926437893",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 16639799.0,
+                    "countryOpeningAmount": 3451356.0,
+                    "countryReleaseDate": "04/17/1992"
+                }
+            ]
+        },
+        "movieName": "Deep Cover"
+    },
+    "gr938758661": {
+        "castURL": "https://pro.imdb.com/title/tt0105130/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_127",
+        "individualURL": "gr938758661",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4058564.0,
+                    "countryOpeningAmount": 353610.0,
+                    "countryReleaseDate": "12/25/1992"
+                }
+            ]
+        },
+        "movieName": "Peter's Friends"
+    },
+    "gr959402501": {
+        "castURL": "https://pro.imdb.com/title/tt0101481/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_223",
+        "individualURL": "gr959402501",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 35154.0,
+                    "countryOpeningAmount": 35154.0,
+                    "countryReleaseDate": "01/03/1992"
+                }
+            ]
+        },
+        "movieName": "Bloodfist III: Forced to Fight"
+    },
+    "gr961827333": {
+        "castURL": "https://pro.imdb.com/title/tt0105414/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_36",
+        "individualURL": "gr961827333",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 48017402.0,
+                    "countryOpeningAmount": 10212401.0,
+                    "countryReleaseDate": "08/14/1992"
+                }
+            ]
+        },
+        "movieName": "Single White Female"
+    },
+    "gr972771845": {
+        "castURL": "https://pro.imdb.com/title/tt0102969/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_209",
+        "individualURL": "gr972771845",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 179469.0,
+                    "countryOpeningAmount": 52776.0,
+                    "countryReleaseDate": "11/06/1992"
+                }
+            ]
+        },
+        "movieName": "The Efficiency Expert"
+    },
+    "gr976376325": {
+        "castURL": "https://pro.imdb.com/title/tt0103596/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_52",
+        "individualURL": "gr976376325",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 29000301.0,
+                    "countryOpeningAmount": 5888920.0,
+                    "countryReleaseDate": "08/07/1992"
+                }
+            ]
+        },
+        "movieName": "3 Ninjas"
+    },
+    "gr979849733": {
+        "castURL": "https://pro.imdb.com/title/tt0105636/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_86",
+        "individualURL": "gr979849733",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 13249535.0,
+                    "countryOpeningAmount": 5012910.0,
+                    "countryReleaseDate": "12/25/1992"
+                }
+            ]
+        },
+        "movieName": "Trespass"
+    },
+    "gr989942277": {
+        "castURL": "https://pro.imdb.com/title/tt0104348/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1992_95",
+        "individualURL": "gr989942277",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 10725228.0,
+                    "countryOpeningAmount": 2104402.0,
+                    "countryReleaseDate": "10/02/1992"
+                }
+            ]
+        },
+        "movieName": "Glengarry Glen Ross"
+    }
+}

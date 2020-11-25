@@ -1,0 +1,2332 @@
+{
+    "gr1029329413": {
+        "castURL": "https://pro.imdb.com/title/tt0084021/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_51",
+        "individualURL": "gr1029329413",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 15171476.0,
+                    "countryOpeningAmount": 4645411.0,
+                    "countryReleaseDate": "06/11/1982"
+                }
+            ]
+        },
+        "movieName": "Grease 2"
+    },
+    "gr1044468229": {
+        "castURL": "https://pro.imdb.com/title/tt0083658/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_27",
+        "individualURL": "gr1044468229",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 27580111.0,
+                    "countryOpeningAmount": 6150002.0,
+                    "countryReleaseDate": "06/25/1982"
+                }
+            ]
+        },
+        "movieName": "Blade Runner"
+    },
+    "gr1058689541": {
+        "castURL": "https://pro.imdb.com/title/tt0084504/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_75",
+        "individualURL": "gr1058689541",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7983086.0,
+                    "countryOpeningAmount": 2528133.0,
+                    "countryReleaseDate": "08/06/1982"
+                }
+            ]
+        },
+        "movieName": "The Pirate Movie"
+    },
+    "gr106385925": {
+        "castURL": "https://pro.imdb.com/title/tt0076759/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_50",
+        "individualURL": "gr106385925",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 15476785.0,
+                    "countryOpeningAmount": 3766803.0,
+                    "countryReleaseDate": "08/13/1982"
+                }
+            ]
+        },
+        "movieName": "Star Wars: Episode IV - A New Hope 1982 Re-release"
+    },
+    "gr1064325637": {
+        "castURL": "https://pro.imdb.com/title/tt0083717/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_94",
+        "individualURL": "gr1064325637",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5301539.0,
+                    "countryOpeningAmount": 1500000.0,
+                    "countryReleaseDate": "02/12/1982"
+                }
+            ]
+        },
+        "movieName": "Cannery Row"
+    },
+    "gr1137725957": {
+        "castURL": "https://pro.imdb.com/title/tt0083550/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_61",
+        "individualURL": "gr1137725957",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 12534817.0,
+                    "countryOpeningAmount": 4104277.0,
+                    "countryReleaseDate": "09/24/1982"
+                }
+            ]
+        },
+        "movieName": "Amityville II: The Possession"
+    },
+    "gr1157714437": {
+        "castURL": "https://pro.imdb.com/title/tt0084234/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_90",
+        "individualURL": "gr1157714437",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5829781.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/06/1982"
+                }
+            ]
+        },
+        "movieName": "The Last American Virgin"
+    },
+    "gr1170887173": {
+        "castURL": "https://pro.imdb.com/title/tt0084704/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_85",
+        "individualURL": "gr1170887173",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6328816.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/13/1982"
+                }
+            ]
+        },
+        "movieName": "The Soldier"
+    },
+    "gr1172132357": {
+        "castURL": "https://pro.imdb.com/title/tt0083987/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_14",
+        "individualURL": "gr1172132357",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 52767889.0,
+                    "countryOpeningAmount": 131153.0,
+                    "countryReleaseDate": "12/10/1982"
+                }
+            ]
+        },
+        "movieName": "Gandhi"
+    },
+    "gr1172656645": {
+        "castURL": "https://pro.imdb.com/title/tt0046183/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_45",
+        "individualURL": "gr1172656645",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 17200000.0,
+                    "countryOpeningAmount": 957256.0,
+                    "countryReleaseDate": "12/17/1982"
+                }
+            ]
+        },
+        "movieName": "Peter Pan 1982 Re-release"
+    },
+    "gr1278104069": {
+        "castURL": "https://pro.imdb.com/title/tt0083900/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_125",
+        "individualURL": "gr1278104069",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 143369.0,
+                    "countryOpeningAmount": 23323.0,
+                    "countryReleaseDate": "05/28/1982"
+                }
+            ]
+        },
+        "movieName": "The Escape Artist"
+    },
+    "gr1361728005": {
+        "castURL": "https://pro.imdb.com/title/tt0084485/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_104",
+        "individualURL": "gr1361728005",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3178542.0,
+                    "countryOpeningAmount": 662896.0,
+                    "countryReleaseDate": "04/02/1982"
+                }
+            ]
+        },
+        "movieName": "Penitentiary II"
+    },
+    "gr1364480517": {
+        "castURL": "https://pro.imdb.com/title/tt0084787/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_42",
+        "individualURL": "gr1364480517",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 19629760.0,
+                    "countryOpeningAmount": 3107897.0,
+                    "countryReleaseDate": "06/25/1982"
+                }
+            ]
+        },
+        "movieName": "The Thing"
+    },
+    "gr1377128965": {
+        "castURL": "https://pro.imdb.com/title/tt0084274/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_131",
+        "individualURL": "gr1377128965",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14009.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/12/1982"
+                }
+            ]
+        },
+        "movieName": "Love & Money"
+    },
+    "gr1399083525": {
+        "castURL": "https://pro.imdb.com/title/tt0084173/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_107",
+        "individualURL": "gr1399083525",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2869638.0,
+                    "countryOpeningAmount": 1209311.0,
+                    "countryReleaseDate": "10/22/1982"
+                }
+            ]
+        },
+        "movieName": "Jinxed!"
+    },
+    "gr1414287877": {
+        "castURL": "https://pro.imdb.com/title/tt0084938/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_23",
+        "individualURL": "gr1414287877",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 30688860.0,
+                    "countryOpeningAmount": 4206265.0,
+                    "countryReleaseDate": "07/16/1982"
+                }
+            ]
+        },
+        "movieName": "Young Doctors in Love"
+    },
+    "gr1556828677": {
+        "castURL": "https://pro.imdb.com/title/tt0083598/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_60",
+        "individualURL": "gr1556828677",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 13111101.0,
+                    "countryOpeningAmount": 2279260.0,
+                    "countryReleaseDate": "06/18/1982"
+                }
+            ]
+        },
+        "movieName": "Author! Author!"
+    },
+    "gr1579438597": {
+        "castURL": "https://pro.imdb.com/title/tt0084112/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_113",
+        "individualURL": "gr1579438597",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1515578.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/09/1982"
+                }
+            ]
+        },
+        "movieName": "I, the Jury"
+    },
+    "gr1584157189": {
+        "castURL": "https://pro.imdb.com/title/tt0084049/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_69",
+        "individualURL": "gr1584157189",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 9823934.0,
+                    "countryOpeningAmount": 3597244.0,
+                    "countryReleaseDate": "06/04/1982"
+                }
+            ]
+        },
+        "movieName": "Hanky Panky"
+    },
+    "gr1598181893": {
+        "castURL": "https://pro.imdb.com/title/tt0083107/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_30",
+        "individualURL": "gr1598181893",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 23671186.0,
+                    "countryOpeningAmount": 5631293.0,
+                    "countryReleaseDate": "04/02/1982"
+                }
+            ]
+        },
+        "movieName": "Some Kind of Hero"
+    },
+    "gr1600934405": {
+        "castURL": "https://pro.imdb.com/title/tt0084707/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_24",
+        "individualURL": "gr1600934405",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 30036000.0,
+                    "countryOpeningAmount": 202131.0,
+                    "countryReleaseDate": "12/10/1982"
+                }
+            ]
+        },
+        "movieName": "Sophie's Choice"
+    },
+    "gr168776197": {
+        "castURL": "https://pro.imdb.com/title/tt0082198/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_11",
+        "individualURL": "gr168776197",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 39565475.0,
+                    "countryOpeningAmount": 9603139.0,
+                    "countryReleaseDate": "05/14/1982"
+                }
+            ]
+        },
+        "movieName": "Conan the Barbarian"
+    },
+    "gr168841733": {
+        "castURL": "https://pro.imdb.com/title/tt0083960/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_83",
+        "individualURL": "gr168841733",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6660333.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/30/1982"
+                }
+            ]
+        },
+        "movieName": "Forced Vengeance"
+    },
+    "gr1896239621": {
+        "castURL": "https://pro.imdb.com/title/tt0083722/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_79",
+        "individualURL": "gr1896239621",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7000000.0,
+                    "countryOpeningAmount": 1617636.0,
+                    "countryReleaseDate": "04/02/1982"
+                }
+            ]
+        },
+        "movieName": "Cat People"
+    },
+    "gr1947095557": {
+        "castURL": "https://pro.imdb.com/title/tt0082799/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_127",
+        "individualURL": "gr1947095557",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 63405.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/23/1982"
+                }
+            ]
+        },
+        "movieName": "Movie Madness"
+    },
+    "gr197546501": {
+        "castURL": "https://pro.imdb.com/title/tt0083630/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_55",
+        "individualURL": "gr197546501",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14056528.0,
+                    "countryOpeningAmount": 2955641.0,
+                    "countryReleaseDate": "08/20/1982"
+                }
+            ]
+        },
+        "movieName": "The Beastmaster"
+    },
+    "gr1982550533": {
+        "castURL": "https://pro.imdb.com/title/tt0084861/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_59",
+        "individualURL": "gr1982550533",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 13253583.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/22/1982"
+                }
+            ]
+        },
+        "movieName": "Vice Squad"
+    },
+    "gr2017939973": {
+        "castURL": "https://pro.imdb.com/title/tt0084210/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_49",
+        "individualURL": "gr2017939973",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 15782759.0,
+                    "countryOpeningAmount": 1345672.0,
+                    "countryReleaseDate": "12/24/1982"
+                }
+            ]
+        },
+        "movieName": "Kiss Me Goodbye"
+    },
+    "gr2048479749": {
+        "castURL": "https://pro.imdb.com/title/tt0083767/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_37",
+        "individualURL": "gr2048479749",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 21028755.0,
+                    "countryOpeningAmount": 5870889.0,
+                    "countryReleaseDate": "11/12/1982"
+                }
+            ]
+        },
+        "movieName": "Creepshow"
+    },
+    "gr2059883013": {
+        "castURL": "https://pro.imdb.com/title/tt0083943/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_16",
+        "individualURL": "gr2059883013",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 46708276.0,
+                    "countryOpeningAmount": 8152948.0,
+                    "countryReleaseDate": "06/18/1982"
+                }
+            ]
+        },
+        "movieName": "Firefox"
+    },
+    "gr2119651845": {
+        "castURL": "https://pro.imdb.com/title/tt0084096/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_118",
+        "individualURL": "gr2119651845",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 667863.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/14/1982"
+                }
+            ]
+        },
+        "movieName": "The House Where Evil Dwells"
+    },
+    "gr216551941": {
+        "castURL": "https://pro.imdb.com/title/tt0084469/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_93",
+        "individualURL": "gr216551941",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5588800.0,
+                    "countryOpeningAmount": 2815503.0,
+                    "countryReleaseDate": "05/07/1982"
+                }
+            ]
+        },
+        "movieName": "Paradise"
+    },
+    "gr2200195589": {
+        "castURL": "https://pro.imdb.com/title/tt0084917/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_25",
+        "individualURL": "gr2200195589",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 29712172.0,
+                    "countryOpeningAmount": 2902088.0,
+                    "countryReleaseDate": "07/23/1982"
+                }
+            ]
+        },
+        "movieName": "The World According to Garp"
+    },
+    "gr2201244165": {
+        "castURL": "https://pro.imdb.com/title/tt0083449/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_78",
+        "individualURL": "gr2201244165",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7241180.0,
+                    "countryOpeningAmount": 1864852.0,
+                    "countryReleaseDate": "11/05/1982"
+                }
+            ]
+        },
+        "movieName": "The Missionary"
+    },
+    "gr220746245": {
+        "castURL": "https://pro.imdb.com/title/tt0084783/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_77",
+        "individualURL": "gr220746245",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7400000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/30/1982"
+                }
+            ]
+        },
+        "movieName": "Tex"
+    },
+    "gr2249085445": {
+        "castURL": "https://pro.imdb.com/title/tt0084084/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_106",
+        "individualURL": "gr2249085445",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2914328.0,
+                    "countryOpeningAmount": 1366535.0,
+                    "countryReleaseDate": "08/27/1982"
+                }
+            ]
+        },
+        "movieName": "Homework"
+    },
+    "gr2378715653": {
+        "castURL": "https://pro.imdb.com/title/tt0080684/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_57",
+        "individualURL": "gr2378715653",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 13276241.0,
+                    "countryOpeningAmount": 3949478.0,
+                    "countryReleaseDate": "11/19/1982"
+                }
+            ]
+        },
+        "movieName": "Star Wars: Episode V - The Empire Strikes Back 1982 Re-release"
+    },
+    "gr2402832901": {
+        "castURL": "https://pro.imdb.com/title/tt0084649/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_52",
+        "individualURL": "gr2402832901",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14665733.0,
+                    "countryOpeningAmount": 386530.0,
+                    "countryReleaseDate": "07/02/1982"
+                }
+            ]
+        },
+        "movieName": "The Secret of NIMH"
+    },
+    "gr2413515269": {
+        "castURL": "https://pro.imdb.com/title/tt0084786/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_47",
+        "individualURL": "gr2413515269",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 16894678.0,
+                    "countryOpeningAmount": 1071345.0,
+                    "countryReleaseDate": "11/12/1982"
+                }
+            ]
+        },
+        "movieName": "They Call Me Bruce"
+    },
+    "gr2440122885": {
+        "castURL": "https://pro.imdb.com/title/tt0084522/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_6",
+        "individualURL": "gr2440122885",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 105492483.0,
+                    "countryOpeningAmount": 7623988.0,
+                    "countryReleaseDate": "03/19/1982"
+                }
+            ]
+        },
+        "movieName": "Porky's"
+    },
+    "gr2468106757": {
+        "castURL": "https://pro.imdb.com/title/tt0082484/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_38",
+        "individualURL": "gr2468106757",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 20959585.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/12/1982"
+                }
+            ]
+        },
+        "movieName": "Quest for Fire"
+    },
+    "gr2490257925": {
+        "castURL": "https://pro.imdb.com/title/tt0084296/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_39",
+        "individualURL": "gr2490257925",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 20659423.0,
+                    "countryOpeningAmount": 694126.0,
+                    "countryReleaseDate": "11/05/1982"
+                }
+            ]
+        },
+        "movieName": "The Man from Snowy River"
+    },
+    "gr2523156997": {
+        "castURL": "https://pro.imdb.com/title/tt0084060/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_97",
+        "individualURL": "gr2523156997",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5124391.0,
+                    "countryOpeningAmount": 1416713.0,
+                    "countryReleaseDate": "11/19/1982"
+                }
+            ]
+        },
+        "movieName": "Heidi's Song"
+    },
+    "gr2576901": {
+        "castURL": "https://pro.imdb.com/title/tt0084652/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_64",
+        "individualURL": "gr2576901",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 11378339.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/22/1982"
+                }
+            ]
+        },
+        "movieName": "The Seduction"
+    },
+    "gr2579845637": {
+        "castURL": "https://pro.imdb.com/title/tt0083929/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_29",
+        "individualURL": "gr2579845637",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 27092880.0,
+                    "countryOpeningAmount": 2545674.0,
+                    "countryReleaseDate": "08/13/1982"
+                }
+            ]
+        },
+        "movieName": "Fast Times at Ridgemont High"
+    },
+    "gr2621526533": {
+        "castURL": "https://pro.imdb.com/title/tt0082694/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_31",
+        "individualURL": "gr2621526533",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 23667907.0,
+                    "countryOpeningAmount": 2527864.0,
+                    "countryReleaseDate": "05/21/1982"
+                }
+            ]
+        },
+        "movieName": "The Road Warrior"
+    },
+    "gr2671661573": {
+        "castURL": "https://pro.imdb.com/title/tt0082096/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_65",
+        "individualURL": "gr2671661573",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 10915250.0,
+                    "countryOpeningAmount": 26994.0,
+                    "countryReleaseDate": "02/10/1982"
+                }
+            ]
+        },
+        "movieName": "Das Boot"
+    },
+    "gr2704101893": {
+        "castURL": "https://pro.imdb.com/title/tt0083806/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_43",
+        "individualURL": "gr2704101893",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 19282134.0,
+                    "countryOpeningAmount": 2238977.0,
+                    "countryReleaseDate": "03/19/1982"
+                }
+            ]
+        },
+        "movieName": "Deathtrap"
+    },
+    "gr2741195269": {
+        "castURL": "https://pro.imdb.com/title/tt0084899/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_128",
+        "individualURL": "gr2741195269",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 46509.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/12/1982"
+                }
+            ]
+        },
+        "movieName": "White Dog"
+    },
+    "gr2788643333": {
+        "castURL": "https://pro.imdb.com/title/tt0084259/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_110",
+        "individualURL": "gr2788643333",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2370376.0,
+                    "countryOpeningAmount": 1030070.0,
+                    "countryReleaseDate": "04/02/1982"
+                }
+            ]
+        },
+        "movieName": "A Little Sex"
+    },
+    "gr2791920133": {
+        "castURL": "https://pro.imdb.com/title/tt0083833/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_54",
+        "individualURL": "gr2791920133",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14099953.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/05/1982"
+                }
+            ]
+        },
+        "movieName": "Diner"
+    },
+    "gr2814923269": {
+        "castURL": "https://pro.imdb.com/title/tt0084335/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_56",
+        "individualURL": "gr2814923269",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14000000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/12/1982"
+                }
+            ]
+        },
+        "movieName": "Missing"
+    },
+    "gr2857325061": {
+        "castURL": "https://pro.imdb.com/title/tt0084293/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_63",
+        "individualURL": "gr2857325061",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 11897978.0,
+                    "countryOpeningAmount": 3015497.0,
+                    "countryReleaseDate": "02/12/1982"
+                }
+            ]
+        },
+        "movieName": "Making Love"
+    },
+    "gr2904838661": {
+        "castURL": "https://pro.imdb.com/title/tt0084714/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_123",
+        "individualURL": "gr2904838661",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 263635.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/01/1982"
+                }
+            ]
+        },
+        "movieName": "Split Image"
+    },
+    "gr2980663813": {
+        "castURL": "https://pro.imdb.com/title/tt0083866/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_1",
+        "individualURL": "gr2980663813",
+        "markets": {
+            "asia_pacific": [
+                {
+                    "country": "Australia",
+                    "countryGrossAmount": 18464000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/26/1982"
+                },
+                {
+                    "country": "Hong Kong",
+                    "countryGrossAmount": 3034000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/12/1983"
+                },
+                {
+                    "country": "Japan",
+                    "countryGrossAmount": 66928000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/04/1982"
+                },
+                {
+                    "country": "New Zealand",
+                    "countryGrossAmount": 1834000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/03/1982"
+                },
+                {
+                    "country": "Philippines",
+                    "countryGrossAmount": 1172000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/14/1983"
+                },
+                {
+                    "country": "Taiwan",
+                    "countryGrossAmount": 3359000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/13/1983"
+                },
+                {
+                    "country": "Thailand",
+                    "countryGrossAmount": 896000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/01/1983"
+                }
+            ],
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 359197037.0,
+                    "countryOpeningAmount": 11835389.0,
+                    "countryReleaseDate": "06/11/1982"
+                }
+            ],
+            "emea": [
+                {
+                    "country": "Austria",
+                    "countryGrossAmount": 2183000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/25/1983"
+                },
+                {
+                    "country": "Belgium",
+                    "countryGrossAmount": 4532000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/09/1982"
+                },
+                {
+                    "country": "Denmark",
+                    "countryGrossAmount": 3235000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/26/1982"
+                },
+                {
+                    "country": "Egypt",
+                    "countryGrossAmount": 104000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/25/1983"
+                },
+                {
+                    "country": "Finland",
+                    "countryGrossAmount": 2134000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/17/1982"
+                },
+                {
+                    "country": "France",
+                    "countryGrossAmount": 27588000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/01/1982"
+                },
+                {
+                    "country": "Germany",
+                    "countryGrossAmount": 23723000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/10/1982"
+                },
+                {
+                    "country": "Greece",
+                    "countryGrossAmount": 585000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/30/1982"
+                },
+                {
+                    "country": "Israel",
+                    "countryGrossAmount": 1630000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/11/1982"
+                },
+                {
+                    "country": "Italy",
+                    "countryGrossAmount": 19003000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/07/1982"
+                },
+                {
+                    "country": "Lebanon",
+                    "countryGrossAmount": 128000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/27/1982"
+                },
+                {
+                    "country": "Netherlands",
+                    "countryGrossAmount": 5091000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/02/1982"
+                },
+                {
+                    "country": "Norway",
+                    "countryGrossAmount": 2463000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/26/1982"
+                },
+                {
+                    "country": "Portugal",
+                    "countryGrossAmount": 1359000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/17/1982"
+                },
+                {
+                    "country": "South Africa",
+                    "countryGrossAmount": 3258000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/26/1982"
+                },
+                {
+                    "country": "Spain",
+                    "countryGrossAmount": 13966000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/06/1982"
+                },
+                {
+                    "country": "Sweden",
+                    "countryGrossAmount": 5120000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/10/1982"
+                },
+                {
+                    "country": "Switzerland",
+                    "countryGrossAmount": 5796000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/01/1982"
+                },
+                {
+                    "country": "United Kingdom",
+                    "countryGrossAmount": 29614000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/10/1982"
+                }
+            ],
+            "latin_america": [
+                {
+                    "country": "Argentina",
+                    "countryGrossAmount": 2882000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1982"
+                },
+                {
+                    "country": "Brazil",
+                    "countryGrossAmount": 13382000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1982"
+                },
+                {
+                    "country": "Central America",
+                    "countryGrossAmount": 1518000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1982"
+                },
+                {
+                    "country": "Chile",
+                    "countryGrossAmount": 1603000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1982"
+                },
+                {
+                    "country": "Colombia",
+                    "countryGrossAmount": 1631000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1982"
+                },
+                {
+                    "country": "Dominican Republic",
+                    "countryGrossAmount": 263000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/23/1982"
+                },
+                {
+                    "country": "Ecuador",
+                    "countryGrossAmount": 294000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/25/1983"
+                },
+                {
+                    "country": "Lesser Antilles",
+                    "countryGrossAmount": 255000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1982"
+                },
+                {
+                    "country": "Mexico",
+                    "countryGrossAmount": 5219000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/16/1982"
+                },
+                {
+                    "country": "Peru",
+                    "countryGrossAmount": 893000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/16/1982"
+                },
+                {
+                    "country": "Uruguay",
+                    "countryGrossAmount": 260000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1982"
+                },
+                {
+                    "country": "Venezuela",
+                    "countryGrossAmount": 3155000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/15/1982"
+                }
+            ]
+        },
+        "movieName": "E.T. the Extra-Terrestrial"
+    },
+    "gr29839877": {
+        "castURL": "https://pro.imdb.com/title/tt0084827/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_22",
+        "individualURL": "gr29839877",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 33000000.0,
+                    "countryOpeningAmount": 4761795.0,
+                    "countryReleaseDate": "07/09/1982"
+                }
+            ]
+        },
+        "movieName": "TRON"
+    },
+    "gr2994295301": {
+        "castURL": "https://pro.imdb.com/title/tt0084945/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_46",
+        "individualURL": "gr2994295301",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 16897768.0,
+                    "countryOpeningAmount": 823548.0,
+                    "countryReleaseDate": "07/23/1982"
+                }
+            ]
+        },
+        "movieName": "Zapped!"
+    },
+    "gr3006681605": {
+        "castURL": "https://pro.imdb.com/title/tt0083296/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_58",
+        "individualURL": "gr3006681605",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 13258670.0,
+                    "countryOpeningAmount": 5250157.0,
+                    "countryReleaseDate": "05/28/1982"
+                }
+            ]
+        },
+        "movieName": "Visiting Hours"
+    },
+    "gr3040367109": {
+        "castURL": "https://pro.imdb.com/title/tt0084809/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_15",
+        "individualURL": "gr3040367109",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 47118057.0,
+                    "countryOpeningAmount": 6322804.0,
+                    "countryReleaseDate": "12/10/1982"
+                }
+            ]
+        },
+        "movieName": "The Toy"
+    },
+    "gr3057603077": {
+        "castURL": "https://pro.imdb.com/title/tt0084395/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_68",
+        "individualURL": "gr3057603077",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 10054150.0,
+                    "countryOpeningAmount": 3086525.0,
+                    "countryReleaseDate": "10/29/1982"
+                }
+            ]
+        },
+        "movieName": "Class Reunion"
+    },
+    "gr3076149765": {
+        "castURL": "https://pro.imdb.com/title/tt0082005/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_81",
+        "individualURL": "gr3076149765",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6892098.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/12/1982"
+                }
+            ]
+        },
+        "movieName": "The Amateur"
+    },
+    "gr308695557": {
+        "castURL": "https://pro.imdb.com/title/tt0084412/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_36",
+        "individualURL": "gr308695557",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 21095638.0,
+                    "countryOpeningAmount": 2539633.0,
+                    "countryReleaseDate": "07/30/1982"
+                }
+            ]
+        },
+        "movieName": "Night Shift"
+    },
+    "gr3100791301": {
+        "castURL": "https://pro.imdb.com/title/tt0084602/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_5",
+        "individualURL": "gr3100791301",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 124146897.0,
+                    "countryOpeningAmount": 12431486.0,
+                    "countryReleaseDate": "05/28/1982"
+                }
+            ]
+        },
+        "movieName": "Rocky III"
+    },
+    "gr3135459845": {
+        "castURL": "https://pro.imdb.com/title/tt0084503/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_33",
+        "individualURL": "gr3135459845",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 22244207.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/13/1982"
+                }
+            ]
+        },
+        "movieName": "Pink Floyd: The Wall"
+    },
+    "gr3192279557": {
+        "castURL": "https://pro.imdb.com/title/tt0084894/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_120",
+        "individualURL": "gr3192279557",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 524203.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/03/1982"
+                }
+            ]
+        },
+        "movieName": "The Weavers: Wasn't That a Time"
+    },
+    "gr3194376709": {
+        "castURL": "https://pro.imdb.com/title/tt0084749/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_18",
+        "individualURL": "gr3194376709",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 39103425.0,
+                    "countryOpeningAmount": 1798879.0,
+                    "countryReleaseDate": "04/23/1982"
+                }
+            ]
+        },
+        "movieName": "The Sword and the Sorcerer"
+    },
+    "gr326717957": {
+        "castURL": "https://pro.imdb.com/title/tt0084691/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_82",
+        "individualURL": "gr326717957",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6668025.0,
+                    "countryOpeningAmount": 978541.0,
+                    "countryReleaseDate": "12/17/1982"
+                }
+            ]
+        },
+        "movieName": "Six Weeks"
+    },
+    "gr3287110149": {
+        "castURL": "https://pro.imdb.com/title/tt0083798/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_44",
+        "individualURL": "gr3287110149",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 18196170.0,
+                    "countryOpeningAmount": 4289601.0,
+                    "countryReleaseDate": "05/21/1982"
+                }
+            ]
+        },
+        "movieName": "Dead Men Don't Wear Plaid"
+    },
+    "gr3354022405": {
+        "castURL": "https://pro.imdb.com/title/tt0084268/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_116",
+        "individualURL": "gr3354022405",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 946461.0,
+                    "countryOpeningAmount": 528559.0,
+                    "countryReleaseDate": "10/08/1982"
+                }
+            ]
+        },
+        "movieName": "Lookin' to Get Out"
+    },
+    "gr3372438021": {
+        "castURL": "https://pro.imdb.com/title/tt0084732/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_89",
+        "individualURL": "gr3372438021",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5979947.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/19/1982"
+                }
+            ]
+        },
+        "movieName": "Still of the Night"
+    },
+    "gr3396096517": {
+        "castURL": "https://pro.imdb.com/title/tt0083936/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_103",
+        "individualURL": "gr3396096517",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3355948.0,
+                    "countryOpeningAmount": 1624381.0,
+                    "countryReleaseDate": "05/21/1982"
+                }
+            ]
+        },
+        "movieName": "Fighting Back"
+    },
+    "gr3403960837": {
+        "castURL": "https://pro.imdb.com/title/tt0084690/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_40",
+        "individualURL": "gr3403960837",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 20225989.0,
+                    "countryOpeningAmount": 1946418.0,
+                    "countryReleaseDate": "07/16/1982"
+                }
+            ]
+        },
+        "movieName": "Six Pack"
+    },
+    "gr3424866821": {
+        "castURL": "https://pro.imdb.com/title/tt0083791/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_17",
+        "individualURL": "gr3424866821",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 40577001.0,
+                    "countryOpeningAmount": 4657335.0,
+                    "countryReleaseDate": "12/17/1982"
+                }
+            ]
+        },
+        "movieName": "The Dark Crystal"
+    },
+    "gr3436139013": {
+        "castURL": "https://pro.imdb.com/title/tt0084854/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_95",
+        "individualURL": "gr3436139013",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5229643.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/29/1982"
+                }
+            ]
+        },
+        "movieName": "Venom"
+    },
+    "gr3441512965": {
+        "castURL": "https://pro.imdb.com/title/tt0084237/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_84",
+        "individualURL": "gr3441512965",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6455330.0,
+                    "countryOpeningAmount": 2250000.0,
+                    "countryReleaseDate": "11/19/1982"
+                }
+            ]
+        },
+        "movieName": "The Last Unicorn"
+    },
+    "gr3446886917": {
+        "castURL": "https://pro.imdb.com/title/tt0084855/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_13",
+        "individualURL": "gr3446886917",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 53977250.0,
+                    "countryOpeningAmount": 100982.0,
+                    "countryReleaseDate": "12/10/1982"
+                }
+            ]
+        },
+        "movieName": "The Verdict"
+    },
+    "gr3461370373": {
+        "castURL": "https://pro.imdb.com/title/tt0084117/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_73",
+        "individualURL": "gr3461370373",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 8693512.0,
+                    "countryOpeningAmount": 2408000.0,
+                    "countryReleaseDate": "04/23/1982"
+                }
+            ]
+        },
+        "movieName": "If You Could See What I Hear"
+    },
+    "gr3492565509": {
+        "castURL": "https://pro.imdb.com/title/tt0084132/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_96",
+        "individualURL": "gr3492565509",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5200986.0,
+                    "countryOpeningAmount": 2326112.0,
+                    "countryReleaseDate": "09/17/1982"
+                }
+            ]
+        },
+        "movieName": "Inchon"
+    },
+    "gr3496366597": {
+        "castURL": "https://pro.imdb.com/title/tt0034492/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_32",
+        "individualURL": "gr3496366597",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 23000000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/04/1982"
+                }
+            ]
+        },
+        "movieName": "Bambi 1982 Re-release"
+    },
+    "gr3524481541": {
+        "castURL": "https://pro.imdb.com/title/tt0084865/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_26",
+        "individualURL": "gr3524481541",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 28215453.0,
+                    "countryOpeningAmount": 139634.0,
+                    "countryReleaseDate": "03/19/1982"
+                }
+            ]
+        },
+        "movieName": "Victor Victoria"
+    },
+    "gr3527430661": {
+        "castURL": "https://pro.imdb.com/title/tt0084516/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_9",
+        "individualURL": "gr3527430661",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 76606280.0,
+                    "countryOpeningAmount": 6896612.0,
+                    "countryReleaseDate": "06/04/1982"
+                }
+            ]
+        },
+        "movieName": "Poltergeist"
+    },
+    "gr3638776325": {
+        "castURL": "https://pro.imdb.com/title/tt0083701/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_126",
+        "individualURL": "gr3638776325",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 78350.0,
+                    "countryOpeningAmount": 78350.0,
+                    "countryReleaseDate": "11/19/1982"
+                }
+            ]
+        },
+        "movieName": "Bugs Bunny's 3rd Movie: 1001 Rabbit Tales"
+    },
+    "gr3656471045": {
+        "castURL": "https://pro.imdb.com/title/tt0082810/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_74",
+        "individualURL": "gr3656471045",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 8000000.0,
+                    "countryOpeningAmount": 1547912.0,
+                    "countryReleaseDate": "02/05/1982"
+                }
+            ]
+        },
+        "movieName": "Night Crossing"
+    },
+    "gr3661779461": {
+        "castURL": "https://pro.imdb.com/title/tt0084109/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_80",
+        "individualURL": "gr3661779461",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6968359.0,
+                    "countryOpeningAmount": 2170397.0,
+                    "countryReleaseDate": "03/26/1982"
+                }
+            ]
+        },
+        "movieName": "I Ought to Be in Pictures"
+    },
+    "gr3704246789": {
+        "castURL": "https://pro.imdb.com/title/tt0082639/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_130",
+        "individualURL": "gr3704246789",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 25728.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/15/1982"
+                }
+            ]
+        },
+        "movieName": "Ladies and Gentlemen, the Fabulous Stains"
+    },
+    "gr3710013957": {
+        "castURL": "https://pro.imdb.com/title/tt0084735/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_109",
+        "individualURL": "gr3710013957",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2519559.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/22/1982"
+                }
+            ]
+        },
+        "movieName": "A Stranger Is Watching"
+    },
+    "gr3712373253": {
+        "castURL": "https://pro.imdb.com/title/tt0084920/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_102",
+        "individualURL": "gr3712373253",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3583513.0,
+                    "countryOpeningAmount": 1412646.0,
+                    "countryReleaseDate": "05/14/1982"
+                }
+            ]
+        },
+        "movieName": "Wrong Is Right"
+    },
+    "gr3742978565": {
+        "castURL": "https://pro.imdb.com/title/tt0085640/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_129",
+        "individualURL": "gr3742978565",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 42914.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/17/1982"
+                }
+            ]
+        },
+        "movieName": "Hammett"
+    },
+    "gr3790623237": {
+        "castURL": "https://pro.imdb.com/title/tt0084633/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_67",
+        "individualURL": "gr3790623237",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 10413170.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/10/1982"
+                }
+            ]
+        },
+        "movieName": "Savannah Smiles"
+    },
+    "gr3860484613": {
+        "castURL": "https://pro.imdb.com/title/tt0083629/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_76",
+        "individualURL": "gr3860484613",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7742572.0,
+                    "countryOpeningAmount": 1250000.0,
+                    "countryReleaseDate": "02/12/1982"
+                }
+            ]
+        },
+        "movieName": "The Beast Within"
+    },
+    "gr388190725": {
+        "castURL": "https://pro.imdb.com/title/tt0084370/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_41",
+        "individualURL": "gr388190725",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 20123620.0,
+                    "countryOpeningAmount": 2400696.0,
+                    "countryReleaseDate": "10/08/1982"
+                }
+            ]
+        },
+        "movieName": "My Favorite Year"
+    },
+    "gr3882308101": {
+        "castURL": "https://pro.imdb.com/title/tt0084931/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_111",
+        "individualURL": "gr3882308101",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2279543.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/24/1982"
+                }
+            ]
+        },
+        "movieName": "Yes, Giorgio"
+    },
+    "gr3894497797": {
+        "castURL": "https://pro.imdb.com/title/tt0083908/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_87",
+        "individualURL": "gr3894497797",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6110000.0,
+                    "countryOpeningAmount": 1690774.0,
+                    "countryReleaseDate": "03/05/1982"
+                }
+            ]
+        },
+        "movieName": "Evil Under the Sun"
+    },
+    "gr3944960517": {
+        "castURL": "https://pro.imdb.com/title/tt0084776/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_98",
+        "individualURL": "gr3944960517",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5005245.0,
+                    "countryOpeningAmount": 80492.0,
+                    "countryReleaseDate": "09/03/1982"
+                }
+            ]
+        },
+        "movieName": "Tempest"
+    },
+    "gr3972157957": {
+        "castURL": "https://pro.imdb.com/title/tt0083619/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_112",
+        "individualURL": "gr3972157957",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1736123.0,
+                    "countryOpeningAmount": 285312.0,
+                    "countryReleaseDate": "02/19/1982"
+                }
+            ]
+        },
+        "movieName": "Barbarosa"
+    },
+    "gr3994309125": {
+        "castURL": "https://pro.imdb.com/title/tt0085636/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_53",
+        "individualURL": "gr3994309125",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14400000.0,
+                    "countryOpeningAmount": 6333259.0,
+                    "countryReleaseDate": "10/22/1982"
+                }
+            ]
+        },
+        "movieName": "Halloween III: Season of the Witch"
+    },
+    "gr4023538181": {
+        "castURL": "https://pro.imdb.com/title/tt0084434/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_3",
+        "individualURL": "gr4023538181",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 129795554.0,
+                    "countryOpeningAmount": 3304679.0,
+                    "countryReleaseDate": "07/30/1982"
+                }
+            ]
+        },
+        "movieName": "An Officer and a Gentleman"
+    },
+    "gr4030288389": {
+        "castURL": "https://pro.imdb.com/title/tt0084726/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_7",
+        "individualURL": "gr4030288389",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 78912963.0,
+                    "countryOpeningAmount": 14347221.0,
+                    "countryReleaseDate": "06/04/1982"
+                }
+            ]
+        },
+        "movieName": "Star Trek II: The Wrath of Khan"
+    },
+    "gr4058927621": {
+        "castURL": "https://pro.imdb.com/title/tt0084111/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_122",
+        "individualURL": "gr4058927621",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 291390.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/05/1982"
+                }
+            ]
+        },
+        "movieName": "I'm Dancing as Fast as I Can"
+    },
+    "gr4089860613": {
+        "castURL": "https://pro.imdb.com/title/tt0083564/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_12",
+        "individualURL": "gr4089860613",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 57059003.0,
+                    "countryOpeningAmount": 510632.0,
+                    "countryReleaseDate": "05/21/1982"
+                }
+            ]
+        },
+        "movieName": "Annie"
+    },
+    "gr4099691013": {
+        "castURL": "https://pro.imdb.com/title/tt0084445/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_119",
+        "individualURL": "gr4099691013",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 636796.0,
+                    "countryOpeningAmount": 389249.0,
+                    "countryReleaseDate": "02/12/1982"
+                }
+            ]
+        },
+        "movieName": "One from the Heart"
+    },
+    "gr4115223045": {
+        "castURL": "https://pro.imdb.com/title/tt0084316/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_91",
+        "individualURL": "gr4115223045",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5675599.0,
+                    "countryOpeningAmount": 2350021.0,
+                    "countryReleaseDate": "06/25/1982"
+                }
+            ]
+        },
+        "movieName": "Megaforce"
+    },
+    "gr41177605": {
+        "castURL": "https://pro.imdb.com/title/tt0083972/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_21",
+        "individualURL": "gr41177605",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 34581519.0,
+                    "countryOpeningAmount": 9406522.0,
+                    "countryReleaseDate": "08/13/1982"
+                }
+            ]
+        },
+        "movieName": "Friday the 13th Part III"
+    },
+    "gr4150940165": {
+        "castURL": "https://pro.imdb.com/title/tt0083947/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_124",
+        "individualURL": "gr4150940165",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 199078.0,
+                    "countryOpeningAmount": 43891.0,
+                    "countryReleaseDate": "11/12/1982"
+                }
+            ]
+        },
+        "movieName": "Five Days One Summer"
+    },
+    "gr4178924037": {
+        "castURL": "https://pro.imdb.com/title/tt0084597/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_20",
+        "individualURL": "gr4178924037",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 36299720.0,
+                    "countryOpeningAmount": 7780693.0,
+                    "countryReleaseDate": "03/12/1982"
+                }
+            ]
+        },
+        "movieName": "Richard Pryor: Live on the Sunset Strip"
+    },
+    "gr4192293381": {
+        "castURL": "https://pro.imdb.com/title/tt0084737/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_99",
+        "individualURL": "gr4192293381",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4968000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/16/1982"
+                }
+            ]
+        },
+        "movieName": "Summer Lovers"
+    },
+    "gr4236071429": {
+        "castURL": "https://pro.imdb.com/title/tt0084675/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_70",
+        "individualURL": "gr4236071429",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 9217530.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/22/1982"
+                }
+            ]
+        },
+        "movieName": "Shoot the Moon"
+    },
+    "gr4260516357": {
+        "castURL": "https://pro.imdb.com/title/tt0084156/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_108",
+        "individualURL": "gr4260516357",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2573342.0,
+                    "countryOpeningAmount": 1095003.0,
+                    "countryReleaseDate": "10/29/1982"
+                }
+            ]
+        },
+        "movieName": "It Came from Hollywood"
+    },
+    "gr444027397": {
+        "castURL": "https://pro.imdb.com/title/tt0084351/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_62",
+        "individualURL": "gr444027397",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 12408066.0,
+                    "countryOpeningAmount": 3631834.0,
+                    "countryReleaseDate": "10/22/1982"
+                }
+            ]
+        },
+        "movieName": "Monsignor"
+    },
+    "gr4542981": {
+        "castURL": "https://pro.imdb.com/title/tt0083530/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_28",
+        "individualURL": "gr4542981",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 27150534.0,
+                    "countryOpeningAmount": 5329208.0,
+                    "countryReleaseDate": "12/10/1982"
+                }
+            ]
+        },
+        "movieName": "Airplane II: The Sequel"
+    },
+    "gr457200133": {
+        "castURL": "https://pro.imdb.com/title/tt0084477/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_88",
+        "individualURL": "gr457200133",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6062898.0,
+                    "countryOpeningAmount": 2318801.0,
+                    "countryReleaseDate": "04/30/1982"
+                }
+            ]
+        },
+        "movieName": "Partners"
+    },
+    "gr457527813": {
+        "castURL": "https://pro.imdb.com/title/tt0083726/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_105",
+        "individualURL": "gr457527813",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2977706.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/23/1982"
+                }
+            ]
+        },
+        "movieName": "The Challenge"
+    },
+    "gr459559429": {
+        "castURL": "https://pro.imdb.com/title/tt0084805/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_2",
+        "individualURL": "gr459559429",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 177200000.0,
+                    "countryOpeningAmount": 5540470.0,
+                    "countryReleaseDate": "12/17/1982"
+                }
+            ]
+        },
+        "movieName": "Tootsie"
+    },
+    "gr521556485": {
+        "castURL": "https://pro.imdb.com/title/tt0084788/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_35",
+        "individualURL": "gr521556485",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 21134374.0,
+                    "countryOpeningAmount": 5906708.0,
+                    "countryReleaseDate": "08/06/1982"
+                }
+            ]
+        },
+        "movieName": "Things Are Tough All Over"
+    },
+    "gr526406149": {
+        "castURL": "https://pro.imdb.com/title/tt0084684/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_66",
+        "individualURL": "gr526406149",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 10490791.0,
+                    "countryOpeningAmount": 3693117.0,
+                    "countryReleaseDate": "04/02/1982"
+                }
+            ]
+        },
+        "movieName": "Silent Rage"
+    },
+    "gr541741573": {
+        "castURL": "https://pro.imdb.com/title/tt0084814/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_72",
+        "individualURL": "gr541741573",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 9056073.0,
+                    "countryOpeningAmount": 1341695.0,
+                    "countryReleaseDate": "12/17/1982"
+                }
+            ]
+        },
+        "movieName": "Trail of the Pink Panther"
+    },
+    "gr543117829": {
+        "castURL": "https://pro.imdb.com/title/tt0082971/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_34",
+        "individualURL": "gr543117829",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 21437879.0,
+                    "countryOpeningAmount": 4347101.0,
+                    "countryReleaseDate": "07/16/1982"
+                }
+            ]
+        },
+        "movieName": "Raiders of the Lost Ark 1982 Re-release"
+    },
+    "gr544297477": {
+        "castURL": "https://pro.imdb.com/title/tt0083641/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_19",
+        "individualURL": "gr544297477",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 36821203.0,
+                    "countryOpeningAmount": 4022891.0,
+                    "countryReleaseDate": "12/17/1982"
+                }
+            ]
+        },
+        "movieName": "Best Friends"
+    },
+    "gr551834117": {
+        "castURL": "https://pro.imdb.com/title/tt0084352/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_121",
+        "individualURL": "gr551834117",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 327958.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/25/1982"
+                }
+            ]
+        },
+        "movieName": "Monty Python Live at the Hollywood Bowl"
+    },
+    "gr573985285": {
+        "castURL": "https://pro.imdb.com/title/tt0084489/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_92",
+        "individualURL": "gr573985285",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5672311.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/05/1982"
+                }
+            ]
+        },
+        "movieName": "Personal Best"
+    },
+    "gr625889797": {
+        "castURL": "https://pro.imdb.com/title/tt0083885/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_114",
+        "individualURL": "gr625889797",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1474249.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/10/1982"
+                }
+            ]
+        },
+        "movieName": "Endangered Species"
+    },
+    "gr671830533": {
+        "castURL": "https://pro.imdb.com/title/tt0084088/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_100",
+        "individualURL": "gr671830533",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4484991.0,
+                    "countryOpeningAmount": 667727.0,
+                    "countryReleaseDate": "12/17/1982"
+                }
+            ]
+        },
+        "movieName": "Honkytonk Man"
+    },
+    "gr685462021": {
+        "castURL": "https://pro.imdb.com/title/tt0083642/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_10",
+        "individualURL": "gr685462021",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 69701637.0,
+                    "countryOpeningAmount": 11874268.0,
+                    "countryReleaseDate": "07/23/1982"
+                }
+            ]
+        },
+        "movieName": "The Best Little Whorehouse in Texas"
+    },
+    "gr726684165": {
+        "castURL": "https://pro.imdb.com/title/tt0083944/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_4",
+        "individualURL": "gr726684165",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 47212904.0,
+                    "countryOpeningAmount": 6642005.0,
+                    "countryReleaseDate": "10/22/1982"
+                }
+            ]
+        },
+        "movieName": "First Blood"
+    },
+    "gr758600197": {
+        "castURL": "https://pro.imdb.com/title/tt0084329/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_71",
+        "individualURL": "gr758600197",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 9077269.0,
+                    "countryOpeningAmount": 2514478.0,
+                    "countryReleaseDate": "07/16/1982"
+                }
+            ]
+        },
+        "movieName": "A Midsummer Night's Sex Comedy"
+    },
+    "gr779899397": {
+        "castURL": "https://pro.imdb.com/title/tt0083745/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_117",
+        "individualURL": "gr779899397",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 840958.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/12/1982"
+                }
+            ]
+        },
+        "movieName": "Come Back to the 5 & Dime Jimmy Dean, Jimmy Dean"
+    },
+    "gr834753029": {
+        "castURL": "https://pro.imdb.com/title/tt0083511/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_8",
+        "individualURL": "gr834753029",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 78868508.0,
+                    "countryOpeningAmount": 4369868.0,
+                    "countryReleaseDate": "12/10/1982"
+                }
+            ]
+        },
+        "movieName": "48 Hrs."
+    },
+    "gr875057669": {
+        "castURL": "https://pro.imdb.com/title/tt0082250/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_48",
+        "individualURL": "gr875057669",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 16100000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/19/1982"
+                }
+            ]
+        },
+        "movieName": "Death Wish II"
+    },
+    "gr925454853": {
+        "castURL": "https://pro.imdb.com/title/tt0084658/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_115",
+        "individualURL": "gr925454853",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1054328.0,
+                    "countryOpeningAmount": 434884.0,
+                    "countryReleaseDate": "10/22/1982"
+                }
+            ]
+        },
+        "movieName": "The Sender"
+    },
+    "gr928272901": {
+        "castURL": "https://pro.imdb.com/title/tt0084171/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_101",
+        "individualURL": "gr928272901",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3792188.0,
+                    "countryOpeningAmount": 819476.0,
+                    "countryReleaseDate": "10/01/1982"
+                }
+            ]
+        },
+        "movieName": "Jekyll and Hyde... Together Again"
+    },
+    "gr958943749": {
+        "castURL": "https://pro.imdb.com/title/tt0083678/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1982_86",
+        "individualURL": "gr958943749",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6118683.0,
+                    "countryOpeningAmount": 516014.0,
+                    "countryReleaseDate": "01/29/1982"
+                }
+            ]
+        },
+        "movieName": "The Border"
+    }
+}

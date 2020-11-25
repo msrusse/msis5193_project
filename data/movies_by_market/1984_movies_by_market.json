@@ -1,0 +1,2894 @@
+{
+    "gr1006326277": {
+        "castURL": "https://pro.imdb.com/title/tt0087050/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_64",
+        "individualURL": "gr1006326277",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14568989.0,
+                    "countryOpeningAmount": 2042821.0,
+                    "countryReleaseDate": "03/09/1984"
+                }
+            ]
+        },
+        "movieName": "Children of the Corn"
+    },
+    "gr1009275397": {
+        "castURL": "https://pro.imdb.com/title/tt0087265/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_43",
+        "individualURL": "gr1009275397",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 23859382.0,
+                    "countryOpeningAmount": 2015076.0,
+                    "countryReleaseDate": "12/21/1984"
+                }
+            ]
+        },
+        "movieName": "The Flamingo Kid"
+    },
+    "gr1010782725": {
+        "castURL": "https://pro.imdb.com/title/tt0087730/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_143",
+        "individualURL": "gr1010782725",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1525532.0,
+                    "countryOpeningAmount": 916967.0,
+                    "countryReleaseDate": "03/30/1984"
+                }
+            ]
+        },
+        "movieName": "Misunderstood"
+    },
+    "gr103240197": {
+        "castURL": "https://pro.imdb.com/title/tt0088258/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_117",
+        "individualURL": "gr103240197",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4491645.0,
+                    "countryOpeningAmount": 30835.0,
+                    "countryReleaseDate": "03/02/1984"
+                }
+            ]
+        },
+        "movieName": "This Is Spinal Tap"
+    },
+    "gr1037783557": {
+        "castURL": "https://pro.imdb.com/title/tt0088395/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_78",
+        "individualURL": "gr1037783557",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 10530000.0,
+                    "countryOpeningAmount": 3665088.0,
+                    "countryReleaseDate": "04/06/1984"
+                }
+            ]
+        },
+        "movieName": "Where the Boys Are"
+    },
+    "gr104550917": {
+        "castURL": "https://pro.imdb.com/title/tt0085334/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_149",
+        "individualURL": "gr104550917",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1311065.0,
+                    "countryOpeningAmount": 119782.0,
+                    "countryReleaseDate": "11/21/1984"
+                }
+            ]
+        },
+        "movieName": "A Christmas Story 1984 Re-release"
+    },
+    "gr1063408133": {
+        "castURL": "https://pro.imdb.com/title/tt0088323/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_54",
+        "individualURL": "gr1063408133",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 20158808.0,
+                    "countryOpeningAmount": 4325823.0,
+                    "countryReleaseDate": "07/20/1984"
+                }
+            ]
+        },
+        "movieName": "The NeverEnding Story"
+    },
+    "gr1081430533": {
+        "castURL": "https://pro.imdb.com/title/tt0088000/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_17",
+        "individualURL": "gr1081430533",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 40874452.0,
+                    "countryOpeningAmount": 1513090.0,
+                    "countryReleaseDate": "07/20/1984"
+                }
+            ]
+        },
+        "movieName": "Revenge of the Nerds"
+    },
+    "gr1086870021": {
+        "castURL": "https://pro.imdb.com/title/tt0088024/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_98",
+        "individualURL": "gr1086870021",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6770587.0,
+                    "countryOpeningAmount": 1198279.0,
+                    "countryReleaseDate": "12/14/1984"
+                }
+            ]
+        },
+        "movieName": "Runaway"
+    },
+    "gr1114067461": {
+        "castURL": "https://pro.imdb.com/title/tt0088153/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_155",
+        "individualURL": "gr1114067461",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 865915.0,
+                    "countryOpeningAmount": 497406.0,
+                    "countryReleaseDate": "10/12/1984"
+                }
+            ]
+        },
+        "movieName": "Songwriter"
+    },
+    "gr1122783749": {
+        "castURL": "https://pro.imdb.com/title/tt0088242/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_33",
+        "individualURL": "gr1122783749",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 27774237.0,
+                    "countryOpeningAmount": 7013366.0,
+                    "countryReleaseDate": "10/05/1984"
+                }
+            ]
+        },
+        "movieName": "Teachers"
+    },
+    "gr1129337349": {
+        "castURL": "https://pro.imdb.com/title/tt0087781/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_15",
+        "individualURL": "gr1129337349",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 47951979.0,
+                    "countryOpeningAmount": 5088381.0,
+                    "countryReleaseDate": "05/11/1984"
+                }
+            ]
+        },
+        "movieName": "The Natural"
+    },
+    "gr1196184069": {
+        "castURL": "https://pro.imdb.com/title/tt0085575/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_148",
+        "individualURL": "gr1196184069",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1318839.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/01/1984"
+                }
+            ]
+        },
+        "movieName": "Gabriela"
+    },
+    "gr1243173381": {
+        "castURL": "https://pro.imdb.com/title/tt0087452/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_94",
+        "individualURL": "gr1243173381",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7343032.0,
+                    "countryOpeningAmount": 1836120.0,
+                    "countryReleaseDate": "04/13/1984"
+                }
+            ]
+        },
+        "movieName": "Iceman"
+    },
+    "gr1249726981": {
+        "castURL": "https://pro.imdb.com/title/tt0087015/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_115",
+        "individualURL": "gr1249726981",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4654423.0,
+                    "countryOpeningAmount": 1762922.0,
+                    "countryReleaseDate": "08/31/1984"
+                }
+            ]
+        },
+        "movieName": "C.H.U.D."
+    },
+    "gr1259098629": {
+        "castURL": "https://pro.imdb.com/title/tt0086886/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_110",
+        "individualURL": "gr1259098629",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5021751.0,
+                    "countryOpeningAmount": 1580990.0,
+                    "countryReleaseDate": "10/26/1984"
+                }
+            ]
+        },
+        "movieName": "American Dreamer"
+    },
+    "gr1260737029": {
+        "castURL": "https://pro.imdb.com/title/tt0086969/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_146",
+        "individualURL": "gr1260737029",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1455045.0,
+                    "countryOpeningAmount": 13720.0,
+                    "countryReleaseDate": "12/21/1984"
+                }
+            ]
+        },
+        "movieName": "Birdy"
+    },
+    "gr1294029317": {
+        "castURL": "https://pro.imdb.com/title/tt0088007/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_72",
+        "individualURL": "gr1294029317",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 11489982.0,
+                    "countryOpeningAmount": 30027.0,
+                    "countryReleaseDate": "12/21/1984"
+                }
+            ]
+        },
+        "movieName": "The River"
+    },
+    "gr1366512133": {
+        "castURL": "https://pro.imdb.com/title/tt0087175/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_70",
+        "individualURL": "gr1366512133",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 12145169.0,
+                    "countryOpeningAmount": 2257627.0,
+                    "countryReleaseDate": "08/17/1984"
+                }
+            ]
+        },
+        "movieName": "Dreamscape"
+    },
+    "gr1366839813": {
+        "castURL": "https://pro.imdb.com/title/tt0086856/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_101",
+        "individualURL": "gr1366839813",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6254148.0,
+                    "countryOpeningAmount": 620279.0,
+                    "countryReleaseDate": "08/10/1984"
+                }
+            ]
+        },
+        "movieName": "The Adventures of Buckaroo Banzai Across the 8th Dimension"
+    },
+    "gr1388335621": {
+        "castURL": "https://pro.imdb.com/title/tt0087262/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_61",
+        "individualURL": "gr1388335621",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 17080167.0,
+                    "countryOpeningAmount": 4726660.0,
+                    "countryReleaseDate": "05/11/1984"
+                }
+            ]
+        },
+        "movieName": "Firestarter"
+    },
+    "gr1390629381": {
+        "castURL": "https://pro.imdb.com/title/tt0087629/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_92",
+        "individualURL": "gr1390629381",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7828841.0,
+                    "countryOpeningAmount": 2632719.0,
+                    "countryReleaseDate": "10/19/1984"
+                }
+            ]
+        },
+        "movieName": "The Little Drummer Girl"
+    },
+    "gr1427198469": {
+        "castURL": "https://pro.imdb.com/title/tt0087700/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_106",
+        "individualURL": "gr1427198469",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5410972.0,
+                    "countryOpeningAmount": 2515268.0,
+                    "countryReleaseDate": "07/27/1984"
+                }
+            ]
+        },
+        "movieName": "Meatballs Part II"
+    },
+    "gr1444434437": {
+        "castURL": "https://pro.imdb.com/title/tt0088103/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_104",
+        "individualURL": "gr1444434437",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5778353.0,
+                    "countryOpeningAmount": 2950114.0,
+                    "countryReleaseDate": "08/17/1984"
+                }
+            ]
+        },
+        "movieName": "Sheena"
+    },
+    "gr1465995781": {
+        "castURL": "https://pro.imdb.com/title/tt0087042/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_124",
+        "individualURL": "gr1465995781",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3772785.0,
+                    "countryOpeningAmount": 1667881.0,
+                    "countryReleaseDate": "07/27/1984"
+                }
+            ]
+        },
+        "movieName": "Cheech & Chong's the Corsican Brothers"
+    },
+    "gr1467109893": {
+        "castURL": "https://pro.imdb.com/title/tt0086102/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_130",
+        "individualURL": "gr1467109893",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2878404.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/13/1984"
+                }
+            ]
+        },
+        "movieName": "Phar Lap"
+    },
+    "gr1498632709": {
+        "castURL": "https://pro.imdb.com/title/tt0087928/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_7",
+        "individualURL": "gr1498632709",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 81198894.0,
+                    "countryOpeningAmount": 8570007.0,
+                    "countryReleaseDate": "03/23/1984"
+                }
+            ]
+        },
+        "movieName": "Police Academy"
+    },
+    "gr1525764613": {
+        "castURL": "https://pro.imdb.com/title/tt0086232/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_147",
+        "individualURL": "gr1525764613",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1402962.0,
+                    "countryOpeningAmount": 550848.0,
+                    "countryReleaseDate": "03/02/1984"
+                }
+            ]
+        },
+        "movieName": "Sahara"
+    },
+    "gr153702917": {
+        "castURL": "https://pro.imdb.com/title/tt0086896/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_59",
+        "individualURL": "gr153702917",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 17488564.0,
+                    "countryOpeningAmount": 2214824.0,
+                    "countryReleaseDate": "01/13/1984"
+                }
+            ]
+        },
+        "movieName": "Angel"
+    },
+    "gr1545228805": {
+        "castURL": "https://pro.imdb.com/title/tt0085370/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_122",
+        "individualURL": "gr1545228805",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3974975.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/25/1984"
+                }
+            ]
+        },
+        "movieName": "Entre Nous"
+    },
+    "gr1578652165": {
+        "castURL": "https://pro.imdb.com/title/tt0087359/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_114",
+        "individualURL": "gr1578652165",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4743119.0,
+                    "countryOpeningAmount": 2194293.0,
+                    "countryReleaseDate": "08/03/1984"
+                }
+            ]
+        },
+        "movieName": "Grandview, U.S.A."
+    },
+    "gr1623937541": {
+        "castURL": "https://pro.imdb.com/title/tt0088333/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_71",
+        "individualURL": "gr1623937541",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 11708269.0,
+                    "countryOpeningAmount": 3210882.0,
+                    "countryReleaseDate": "04/06/1984"
+                }
+            ]
+        },
+        "movieName": "Up the Creek"
+    },
+    "gr1629245957": {
+        "castURL": "https://pro.imdb.com/title/tt0087538/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_5",
+        "individualURL": "gr1629245957",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 90815558.0,
+                    "countryOpeningAmount": 5031753.0,
+                    "countryReleaseDate": "06/22/1984"
+                }
+            ]
+        },
+        "movieName": "The Karate Kid"
+    },
+    "gr163860997": {
+        "castURL": "https://pro.imdb.com/title/tt0086879/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_13",
+        "individualURL": "gr163860997",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 51564280.0,
+                    "countryOpeningAmount": 505276.0,
+                    "countryReleaseDate": "09/21/1984"
+                }
+            ]
+        },
+        "movieName": "Amadeus"
+    },
+    "gr1645040133": {
+        "castURL": "https://pro.imdb.com/title/tt0088006/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_150",
+        "individualURL": "gr1645040133",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1142944.0,
+                    "countryOpeningAmount": 441466.0,
+                    "countryReleaseDate": "09/21/1984"
+                }
+            ]
+        },
+        "movieName": "The River Rat"
+    },
+    "gr1659982341": {
+        "castURL": "https://pro.imdb.com/title/tt0087072/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_152",
+        "individualURL": "gr1659982341",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1057368.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/10/1984"
+                }
+            ]
+        },
+        "movieName": "Comfort and Joy"
+    },
+    "gr1683509765": {
+        "castURL": "https://pro.imdb.com/title/tt0087096/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_162",
+        "individualURL": "gr1683509765",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 129268.0,
+                    "countryOpeningAmount": 58689.0,
+                    "countryReleaseDate": "02/17/1984"
+                }
+            ]
+        },
+        "movieName": "Crackers"
+    },
+    "gr1765233157": {
+        "castURL": "https://pro.imdb.com/title/tt0087921/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_24",
+        "individualURL": "gr1765233157",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 34901614.0,
+                    "countryOpeningAmount": 274279.0,
+                    "countryReleaseDate": "09/21/1984"
+                }
+            ]
+        },
+        "movieName": "Places in the Heart"
+    },
+    "gr1767199237": {
+        "castURL": "https://pro.imdb.com/title/tt0086837/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_18",
+        "individualURL": "gr1767199237",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 40400657.0,
+                    "countryOpeningAmount": 7393361.0,
+                    "countryReleaseDate": "12/07/1984"
+                }
+            ]
+        },
+        "movieName": "2010"
+    },
+    "gr1817006597": {
+        "castURL": "https://pro.imdb.com/title/tt0086960/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_2",
+        "individualURL": "gr1817006597",
+        "markets": {
+            "asia_pacific": [
+                {
+                    "country": "Australia",
+                    "countryGrossAmount": 2155670.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/04/1985"
+                },
+                {
+                    "country": "Hong Kong",
+                    "countryGrossAmount": 426841.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/17/1985"
+                },
+                {
+                    "country": "India",
+                    "countryGrossAmount": 21694.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Japan",
+                    "countryGrossAmount": 4148250.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/27/1985"
+                },
+                {
+                    "country": "Malaysia",
+                    "countryGrossAmount": 60515.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/21/1985"
+                },
+                {
+                    "country": "New Zealand",
+                    "countryGrossAmount": 121545.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/04/1985"
+                },
+                {
+                    "country": "Philippines",
+                    "countryGrossAmount": 60107.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/05/1985"
+                },
+                {
+                    "country": "Singapore",
+                    "countryGrossAmount": 229653.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/20/1985"
+                },
+                {
+                    "country": "Taiwan",
+                    "countryGrossAmount": 321649.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/29/1985"
+                },
+                {
+                    "country": "Thailand",
+                    "countryGrossAmount": 183963.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/04/1985"
+                }
+            ],
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 234760478.0,
+                    "countryOpeningAmount": 15214805.0,
+                    "countryReleaseDate": "12/05/1984"
+                }
+            ],
+            "emea": [
+                {
+                    "country": "Austria",
+                    "countryGrossAmount": 285542.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/29/1985"
+                },
+                {
+                    "country": "Belgium",
+                    "countryGrossAmount": 386320.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/27/1985"
+                },
+                {
+                    "country": "Denmark",
+                    "countryGrossAmount": 366151.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/08/1985"
+                },
+                {
+                    "country": "Egypt",
+                    "countryGrossAmount": 12057.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/10/1986"
+                },
+                {
+                    "country": "Finland",
+                    "countryGrossAmount": 229656.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/15/1985"
+                },
+                {
+                    "country": "France",
+                    "countryGrossAmount": 2967437.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/27/1985"
+                },
+                {
+                    "country": "Germany",
+                    "countryGrossAmount": 1958319.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/04/1985"
+                },
+                {
+                    "country": "Greece",
+                    "countryGrossAmount": 92984.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/21/1985"
+                },
+                {
+                    "country": "Israel",
+                    "countryGrossAmount": 262855.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/15/1985"
+                },
+                {
+                    "country": "Italy",
+                    "countryGrossAmount": 1115481.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/01/1985"
+                },
+                {
+                    "country": "Lebanon",
+                    "countryGrossAmount": 17542.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/06/1985"
+                },
+                {
+                    "country": "Netherlands",
+                    "countryGrossAmount": 778533.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/04/1985"
+                },
+                {
+                    "country": "Norway",
+                    "countryGrossAmount": 444497.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/18/1985"
+                },
+                {
+                    "country": "Portugal",
+                    "countryGrossAmount": 111124.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/01/1985"
+                },
+                {
+                    "country": "South Africa",
+                    "countryGrossAmount": 544360.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/26/1985"
+                },
+                {
+                    "country": "Spain",
+                    "countryGrossAmount": 657102.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/29/1985"
+                },
+                {
+                    "country": "Sweden",
+                    "countryGrossAmount": 1188696.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/15/1985"
+                },
+                {
+                    "country": "Switzerland",
+                    "countryGrossAmount": 406369.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/03/1985"
+                },
+                {
+                    "country": "United Kingdom",
+                    "countryGrossAmount": 1382048.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/25/1985"
+                }
+            ],
+            "latin_america": [
+                {
+                    "country": "Argentina",
+                    "countryGrossAmount": 538500.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/02/1985"
+                },
+                {
+                    "country": "Brazil",
+                    "countryGrossAmount": 1632952.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/25/1985"
+                },
+                {
+                    "country": "Central America+",
+                    "countryGrossAmount": 107139.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/24/1985"
+                },
+                {
+                    "country": "Chile",
+                    "countryGrossAmount": 123769.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/20/1985"
+                },
+                {
+                    "country": "Colombia",
+                    "countryGrossAmount": 140256.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/28/1985"
+                },
+                {
+                    "country": "Dominican Republic",
+                    "countryGrossAmount": 49275.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/04/1985"
+                },
+                {
+                    "country": "Ecuador",
+                    "countryGrossAmount": 89499.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/27/1985"
+                },
+                {
+                    "country": "Lesser Antilles",
+                    "countryGrossAmount": 92312.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/25/1985"
+                },
+                {
+                    "country": "Mexico",
+                    "countryGrossAmount": 569494.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/13/1985"
+                },
+                {
+                    "country": "Peru",
+                    "countryGrossAmount": 148134.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/09/1985"
+                },
+                {
+                    "country": "Uruguay",
+                    "countryGrossAmount": 32353.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/09/1985"
+                },
+                {
+                    "country": "Venezuela",
+                    "countryGrossAmount": 394694.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/27/1985"
+                }
+            ]
+        },
+        "movieName": "Beverly Hills Cop"
+    },
+    "gr1860194821": {
+        "castURL": "https://pro.imdb.com/title/tt0088322/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_133",
+        "individualURL": "gr1860194821",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2556800.0,
+                    "countryOpeningAmount": 31000.0,
+                    "countryReleaseDate": "06/15/1984"
+                }
+            ]
+        },
+        "movieName": "Under the Volcano"
+    },
+    "gr1861046789": {
+        "castURL": "https://pro.imdb.com/title/tt0088405/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_157",
+        "individualURL": "gr1861046789",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 343890.0,
+                    "countryOpeningAmount": 104754.0,
+                    "countryReleaseDate": "09/21/1984"
+                }
+            ]
+        },
+        "movieName": "Windy City"
+    },
+    "gr1929466373": {
+        "castURL": "https://pro.imdb.com/title/tt0087751/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_119",
+        "individualURL": "gr1929466373",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4385312.0,
+                    "countryOpeningAmount": 86280.0,
+                    "countryReleaseDate": "12/28/1984"
+                }
+            ]
+        },
+        "movieName": "Mrs. Soffel"
+    },
+    "gr1953190405": {
+        "castURL": "https://pro.imdb.com/title/tt0038417/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_81",
+        "individualURL": "gr1953190405",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 9719952.0,
+                    "countryOpeningAmount": 2862025.0,
+                    "countryReleaseDate": "08/10/1984"
+                }
+            ]
+        },
+        "movieName": "Cloak and Dagger"
+    },
+    "gr2012697093": {
+        "castURL": "https://pro.imdb.com/title/tt0087957/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_12",
+        "individualURL": "gr2012697093",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 68392977.0,
+                    "countryOpeningAmount": 7766201.0,
+                    "countryReleaseDate": "07/27/1984"
+                }
+            ]
+        },
+        "movieName": "Purple Rain"
+    },
+    "gr2014269957": {
+        "castURL": "https://pro.imdb.com/title/tt0087666/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_116",
+        "individualURL": "gr2014269957",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4561346.0,
+                    "countryOpeningAmount": 1760856.0,
+                    "countryReleaseDate": "05/18/1984"
+                }
+            ]
+        },
+        "movieName": "Making the Grade"
+    },
+    "gr2041205253": {
+        "castURL": "https://pro.imdb.com/title/tt0088379/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_129",
+        "individualURL": "gr2041205253",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2886225.0,
+                    "countryOpeningAmount": 574210.0,
+                    "countryReleaseDate": "09/07/1984"
+                }
+            ]
+        },
+        "movieName": "The Warrior and the Sorceress"
+    },
+    "gr2150519301": {
+        "castURL": "https://pro.imdb.com/title/tt0086992/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_153",
+        "individualURL": "gr2150519301",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1009700.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/20/1984"
+                }
+            ]
+        },
+        "movieName": "The Bostonians"
+    },
+    "gr2155172357": {
+        "castURL": "https://pro.imdb.com/title/tt0087981/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_160",
+        "individualURL": "gr2155172357",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 150140.0,
+                    "countryOpeningAmount": 89331.0,
+                    "countryReleaseDate": "11/16/1984"
+                }
+            ]
+        },
+        "movieName": "Razorback"
+    },
+    "gr2184008197": {
+        "castURL": "https://pro.imdb.com/title/tt0087718/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_37",
+        "individualURL": "gr2184008197",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 26080861.0,
+                    "countryOpeningAmount": 2742458.0,
+                    "countryReleaseDate": "12/21/1984"
+                }
+            ]
+        },
+        "movieName": "Micki + Maude"
+    },
+    "gr2189382149": {
+        "castURL": "https://pro.imdb.com/title/tt0087866/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_85",
+        "individualURL": "gr2189382149",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 8793152.0,
+                    "countryOpeningAmount": 2486418.0,
+                    "countryReleaseDate": "08/24/1984"
+                }
+            ]
+        },
+        "movieName": "Oxford Blues"
+    },
+    "gr2193641989": {
+        "castURL": "https://pro.imdb.com/title/tt0087332/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_3",
+        "individualURL": "gr2193641989",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 229242989.0,
+                    "countryOpeningAmount": 13578151.0,
+                    "countryReleaseDate": "06/08/1984"
+                }
+            ]
+        },
+        "movieName": "Ghostbusters"
+    },
+    "gr2205438469": {
+        "castURL": "https://pro.imdb.com/title/tt0087507/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_60",
+        "individualURL": "gr2205438469",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 17124395.0,
+                    "countryOpeningAmount": 2947746.0,
+                    "countryReleaseDate": "12/21/1984"
+                }
+            ]
+        },
+        "movieName": "Johnny Dangerously"
+    },
+    "gr2231456261": {
+        "castURL": "https://pro.imdb.com/title/tt0088161/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_11",
+        "individualURL": "gr2231456261",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 69821334.0,
+                    "countryOpeningAmount": 6174059.0,
+                    "countryReleaseDate": "03/09/1984"
+                }
+            ]
+        },
+        "movieName": "Splash"
+    },
+    "gr2232111621": {
+        "castURL": "https://pro.imdb.com/title/tt0083906/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_164",
+        "individualURL": "gr2232111621",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 123572.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/05/1984"
+                }
+            ]
+        },
+        "movieName": "Eureka"
+    },
+    "gr2322289157": {
+        "castURL": "https://pro.imdb.com/title/tt0061852/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_45",
+        "individualURL": "gr2322289157",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 23456945.0,
+                    "countryOpeningAmount": 5291670.0,
+                    "countryReleaseDate": "07/27/1984"
+                }
+            ]
+        },
+        "movieName": "The Jungle Book 1984 Re-release"
+    },
+    "gr2329760261": {
+        "castURL": "https://pro.imdb.com/title/tt0086999/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_63",
+        "individualURL": "gr2329760261",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 15101131.0,
+                    "countryOpeningAmount": 2921030.0,
+                    "countryReleaseDate": "12/21/1984"
+                }
+            ]
+        },
+        "movieName": "Breakin' 2: Electric Boogaloo"
+    },
+    "gr2348765701": {
+        "castURL": "https://pro.imdb.com/title/tt0087032/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_32",
+        "individualURL": "gr2348765701",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 28078073.0,
+                    "countryOpeningAmount": 8323948.0,
+                    "countryReleaseDate": "06/29/1984"
+                }
+            ]
+        },
+        "movieName": "Cannonball Run II"
+    },
+    "gr2350076421": {
+        "castURL": "https://pro.imdb.com/title/tt0086984/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_84",
+        "individualURL": "gr2350076421",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 8801940.0,
+                    "countryOpeningAmount": 2837978.0,
+                    "countryReleaseDate": "10/26/1984"
+                }
+            ]
+        },
+        "movieName": "Body Double"
+    },
+    "gr2359841285": {
+        "castURL": "https://pro.imdb.com/title/tt0088206/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_66",
+        "individualURL": "gr2359841285",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14296438.0,
+                    "countryOpeningAmount": 5738249.0,
+                    "countryReleaseDate": "11/21/1984"
+                }
+            ]
+        },
+        "movieName": "Supergirl"
+    },
+    "gr2365280773": {
+        "castURL": "https://pro.imdb.com/title/tt0088249/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_80",
+        "individualURL": "gr2365280773",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 10004817.0,
+                    "countryOpeningAmount": 4009866.0,
+                    "countryReleaseDate": "10/26/1984"
+                }
+            ]
+        },
+        "movieName": "Terror in the Aisles"
+    },
+    "gr239358469": {
+        "castURL": "https://pro.imdb.com/title/tt0087386/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_113",
+        "individualURL": "gr239358469",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4864980.0,
+                    "countryOpeningAmount": 1900000.0,
+                    "countryReleaseDate": "03/02/1984"
+                }
+            ]
+        },
+        "movieName": "Harry & Son"
+    },
+    "gr23941637": {
+        "castURL": "https://pro.imdb.com/title/tt0087956/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_140",
+        "individualURL": "gr23941637",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2075282.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/30/1984"
+                }
+            ]
+        },
+        "movieName": "Purple Hearts"
+    },
+    "gr2436583941": {
+        "castURL": "https://pro.imdb.com/title/tt0087995/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_163",
+        "individualURL": "gr2436583941",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 129000.0,
+                    "countryOpeningAmount": 95300.0,
+                    "countryReleaseDate": "03/02/1984"
+                }
+            ]
+        },
+        "movieName": "Repo Man"
+    },
+    "gr2487046661": {
+        "castURL": "https://pro.imdb.com/title/tt0087513/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_118",
+        "individualURL": "gr2487046661",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4463841.0,
+                    "countryOpeningAmount": 1913001.0,
+                    "countryReleaseDate": "08/03/1984"
+                }
+            ]
+        },
+        "movieName": "Joy of Sex"
+    },
+    "gr2495828485": {
+        "castURL": "https://pro.imdb.com/title/tt0086945/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_132",
+        "individualURL": "gr2495828485",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2687148.0,
+                    "countryOpeningAmount": 1160644.0,
+                    "countryReleaseDate": "09/28/1984"
+                }
+            ]
+        },
+        "movieName": "The Bear"
+    },
+    "gr2518700549": {
+        "castURL": "https://pro.imdb.com/title/tt0087803/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_87",
+        "individualURL": "gr2518700549",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 8430492.0,
+                    "countryOpeningAmount": 29897.0,
+                    "countryReleaseDate": "12/14/1984"
+                }
+            ]
+        },
+        "movieName": "1984"
+    },
+    "gr2519814661": {
+        "castURL": "https://pro.imdb.com/title/tt0087932/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_97",
+        "individualURL": "gr2519814661",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6836201.0,
+                    "countryOpeningAmount": 1544624.0,
+                    "countryReleaseDate": "06/22/1984"
+                }
+            ]
+        },
+        "movieName": "The Pope of Greenwich Village"
+    },
+    "gr2537640453": {
+        "castURL": "https://pro.imdb.com/title/tt0087260/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_145",
+        "individualURL": "gr2537640453",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1467396.0,
+                    "countryOpeningAmount": 865207.0,
+                    "countryReleaseDate": "05/18/1984"
+                }
+            ]
+        },
+        "movieName": "Finders Keepers"
+    },
+    "gr2551403013": {
+        "castURL": "https://pro.imdb.com/title/tt0088402/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_76",
+        "individualURL": "gr2551403013",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 11020375.0,
+                    "countryOpeningAmount": 4001400.0,
+                    "countryReleaseDate": "09/28/1984"
+                }
+            ]
+        },
+        "movieName": "The Wild Life"
+    },
+    "gr2699121157": {
+        "castURL": "https://pro.imdb.com/title/tt0087233/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_74",
+        "individualURL": "gr2699121157",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 11129057.0,
+                    "countryOpeningAmount": 2293710.0,
+                    "countryReleaseDate": "11/21/1984"
+                }
+            ]
+        },
+        "movieName": "Falling in Love"
+    },
+    "gr2703249925": {
+        "castURL": "https://pro.imdb.com/title/tt0087805/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_93",
+        "individualURL": "gr2703249925",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7610785.0,
+                    "countryOpeningAmount": 1727546.0,
+                    "countryReleaseDate": "09/14/1984"
+                }
+            ]
+        },
+        "movieName": "Ninja III: The Domination"
+    },
+    "gr2709475845": {
+        "castURL": "https://pro.imdb.com/title/tt0087062/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_22",
+        "individualURL": "gr2709475845",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 38348988.0,
+                    "countryOpeningAmount": 6301694.0,
+                    "countryReleaseDate": "12/07/1984"
+                }
+            ]
+        },
+        "movieName": "City Heat"
+    },
+    "gr2739425797": {
+        "castURL": "https://pro.imdb.com/title/tt0087799/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_65",
+        "individualURL": "gr2739425797",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14418922.0,
+                    "countryOpeningAmount": 3580578.0,
+                    "countryReleaseDate": "11/16/1984"
+                }
+            ]
+        },
+        "movieName": "Night of the Comet"
+    },
+    "gr2747879941": {
+        "castURL": "https://pro.imdb.com/title/tt0087727/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_46",
+        "individualURL": "gr2747879941",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 22812411.0,
+                    "countryOpeningAmount": 6101460.0,
+                    "countryReleaseDate": "11/16/1984"
+                }
+            ]
+        },
+        "movieName": "Missing in Action"
+    },
+    "gr2787004933": {
+        "castURL": "https://pro.imdb.com/title/tt0088194/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_90",
+        "individualURL": "gr2787004933",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 8089290.0,
+                    "countryOpeningAmount": 2426500.0,
+                    "countryReleaseDate": "06/01/1984"
+                }
+            ]
+        },
+        "movieName": "Streets of Fire"
+    },
+    "gr2884391429": {
+        "castURL": "https://pro.imdb.com/title/tt0087313/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_144",
+        "individualURL": "gr2884391429",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1493782.0,
+                    "countryOpeningAmount": 127192.0,
+                    "countryReleaseDate": "10/12/1984"
+                }
+            ]
+        },
+        "movieName": "Garbo Talks"
+    },
+    "gr2886488581": {
+        "castURL": "https://pro.imdb.com/title/tt0087222/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_68",
+        "individualURL": "gr2886488581",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 13102025.0,
+                    "countryOpeningAmount": 4538400.0,
+                    "countryReleaseDate": "09/21/1984"
+                }
+            ]
+        },
+        "movieName": "The Evil That Men Do"
+    },
+    "gr2905952773": {
+        "castURL": "https://pro.imdb.com/title/tt0087884/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_139",
+        "individualURL": "gr2905952773",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2181987.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/02/1984"
+                }
+            ]
+        },
+        "movieName": "Paris, Texas"
+    },
+    "gr2916110853": {
+        "castURL": "https://pro.imdb.com/title/tt0088011/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_6",
+        "individualURL": "gr2916110853",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 76572238.0,
+                    "countryOpeningAmount": 5105741.0,
+                    "countryReleaseDate": "03/30/1984"
+                }
+            ]
+        },
+        "movieName": "Romancing the Stone"
+    },
+    "gr3007336965": {
+        "castURL": "https://pro.imdb.com/title/tt0088001/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_50",
+        "individualURL": "gr3007336965",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 21435321.0,
+                    "countryOpeningAmount": 5459726.0,
+                    "countryReleaseDate": "06/22/1984"
+                }
+            ]
+        },
+        "movieName": "Rhinestone"
+    },
+    "gr3007730181": {
+        "castURL": "https://pro.imdb.com/title/tt0076538/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_121",
+        "individualURL": "gr3007730181",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4100000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/09/1984"
+                }
+            ]
+        },
+        "movieName": "Pete's Dragon 1984 Re-release"
+    },
+    "gr30233093": {
+        "castURL": "https://pro.imdb.com/title/tt0087004/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_126",
+        "individualURL": "gr30233093",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3677209.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/07/1984"
+                }
+            ]
+        },
+        "movieName": "The Brother from Another Planet"
+    },
+    "gr3042267653": {
+        "castURL": "https://pro.imdb.com/title/tt0086973/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_57",
+        "individualURL": "gr3042267653",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 18644570.0,
+                    "countryOpeningAmount": 3437660.0,
+                    "countryReleaseDate": "02/17/1984"
+                }
+            ]
+        },
+        "movieName": "Blame It on Rio"
+    },
+    "gr3072217605": {
+        "castURL": "https://pro.imdb.com/title/tt0087298/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_26",
+        "individualURL": "gr3072217605",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 32980880.0,
+                    "countryOpeningAmount": 11183148.0,
+                    "countryReleaseDate": "04/13/1984"
+                }
+            ]
+        },
+        "movieName": "Friday the 13th: The Final Chapter"
+    },
+    "gr3086045701": {
+        "castURL": "https://pro.imdb.com/title/tt0087951/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_36",
+        "individualURL": "gr3086045701",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 26186631.0,
+                    "countryOpeningAmount": 3427840.0,
+                    "countryReleaseDate": "12/21/1984"
+                }
+            ]
+        },
+        "movieName": "Protocol"
+    },
+    "gr3091616261": {
+        "castURL": "https://pro.imdb.com/title/tt0087589/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_58",
+        "individualURL": "gr3091616261",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 17513452.0,
+                    "countryOpeningAmount": 5027583.0,
+                    "countryReleaseDate": "02/17/1984"
+                }
+            ]
+        },
+        "movieName": "Lassiter"
+    },
+    "gr3103216133": {
+        "castURL": "https://pro.imdb.com/title/tt0087365/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_16",
+        "individualURL": "gr3103216133",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 45858563.0,
+                    "countryOpeningAmount": 6517732.0,
+                    "countryReleaseDate": "03/30/1984"
+                }
+            ]
+        },
+        "movieName": "Greystoke"
+    },
+    "gr3188609541": {
+        "castURL": "https://pro.imdb.com/title/tt0087006/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_141",
+        "individualURL": "gr3188609541",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1820049.0,
+                    "countryOpeningAmount": 524672.0,
+                    "countryReleaseDate": "01/20/1984"
+                }
+            ]
+        },
+        "movieName": "The Buddy System"
+    },
+    "gr3193786885": {
+        "castURL": "https://pro.imdb.com/title/tt0087003/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_77",
+        "individualURL": "gr3193786885",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 10600497.0,
+                    "countryOpeningAmount": 953794.0,
+                    "countryReleaseDate": "01/27/1984"
+                }
+            ]
+        },
+        "movieName": "Broadway Danny Rose"
+    },
+    "gr3245298181": {
+        "castURL": "https://pro.imdb.com/title/tt0087054/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_135",
+        "individualURL": "gr3245298181",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2490233.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/29/1984"
+                }
+            ]
+        },
+        "movieName": "Choose Me"
+    },
+    "gr3259257349": {
+        "castURL": "https://pro.imdb.com/title/tt0087747/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_42",
+        "individualURL": "gr3259257349",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 25068724.0,
+                    "countryOpeningAmount": 3536687.0,
+                    "countryReleaseDate": "04/06/1984"
+                }
+            ]
+        },
+        "movieName": "Moscow on the Hudson"
+    },
+    "gr3312472581": {
+        "castURL": "https://pro.imdb.com/title/tt0088213/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_99",
+        "individualURL": "gr3312472581",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6650206.0,
+                    "countryOpeningAmount": 2270136.0,
+                    "countryReleaseDate": "04/13/1984"
+                }
+            ]
+        },
+        "movieName": "Swing Shift"
+    },
+    "gr3320533509": {
+        "castURL": "https://pro.imdb.com/title/tt0087229/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_125",
+        "individualURL": "gr3320533509",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3739406.0,
+                    "countryOpeningAmount": 1204197.0,
+                    "countryReleaseDate": "09/14/1984"
+                }
+            ]
+        },
+        "movieName": "Exterminator 2"
+    },
+    "gr3328135685": {
+        "castURL": "https://pro.imdb.com/title/tt0085320/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_159",
+        "individualURL": "gr3328135685",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 200498.0,
+                    "countryOpeningAmount": 54262.0,
+                    "countryReleaseDate": "04/20/1984"
+                }
+            ]
+        },
+        "movieName": "Champions"
+    },
+    "gr3345175045": {
+        "castURL": "https://pro.imdb.com/title/tt0081366/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_154",
+        "individualURL": "gr3345175045",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 929162.0,
+                    "countryOpeningAmount": 929162.0,
+                    "countryReleaseDate": "01/20/1984"
+                }
+            ]
+        },
+        "movieName": "The Power"
+    },
+    "gr3357430277": {
+        "castURL": "https://pro.imdb.com/title/tt0088146/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_47",
+        "individualURL": "gr3357430277",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 21821347.0,
+                    "countryOpeningAmount": 156383.0,
+                    "countryReleaseDate": "09/14/1984"
+                }
+            ]
+        },
+        "movieName": "A Soldier's Story"
+    },
+    "gr3360182789": {
+        "castURL": "https://pro.imdb.com/title/tt0088330/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_120",
+        "individualURL": "gr3360182789",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4239154.0,
+                    "countryOpeningAmount": 1983321.0,
+                    "countryReleaseDate": "09/21/1984"
+                }
+            ]
+        },
+        "movieName": "Until September"
+    },
+    "gr3360838149": {
+        "castURL": "https://pro.imdb.com/title/tt0087385/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_95",
+        "individualURL": "gr3360838149",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7121719.0,
+                    "countryOpeningAmount": 2684599.0,
+                    "countryReleaseDate": "05/04/1984"
+                }
+            ]
+        },
+        "movieName": "Hardbodies"
+    },
+    "gr336417285": {
+        "castURL": "https://pro.imdb.com/title/tt0087451/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_67",
+        "individualURL": "gr336417285",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14255801.0,
+                    "countryOpeningAmount": 4358022.0,
+                    "countryReleaseDate": "03/16/1984"
+                }
+            ]
+        },
+        "movieName": "The Ice Pirates"
+    },
+    "gr3378401797": {
+        "castURL": "https://pro.imdb.com/title/tt0087197/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_138",
+        "individualURL": "gr3378401797",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2193612.0,
+                    "countryOpeningAmount": 1009586.0,
+                    "countryReleaseDate": "07/20/1984"
+                }
+            ]
+        },
+        "movieName": "Electric Dreams"
+    },
+    "gr3405468165": {
+        "castURL": "https://pro.imdb.com/title/tt0088184/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_136",
+        "individualURL": "gr3405468165",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2436000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/01/1984"
+                }
+            ]
+        },
+        "movieName": "Stranger Than Paradise"
+    },
+    "gr3407434245": {
+        "castURL": "https://pro.imdb.com/title/tt0088176/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_158",
+        "individualURL": "gr3407434245",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 261033.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/06/1984"
+                }
+            ]
+        },
+        "movieName": "The Stone Boy"
+    },
+    "gr3478278661": {
+        "castURL": "https://pro.imdb.com/title/tt0087722/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_151",
+        "individualURL": "gr3478278661",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1059966.0,
+                    "countryOpeningAmount": 234438.0,
+                    "countryReleaseDate": "03/09/1984"
+                }
+            ]
+        },
+        "movieName": "Mike's Murder"
+    },
+    "gr3481096709": {
+        "castURL": "https://pro.imdb.com/title/tt0087755/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_39",
+        "individualURL": "gr3481096709",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 25534703.0,
+                    "countryOpeningAmount": 4416022.0,
+                    "countryReleaseDate": "07/13/1984"
+                }
+            ]
+        },
+        "movieName": "The Muppets Take Manhattan"
+    },
+    "gr3514716677": {
+        "castURL": "https://pro.imdb.com/title/tt0086873/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_23",
+        "individualURL": "gr3514716677",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 36403064.0,
+                    "countryOpeningAmount": 5803848.0,
+                    "countryReleaseDate": "09/21/1984"
+                }
+            ]
+        },
+        "movieName": "All of Me"
+    },
+    "gr3542307333": {
+        "castURL": "https://pro.imdb.com/title/tt0088046/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_156",
+        "individualURL": "gr3542307333",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 526805.0,
+                    "countryOpeningAmount": 274933.0,
+                    "countryReleaseDate": "01/20/1984"
+                }
+            ]
+        },
+        "movieName": "Scandalous"
+    },
+    "gr3554759173": {
+        "castURL": "https://pro.imdb.com/title/tt0088178/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_112",
+        "individualURL": "gr3554759173",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4949438.0,
+                    "countryOpeningAmount": 41666.0,
+                    "countryReleaseDate": "10/19/1984"
+                }
+            ]
+        },
+        "movieName": "Stop Making Sense"
+    },
+    "gr3556987397": {
+        "castURL": "https://pro.imdb.com/title/tt0087100/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_128",
+        "individualURL": "gr3556987397",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2912945.0,
+                    "countryOpeningAmount": 1103210.0,
+                    "countryReleaseDate": "10/19/1984"
+                }
+            ]
+        },
+        "movieName": "Crimes of Passion"
+    },
+    "gr3572847109": {
+        "castURL": "https://pro.imdb.com/title/tt0087635/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_105",
+        "individualURL": "gr3572847109",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5718573.0,
+                    "countryOpeningAmount": 2072130.0,
+                    "countryReleaseDate": "01/27/1984"
+                }
+            ]
+        },
+        "movieName": "The Lonely Guy"
+    },
+    "gr3588641285": {
+        "castURL": "https://pro.imdb.com/title/tt0087428/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_109",
+        "individualURL": "gr3588641285",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5142858.0,
+                    "countryOpeningAmount": 1075800.0,
+                    "countryReleaseDate": "03/09/1984"
+                }
+            ]
+        },
+        "movieName": "The Hotel New Hampshire"
+    },
+    "gr3645723141": {
+        "castURL": "https://pro.imdb.com/title/tt0087553/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_25",
+        "individualURL": "gr3645723141",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 34700291.0,
+                    "countryOpeningAmount": 32181.0,
+                    "countryReleaseDate": "11/02/1984"
+                }
+            ]
+        },
+        "movieName": "The Killing Fields"
+    },
+    "gr365056517": {
+        "castURL": "https://pro.imdb.com/title/tt0087843/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_107",
+        "individualURL": "gr365056517",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5321508.0,
+                    "countryOpeningAmount": 2412014.0,
+                    "countryReleaseDate": "06/01/1984"
+                }
+            ]
+        },
+        "movieName": "Once Upon a Time in America"
+    },
+    "gr3662762501": {
+        "castURL": "https://pro.imdb.com/title/tt0087363/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_4",
+        "individualURL": "gr3662762501",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 148168459.0,
+                    "countryOpeningAmount": 12511634.0,
+                    "countryReleaseDate": "06/08/1984"
+                }
+            ]
+        },
+        "movieName": "Gremlins"
+    },
+    "gr366301701": {
+        "castURL": "https://pro.imdb.com/title/tt0086993/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_86",
+        "individualURL": "gr366301701",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 8613462.0,
+                    "countryOpeningAmount": 2622306.0,
+                    "countryReleaseDate": "05/04/1984"
+                }
+            ]
+        },
+        "movieName": "The Bounty"
+    },
+    "gr3664925189": {
+        "castURL": "https://pro.imdb.com/title/tt0087525/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_91",
+        "individualURL": "gr3664925189",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7889694.0,
+                    "countryOpeningAmount": 2291803.0,
+                    "countryReleaseDate": "11/16/1984"
+                }
+            ]
+        },
+        "movieName": "Just the Way You Are"
+    },
+    "gr3672723973": {
+        "castURL": "https://pro.imdb.com/title/tt0088318/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_137",
+        "individualURL": "gr3672723973",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2411143.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/16/1984"
+                }
+            ]
+        },
+        "movieName": "A Sunday in the Country"
+    },
+    "gr3713946117": {
+        "castURL": "https://pro.imdb.com/title/tt0032910/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_35",
+        "individualURL": "gr3713946117",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 26414038.0,
+                    "countryOpeningAmount": 3769251.0,
+                    "countryReleaseDate": "12/21/1984"
+                }
+            ]
+        },
+        "movieName": "Pinocchio 1984 Re-release"
+    },
+    "gr3779482117": {
+        "castURL": "https://pro.imdb.com/title/tt0087182/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_28",
+        "individualURL": "gr3779482117",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 30925690.0,
+                    "countryOpeningAmount": 6025091.0,
+                    "countryReleaseDate": "12/14/1984"
+                }
+            ]
+        },
+        "movieName": "Dune"
+    },
+    "gr3832828421": {
+        "castURL": "https://pro.imdb.com/title/tt0088128/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_44",
+        "individualURL": "gr3832828421",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 23686027.0,
+                    "countryOpeningAmount": 4461520.0,
+                    "countryReleaseDate": "05/04/1984"
+                }
+            ]
+        },
+        "movieName": "Sixteen Candles"
+    },
+    "gr3912782341": {
+        "castURL": "https://pro.imdb.com/title/tt0085871/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_108",
+        "individualURL": "gr3912782341",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5269990.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/27/1984"
+                }
+            ]
+        },
+        "movieName": "Love Letters"
+    },
+    "gr3923530245": {
+        "castURL": "https://pro.imdb.com/title/tt0088247/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_9",
+        "individualURL": "gr3923530245",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 38371200.0,
+                    "countryOpeningAmount": 4020663.0,
+                    "countryReleaseDate": "10/26/1984"
+                }
+            ]
+        },
+        "movieName": "The Terminator"
+    },
+    "gr3927921157": {
+        "castURL": "https://pro.imdb.com/title/tt0088172/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_30",
+        "individualURL": "gr3927921157",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 28744356.0,
+                    "countryOpeningAmount": 2872022.0,
+                    "countryReleaseDate": "12/14/1984"
+                }
+            ]
+        },
+        "movieName": "Starman"
+    },
+    "gr3944305157": {
+        "castURL": "https://pro.imdb.com/title/tt0086859/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_48",
+        "individualURL": "gr3944305157",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 21689062.0,
+                    "countryOpeningAmount": 3766128.0,
+                    "countryReleaseDate": "03/02/1984"
+                }
+            ]
+        },
+        "movieName": "Against All Odds"
+    },
+    "gr3974844933": {
+        "castURL": "https://pro.imdb.com/title/tt0088224/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_73",
+        "individualURL": "gr3974844933",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 11302884.0,
+                    "countryOpeningAmount": 4035960.0,
+                    "countryReleaseDate": "03/16/1984"
+                }
+            ]
+        },
+        "movieName": "Tank"
+    },
+    "gr3976811013": {
+        "castURL": "https://pro.imdb.com/title/tt0087597/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_31",
+        "individualURL": "gr3976811013",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 28733290.0,
+                    "countryOpeningAmount": 6011695.0,
+                    "countryReleaseDate": "07/13/1984"
+                }
+            ]
+        },
+        "movieName": "The Last Starfighter"
+    },
+    "gr4063777285": {
+        "castURL": "https://pro.imdb.com/title/tt0087089/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_38",
+        "individualURL": "gr4063777285",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 25928721.0,
+                    "countryOpeningAmount": 2903603.0,
+                    "countryReleaseDate": "12/14/1984"
+                }
+            ]
+        },
+        "movieName": "The Cotton Club"
+    },
+    "gr4076687877": {
+        "castURL": "https://pro.imdb.com/title/tt0087469/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_1",
+        "individualURL": "gr4076687877",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 179870271.0,
+                    "countryOpeningAmount": 25337110.0,
+                    "countryReleaseDate": "05/23/1984"
+                }
+            ]
+        },
+        "movieName": "Indiana Jones and the Temple of Doom"
+    },
+    "gr4101067269": {
+        "castURL": "https://pro.imdb.com/title/tt0087910/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_89",
+        "individualURL": "gr4101067269",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 8103330.0,
+                    "countryOpeningAmount": 1877000.0,
+                    "countryReleaseDate": "08/03/1984"
+                }
+            ]
+        },
+        "movieName": "The Philadelphia Experiment"
+    },
+    "gr410931717": {
+        "castURL": "https://pro.imdb.com/title/tt0088414/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_41",
+        "individualURL": "gr410931717",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 25308147.0,
+                    "countryOpeningAmount": 3159811.0,
+                    "countryReleaseDate": "08/17/1984"
+                }
+            ]
+        },
+        "movieName": "The Woman in Red"
+    },
+    "gr4132065797": {
+        "castURL": "https://pro.imdb.com/title/tt0088117/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_134",
+        "individualURL": "gr4132065797",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2491460.0,
+                    "countryOpeningAmount": 1432800.0,
+                    "countryReleaseDate": "11/09/1984"
+                }
+            ]
+        },
+        "movieName": "Silent Night, Deadly Night"
+    },
+    "gr4139799045": {
+        "castURL": "https://pro.imdb.com/title/tt0087464/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_131",
+        "individualURL": "gr4139799045",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2773433.0,
+                    "countryOpeningAmount": 995570.0,
+                    "countryReleaseDate": "09/28/1984"
+                }
+            ]
+        },
+        "movieName": "Impulse"
+    },
+    "gr4145893893": {
+        "castURL": "https://pro.imdb.com/title/tt0087078/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_27",
+        "individualURL": "gr4145893893",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 31042035.0,
+                    "countryOpeningAmount": 6958872.0,
+                    "countryReleaseDate": "06/29/1984"
+                }
+            ]
+        },
+        "movieName": "Conan the Destroyer"
+    },
+    "gr4161032709": {
+        "castURL": "https://pro.imdb.com/title/tt0087983/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_88",
+        "individualURL": "gr4161032709",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 8289916.0,
+                    "countryOpeningAmount": 2446016.0,
+                    "countryReleaseDate": "02/03/1984"
+                }
+            ]
+        },
+        "movieName": "Reckless"
+    },
+    "gr4185149957": {
+        "castURL": "https://pro.imdb.com/title/tt0088135/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_165",
+        "individualURL": "gr4185149957",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 108128.0,
+                    "countryOpeningAmount": 108128.0,
+                    "countryReleaseDate": "01/27/1984"
+                }
+            ]
+        },
+        "movieName": "Slayground"
+    },
+    "gr4213658117": {
+        "castURL": "https://pro.imdb.com/title/tt0086987/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_83",
+        "individualURL": "gr4213658117",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 8914881.0,
+                    "countryOpeningAmount": 4579240.0,
+                    "countryReleaseDate": "08/31/1984"
+                }
+            ]
+        },
+        "movieName": "Bolero"
+    },
+    "gr4241052165": {
+        "castURL": "https://pro.imdb.com/title/tt0087985/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_21",
+        "individualURL": "gr4241052165",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 38376497.0,
+                    "countryOpeningAmount": 8230381.0,
+                    "countryReleaseDate": "08/10/1984"
+                }
+            ]
+        },
+        "movieName": "Red Dawn"
+    },
+    "gr4257960453": {
+        "castURL": "https://pro.imdb.com/title/tt0087091/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_82",
+        "individualURL": "gr4257960453",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 9640000.0,
+                    "countryOpeningAmount": 24443.0,
+                    "countryReleaseDate": "09/28/1984"
+                }
+            ]
+        },
+        "movieName": "Country"
+    },
+    "gr4274475525": {
+        "castURL": "https://pro.imdb.com/title/tt0086955/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_56",
+        "individualURL": "gr4274475525",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 19265302.0,
+                    "countryOpeningAmount": 7872297.0,
+                    "countryReleaseDate": "07/20/1984"
+                }
+            ]
+        },
+        "movieName": "Best Defense"
+    },
+    "gr458248709": {
+        "castURL": "https://pro.imdb.com/title/tt0087397/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_161",
+        "individualURL": "gr458248709",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 148750.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/28/1984"
+                }
+            ]
+        },
+        "movieName": "Heartbreakers"
+    },
+    "gr49631749": {
+        "castURL": "https://pro.imdb.com/title/tt0088326/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_55",
+        "individualURL": "gr49631749",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 19928200.0,
+                    "countryOpeningAmount": 3774126.0,
+                    "countryReleaseDate": "02/10/1984"
+                }
+            ]
+        },
+        "movieName": "Unfaithfully Yours"
+    },
+    "gr510480901": {
+        "castURL": "https://pro.imdb.com/title/tt0088272/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_14",
+        "individualURL": "gr510480901",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 48143579.0,
+                    "countryOpeningAmount": 9156545.0,
+                    "countryReleaseDate": "08/17/1984"
+                }
+            ]
+        },
+        "movieName": "Tightrope"
+    },
+    "gr617566725": {
+        "castURL": "https://pro.imdb.com/title/tt0087263/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_102",
+        "individualURL": "gr617566725",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6250994.0,
+                    "countryOpeningAmount": 1606214.0,
+                    "countryReleaseDate": "10/26/1984"
+                }
+            ]
+        },
+        "movieName": "Firstborn"
+    },
+    "gr624185861": {
+        "castURL": "https://pro.imdb.com/title/tt0087892/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_34",
+        "individualURL": "gr624185861",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 27187653.0,
+                    "countryOpeningAmount": 84580.0,
+                    "countryReleaseDate": "12/14/1984"
+                }
+            ]
+        },
+        "movieName": "A Passage to India"
+    },
+    "gr640832005": {
+        "castURL": "https://pro.imdb.com/title/tt0088286/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_52",
+        "individualURL": "gr640832005",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 20458340.0,
+                    "countryOpeningAmount": 4406205.0,
+                    "countryReleaseDate": "06/22/1984"
+                }
+            ]
+        },
+        "movieName": "Top Secret!"
+    },
+    "gr651383301": {
+        "castURL": "https://pro.imdb.com/title/tt0086946/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_62",
+        "individualURL": "gr651383301",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 16595791.0,
+                    "countryOpeningAmount": 5218040.0,
+                    "countryReleaseDate": "06/08/1984"
+                }
+            ]
+        },
+        "movieName": "Beat Street"
+    },
+    "gr653873669": {
+        "castURL": "https://pro.imdb.com/title/tt0087980/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_100",
+        "individualURL": "gr653873669",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6551987.0,
+                    "countryOpeningAmount": 2411311.0,
+                    "countryReleaseDate": "10/19/1984"
+                }
+            ]
+        },
+        "movieName": "The Razor's Edge"
+    },
+    "gr667767301": {
+        "castURL": "https://pro.imdb.com/title/tt0087277/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_8",
+        "individualURL": "gr667767301",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 80035402.0,
+                    "countryOpeningAmount": 8556935.0,
+                    "countryReleaseDate": "02/17/1984"
+                }
+            ]
+        },
+        "movieName": "Footloose"
+    },
+    "gr66998789": {
+        "castURL": "https://pro.imdb.com/title/tt0087810/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_111",
+        "individualURL": "gr66998789",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4994094.0,
+                    "countryOpeningAmount": 2273469.0,
+                    "countryReleaseDate": "11/09/1984"
+                }
+            ]
+        },
+        "movieName": "No Small Affair"
+    },
+    "gr691032581": {
+        "castURL": "https://pro.imdb.com/title/tt0088385/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_51",
+        "individualURL": "gr691032581",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 21058033.0,
+                    "countryOpeningAmount": 1451676.0,
+                    "countryReleaseDate": "02/03/1984"
+                }
+            ]
+        },
+        "movieName": "Weekend Pass"
+    },
+    "gr711545349": {
+        "castURL": "https://pro.imdb.com/title/tt0087800/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_40",
+        "individualURL": "gr711545349",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 25504513.0,
+                    "countryOpeningAmount": 1271000.0,
+                    "countryReleaseDate": "11/09/1984"
+                }
+            ]
+        },
+        "movieName": "A Nightmare on Elm Street"
+    },
+    "gr721375749": {
+        "castURL": "https://pro.imdb.com/title/tt0086998/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_19",
+        "individualURL": "gr721375749",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 38682707.0,
+                    "countryOpeningAmount": 6047686.0,
+                    "countryReleaseDate": "05/04/1984"
+                }
+            ]
+        },
+        "movieName": "Breakin'"
+    },
+    "gr738284037": {
+        "castURL": "https://pro.imdb.com/title/tt0087482/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_69",
+        "individualURL": "gr738284037",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 12414210.0,
+                    "countryOpeningAmount": 3076894.0,
+                    "countryReleaseDate": "09/28/1984"
+                }
+            ]
+        },
+        "movieName": "Irreconcilable Differences"
+    },
+    "gr745296389": {
+        "castURL": "https://pro.imdb.com/title/tt0086877/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_96",
+        "individualURL": "gr745296389",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7035585.0,
+                    "countryOpeningAmount": 1172292.0,
+                    "countryReleaseDate": "05/04/1984"
+                }
+            ]
+        },
+        "movieName": "Alphabet City"
+    },
+    "gr760762885": {
+        "castURL": "https://pro.imdb.com/title/tt0087384/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_75",
+        "individualURL": "gr760762885",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 11113806.0,
+                    "countryOpeningAmount": 3410001.0,
+                    "countryReleaseDate": "04/06/1984"
+                }
+            ]
+        },
+        "movieName": "Hard to Hold"
+    },
+    "gr762663429": {
+        "castURL": "https://pro.imdb.com/title/tt0087425/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_53",
+        "individualURL": "gr762663429",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 20307325.0,
+                    "countryOpeningAmount": 4506756.0,
+                    "countryReleaseDate": "01/13/1984"
+                }
+            ]
+        },
+        "movieName": "Hot Dog... The Movie"
+    },
+    "gr776229381": {
+        "castURL": "https://pro.imdb.com/title/tt0080801/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_29",
+        "individualURL": "gr776229381",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 30031783.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/06/1984"
+                }
+            ]
+        },
+        "movieName": "The Gods Must Be Crazy"
+    },
+    "gr782848517": {
+        "castURL": "https://pro.imdb.com/title/tt0087268/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_123",
+        "individualURL": "gr782848517",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3854833.0,
+                    "countryOpeningAmount": 1916222.0,
+                    "countryReleaseDate": "08/31/1984"
+                }
+            ]
+        },
+        "movieName": "Flashpoint"
+    },
+    "gr787763717": {
+        "castURL": "https://pro.imdb.com/title/tt0087835/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_49",
+        "individualURL": "gr787763717",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 21538850.0,
+                    "countryOpeningAmount": 5560001.0,
+                    "countryReleaseDate": "11/09/1984"
+                }
+            ]
+        },
+        "movieName": "Oh, God! You Devil"
+    },
+    "gr792285701": {
+        "castURL": "https://pro.imdb.com/title/tt0086927/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_20",
+        "individualURL": "gr792285701",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 38435947.0,
+                    "countryOpeningAmount": 4573530.0,
+                    "countryReleaseDate": "06/29/1984"
+                }
+            ]
+        },
+        "movieName": "Bachelor Party"
+    },
+    "gr88035845": {
+        "castURL": "https://pro.imdb.com/title/tt0086985/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_142",
+        "individualURL": "gr88035845",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1689501.0,
+                    "countryOpeningAmount": 631849.0,
+                    "countryReleaseDate": "09/28/1984"
+                }
+            ]
+        },
+        "movieName": "Body Rock"
+    },
+    "gr891900421": {
+        "castURL": "https://pro.imdb.com/title/tt0085295/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_127",
+        "individualURL": "gr891900421",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2938179.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/15/1984"
+                }
+            ]
+        },
+        "movieName": "Careful, He Might Hear You"
+    },
+    "gr961892869": {
+        "castURL": "https://pro.imdb.com/title/tt0087968/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_103",
+        "individualURL": "gr961892869",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6045647.0,
+                    "countryOpeningAmount": 1803432.0,
+                    "countryReleaseDate": "03/23/1984"
+                }
+            ]
+        },
+        "movieName": "Racing with the Moon"
+    },
+    "gr991842821": {
+        "castURL": "https://pro.imdb.com/title/tt0088256/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_79",
+        "individualURL": "gr991842821",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 10435015.0,
+                    "countryOpeningAmount": 3091670.0,
+                    "countryReleaseDate": "10/19/1984"
+                }
+            ]
+        },
+        "movieName": "Thief of Hearts"
+    },
+    "gr997609989": {
+        "castURL": "https://pro.imdb.com/title/tt0088170/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1984_10",
+        "individualURL": "gr997609989",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 76471046.0,
+                    "countryOpeningAmount": 16673295.0,
+                    "countryReleaseDate": "06/01/1984"
+                }
+            ]
+        },
+        "movieName": "Star Trek III: The Search for Spock"
+    }
+}

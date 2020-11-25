@@ -1,0 +1,4716 @@
+{
+    "gr1001017861": {
+        "castURL": "https://pro.imdb.com/title/tt0093818/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_71",
+        "individualURL": "gr1001017861",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14792779.0,
+                    "countryOpeningAmount": 1522423.0,
+                    "countryReleaseDate": "01/30/1987"
+                }
+            ]
+        },
+        "movieName": "Radio Days"
+    },
+    "gr1014321669": {
+        "castURL": "https://pro.imdb.com/title/tt0094056/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_174",
+        "individualURL": "gr1014321669",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1119112.0,
+                    "countryOpeningAmount": 325835.0,
+                    "countryReleaseDate": "03/20/1987"
+                }
+            ]
+        },
+        "movieName": "Street Smart"
+    },
+    "gr1028084229": {
+        "castURL": "https://pro.imdb.com/title/tt0093253/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_179",
+        "individualURL": "gr1028084229",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 999382.0,
+                    "countryOpeningAmount": 45118.0,
+                    "countryReleaseDate": "09/16/1987"
+                }
+            ]
+        },
+        "movieName": "In the Mood"
+    },
+    "gr1044337157": {
+        "castURL": "https://pro.imdb.com/title/tt0094078/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_105",
+        "individualURL": "gr1044337157",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5711976.0,
+                    "countryOpeningAmount": 2256557.0,
+                    "countryReleaseDate": "10/09/1987"
+                }
+            ]
+        },
+        "movieName": "Surrender"
+    },
+    "gr1106072069": {
+        "castURL": "https://pro.imdb.com/title/tt0093664/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_146",
+        "individualURL": "gr1106072069",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2201428.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/01/1987"
+                }
+            ]
+        },
+        "movieName": "Dark Eyes"
+    },
+    "gr1128092165": {
+        "castURL": "https://pro.imdb.com/title/tt0092854/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_115",
+        "individualURL": "gr1128092165",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4546244.0,
+                    "countryOpeningAmount": 1847950.0,
+                    "countryReleaseDate": "02/20/1987"
+                }
+            ]
+        },
+        "movieName": "Death Before Dishonor"
+    },
+    "gr1145262597": {
+        "castURL": "https://pro.imdb.com/title/tt0094291/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_29",
+        "individualURL": "gr1145262597",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 43848069.0,
+                    "countryOpeningAmount": 4104611.0,
+                    "countryReleaseDate": "12/11/1987"
+                }
+            ]
+        },
+        "movieName": "Wall Street"
+    },
+    "gr1154437637": {
+        "castURL": "https://pro.imdb.com/title/tt0092627/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_80",
+        "individualURL": "gr1154437637",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 12640385.0,
+                    "countryOpeningAmount": 2919657.0,
+                    "countryReleaseDate": "01/16/1987"
+                }
+            ]
+        },
+        "movieName": "The Bedroom Window"
+    },
+    "gr1173508613": {
+        "castURL": "https://pro.imdb.com/title/tt0093278/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_73",
+        "individualURL": "gr1173508613",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14375181.0,
+                    "countryOpeningAmount": 4331817.0,
+                    "countryReleaseDate": "05/15/1987"
+                }
+            ]
+        },
+        "movieName": "Ishtar"
+    },
+    "gr1192907269": {
+        "castURL": "https://pro.imdb.com/title/tt0093857/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_44",
+        "individualURL": "gr1192907269",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 30063289.0,
+                    "countryOpeningAmount": 7900879.0,
+                    "countryReleaseDate": "07/10/1987"
+                }
+            ]
+        },
+        "movieName": "Revenge of the Nerds II: Nerds in Paradise"
+    },
+    "gr1242780165": {
+        "castURL": "https://pro.imdb.com/title/tt0092238/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_152",
+        "individualURL": "gr1242780165",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1777378.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/27/1987"
+                }
+            ]
+        },
+        "movieName": "Working Girls"
+    },
+    "gr1260671493": {
+        "castURL": "https://pro.imdb.com/title/tt0092804/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_103",
+        "individualURL": "gr1260671493",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5899797.0,
+                    "countryOpeningAmount": 318723.0,
+                    "countryReleaseDate": "11/06/1987"
+                }
+            ]
+        },
+        "movieName": "Cry Freedom"
+    },
+    "gr1271484933": {
+        "castURL": "https://pro.imdb.com/title/tt0092798/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_57",
+        "individualURL": "gr1271484933",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 20240502.0,
+                    "countryOpeningAmount": 5715701.0,
+                    "countryReleaseDate": "01/16/1987"
+                }
+            ]
+        },
+        "movieName": "Critical Condition"
+    },
+    "gr1291080197": {
+        "castURL": "https://pro.imdb.com/title/tt0093300/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_20",
+        "individualURL": "gr1291080197",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 20763013.0,
+                    "countryOpeningAmount": 7154890.0,
+                    "countryReleaseDate": "07/17/1987"
+                }
+            ]
+        },
+        "movieName": "Jaws: The Revenge"
+    },
+    "gr1309692421": {
+        "castURL": "https://pro.imdb.com/title/tt0092641/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_118",
+        "individualURL": "gr1309692421",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4278150.0,
+                    "countryOpeningAmount": 905399.0,
+                    "countryReleaseDate": "09/25/1987"
+                }
+            ]
+        },
+        "movieName": "Best Seller"
+    },
+    "gr1322078725": {
+        "castURL": "https://pro.imdb.com/title/tt0092690/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_64",
+        "individualURL": "gr1322078725",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 17355263.0,
+                    "countryOpeningAmount": 4359040.0,
+                    "countryReleaseDate": "08/21/1987"
+                }
+            ]
+        },
+        "movieName": "Born in East L.A."
+    },
+    "gr1325879813": {
+        "castURL": "https://pro.imdb.com/title/tt0094331/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_129",
+        "individualURL": "gr1325879813",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3283832.0,
+                    "countryOpeningAmount": 43611.0,
+                    "countryReleaseDate": "07/24/1987"
+                }
+            ]
+        },
+        "movieName": "Wish You Were Here"
+    },
+    "gr1372475909": {
+        "castURL": "https://pro.imdb.com/title/tt0094286/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_189",
+        "individualURL": "gr1372475909",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 751555.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/06/1987"
+                }
+            ]
+        },
+        "movieName": "American Playhouse: Waiting for the Moon"
+    },
+    "gr1374245381": {
+        "castURL": "https://pro.imdb.com/title/tt0093058/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_26",
+        "individualURL": "gr1374245381",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 46357676.0,
+                    "countryOpeningAmount": 2217307.0,
+                    "countryReleaseDate": "06/26/1987"
+                }
+            ]
+        },
+        "movieName": "Full Metal Jacket"
+    },
+    "gr1376473605": {
+        "castURL": "https://pro.imdb.com/title/tt0088939/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_117",
+        "individualURL": "gr1376473605",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4292009.0,
+                    "countryOpeningAmount": 816269.0,
+                    "countryReleaseDate": "01/16/1987"
+                }
+            ]
+        },
+        "movieName": "The Color Purple 1987 Re-release"
+    },
+    "gr138433029": {
+        "castURL": "https://pro.imdb.com/title/tt0094012/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_34",
+        "individualURL": "gr138433029",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 38119483.0,
+                    "countryOpeningAmount": 6613837.0,
+                    "countryReleaseDate": "06/26/1987"
+                }
+            ]
+        },
+        "movieName": "Spaceballs"
+    },
+    "gr1394692613": {
+        "castURL": "https://pro.imdb.com/title/tt0092666/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_32",
+        "individualURL": "gr1394692613",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 39321715.0,
+                    "countryOpeningAmount": 7531273.0,
+                    "countryReleaseDate": "03/27/1987"
+                }
+            ]
+        },
+        "movieName": "Blind Date"
+    },
+    "gr1398624773": {
+        "castURL": "https://pro.imdb.com/title/tt0093185/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_90",
+        "individualURL": "gr1398624773",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 9747988.0,
+                    "countryOpeningAmount": 2492618.0,
+                    "countryReleaseDate": "10/30/1987"
+                }
+            ]
+        },
+        "movieName": "The Hidden"
+    },
+    "gr1410814469": {
+        "castURL": "https://pro.imdb.com/title/tt0093638/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_134",
+        "individualURL": "gr1410814469",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2877571.0,
+                    "countryOpeningAmount": 1088273.0,
+                    "countryReleaseDate": "10/23/1987"
+                }
+            ]
+        },
+        "movieName": "No Man's Land"
+    },
+    "gr1433948677": {
+        "castURL": "https://pro.imdb.com/title/tt0093489/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_196",
+        "individualURL": "gr1433948677",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 519596.0,
+                    "countryOpeningAmount": 258812.0,
+                    "countryReleaseDate": "10/09/1987"
+                }
+            ]
+        },
+        "movieName": "Man on Fire"
+    },
+    "gr1440502277": {
+        "castURL": "https://pro.imdb.com/title/tt0093658/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_200",
+        "individualURL": "gr1440502277",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 410952.0,
+                    "countryOpeningAmount": 210761.0,
+                    "countryReleaseDate": "02/27/1987"
+                }
+            ]
+        },
+        "movieName": "Number One with a Bullet"
+    },
+    "gr1443713541": {
+        "castURL": "https://pro.imdb.com/title/tt0093737/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_78",
+        "individualURL": "gr1443713541",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 13290368.0,
+                    "countryOpeningAmount": 4455516.0,
+                    "countryReleaseDate": "09/18/1987"
+                }
+            ]
+        },
+        "movieName": "The Pick-up Artist"
+    },
+    "gr1447383557": {
+        "castURL": "https://pro.imdb.com/title/tt0093437/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_40",
+        "individualURL": "gr1447383557",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 32222567.0,
+                    "countryOpeningAmount": 5236318.0,
+                    "countryReleaseDate": "07/31/1987"
+                }
+            ]
+        },
+        "movieName": "The Lost Boys"
+    },
+    "gr1449742853": {
+        "castURL": "https://pro.imdb.com/title/tt0094020/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_206",
+        "individualURL": "gr1449742853",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 225358.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/20/1987"
+                }
+            ]
+        },
+        "movieName": "Square Dance"
+    },
+    "gr1459900933": {
+        "castURL": "https://pro.imdb.com/title/tt0093220/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_94",
+        "individualURL": "gr1459900933",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7800000.0,
+                    "countryOpeningAmount": 2573934.0,
+                    "countryReleaseDate": "08/28/1987"
+                }
+            ]
+        },
+        "movieName": "House II: The Second Story"
+    },
+    "gr1464291845": {
+        "castURL": "https://pro.imdb.com/title/tt0093828/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_184",
+        "individualURL": "gr1464291845",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 873903.0,
+                    "countryOpeningAmount": 241258.0,
+                    "countryReleaseDate": "09/25/1987"
+                }
+            ]
+        },
+        "movieName": "Real Men"
+    },
+    "gr1481200133": {
+        "castURL": "https://pro.imdb.com/title/tt0093044/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_81",
+        "individualURL": "gr1481200133",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 12423831.0,
+                    "countryOpeningAmount": 3636831.0,
+                    "countryReleaseDate": "08/28/1987"
+                }
+            ]
+        },
+        "movieName": "The Fourth Protocol"
+    },
+    "gr149049861": {
+        "castURL": "https://pro.imdb.com/title/tt0093771/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_163",
+        "individualURL": "gr149049861",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1432687.0,
+                    "countryOpeningAmount": 881793.0,
+                    "countryReleaseDate": "09/11/1987"
+                }
+            ]
+        },
+        "movieName": "A Prayer for the Dying"
+    },
+    "gr1490964997": {
+        "castURL": "https://pro.imdb.com/title/tt0093773/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_8",
+        "individualURL": "gr1490964997",
+        "markets": {
+            "asia_pacific": [
+                {
+                    "country": "Australia",
+                    "countryGrossAmount": 1326911.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/20/1987"
+                },
+                {
+                    "country": "Hong Kong",
+                    "countryGrossAmount": 993602.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/30/1987"
+                },
+                {
+                    "country": "India",
+                    "countryGrossAmount": 19173.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/30/1988"
+                },
+                {
+                    "country": "Japan",
+                    "countryGrossAmount": 6965715.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/27/1987"
+                },
+                {
+                    "country": "Malaysia",
+                    "countryGrossAmount": 318473.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/20/1987"
+                },
+                {
+                    "country": "New Zealand",
+                    "countryGrossAmount": 127943.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/14/1987"
+                },
+                {
+                    "country": "Philippines",
+                    "countryGrossAmount": 232470.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/01/1987"
+                },
+                {
+                    "country": "Singapore",
+                    "countryGrossAmount": 308835.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/26/1987"
+                },
+                {
+                    "country": "Taiwan",
+                    "countryGrossAmount": 731962.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/08/1987"
+                },
+                {
+                    "country": "Thailand",
+                    "countryGrossAmount": 111972.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/30/1987"
+                }
+            ],
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 59735548.0,
+                    "countryOpeningAmount": 12031638.0,
+                    "countryReleaseDate": "06/12/1987"
+                }
+            ],
+            "emea": [
+                {
+                    "country": "Austria",
+                    "countryGrossAmount": 300392.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/04/1987"
+                },
+                {
+                    "country": "Belgium",
+                    "countryGrossAmount": 251192.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/02/1987"
+                },
+                {
+                    "country": "Denmark",
+                    "countryGrossAmount": 164857.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/20/1987"
+                },
+                {
+                    "country": "Egypt",
+                    "countryGrossAmount": 37124.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/29/1988"
+                },
+                {
+                    "country": "Finland",
+                    "countryGrossAmount": 159484.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/16/1987"
+                },
+                {
+                    "country": "France",
+                    "countryGrossAmount": 7131087.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/19/1987"
+                },
+                {
+                    "country": "Germany",
+                    "countryGrossAmount": 2722580.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/12/1987"
+                },
+                {
+                    "country": "Greece and Cyprus",
+                    "countryGrossAmount": 187690.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/15/1987"
+                },
+                {
+                    "country": "Israel",
+                    "countryGrossAmount": 90364.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/18/1987"
+                },
+                {
+                    "country": "Italy",
+                    "countryGrossAmount": 2636188.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/28/1987"
+                },
+                {
+                    "country": "Netherlands",
+                    "countryGrossAmount": 141217.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/27/1987"
+                },
+                {
+                    "country": "Norway",
+                    "countryGrossAmount": 67293.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/24/1987"
+                },
+                {
+                    "country": "Portugal",
+                    "countryGrossAmount": 141828.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/11/1987"
+                },
+                {
+                    "country": "S/E/W Africa",
+                    "countryGrossAmount": 187289.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/25/1987"
+                },
+                {
+                    "country": "Spain",
+                    "countryGrossAmount": 2263918.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/27/1987"
+                },
+                {
+                    "country": "Sweden",
+                    "countryGrossAmount": 305598.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/23/1987"
+                },
+                {
+                    "country": "Switzerland",
+                    "countryGrossAmount": 261546.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/04/1987"
+                },
+                {
+                    "country": "United Kingdom",
+                    "countryGrossAmount": 4758975.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/07/1988"
+                }
+            ],
+            "latin_america": [
+                {
+                    "country": "Argentina",
+                    "countryGrossAmount": 667853.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/06/1987"
+                },
+                {
+                    "country": "Bolivia",
+                    "countryGrossAmount": 54497.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/01/1988"
+                },
+                {
+                    "country": "Brazil",
+                    "countryGrossAmount": 2294172.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/29/1987"
+                },
+                {
+                    "country": "Central America",
+                    "countryGrossAmount": 416048.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/30/1987"
+                },
+                {
+                    "country": "Chile",
+                    "countryGrossAmount": 131632.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/10/1987"
+                },
+                {
+                    "country": "Colombia",
+                    "countryGrossAmount": 349820.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/01/1987"
+                },
+                {
+                    "country": "Jamaica",
+                    "countryGrossAmount": 64750.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                },
+                {
+                    "country": "Mexico",
+                    "countryGrossAmount": 290231.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/30/1987"
+                },
+                {
+                    "country": "Peru",
+                    "countryGrossAmount": 150001.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1987"
+                },
+                {
+                    "country": "Puerto Rico",
+                    "countryGrossAmount": 513272.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/02/1987"
+                },
+                {
+                    "country": "Uruguay",
+                    "countryGrossAmount": 95849.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1987"
+                },
+                {
+                    "country": "Venezuela",
+                    "countryGrossAmount": 559107.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/09/1987"
+                }
+            ]
+        },
+        "movieName": "Predator"
+    },
+    "gr1496928773": {
+        "castURL": "https://pro.imdb.com/title/tt0092646/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_187",
+        "individualURL": "gr1496928773",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 790000.0,
+                    "countryOpeningAmount": 286840.0,
+                    "countryReleaseDate": "02/27/1987"
+                }
+            ]
+        },
+        "movieName": "Beyond Therapy"
+    },
+    "gr1508856325": {
+        "castURL": "https://pro.imdb.com/title/tt0092225/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_104",
+        "individualURL": "gr1508856325",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5715174.0,
+                    "countryOpeningAmount": 1994197.0,
+                    "countryReleaseDate": "01/02/1987"
+                }
+            ]
+        },
+        "movieName": "Wisdom"
+    },
+    "gr151802373": {
+        "castURL": "https://pro.imdb.com/title/tt0093428/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_21",
+        "individualURL": "gr151802373",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 51185897.0,
+                    "countryOpeningAmount": 11051284.0,
+                    "countryReleaseDate": "07/31/1987"
+                }
+            ]
+        },
+        "movieName": "The Living Daylights"
+    },
+    "gr1542476293": {
+        "castURL": "https://pro.imdb.com/title/tt0094074/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_69",
+        "individualURL": "gr1542476293",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 15681020.0,
+                    "countryOpeningAmount": 5683122.0,
+                    "countryReleaseDate": "07/24/1987"
+                }
+            ]
+        },
+        "movieName": "Superman IV: The Quest for Peace"
+    },
+    "gr1542607365": {
+        "castURL": "https://pro.imdb.com/title/tt0091756/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_216",
+        "individualURL": "gr1542607365",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 67421.0,
+                    "countryOpeningAmount": 8497.0,
+                    "countryReleaseDate": "07/17/1987"
+                }
+            ]
+        },
+        "movieName": "Ping Pong"
+    },
+    "gr1559319045": {
+        "castURL": "https://pro.imdb.com/title/tt0093239/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_164",
+        "individualURL": "gr1559319045",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1408491.0,
+                    "countryOpeningAmount": 25998.0,
+                    "countryReleaseDate": "09/11/1987"
+                }
+            ]
+        },
+        "movieName": "I've Heard the Mermaids Singing"
+    },
+    "gr1597264389": {
+        "castURL": "https://pro.imdb.com/title/tt0093166/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_214",
+        "individualURL": "gr1597264389",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 77886.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/17/1987"
+                }
+            ]
+        },
+        "movieName": "Heaven"
+    },
+    "gr1612861957": {
+        "castURL": "https://pro.imdb.com/title/tt0092513/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_38",
+        "individualURL": "gr1612861957",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 34368475.0,
+                    "countryOpeningAmount": 2901297.0,
+                    "countryReleaseDate": "07/03/1987"
+                }
+            ]
+        },
+        "movieName": "Adventures in Babysitting"
+    },
+    "gr1616990725": {
+        "castURL": "https://pro.imdb.com/title/tt0093042/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_221",
+        "individualURL": "gr1616990725",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 36786.0,
+                    "countryOpeningAmount": 10126.0,
+                    "countryReleaseDate": "04/24/1987"
+                }
+            ]
+        },
+        "movieName": "Forever, Lulu"
+    },
+    "gr1617908229": {
+        "castURL": "https://pro.imdb.com/title/tt0093277/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_96",
+        "individualURL": "gr1617908229",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7393346.0,
+                    "countryOpeningAmount": 36973.0,
+                    "countryReleaseDate": "12/18/1987"
+                }
+            ]
+        },
+        "movieName": "Ironweed"
+    },
+    "gr1659326981": {
+        "castURL": "https://pro.imdb.com/title/tt0092842/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_142",
+        "individualURL": "gr1659326981",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2413427.0,
+                    "countryOpeningAmount": 951548.0,
+                    "countryReleaseDate": "02/06/1987"
+                }
+            ]
+        },
+        "movieName": "Dead of Winter"
+    },
+    "gr1662210565": {
+        "castURL": "https://pro.imdb.com/title/tt0094071/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_202",
+        "individualURL": "gr1662210565",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 350481.0,
+                    "countryOpeningAmount": 114873.0,
+                    "countryReleaseDate": "05/29/1987"
+                }
+            ]
+        },
+        "movieName": "Summer Heat"
+    },
+    "gr1663455749": {
+        "castURL": "https://pro.imdb.com/title/tt0090003/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_217",
+        "individualURL": "gr1663455749",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 65817.0,
+                    "countryOpeningAmount": 1314.0,
+                    "countryReleaseDate": "06/05/1987"
+                }
+            ]
+        },
+        "movieName": "Shadey"
+    },
+    "gr167858693": {
+        "castURL": "https://pro.imdb.com/title/tt0089606/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_92",
+        "individualURL": "gr167858693",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 8345266.0,
+                    "countryOpeningAmount": 11667.0,
+                    "countryReleaseDate": "05/01/1987"
+                }
+            ]
+        },
+        "movieName": "My Life as a Dog"
+    },
+    "gr1679249925": {
+        "castURL": "https://pro.imdb.com/title/tt0093509/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_157",
+        "individualURL": "gr1679249925",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1680358.0,
+                    "countryOpeningAmount": 23850.0,
+                    "countryReleaseDate": "08/28/1987"
+                }
+            ]
+        },
+        "movieName": "Matewan"
+    },
+    "gr1714573829": {
+        "castURL": "https://pro.imdb.com/title/tt0093539/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_181",
+        "individualURL": "gr1714573829",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 989033.0,
+                    "countryOpeningAmount": 513731.0,
+                    "countryReleaseDate": "06/12/1987"
+                }
+            ]
+        },
+        "movieName": "Million Dollar Mystery"
+    },
+    "gr1717785093": {
+        "castURL": "https://pro.imdb.com/title/tt0094142/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_16",
+        "individualURL": "gr1717785093",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 57915972.0,
+                    "countryOpeningAmount": 7318878.0,
+                    "countryReleaseDate": "12/11/1987"
+                }
+            ]
+        },
+        "movieName": "Throw Momma from the Train"
+    },
+    "gr1751142917": {
+        "castURL": "https://pro.imdb.com/title/tt0093822/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_45",
+        "individualURL": "gr1751142917",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 22847564.0,
+                    "countryOpeningAmount": 36240.0,
+                    "countryReleaseDate": "03/13/1987"
+                }
+            ]
+        },
+        "movieName": "Raising Arizona"
+    },
+    "gr1779323397": {
+        "castURL": "https://pro.imdb.com/title/tt0042332/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_39",
+        "individualURL": "gr1779323397",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 34101149.0,
+                    "countryOpeningAmount": 5165881.0,
+                    "countryReleaseDate": "11/20/1987"
+                }
+            ]
+        },
+        "movieName": "Cinderella 1987 Re-release"
+    },
+    "gr1800622597": {
+        "castURL": "https://pro.imdb.com/title/tt0065421/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_63",
+        "individualURL": "gr1800622597",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 17452658.0,
+                    "countryOpeningAmount": 3168071.0,
+                    "countryReleaseDate": "04/10/1987"
+                }
+            ]
+        },
+        "movieName": "The Aristocats 1987 Re-release"
+    },
+    "gr1800753669": {
+        "castURL": "https://pro.imdb.com/title/tt0094226/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_10",
+        "individualURL": "gr1800753669",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 76270454.0,
+                    "countryOpeningAmount": 10023094.0,
+                    "countryReleaseDate": "06/05/1987"
+                }
+            ]
+        },
+        "movieName": "The Untouchables"
+    },
+    "gr1842172421": {
+        "castURL": "https://pro.imdb.com/title/tt0093204/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_228",
+        "individualURL": "gr1842172421",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 11660.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/04/1987"
+                }
+            ]
+        },
+        "movieName": "Home Is Where the Hart Is"
+    },
+    "gr1847153157": {
+        "castURL": "https://pro.imdb.com/title/tt0093409/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_6",
+        "individualURL": "gr1847153157",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 65207127.0,
+                    "countryOpeningAmount": 6829949.0,
+                    "countryReleaseDate": "03/06/1987"
+                }
+            ]
+        },
+        "movieName": "Lethal Weapon"
+    },
+    "gr1869763077": {
+        "castURL": "https://pro.imdb.com/title/tt0093692/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_68",
+        "individualURL": "gr1869763077",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 16057580.0,
+                    "countryOpeningAmount": 5149200.0,
+                    "countryReleaseDate": "02/13/1987"
+                }
+            ]
+        },
+        "movieName": "Over the Top"
+    },
+    "gr1880445445": {
+        "castURL": "https://pro.imdb.com/title/tt0092897/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_86",
+        "individualURL": "gr1880445445",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 10348437.0,
+                    "countryOpeningAmount": 2707980.0,
+                    "countryReleaseDate": "08/14/1987"
+                }
+            ]
+        },
+        "movieName": "Disorderlies"
+    },
+    "gr189157893": {
+        "castURL": "https://pro.imdb.com/title/tt0093145/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_220",
+        "individualURL": "gr189157893",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 41232.0,
+                    "countryOpeningAmount": 30625.0,
+                    "countryReleaseDate": "08/07/1987"
+                }
+            ]
+        },
+        "movieName": "Happy New Year"
+    },
+    "gr1947488773": {
+        "castURL": "https://pro.imdb.com/title/tt0093176/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_137",
+        "individualURL": "gr1947488773",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2683519.0,
+                    "countryOpeningAmount": 911351.0,
+                    "countryReleaseDate": "10/16/1987"
+                }
+            ]
+        },
+        "movieName": "Prom Night II"
+    },
+    "gr1949520389": {
+        "castURL": "https://pro.imdb.com/title/tt0094025/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_13",
+        "individualURL": "gr1949520389",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 65673233.0,
+                    "countryOpeningAmount": 5170403.0,
+                    "countryReleaseDate": "08/07/1987"
+                }
+            ]
+        },
+        "movieName": "Stakeout"
+    },
+    "gr1975996933": {
+        "castURL": "https://pro.imdb.com/title/tt0093164/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_135",
+        "individualURL": "gr1975996933",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2793214.0,
+                    "countryOpeningAmount": 1354375.0,
+                    "countryReleaseDate": "03/13/1987"
+                }
+            ]
+        },
+        "movieName": "Heat"
+    },
+    "gr1977569797": {
+        "castURL": "https://pro.imdb.com/title/tt0093137/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_76",
+        "individualURL": "gr1977569797",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 13839404.0,
+                    "countryOpeningAmount": 3360705.0,
+                    "countryReleaseDate": "08/28/1987"
+                }
+            ]
+        },
+        "movieName": "Hamburger Hill"
+    },
+    "gr1986089477": {
+        "castURL": "https://pro.imdb.com/title/tt0093223/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_139",
+        "individualURL": "gr1986089477",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2585639.0,
+                    "countryOpeningAmount": 116677.0,
+                    "countryReleaseDate": "10/16/1987"
+                }
+            ]
+        },
+        "movieName": "House of Games"
+    },
+    "gr2021544453": {
+        "castURL": "https://pro.imdb.com/title/tt0092758/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_190",
+        "individualURL": "gr2021544453",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 719323.0,
+                    "countryOpeningAmount": 156597.0,
+                    "countryReleaseDate": "10/09/1987"
+                }
+            ]
+        },
+        "movieName": "Chuck Berry Hail! Hail! Rock 'n' Roll"
+    },
+    "gr2029539845": {
+        "castURL": "https://pro.imdb.com/title/tt0094072/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_35",
+        "individualURL": "gr2029539845",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 35659098.0,
+                    "countryOpeningAmount": 6012274.0,
+                    "countryReleaseDate": "07/24/1987"
+                }
+            ]
+        },
+        "movieName": "Summer School"
+    },
+    "gr208425477": {
+        "castURL": "https://pro.imdb.com/title/tt0093776/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_158",
+        "individualURL": "gr208425477",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1654743.0,
+                    "countryOpeningAmount": 38643.0,
+                    "countryReleaseDate": "04/17/1987"
+                }
+            ]
+        },
+        "movieName": "Prick Up Your Ears"
+    },
+    "gr20861445": {
+        "castURL": "https://pro.imdb.com/title/tt0094008/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_87",
+        "individualURL": "gr20861445",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 10278549.0,
+                    "countryOpeningAmount": 2908796.0,
+                    "countryReleaseDate": "10/09/1987"
+                }
+            ]
+        },
+        "movieName": "Someone to Watch Over Me"
+    },
+    "gr2130596357": {
+        "castURL": "https://pro.imdb.com/title/tt0093898/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_147",
+        "individualURL": "gr2130596357",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2189047.0,
+                    "countryOpeningAmount": 1030101.0,
+                    "countryReleaseDate": "11/06/1987"
+                }
+            ]
+        },
+        "movieName": "Russkies"
+    },
+    "gr2132496901": {
+        "castURL": "https://pro.imdb.com/title/tt0094293/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_95",
+        "individualURL": "gr2132496901",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7555000.0,
+                    "countryOpeningAmount": 2845836.0,
+                    "countryReleaseDate": "01/16/1987"
+                }
+            ]
+        },
+        "movieName": "Wanted: Dead or Alive"
+    },
+    "gr2151764485": {
+        "castURL": "https://pro.imdb.com/title/tt0093966/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_107",
+        "individualURL": "gr2151764485",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5406879.0,
+                    "countryOpeningAmount": 1720351.0,
+                    "countryReleaseDate": "10/23/1987"
+                }
+            ]
+        },
+        "movieName": "The Sicilian"
+    },
+    "gr2179551749": {
+        "castURL": "https://pro.imdb.com/title/tt0094332/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_15",
+        "individualURL": "gr2179551749",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 63766510.0,
+                    "countryOpeningAmount": 9454238.0,
+                    "countryReleaseDate": "06/12/1987"
+                }
+            ]
+        },
+        "movieName": "The Witches of Eastwick"
+    },
+    "gr2210746885": {
+        "castURL": "https://pro.imdb.com/title/tt0089715/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_222",
+        "individualURL": "gr2210746885",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 29815.0,
+                    "countryOpeningAmount": 6273.0,
+                    "countryReleaseDate": "07/10/1987"
+                }
+            ]
+        },
+        "movieName": "O.C. and Stiggs"
+    },
+    "gr2234208773": {
+        "castURL": "https://pro.imdb.com/title/tt0093881/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_156",
+        "individualURL": "gr2234208773",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1730337.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/28/1987"
+                }
+            ]
+        },
+        "movieName": "The Rosary Murders"
+    },
+    "gr2280411653": {
+        "castURL": "https://pro.imdb.com/title/tt0091860/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_113",
+        "individualURL": "gr2280411653",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4600000.0,
+                    "countryOpeningAmount": 67794.0,
+                    "countryReleaseDate": "05/08/1987"
+                }
+            ]
+        },
+        "movieName": "River's Edge"
+    },
+    "gr2285457925": {
+        "castURL": "https://pro.imdb.com/title/tt0090738/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_51",
+        "individualURL": "gr2285457925",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 25205460.0,
+                    "countryOpeningAmount": 3426831.0,
+                    "countryReleaseDate": "02/06/1987"
+                }
+            ]
+        },
+        "movieName": "Black Widow"
+    },
+    "gr2298106373": {
+        "castURL": "https://pro.imdb.com/title/tt0093793/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_55",
+        "individualURL": "gr2298106373",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 18532286.0,
+                    "countryOpeningAmount": 3309985.0,
+                    "countryReleaseDate": "04/17/1987"
+                }
+            ]
+        },
+        "movieName": "Project X"
+    },
+    "gr2300858885": {
+        "castURL": "https://pro.imdb.com/title/tt0093493/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_30",
+        "individualURL": "gr2300858885",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 42721196.0,
+                    "countryOpeningAmount": 6001208.0,
+                    "countryReleaseDate": "02/13/1987"
+                }
+            ]
+        },
+        "movieName": "Mannequin"
+    },
+    "gr2323206661": {
+        "castURL": "https://pro.imdb.com/title/tt0092034/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_231",
+        "individualURL": "gr2323206661",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6614.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/23/1987"
+                }
+            ]
+        },
+        "movieName": "Sweet Country"
+    },
+    "gr2331070981": {
+        "castURL": "https://pro.imdb.com/title/tt0094315/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_167",
+        "individualURL": "gr2331070981",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1338198.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/16/1987"
+                }
+            ]
+        },
+        "movieName": "The Whales of August"
+    },
+    "gr233329157": {
+        "castURL": "https://pro.imdb.com/title/tt0092974/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_52",
+        "individualURL": "gr233329157",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 23509382.0,
+                    "countryOpeningAmount": 6171957.0,
+                    "countryReleaseDate": "05/22/1987"
+                }
+            ]
+        },
+        "movieName": "Ernest Goes to Camp"
+    },
+    "gr2336051717": {
+        "castURL": "https://pro.imdb.com/title/tt0090944/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_195",
+        "individualURL": "gr2336051717",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 546904.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/29/1987"
+                }
+            ]
+        },
+        "movieName": "Devil in the Flesh"
+    },
+    "gr2349617669": {
+        "castURL": "https://pro.imdb.com/title/tt0093186/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_98",
+        "individualURL": "gr2349617669",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7019441.0,
+                    "countryOpeningAmount": 2062120.0,
+                    "countryReleaseDate": "11/06/1987"
+                }
+            ]
+        },
+        "movieName": "Hiding Out"
+    },
+    "gr2393592325": {
+        "castURL": "https://pro.imdb.com/title/tt0092608/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_79",
+        "individualURL": "gr2393592325",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 13110903.0,
+                    "countryOpeningAmount": 3265660.0,
+                    "countryReleaseDate": "08/07/1987"
+                }
+            ]
+        },
+        "movieName": "Back to the Beach"
+    },
+    "gr2402308613": {
+        "castURL": "https://pro.imdb.com/title/tt0092220/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_226",
+        "individualURL": "gr2402308613",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 19367.0,
+                    "countryOpeningAmount": 8121.0,
+                    "countryReleaseDate": "06/05/1987"
+                }
+            ]
+        },
+        "movieName": "Windrider"
+    },
+    "gr2405519877": {
+        "castURL": "https://pro.imdb.com/title/tt0093690/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_19",
+        "individualURL": "gr2405519877",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 52864741.0,
+                    "countryOpeningAmount": 6404783.0,
+                    "countryReleaseDate": "01/30/1987"
+                }
+            ]
+        },
+        "movieName": "Outrageous Fortune"
+    },
+    "gr2423149061": {
+        "castURL": "https://pro.imdb.com/title/tt0090570/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_176",
+        "individualURL": "gr2423149061",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1083486.0,
+                    "countryOpeningAmount": 24350.0,
+                    "countryReleaseDate": "02/13/1987"
+                }
+            ]
+        },
+        "movieName": "84 Charing Cross Road"
+    },
+    "gr2430095877": {
+        "castURL": "https://pro.imdb.com/title/tt0090867/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_232",
+        "individualURL": "gr2430095877",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4299.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/11/1987"
+                }
+            ]
+        },
+        "movieName": "Coming Up Roses"
+    },
+    "gr2431537669": {
+        "castURL": "https://pro.imdb.com/title/tt0094033/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_193",
+        "individualURL": "gr2431537669",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 562187.0,
+                    "countryOpeningAmount": 311892.0,
+                    "countryReleaseDate": "11/06/1987"
+                }
+            ]
+        },
+        "movieName": "Steel Dawn"
+    },
+    "gr2435011077": {
+        "castURL": "https://pro.imdb.com/title/tt0094137/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_4",
+        "individualURL": "gr2435011077",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 167780960.0,
+                    "countryOpeningAmount": 10384392.0,
+                    "countryReleaseDate": "11/25/1987"
+                }
+            ]
+        },
+        "movieName": "Three Men and a Baby"
+    },
+    "gr2455720453": {
+        "castURL": "https://pro.imdb.com/title/tt0093870/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_18",
+        "individualURL": "gr2455720453",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 53424681.0,
+                    "countryOpeningAmount": 8008721.0,
+                    "countryReleaseDate": "07/17/1987"
+                }
+            ]
+        },
+        "movieName": "RoboCop"
+    },
+    "gr2497008133": {
+        "castURL": "https://pro.imdb.com/title/tt0092537/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_136",
+        "individualURL": "gr2497008133",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2700000.0,
+                    "countryOpeningAmount": 1419581.0,
+                    "countryReleaseDate": "05/01/1987"
+                }
+            ]
+        },
+        "movieName": "The Allnighter"
+    },
+    "gr250434053": {
+        "castURL": "https://pro.imdb.com/title/tt0091859/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_213",
+        "individualURL": "gr250434053",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 124167.0,
+                    "countryOpeningAmount": 7947.0,
+                    "countryReleaseDate": "07/17/1987"
+                }
+            ]
+        },
+        "movieName": "Rita, Sue and Bob Too"
+    },
+    "gr2519552517": {
+        "castURL": "https://pro.imdb.com/title/tt0093379/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_210",
+        "individualURL": "gr2519552517",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 169600.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/18/1987"
+                }
+            ]
+        },
+        "movieName": "Lady Beware"
+    },
+    "gr2554024453": {
+        "castURL": "https://pro.imdb.com/title/tt0092717/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_180",
+        "individualURL": "gr2554024453",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 989528.0,
+                    "countryOpeningAmount": 319218.0,
+                    "countryReleaseDate": "04/10/1987"
+                }
+            ]
+        },
+        "movieName": "Campus Man"
+    },
+    "gr2555007493": {
+        "castURL": "https://pro.imdb.com/title/tt0091583/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_223",
+        "individualURL": "gr2555007493",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 25000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/30/1987"
+                }
+            ]
+        },
+        "movieName": "My Little Girl"
+    },
+    "gr2563854853": {
+        "castURL": "https://pro.imdb.com/title/tt0092548/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_120",
+        "individualURL": "gr2563854853",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4000000.0,
+                    "countryOpeningAmount": 1039301.0,
+                    "countryReleaseDate": "05/01/1987"
+                }
+            ]
+        },
+        "movieName": "American Ninja 2: The Confrontation"
+    },
+    "gr2600030725": {
+        "castURL": "https://pro.imdb.com/title/tt0092802/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_178",
+        "individualURL": "gr2600030725",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1025762.0,
+                    "countryOpeningAmount": 455100.0,
+                    "countryReleaseDate": "11/13/1987"
+                }
+            ]
+        },
+        "movieName": "Cross My Heart"
+    },
+    "gr2605076997": {
+        "castURL": "https://pro.imdb.com/title/tt0094155/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_50",
+        "individualURL": "gr2605076997",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 25411386.0,
+                    "countryOpeningAmount": 187381.0,
+                    "countryReleaseDate": "03/06/1987"
+                }
+            ]
+        },
+        "movieName": "Tin Men"
+    },
+    "gr2618380805": {
+        "castURL": "https://pro.imdb.com/title/tt0094082/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_59",
+        "individualURL": "gr2618380805",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 18782400.0,
+                    "countryOpeningAmount": 4152015.0,
+                    "countryReleaseDate": "10/23/1987"
+                }
+            ]
+        },
+        "movieName": "Suspect"
+    },
+    "gr270291461": {
+        "castURL": "https://pro.imdb.com/title/tt0092699/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_11",
+        "individualURL": "gr270291461",
+        "markets": {
+            "asia_pacific": [
+                {
+                    "country": "Australia",
+                    "countryGrossAmount": 1394059.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/24/1988"
+                },
+                {
+                    "country": "Hong Kong",
+                    "countryGrossAmount": 207283.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/20/1988"
+                },
+                {
+                    "country": "India",
+                    "countryGrossAmount": 3817.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/20/1990"
+                },
+                {
+                    "country": "Japan",
+                    "countryGrossAmount": 2840087.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/29/1988"
+                },
+                {
+                    "country": "Malaysia",
+                    "countryGrossAmount": 1944.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/14/1988"
+                },
+                {
+                    "country": "New Zealand",
+                    "countryGrossAmount": 135765.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/11/1988"
+                },
+                {
+                    "country": "Philippines",
+                    "countryGrossAmount": 34707.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/05/1988"
+                },
+                {
+                    "country": "Singapore",
+                    "countryGrossAmount": 46944.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/15/1988"
+                },
+                {
+                    "country": "Taiwan",
+                    "countryGrossAmount": 336950.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/19/1988"
+                }
+            ],
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 51249404.0,
+                    "countryOpeningAmount": 197542.0,
+                    "countryReleaseDate": "12/18/1987"
+                }
+            ],
+            "emea": [
+                {
+                    "country": "Austria",
+                    "countryGrossAmount": 116463.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/15/1988"
+                },
+                {
+                    "country": "Belgium",
+                    "countryGrossAmount": 190750.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/09/1988"
+                },
+                {
+                    "country": "Denmark",
+                    "countryGrossAmount": 230881.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/25/1988"
+                },
+                {
+                    "country": "Egypt",
+                    "countryGrossAmount": 1648.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/10/1989"
+                },
+                {
+                    "country": "Finland",
+                    "countryGrossAmount": 162682.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/04/1988"
+                },
+                {
+                    "country": "France",
+                    "countryGrossAmount": 956991.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/09/1988"
+                },
+                {
+                    "country": "Germany",
+                    "countryGrossAmount": 834979.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/14/1988"
+                },
+                {
+                    "country": "Greece and Cyprus",
+                    "countryGrossAmount": 107362.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/25/1988"
+                },
+                {
+                    "country": "Israel",
+                    "countryGrossAmount": 520694.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/13/1988"
+                },
+                {
+                    "country": "Italy",
+                    "countryGrossAmount": 2211790.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/31/1988"
+                },
+                {
+                    "country": "Netherlands",
+                    "countryGrossAmount": 192005.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/31/1988"
+                },
+                {
+                    "country": "Norway",
+                    "countryGrossAmount": 203355.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/03/1988"
+                },
+                {
+                    "country": "Portugal",
+                    "countryGrossAmount": 83295.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/25/1988"
+                },
+                {
+                    "country": "S/E/W Africa",
+                    "countryGrossAmount": 327017.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/11/1988"
+                },
+                {
+                    "country": "Spain",
+                    "countryGrossAmount": 1375028.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/08/1988"
+                },
+                {
+                    "country": "Sweden",
+                    "countryGrossAmount": 306295.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/11/1988"
+                },
+                {
+                    "country": "Switzerland",
+                    "countryGrossAmount": 363855.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/16/1988"
+                },
+                {
+                    "country": "Turkey",
+                    "countryGrossAmount": 56800.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/04/1988"
+                },
+                {
+                    "country": "United Kingdom",
+                    "countryGrossAmount": 2017689.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/08/1988"
+                }
+            ],
+            "latin_america": [
+                {
+                    "country": "Argentina",
+                    "countryGrossAmount": 181251.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/31/1988"
+                },
+                {
+                    "country": "Bolivia",
+                    "countryGrossAmount": 1812.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/28/1988"
+                },
+                {
+                    "country": "Brazil",
+                    "countryGrossAmount": 290742.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/31/1988"
+                },
+                {
+                    "country": "Central America",
+                    "countryGrossAmount": 47208.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/31/1988"
+                },
+                {
+                    "country": "Chile",
+                    "countryGrossAmount": 49138.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/31/1988"
+                },
+                {
+                    "country": "Colombia",
+                    "countryGrossAmount": 22594.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/30/1988"
+                },
+                {
+                    "country": "Mexico",
+                    "countryGrossAmount": 57903.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/20/1988"
+                },
+                {
+                    "country": "Peru",
+                    "countryGrossAmount": 9052.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/11/1989"
+                },
+                {
+                    "country": "Puerto Rico",
+                    "countryGrossAmount": 60776.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/31/1988"
+                },
+                {
+                    "country": "Uruguay",
+                    "countryGrossAmount": 24463.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/12/1988"
+                },
+                {
+                    "country": "Venezuela",
+                    "countryGrossAmount": 75831.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/13/1988"
+                }
+            ]
+        },
+        "movieName": "Broadcast News"
+    },
+    "gr2708034053": {
+        "castURL": "https://pro.imdb.com/title/tt0093104/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_209",
+        "individualURL": "gr2708034053",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 183700.0,
+                    "countryOpeningAmount": 24569.0,
+                    "countryReleaseDate": "07/17/1987"
+                }
+            ]
+        },
+        "movieName": "Good Morning Babylon"
+    },
+    "gr2715111941": {
+        "castURL": "https://pro.imdb.com/title/tt0094304/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_144",
+        "individualURL": "gr2715111941",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2325444.0,
+                    "countryOpeningAmount": 132970.0,
+                    "countryReleaseDate": "10/16/1987"
+                }
+            ]
+        },
+        "movieName": "Weeds"
+    },
+    "gr2730512901": {
+        "castURL": "https://pro.imdb.com/title/tt0094118/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_93",
+        "individualURL": "gr2730512901",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7888703.0,
+                    "countryOpeningAmount": 2709160.0,
+                    "countryReleaseDate": "11/20/1987"
+                }
+            ]
+        },
+        "movieName": "Teen Wolf Too"
+    },
+    "gr2730709509": {
+        "castURL": "https://pro.imdb.com/title/tt0093507/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_65",
+        "individualURL": "gr2730709509",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 17336370.0,
+                    "countryOpeningAmount": 4883168.0,
+                    "countryReleaseDate": "08/07/1987"
+                }
+            ]
+        },
+        "movieName": "Masters of the Universe"
+    },
+    "gr2736673285": {
+        "castURL": "https://pro.imdb.com/title/tt0093560/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_124",
+        "individualURL": "gr2736673285",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3769990.0,
+                    "countryOpeningAmount": 1920678.0,
+                    "countryReleaseDate": "08/14/1987"
+                }
+            ]
+        },
+        "movieName": "The Monster Squad"
+    },
+    "gr2747355653": {
+        "castURL": "https://pro.imdb.com/title/tt0092991/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_102",
+        "individualURL": "gr2747355653",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5923044.0,
+                    "countryOpeningAmount": 807260.0,
+                    "countryReleaseDate": "03/13/1987"
+                }
+            ]
+        },
+        "movieName": "Evil Dead II"
+    },
+    "gr2754695685": {
+        "castURL": "https://pro.imdb.com/title/tt0093148/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_23",
+        "individualURL": "gr2754695685",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 29760613.0,
+                    "countryOpeningAmount": 4154740.0,
+                    "countryReleaseDate": "06/05/1987"
+                }
+            ]
+        },
+        "movieName": "Harry and the Hendersons"
+    },
+    "gr2783334917": {
+        "castURL": "https://pro.imdb.com/title/tt0094089/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_175",
+        "individualURL": "gr2783334917",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1092911.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/13/1987"
+                }
+            ]
+        },
+        "movieName": "Swimming to Cambodia"
+    },
+    "gr2809156101": {
+        "castURL": "https://pro.imdb.com/title/tt0092638/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_53",
+        "individualURL": "gr2809156101",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 22257624.0,
+                    "countryOpeningAmount": 21530.0,
+                    "countryReleaseDate": "06/05/1987"
+                }
+            ]
+        },
+        "movieName": "Benji the Hunted"
+    },
+    "gr2843562501": {
+        "castURL": "https://pro.imdb.com/title/tt0093260/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_49",
+        "individualURL": "gr2843562501",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 25893810.0,
+                    "countryOpeningAmount": 4739913.0,
+                    "countryReleaseDate": "07/03/1987"
+                }
+            ]
+        },
+        "movieName": "Innerspace"
+    },
+    "gr285626885": {
+        "castURL": "https://pro.imdb.com/title/tt0093010/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_1",
+        "individualURL": "gr285626885",
+        "markets": {
+            "asia_pacific": [
+                {
+                    "country": "Australia",
+                    "countryGrossAmount": 8680604.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/31/1987"
+                },
+                {
+                    "country": "Hong Kong",
+                    "countryGrossAmount": 1117264.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/12/1988"
+                },
+                {
+                    "country": "Japan",
+                    "countryGrossAmount": 20748900.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/11/1988"
+                },
+                {
+                    "country": "Malaysia",
+                    "countryGrossAmount": 87803.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/20/1988"
+                },
+                {
+                    "country": "New Zealand",
+                    "countryGrossAmount": 704007.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/15/1988"
+                },
+                {
+                    "country": "Philippines",
+                    "countryGrossAmount": 75086.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/14/1989"
+                },
+                {
+                    "country": "Singapore",
+                    "countryGrossAmount": 594083.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/20/1988"
+                },
+                {
+                    "country": "South Korea",
+                    "countryGrossAmount": 297493.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/24/1988"
+                },
+                {
+                    "country": "Taiwan",
+                    "countryGrossAmount": 983774.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/26/1988"
+                },
+                {
+                    "country": "Thailand",
+                    "countryGrossAmount": 128998.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/17/1988"
+                }
+            ],
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 156645693.0,
+                    "countryOpeningAmount": 7602740.0,
+                    "countryReleaseDate": "09/18/1987"
+                }
+            ],
+            "emea": [
+                {
+                    "country": "Austria",
+                    "countryGrossAmount": 2209555.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/05/1988"
+                },
+                {
+                    "country": "Belgium",
+                    "countryGrossAmount": 3305366.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/22/1988"
+                },
+                {
+                    "country": "Denmark",
+                    "countryGrossAmount": 1356705.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/19/1988"
+                },
+                {
+                    "country": "Finland",
+                    "countryGrossAmount": 1336579.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/29/1988"
+                },
+                {
+                    "country": "France",
+                    "countryGrossAmount": 13869306.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/27/1988"
+                },
+                {
+                    "country": "Germany",
+                    "countryGrossAmount": 20581287.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/04/1988"
+                },
+                {
+                    "country": "Greece",
+                    "countryGrossAmount": 1076471.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/28/1988"
+                },
+                {
+                    "country": "Hungary",
+                    "countryGrossAmount": 11698.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/07/1989"
+                },
+                {
+                    "country": "Israel",
+                    "countryGrossAmount": 1453031.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/29/1988"
+                },
+                {
+                    "country": "Italy",
+                    "countryGrossAmount": 12486624.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/29/1988"
+                },
+                {
+                    "country": "Kenya",
+                    "countryGrossAmount": 756057.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/27/1988"
+                },
+                {
+                    "country": "Netherlands",
+                    "countryGrossAmount": 5899717.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/14/1988"
+                },
+                {
+                    "country": "Norway",
+                    "countryGrossAmount": 1943784.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/25/1988"
+                },
+                {
+                    "country": "Portugal",
+                    "countryGrossAmount": 242615.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/29/1988"
+                },
+                {
+                    "country": "South Africa",
+                    "countryGrossAmount": 2071276.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/29/1988"
+                },
+                {
+                    "country": "Spain",
+                    "countryGrossAmount": 4599199.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/29/1988"
+                },
+                {
+                    "country": "Sweden",
+                    "countryGrossAmount": 4617759.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/29/1988"
+                },
+                {
+                    "country": "Switzerland",
+                    "countryGrossAmount": 4426440.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/05/1988"
+                },
+                {
+                    "country": "Turkey",
+                    "countryGrossAmount": 89313.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/14/1989"
+                },
+                {
+                    "country": "United Kingdom",
+                    "countryGrossAmount": 16914376.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/15/1988"
+                }
+            ],
+            "latin_america": [
+                {
+                    "country": "Argentina",
+                    "countryGrossAmount": 1269307.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/01/1988"
+                },
+                {
+                    "country": "Brazil",
+                    "countryGrossAmount": 1449561.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1987"
+                },
+                {
+                    "country": "Central America",
+                    "countryGrossAmount": 135644.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/20/1988"
+                },
+                {
+                    "country": "Chile",
+                    "countryGrossAmount": 496306.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/29/1988"
+                },
+                {
+                    "country": "Colombia",
+                    "countryGrossAmount": 691062.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/21/1988"
+                },
+                {
+                    "country": "Dominican Republic",
+                    "countryGrossAmount": 64775.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/14/1988"
+                },
+                {
+                    "country": "Ecuador",
+                    "countryGrossAmount": 146511.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/17/1988"
+                },
+                {
+                    "country": "Lesser Antilles",
+                    "countryGrossAmount": 108888.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/17/1988"
+                },
+                {
+                    "country": "Mexico",
+                    "countryGrossAmount": 851468.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/31/1988"
+                },
+                {
+                    "country": "Peru",
+                    "countryGrossAmount": 173290.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/31/1988"
+                },
+                {
+                    "country": "Uruguay",
+                    "countryGrossAmount": 128916.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/10/1988"
+                },
+                {
+                    "country": "Venezuela",
+                    "countryGrossAmount": 616112.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/03/1988"
+                }
+            ]
+        },
+        "movieName": "Fatal Attraction"
+    },
+    "gr2857062917": {
+        "castURL": "https://pro.imdb.com/title/tt0093347/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_197",
+        "individualURL": "gr2857062917",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 500283.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/23/1987"
+                }
+            ]
+        },
+        "movieName": "The Killing Time"
+    },
+    "gr2857652741": {
+        "castURL": "https://pro.imdb.com/title/tt0093970/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_133",
+        "individualURL": "gr2857652741",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3000073.0,
+                    "countryOpeningAmount": 950116.0,
+                    "countryReleaseDate": "11/20/1987"
+                }
+            ]
+        },
+        "movieName": "Sign 'o' the Times"
+    },
+    "gr2870891013": {
+        "castURL": "https://pro.imdb.com/title/tt0093779/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_43",
+        "individualURL": "gr2870891013",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 30857814.0,
+                    "countryOpeningAmount": 206243.0,
+                    "countryReleaseDate": "09/25/1987"
+                }
+            ]
+        },
+        "movieName": "The Princess Bride"
+    },
+    "gr2873643525": {
+        "castURL": "https://pro.imdb.com/title/tt0093778/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_208",
+        "individualURL": "gr2873643525",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 205000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/24/1987"
+                }
+            ]
+        },
+        "movieName": "The Princess Academy"
+    },
+    "gr2892190213": {
+        "castURL": "https://pro.imdb.com/title/tt0092654/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_62",
+        "individualURL": "gr2892190213",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 17685307.0,
+                    "countryOpeningAmount": 353259.0,
+                    "countryReleaseDate": "08/21/1987"
+                }
+            ]
+        },
+        "movieName": "The Big Easy"
+    },
+    "gr2913620485": {
+        "castURL": "https://pro.imdb.com/title/tt0093036/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_70",
+        "individualURL": "gr2913620485",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 15151736.0,
+                    "countryOpeningAmount": 5020317.0,
+                    "countryReleaseDate": "11/20/1987"
+                }
+            ]
+        },
+        "movieName": "Flowers in the Attic"
+    },
+    "gr2933084677": {
+        "castURL": "https://pro.imdb.com/title/tt0092834/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_150",
+        "individualURL": "gr2933084677",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1988962.0,
+                    "countryOpeningAmount": 816062.0,
+                    "countryReleaseDate": "11/20/1987"
+                }
+            ]
+        },
+        "movieName": "Date with an Angel"
+    },
+    "gr2935837189": {
+        "castURL": "https://pro.imdb.com/title/tt0093225/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_177",
+        "individualURL": "gr2935837189",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1083282.0,
+                    "countryOpeningAmount": 32171.0,
+                    "countryReleaseDate": "11/25/1987"
+                }
+            ]
+        },
+        "movieName": "Housekeeping"
+    },
+    "gr2936427013": {
+        "castURL": "https://pro.imdb.com/title/tt0092843/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_116",
+        "individualURL": "gr2936427013",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4370078.0,
+                    "countryOpeningAmount": 69074.0,
+                    "countryReleaseDate": "12/18/1987"
+                }
+            ]
+        },
+        "movieName": "The Dead"
+    },
+    "gr2942456325": {
+        "castURL": "https://pro.imdb.com/title/tt0092809/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_151",
+        "individualURL": "gr2942456325",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1930001.0,
+                    "countryOpeningAmount": 1169922.0,
+                    "countryReleaseDate": "09/11/1987"
+                }
+            ]
+        },
+        "movieName": "The Curse"
+    },
+    "gr2972144133": {
+        "castURL": "https://pro.imdb.com/title/tt0092615/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_186",
+        "individualURL": "gr2972144133",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 800000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/15/1987"
+                }
+            ]
+        },
+        "movieName": "The Barbarians"
+    },
+    "gr3005829637": {
+        "castURL": "https://pro.imdb.com/title/tt0029583/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_25",
+        "individualURL": "gr3005829637",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 46594212.0,
+                    "countryOpeningAmount": 7514749.0,
+                    "countryReleaseDate": "07/17/1987"
+                }
+            ]
+        },
+        "movieName": "Snow White and the Seven Dwarfs 1987 Re-release"
+    },
+    "gr3025621509": {
+        "castURL": "https://pro.imdb.com/title/tt0093143/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_188",
+        "individualURL": "gr3025621509",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 760000.0,
+                    "countryOpeningAmount": 17784.0,
+                    "countryReleaseDate": "03/27/1987"
+                }
+            ]
+        },
+        "movieName": "The Hanoi Hilton"
+    },
+    "gr3066384901": {
+        "castURL": "https://pro.imdb.com/title/tt0092925/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_12",
+        "individualURL": "gr3066384901",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 57387516.0,
+                    "countryOpeningAmount": 10542669.0,
+                    "countryReleaseDate": "06/26/1987"
+                }
+            ]
+        },
+        "movieName": "Dragnet"
+    },
+    "gr3091288581": {
+        "castURL": "https://pro.imdb.com/title/tt0093217/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_230",
+        "individualURL": "gr3091288581",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 9526.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/18/1987"
+                }
+            ]
+        },
+        "movieName": "Hotel Colonial"
+    },
+    "gr3100004869": {
+        "castURL": "https://pro.imdb.com/title/tt0091343/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_143",
+        "individualURL": "gr3100004869",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2407024.0,
+                    "countryOpeningAmount": 602834.0,
+                    "countryReleaseDate": "01/09/1987"
+                }
+            ]
+        },
+        "movieName": "The Kindred"
+    },
+    "gr3111866885": {
+        "castURL": "https://pro.imdb.com/title/tt0093405/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_112",
+        "individualURL": "gr3111866885",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4615255.0,
+                    "countryOpeningAmount": 1316337.0,
+                    "countryReleaseDate": "12/18/1987"
+                }
+            ]
+        },
+        "movieName": "Leonard Part 6"
+    },
+    "gr3127464453": {
+        "castURL": "https://pro.imdb.com/title/tt0092605/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_48",
+        "individualURL": "gr3127464453",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 26712476.0,
+                    "countryOpeningAmount": 1357413.0,
+                    "countryReleaseDate": "10/09/1987"
+                }
+            ]
+        },
+        "movieName": "Baby Boom"
+    },
+    "gr3135394309": {
+        "castURL": "https://pro.imdb.com/title/tt0094169/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_185",
+        "individualURL": "gr3135394309",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 858250.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/18/1987"
+                }
+            ]
+        },
+        "movieName": "Tough Guys Don't Dance"
+    },
+    "gr3154465285": {
+        "castURL": "https://pro.imdb.com/title/tt0093378/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_17",
+        "individualURL": "gr3154465285",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 54215416.0,
+                    "countryOpeningAmount": 5651990.0,
+                    "countryReleaseDate": "07/24/1987"
+                }
+            ]
+        },
+        "movieName": "La Bamba"
+    },
+    "gr3155841541": {
+        "castURL": "https://pro.imdb.com/title/tt0094138/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_126",
+        "individualURL": "gr3155841541",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3685862.0,
+                    "countryOpeningAmount": 1506975.0,
+                    "countryReleaseDate": "10/09/1987"
+                }
+            ]
+        },
+        "movieName": "Three O'Clock High"
+    },
+    "gr3157086725": {
+        "castURL": "https://pro.imdb.com/title/tt0091288/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_110",
+        "individualURL": "gr3157086725",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4940939.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/26/1987"
+                }
+            ]
+        },
+        "movieName": "Jean de Florette"
+    },
+    "gr3167179269": {
+        "castURL": "https://pro.imdb.com/title/tt0092618/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_131",
+        "individualURL": "gr3167179269",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3221568.0,
+                    "countryOpeningAmount": 45900.0,
+                    "countryReleaseDate": "10/16/1987"
+                }
+            ]
+        },
+        "movieName": "Barfly"
+    },
+    "gr31871493": {
+        "castURL": "https://pro.imdb.com/title/tt0092796/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_75",
+        "individualURL": "gr31871493",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14000000.0,
+                    "countryOpeningAmount": 3584077.0,
+                    "countryReleaseDate": "05/01/1987"
+                }
+            ]
+        },
+        "movieName": "Creepshow 2"
+    },
+    "gr3190641157": {
+        "castURL": "https://pro.imdb.com/title/tt0092206/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_162",
+        "individualURL": "gr3190641157",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1500000.0,
+                    "countryOpeningAmount": 30035.0,
+                    "countryReleaseDate": "07/10/1987"
+                }
+            ]
+        },
+        "movieName": "The Whistle Blower"
+    },
+    "gr3212530181": {
+        "castURL": "https://pro.imdb.com/title/tt0093418/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_37",
+        "individualURL": "gr3212530181",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 34377585.0,
+                    "countryOpeningAmount": 7189452.0,
+                    "countryReleaseDate": "10/02/1987"
+                }
+            ]
+        },
+        "movieName": "Like Father Like Son"
+    },
+    "gr3222622725": {
+        "castURL": "https://pro.imdb.com/title/tt0092857/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_99",
+        "individualURL": "gr3222622725",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6880310.0,
+                    "countryOpeningAmount": 2466557.0,
+                    "countryReleaseDate": "11/06/1987"
+                }
+            ]
+        },
+        "movieName": "Death Wish 4: The Crackdown"
+    },
+    "gr3244315141": {
+        "castURL": "https://pro.imdb.com/title/tt0093640/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_36",
+        "individualURL": "gr3244315141",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 35509515.0,
+                    "countryOpeningAmount": 4259460.0,
+                    "countryReleaseDate": "08/14/1987"
+                }
+            ]
+        },
+        "movieName": "No Way Out"
+    },
+    "gr3259322885": {
+        "castURL": "https://pro.imdb.com/title/tt0094034/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_168",
+        "individualURL": "gr3259322885",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1327740.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "05/08/1987"
+                }
+            ]
+        },
+        "movieName": "Steele Justice"
+    },
+    "gr3304608261": {
+        "castURL": "https://pro.imdb.com/title/tt0093067/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_212",
+        "individualURL": "gr3304608261",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 125400.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/30/1987"
+                }
+            ]
+        },
+        "movieName": "Gaby: A True Story"
+    },
+    "gr3319288325": {
+        "castURL": "https://pro.imdb.com/title/tt0091712/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_192",
+        "individualURL": "gr3319288325",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 583800.0,
+                    "countryOpeningAmount": 39712.0,
+                    "countryReleaseDate": "07/31/1987"
+                }
+            ]
+        },
+        "movieName": "Oviri"
+    },
+    "gr3340325381": {
+        "castURL": "https://pro.imdb.com/title/tt0093886/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_31",
+        "individualURL": "gr3340325381",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 40050884.0,
+                    "countryOpeningAmount": 4582398.0,
+                    "countryReleaseDate": "06/19/1987"
+                }
+            ]
+        },
+        "movieName": "Roxanne"
+    },
+    "gr3368571397": {
+        "castURL": "https://pro.imdb.com/title/tt0093780/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_58",
+        "individualURL": "gr3368571397",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 19734940.0,
+                    "countryOpeningAmount": 4297710.0,
+                    "countryReleaseDate": "09/18/1987"
+                }
+            ]
+        },
+        "movieName": "The Principal"
+    },
+    "gr3390001669": {
+        "castURL": "https://pro.imdb.com/title/tt0092752/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_100",
+        "individualURL": "gr3390001669",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6804312.0,
+                    "countryOpeningAmount": 2584720.0,
+                    "countryReleaseDate": "05/22/1987"
+                }
+            ]
+        },
+        "movieName": "The Chipmunk Adventure"
+    },
+    "gr3391902213": {
+        "castURL": "https://pro.imdb.com/title/tt0093072/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_160",
+        "individualURL": "gr3391902213",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1576615.0,
+                    "countryOpeningAmount": 661512.0,
+                    "countryReleaseDate": "08/21/1987"
+                }
+            ]
+        },
+        "movieName": "The Garbage Pail Kids Movie"
+    },
+    "gr3427619333": {
+        "castURL": "https://pro.imdb.com/title/tt0091480/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_121",
+        "individualURL": "gr3427619333",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3940542.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/05/1987"
+                }
+            ]
+        },
+        "movieName": "Manon of the Spring"
+    },
+    "gr3444527621": {
+        "castURL": "https://pro.imdb.com/title/tt0093415/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_85",
+        "individualURL": "gr3444527621",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 10489617.0,
+                    "countryOpeningAmount": 3536309.0,
+                    "countryReleaseDate": "02/06/1987"
+                }
+            ]
+        },
+        "movieName": "Light of Day"
+    },
+    "gr3460059653": {
+        "castURL": "https://pro.imdb.com/title/tt0092718/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_41",
+        "individualURL": "gr3460059653",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 31623833.0,
+                    "countryOpeningAmount": 4754732.0,
+                    "countryReleaseDate": "08/14/1987"
+                }
+            ]
+        },
+        "movieName": "Can't Buy Me Love"
+    },
+    "gr3494400517": {
+        "castURL": "https://pro.imdb.com/title/tt0092632/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_60",
+        "individualURL": "gr3494400517",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 18753438.0,
+                    "countryOpeningAmount": 4342732.0,
+                    "countryReleaseDate": "06/12/1987"
+                }
+            ]
+        },
+        "movieName": "The Believers"
+    },
+    "gr3525726725": {
+        "castURL": "https://pro.imdb.com/title/tt0093093/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_183",
+        "individualURL": "gr3525726725",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 895904.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/23/1987"
+                }
+            ]
+        },
+        "movieName": "The Glass Menagerie"
+    },
+    "gr3541717509": {
+        "castURL": "https://pro.imdb.com/title/tt0090057/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_227",
+        "individualURL": "gr3541717509",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 17785.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/09/1987"
+                }
+            ]
+        },
+        "movieName": "Spookies"
+    },
+    "gr354898437": {
+        "castURL": "https://pro.imdb.com/title/tt0092723/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_138",
+        "individualURL": "gr354898437",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2608000.0,
+                    "countryOpeningAmount": 1005386.0,
+                    "countryReleaseDate": "08/07/1987"
+                }
+            ]
+        },
+        "movieName": "The Care Bears Adventure in Wonderland"
+    },
+    "gr3594146309": {
+        "castURL": "https://pro.imdb.com/title/tt0094035/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_140",
+        "individualURL": "gr3594146309",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2488740.0,
+                    "countryOpeningAmount": 260587.0,
+                    "countryReleaseDate": "01/23/1987"
+                }
+            ]
+        },
+        "movieName": "The Stepfather"
+    },
+    "gr3604107781": {
+        "castURL": "https://pro.imdb.com/title/tt0093467/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_114",
+        "individualURL": "gr3604107781",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4572845.0,
+                    "countryOpeningAmount": 1678154.0,
+                    "countryReleaseDate": "11/06/1987"
+                }
+            ]
+        },
+        "movieName": "Made in Heaven"
+    },
+    "gr3608236549": {
+        "castURL": "https://pro.imdb.com/title/tt0093075/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_77",
+        "individualURL": "gr3608236549",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 13539458.0,
+                    "countryOpeningAmount": 4258063.0,
+                    "countryReleaseDate": "05/15/1987"
+                }
+            ]
+        },
+        "movieName": "The Gate"
+    },
+    "gr3653652997": {
+        "castURL": "https://pro.imdb.com/title/tt0092656/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_155",
+        "individualURL": "gr3653652997",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1733017.0,
+                    "countryOpeningAmount": 776675.0,
+                    "countryReleaseDate": "09/25/1987"
+                }
+            ]
+        },
+        "movieName": "The Big Town"
+    },
+    "gr3661517317": {
+        "castURL": "https://pro.imdb.com/title/tt0091167/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_111",
+        "individualURL": "gr3661517317",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4691838.0,
+                    "countryOpeningAmount": 786758.0,
+                    "countryReleaseDate": "02/13/1987"
+                }
+            ]
+        },
+        "movieName": "Hannah and Her Sisters 1987 Re-release"
+    },
+    "gr3671609861": {
+        "castURL": "https://pro.imdb.com/title/tt0094383/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_225",
+        "individualURL": "gr3671609861",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 21905.0,
+                    "countryOpeningAmount": 12165.0,
+                    "countryReleaseDate": "10/02/1987"
+                }
+            ]
+        },
+        "movieName": "Zombie High"
+    },
+    "gr3673575941": {
+        "castURL": "https://pro.imdb.com/title/tt0093476/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_89",
+        "individualURL": "gr3673575941",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 9868521.0,
+                    "countryOpeningAmount": 1162491.0,
+                    "countryReleaseDate": "07/31/1987"
+                }
+            ]
+        },
+        "movieName": "Maid to Order"
+    },
+    "gr3687862789": {
+        "castURL": "https://pro.imdb.com/title/tt0094048/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_207",
+        "individualURL": "gr3687862789",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 210200.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/26/1987"
+                }
+            ]
+        },
+        "movieName": "Straight to Hell"
+    },
+    "gr3691008517": {
+        "castURL": "https://pro.imdb.com/title/tt0093516/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_148",
+        "individualURL": "gr3691008517",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2147228.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/09/1987"
+                }
+            ]
+        },
+        "movieName": "Meatballs III: Summer Job"
+    },
+    "gr3693498885": {
+        "castURL": "https://pro.imdb.com/title/tt0092997/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_84",
+        "individualURL": "gr3693498885",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 11307844.0,
+                    "countryOpeningAmount": 3498957.0,
+                    "countryReleaseDate": "04/24/1987"
+                }
+            ]
+        },
+        "movieName": "Extreme Prejudice"
+    },
+    "gr3705754117": {
+        "castURL": "https://pro.imdb.com/title/tt0093777/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_74",
+        "individualURL": "gr3705754117",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14182492.0,
+                    "countryOpeningAmount": 4657401.0,
+                    "countryReleaseDate": "10/23/1987"
+                }
+            ]
+        },
+        "movieName": "Prince of Darkness"
+    },
+    "gr3725021701": {
+        "castURL": "https://pro.imdb.com/title/tt0092655/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_127",
+        "individualURL": "gr3725021701",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3390043.0,
+                    "countryOpeningAmount": 1417738.0,
+                    "countryReleaseDate": "10/02/1987"
+                }
+            ]
+        },
+        "movieName": "Big Shots"
+    },
+    "gr3726856709": {
+        "castURL": "https://pro.imdb.com/title/tt0092965/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_54",
+        "individualURL": "gr3726856709",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 22238696.0,
+                    "countryOpeningAmount": 1314509.0,
+                    "countryReleaseDate": "12/11/1987"
+                }
+            ]
+        },
+        "movieName": "Empire of the Sun"
+    },
+    "gr3762508293": {
+        "castURL": "https://pro.imdb.com/title/tt0093175/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_56",
+        "individualURL": "gr3762508293",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 20419446.0,
+                    "countryOpeningAmount": 5712892.0,
+                    "countryReleaseDate": "11/06/1987"
+                }
+            ]
+        },
+        "movieName": "Hello Again"
+    },
+    "gr3790295557": {
+        "castURL": "https://pro.imdb.com/title/tt0093693/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_47",
+        "individualURL": "gr3790295557",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 26713187.0,
+                    "countryOpeningAmount": 1880006.0,
+                    "countryReleaseDate": "12/18/1987"
+                }
+            ]
+        },
+        "movieName": "Overboard"
+    },
+    "gr37966341": {
+        "castURL": "https://pro.imdb.com/title/tt0093617/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_218",
+        "individualURL": "gr37966341",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 65000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/03/1987"
+                }
+            ]
+        },
+        "movieName": "Nice Girls Don't Explode"
+    },
+    "gr3808776709": {
+        "castURL": "https://pro.imdb.com/title/tt0092767/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_204",
+        "individualURL": "gr3808776709",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 285885.0,
+                    "countryOpeningAmount": 137186.0,
+                    "countryReleaseDate": "12/11/1987"
+                }
+            ]
+        },
+        "movieName": "Cold Steel"
+    },
+    "gr3814609413": {
+        "castURL": "https://pro.imdb.com/title/tt0093209/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_88",
+        "individualURL": "gr3814609413",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 10021120.0,
+                    "countryOpeningAmount": 25497.0,
+                    "countryReleaseDate": "10/16/1987"
+                }
+            ]
+        },
+        "movieName": "Hope and Glory"
+    },
+    "gr3823587845": {
+        "castURL": "https://pro.imdb.com/title/tt0093727/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_154",
+        "individualURL": "gr3823587845",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1744164.0,
+                    "countryOpeningAmount": 69821.0,
+                    "countryReleaseDate": "05/15/1987"
+                }
+            ]
+        },
+        "movieName": "Personal Services"
+    },
+    "gr385765893": {
+        "castURL": "https://pro.imdb.com/title/tt0094318/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_203",
+        "individualURL": "gr385765893",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 300859.0,
+                    "countryOpeningAmount": 122934.0,
+                    "countryReleaseDate": "07/10/1987"
+                }
+            ]
+        },
+        "movieName": "White Water Summer"
+    },
+    "gr3858190853": {
+        "castURL": "https://pro.imdb.com/title/tt0092948/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_22",
+        "individualURL": "gr3858190853",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 50504655.0,
+                    "countryOpeningAmount": 9077324.0,
+                    "countryReleaseDate": "12/18/1987"
+                }
+            ]
+        },
+        "movieName": "Eddie Murphy: Raw"
+    },
+    "gr3859370501": {
+        "castURL": "https://pro.imdb.com/title/tt0092710/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_67",
+        "individualURL": "gr3859370501",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 16337355.0,
+                    "countryOpeningAmount": 4509754.0,
+                    "countryReleaseDate": "03/20/1987"
+                }
+            ]
+        },
+        "movieName": "Burglar"
+    },
+    "gr390353413": {
+        "castURL": "https://pro.imdb.com/title/tt0091671/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_166",
+        "individualURL": "gr390353413",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1355728.0,
+                    "countryOpeningAmount": 154991.0,
+                    "countryReleaseDate": "09/04/1987"
+                }
+            ]
+        },
+        "movieName": "From a Whisper to a Scream"
+    },
+    "gr3909308933": {
+        "castURL": "https://pro.imdb.com/title/tt0092546/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_194",
+        "individualURL": "gr3909308933",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 548696.0,
+                    "countryOpeningAmount": 171723.0,
+                    "countryReleaseDate": "09/18/1987"
+                }
+            ]
+        },
+        "movieName": "Amazon Women on the Moon"
+    },
+    "gr3943125509": {
+        "castURL": "https://pro.imdb.com/title/tt0093389/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_28",
+        "individualURL": "gr3943125509",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 43984230.0,
+                    "countryOpeningAmount": 149460.0,
+                    "countryReleaseDate": "11/20/1987"
+                }
+            ]
+        },
+        "movieName": "The Last Emperor"
+    },
+    "gr3946009093": {
+        "castURL": "https://pro.imdb.com/title/tt0093596/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_106",
+        "individualURL": "gr3946009093",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5669831.0,
+                    "countryOpeningAmount": 2188857.0,
+                    "countryReleaseDate": "08/07/1987"
+                }
+            ]
+        },
+        "movieName": "Nadine"
+    },
+    "gr3956494853": {
+        "castURL": "https://pro.imdb.com/title/tt0093073/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_108",
+        "individualURL": "gr3956494853",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5262047.0,
+                    "countryOpeningAmount": 1645588.0,
+                    "countryReleaseDate": "05/08/1987"
+                }
+            ]
+        },
+        "movieName": "Gardens of Stone"
+    },
+    "gr3978514949": {
+        "castURL": "https://pro.imdb.com/title/tt0092563/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_66",
+        "individualURL": "gr3978514949",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 17185632.0,
+                    "countryOpeningAmount": 3688721.0,
+                    "countryReleaseDate": "03/06/1987"
+                }
+            ]
+        },
+        "movieName": "Angel Heart"
+    },
+    "gr3995030021": {
+        "castURL": "https://pro.imdb.com/title/tt0092494/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_14",
+        "individualURL": "gr3995030021",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 32945797.0,
+                    "countryOpeningAmount": 3326530.0,
+                    "countryReleaseDate": "12/18/1987"
+                }
+            ]
+        },
+        "movieName": "*batteries not included"
+    },
+    "gr3995554309": {
+        "castURL": "https://pro.imdb.com/title/tt0093177/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_72",
+        "individualURL": "gr3995554309",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 14564027.0,
+                    "countryOpeningAmount": 4453232.0,
+                    "countryReleaseDate": "09/18/1987"
+                }
+            ]
+        },
+        "movieName": "Hellraiser"
+    },
+    "gr3999027717": {
+        "castURL": "https://pro.imdb.com/title/tt0092721/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_215",
+        "individualURL": "gr3999027717",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 73757.0,
+                    "countryOpeningAmount": 32462.0,
+                    "countryReleaseDate": "06/05/1987"
+                }
+            ]
+        },
+        "movieName": "Captive Hearts"
+    },
+    "gr4012200453": {
+        "castURL": "https://pro.imdb.com/title/tt0093756/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_46",
+        "individualURL": "gr4012200453",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 28061343.0,
+                    "countryOpeningAmount": 8482487.0,
+                    "countryReleaseDate": "04/03/1987"
+                }
+            ]
+        },
+        "movieName": "Police Academy 4: Citizens on Patrol"
+    },
+    "gr4039332357": {
+        "castURL": "https://pro.imdb.com/title/tt0093051/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_91",
+        "individualURL": "gr4039332357",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 9518342.0,
+                    "countryOpeningAmount": 2645437.0,
+                    "countryReleaseDate": "02/06/1987"
+                }
+            ]
+        },
+        "movieName": "From the Hip"
+    },
+    "gr4040905221": {
+        "castURL": "https://pro.imdb.com/title/tt0093103/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_199",
+        "individualURL": "gr4040905221",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 421201.0,
+                    "countryOpeningAmount": 20361.0,
+                    "countryReleaseDate": "02/11/1987"
+                }
+            ]
+        },
+        "movieName": "The Good Father"
+    },
+    "gr4056568325": {
+        "castURL": "https://pro.imdb.com/title/tt0093660/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_42",
+        "individualURL": "gr4056568325",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 30950002.0,
+                    "countryOpeningAmount": 4606083.0,
+                    "countryReleaseDate": "11/20/1987"
+                }
+            ]
+        },
+        "movieName": "Nuts"
+    },
+    "gr4061352453": {
+        "castURL": "https://pro.imdb.com/title/tt0093567/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_149",
+        "individualURL": "gr4061352453",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2136381.0,
+                    "countryOpeningAmount": 48438.0,
+                    "countryReleaseDate": "02/20/1987"
+                }
+            ]
+        },
+        "movieName": "Morgan Stewart's Coming Home"
+    },
+    "gr4123283973": {
+        "castURL": "https://pro.imdb.com/title/tt0093969/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_191",
+        "individualURL": "gr4123283973",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 700000.0,
+                    "countryOpeningAmount": 17525.0,
+                    "countryReleaseDate": "11/11/1987"
+                }
+            ]
+        },
+        "movieName": "Siesta"
+    },
+    "gr4133179909": {
+        "castURL": "https://pro.imdb.com/title/tt0094321/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_97",
+        "individualURL": "gr4133179909",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 7305209.0,
+                    "countryOpeningAmount": 2548205.0,
+                    "countryReleaseDate": "08/07/1987"
+                }
+            ]
+        },
+        "movieName": "Who's That Girl"
+    },
+    "gr41832965": {
+        "castURL": "https://pro.imdb.com/title/tt0093714/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_165",
+        "individualURL": "gr41832965",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1392616.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/04/1987"
+                }
+            ]
+        },
+        "movieName": "Penitentiary III"
+    },
+    "gr4184625669": {
+        "castURL": "https://pro.imdb.com/title/tt0093200/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_109",
+        "individualURL": "gr4184625669",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 5228617.0,
+                    "countryOpeningAmount": 95667.0,
+                    "countryReleaseDate": "03/20/1987"
+                }
+            ]
+        },
+        "movieName": "Hollywood Shuffle"
+    },
+    "gr4201468421": {
+        "castURL": "https://pro.imdb.com/title/tt0092890/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_3",
+        "individualURL": "gr4201468421",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 63446382.0,
+                    "countryOpeningAmount": 3900000.0,
+                    "countryReleaseDate": "08/21/1987"
+                }
+            ]
+        },
+        "movieName": "Dirty Dancing"
+    },
+    "gr4214772229": {
+        "castURL": "https://pro.imdb.com/title/tt0093986/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_201",
+        "individualURL": "gr4214772229",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 406881.0,
+                    "countryOpeningAmount": 125349.0,
+                    "countryReleaseDate": "10/02/1987"
+                }
+            ]
+        },
+        "movieName": "Slam Dance"
+    },
+    "gr4226568709": {
+        "castURL": "https://pro.imdb.com/title/tt0093276/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_229",
+        "individualURL": "gr4226568709",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 11385.0,
+                    "countryOpeningAmount": 11385.0,
+                    "countryReleaseDate": "01/09/1987"
+                }
+            ]
+        },
+        "movieName": "Iron Warrior"
+    },
+    "gr424366597": {
+        "castURL": "https://pro.imdb.com/title/tt0093105/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_5",
+        "individualURL": "gr424366597",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 123922370.0,
+                    "countryOpeningAmount": 194308.0,
+                    "countryReleaseDate": "12/25/1987"
+                }
+            ]
+        },
+        "movieName": "Good Morning, Vietnam"
+    },
+    "gr441995781": {
+        "castURL": "https://pro.imdb.com/title/tt0093743/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_130",
+        "individualURL": "gr441995781",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3261638.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/25/1987"
+                }
+            ]
+        },
+        "movieName": "Pinocchio and the Emperor of the Night"
+    },
+    "gr449008133": {
+        "castURL": "https://pro.imdb.com/title/tt0093748/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_24",
+        "individualURL": "gr449008133",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 49530280.0,
+                    "countryOpeningAmount": 7009482.0,
+                    "countryReleaseDate": "11/25/1987"
+                }
+            ]
+        },
+        "movieName": "Planes, Trains and Automobiles"
+    },
+    "gr506745349": {
+        "castURL": "https://pro.imdb.com/title/tt0091142/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_182",
+        "individualURL": "gr506745349",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 916172.0,
+                    "countryOpeningAmount": 32061.0,
+                    "countryReleaseDate": "04/10/1987"
+                }
+            ]
+        },
+        "movieName": "Gothic"
+    },
+    "gr507793925": {
+        "castURL": "https://pro.imdb.com/title/tt0092534/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_125",
+        "individualURL": "gr507793925",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3751699.0,
+                    "countryOpeningAmount": 1960352.0,
+                    "countryReleaseDate": "01/30/1987"
+                }
+            ]
+        },
+        "movieName": "Allan Quatermain and the Lost City of Gold"
+    },
+    "gr519393797": {
+        "castURL": "https://pro.imdb.com/title/tt0093936/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_7",
+        "individualURL": "gr519393797",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 66995879.0,
+                    "countryOpeningAmount": 7766452.0,
+                    "countryReleaseDate": "04/10/1987"
+                }
+            ]
+        },
+        "movieName": "The Secret of My Success"
+    },
+    "gr522867205": {
+        "castURL": "https://pro.imdb.com/title/tt0093011/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_83",
+        "individualURL": "gr522867205",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 12046526.0,
+                    "countryOpeningAmount": 2693714.0,
+                    "countryReleaseDate": "10/30/1987"
+                }
+            ]
+        },
+        "movieName": "Fatal Beauty"
+    },
+    "gr561598981": {
+        "castURL": "https://pro.imdb.com/title/tt0092751/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_169",
+        "individualURL": "gr561598981",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1262091.0,
+                    "countryOpeningAmount": 531362.0,
+                    "countryReleaseDate": "09/25/1987"
+                }
+            ]
+        },
+        "movieName": "China Girl"
+    },
+    "gr572805637": {
+        "castURL": "https://pro.imdb.com/title/tt0093589/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_122",
+        "individualURL": "gr572805637",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3922273.0,
+                    "countryOpeningAmount": 1815583.0,
+                    "countryReleaseDate": "04/24/1987"
+                }
+            ]
+        },
+        "movieName": "My Demon Lover"
+    },
+    "gr574771717": {
+        "castURL": "https://pro.imdb.com/title/tt0092844/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_211",
+        "individualURL": "gr574771717",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 141211.0,
+                    "countryOpeningAmount": 86681.0,
+                    "countryReleaseDate": "09/11/1987"
+                }
+            ]
+        },
+        "movieName": "Witness in the War Zone"
+    },
+    "gr608850437": {
+        "castURL": "https://pro.imdb.com/title/tt0078788/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_219",
+        "individualURL": "gr608850437",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 61211.0,
+                    "countryOpeningAmount": 15513.0,
+                    "countryReleaseDate": "08/28/1987"
+                }
+            ]
+        },
+        "movieName": "Apocalypse Now 1987 Re-release"
+    },
+    "gr612323845": {
+        "castURL": "https://pro.imdb.com/title/tt0093231/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_153",
+        "individualURL": "gr612323845",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1749956.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/06/1987"
+                }
+            ]
+        },
+        "movieName": "Hunk"
+    },
+    "gr618680837": {
+        "castURL": "https://pro.imdb.com/title/tt0093605/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_128",
+        "individualURL": "gr618680837",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3369307.0,
+                    "countryOpeningAmount": 635789.0,
+                    "countryReleaseDate": "10/02/1987"
+                }
+            ]
+        },
+        "movieName": "Near Dark"
+    },
+    "gr644436485": {
+        "castURL": "https://pro.imdb.com/title/tt0093483/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_132",
+        "individualURL": "gr644436485",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3060858.0,
+                    "countryOpeningAmount": 1377691.0,
+                    "countryReleaseDate": "05/01/1987"
+                }
+            ]
+        },
+        "movieName": "Malone"
+    },
+    "gr650596869": {
+        "castURL": "https://pro.imdb.com/title/tt0092644/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_2",
+        "individualURL": "gr650596869",
+        "markets": {
+            "asia_pacific": [
+                {
+                    "country": "Australia",
+                    "countryGrossAmount": 1826962.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/18/1987"
+                },
+                {
+                    "country": "Hong Kong",
+                    "countryGrossAmount": 442903.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/13/1987"
+                },
+                {
+                    "country": "India",
+                    "countryGrossAmount": 10294.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/11/1988"
+                },
+                {
+                    "country": "Japan",
+                    "countryGrossAmount": 10125272.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/11/1987"
+                },
+                {
+                    "country": "Malaysia",
+                    "countryGrossAmount": 97139.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/25/1987"
+                },
+                {
+                    "country": "New Zealand",
+                    "countryGrossAmount": 130113.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/07/1987"
+                },
+                {
+                    "country": "Philippines",
+                    "countryGrossAmount": 98391.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/24/1987"
+                },
+                {
+                    "country": "Singapore",
+                    "countryGrossAmount": 373689.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/20/1987"
+                },
+                {
+                    "country": "South Korea",
+                    "countryGrossAmount": 718944.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/30/1989"
+                },
+                {
+                    "country": "Taiwan",
+                    "countryGrossAmount": 669189.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/22/1987"
+                },
+                {
+                    "country": "Thailand",
+                    "countryGrossAmount": 126259.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/08/1987"
+                }
+            ],
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 153665036.0,
+                    "countryOpeningAmount": 26348555.0,
+                    "countryReleaseDate": "05/20/1987"
+                }
+            ],
+            "emea": [
+                {
+                    "country": "Austria",
+                    "countryGrossAmount": 314825.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/25/1987"
+                },
+                {
+                    "country": "Belgium",
+                    "countryGrossAmount": 493074.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/26/1987"
+                },
+                {
+                    "country": "Denmark",
+                    "countryGrossAmount": 689983.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/25/1987"
+                },
+                {
+                    "country": "Egypt",
+                    "countryGrossAmount": 7599.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "02/09/1988"
+                },
+                {
+                    "country": "Finland",
+                    "countryGrossAmount": 295428.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/18/1987"
+                },
+                {
+                    "country": "France",
+                    "countryGrossAmount": 4014022.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/26/1987"
+                },
+                {
+                    "country": "Germany",
+                    "countryGrossAmount": 2589715.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/24/1987"
+                },
+                {
+                    "country": "Greece",
+                    "countryGrossAmount": 257968.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/31/1987"
+                },
+                {
+                    "country": "Israel",
+                    "countryGrossAmount": 195799.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/24/1987"
+                },
+                {
+                    "country": "Italy",
+                    "countryGrossAmount": 2181962.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/16/1987"
+                },
+                {
+                    "country": "Lebanon",
+                    "countryGrossAmount": 3949.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/23/1987"
+                },
+                {
+                    "country": "Netherlands",
+                    "countryGrossAmount": 954740.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/17/1987"
+                },
+                {
+                    "country": "Norway",
+                    "countryGrossAmount": 396504.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/17/1987"
+                },
+                {
+                    "country": "Portugal",
+                    "countryGrossAmount": 153737.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "12/17/1987"
+                },
+                {
+                    "country": "South Africa",
+                    "countryGrossAmount": 945392.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/18/1987"
+                },
+                {
+                    "country": "Spain",
+                    "countryGrossAmount": 1008806.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "08/31/1987"
+                },
+                {
+                    "country": "Sweden",
+                    "countryGrossAmount": 1427082.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/25/1987"
+                },
+                {
+                    "country": "Switzerland",
+                    "countryGrossAmount": 610798.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/23/1987"
+                },
+                {
+                    "country": "Turkey",
+                    "countryGrossAmount": 65418.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "03/16/1990"
+                },
+                {
+                    "country": "United Kingdom",
+                    "countryGrossAmount": 1798517.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/09/1987"
+                }
+            ],
+            "latin_america": [
+                {
+                    "country": "Argentina",
+                    "countryGrossAmount": 242590.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/01/1987"
+                },
+                {
+                    "country": "Brazil",
+                    "countryGrossAmount": 400018.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/03/1987"
+                },
+                {
+                    "country": "Central America+",
+                    "countryGrossAmount": 93155.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/16/1987"
+                },
+                {
+                    "country": "Chile",
+                    "countryGrossAmount": 50338.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/13/1987"
+                },
+                {
+                    "country": "Colombia",
+                    "countryGrossAmount": 95806.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "11/12/1987"
+                },
+                {
+                    "country": "Dominican Republic",
+                    "countryGrossAmount": 48818.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/12/1987"
+                },
+                {
+                    "country": "Ecuador",
+                    "countryGrossAmount": 61523.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "09/02/1987"
+                },
+                {
+                    "country": "Lesser Antilles",
+                    "countryGrossAmount": 94063.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "06/05/1987"
+                },
+                {
+                    "country": "Mexico",
+                    "countryGrossAmount": 165025.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "07/08/1988"
+                },
+                {
+                    "country": "Uruguay",
+                    "countryGrossAmount": 12010.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/22/1987"
+                },
+                {
+                    "country": "Venezuela",
+                    "countryGrossAmount": 169055.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/07/1987"
+                }
+            ]
+        },
+        "movieName": "Beverly Hills Cop II"
+    },
+    "gr653677061": {
+        "castURL": "https://pro.imdb.com/title/tt0093477/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_159",
+        "individualURL": "gr653677061",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1584970.0,
+                    "countryOpeningAmount": 444756.0,
+                    "countryReleaseDate": "04/10/1987"
+                }
+            ]
+        },
+        "movieName": "Making Mr. Right"
+    },
+    "gr654266885": {
+        "castURL": "https://pro.imdb.com/title/tt0092822/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_171",
+        "individualURL": "gr654266885",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1190416.0,
+                    "countryOpeningAmount": 36112.0,
+                    "countryReleaseDate": "10/09/1987"
+                }
+            ]
+        },
+        "movieName": "Dancers"
+    },
+    "gr673927685": {
+        "castURL": "https://pro.imdb.com/title/tt0094006/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_61",
+        "individualURL": "gr673927685",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 18553948.0,
+                    "countryOpeningAmount": 3486701.0,
+                    "countryReleaseDate": "02/27/1987"
+                }
+            ]
+        },
+        "movieName": "Some Kind of Wonderful"
+    },
+    "gr685986309": {
+        "castURL": "https://pro.imdb.com/title/tt0094140/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_161",
+        "individualURL": "gr685986309",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1539000.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "04/10/1987"
+                }
+            ]
+        },
+        "movieName": "Three for the Road"
+    },
+    "gr702370309": {
+        "castURL": "https://pro.imdb.com/title/tt0094021/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_145",
+        "individualURL": "gr702370309",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2228951.0,
+                    "countryOpeningAmount": 1380800.0,
+                    "countryReleaseDate": "07/10/1987"
+                }
+            ]
+        },
+        "movieName": "The Squeeze"
+    },
+    "gr738742789": {
+        "castURL": "https://pro.imdb.com/title/tt0093940/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_198",
+        "individualURL": "gr738742789",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 486434.0,
+                    "countryOpeningAmount": 85731.0,
+                    "countryReleaseDate": "12/18/1987"
+                }
+            ]
+        },
+        "movieName": "September"
+    },
+    "gr75190789": {
+        "castURL": "https://pro.imdb.com/title/tt0093629/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_27",
+        "individualURL": "gr75190789",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 44793222.0,
+                    "countryOpeningAmount": 8880555.0,
+                    "countryReleaseDate": "02/27/1987"
+                }
+            ]
+        },
+        "movieName": "A Nightmare on Elm Street 3: Dream Warriors"
+    },
+    "gr775770629": {
+        "castURL": "https://pro.imdb.com/title/tt0093854/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_172",
+        "individualURL": "gr775770629",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1189709.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "01/09/1987"
+                }
+            ]
+        },
+        "movieName": "Return to Horror High"
+    },
+    "gr86856197": {
+        "castURL": "https://pro.imdb.com/title/tt0093913/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_170",
+        "individualURL": "gr86856197",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1196336.0,
+                    "countryOpeningAmount": 31899.0,
+                    "countryReleaseDate": "10/30/1987"
+                }
+            ]
+        },
+        "movieName": "Sammy and Rosie Get Laid"
+    },
+    "gr87183877": {
+        "castURL": "https://pro.imdb.com/title/tt0093565/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_9",
+        "individualURL": "gr87183877",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 80640528.0,
+                    "countryOpeningAmount": 127599.0,
+                    "countryReleaseDate": "12/18/1987"
+                }
+            ]
+        },
+        "movieName": "Moonstruck"
+    },
+    "gr908087813": {
+        "castURL": "https://pro.imdb.com/title/tt0093407/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_82",
+        "individualURL": "gr908087813",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 12396383.0,
+                    "countryOpeningAmount": 3008987.0,
+                    "countryReleaseDate": "11/06/1987"
+                }
+            ]
+        },
+        "movieName": "Less Than Zero"
+    },
+    "gr935350789": {
+        "castURL": "https://pro.imdb.com/title/tt0093648/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_123",
+        "individualURL": "gr935350789",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 3832228.0,
+                    "countryOpeningAmount": 1319290.0,
+                    "countryReleaseDate": "08/14/1987"
+                }
+            ]
+        },
+        "movieName": "North Shore"
+    },
+    "gr958091781": {
+        "castURL": "https://pro.imdb.com/title/tt0093683/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_205",
+        "individualURL": "gr958091781",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 252430.0,
+                    "countryOpeningAmount": 14588.0,
+                    "countryReleaseDate": "09/18/1987"
+                }
+            ]
+        },
+        "movieName": "Orphans"
+    },
+    "gr959271429": {
+        "castURL": "https://pro.imdb.com/title/tt0092967/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_224",
+        "individualURL": "gr959271429",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 25000.0,
+                    "countryOpeningAmount": 25000.0,
+                    "countryReleaseDate": "08/28/1987"
+                }
+            ]
+        },
+        "movieName": "End of the Line"
+    },
+    "gr967463429": {
+        "castURL": "https://pro.imdb.com/title/tt0093512/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_141",
+        "individualURL": "gr967463429",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 2438304.0,
+                    "countryOpeningAmount": 49278.0,
+                    "countryReleaseDate": "09/18/1987"
+                }
+            ]
+        },
+        "movieName": "Maurice"
+    },
+    "gr96817669": {
+        "castURL": "https://pro.imdb.com/title/tt0093894/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_33",
+        "individualURL": "gr96817669",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 38122105.0,
+                    "countryOpeningAmount": 8117465.0,
+                    "countryReleaseDate": "11/13/1987"
+                }
+            ]
+        },
+        "movieName": "The Running Man"
+    },
+    "gr969495045": {
+        "castURL": "https://pro.imdb.com/title/tt0093626/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_173",
+        "individualURL": "gr969495045",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 1149470.0,
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": "10/23/1987"
+                }
+            ]
+        },
+        "movieName": "Nightflyers"
+    },
+    "gr970150405": {
+        "castURL": "https://pro.imdb.com/title/tt0092585/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_101",
+        "individualURL": "gr970150405",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 6075793.0,
+                    "countryOpeningAmount": 2787449.0,
+                    "countryReleaseDate": "01/09/1987"
+                }
+            ]
+        },
+        "movieName": "Assassination"
+    },
+    "gr971788805": {
+        "castURL": "https://pro.imdb.com/title/tt0093215/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "1987_119",
+        "individualURL": "gr971788805",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": 4215849.0,
+                    "countryOpeningAmount": 1507645.0,
+                    "countryReleaseDate": "05/08/1987"
+                }
+            ]
+        },
+        "movieName": "Hot Pursuit"
+    }
+}
