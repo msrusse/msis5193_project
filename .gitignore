@@ -2,3 +2,5 @@
 __pycache__
 logs/
 urls_used.csv
+.DS_Store
+errors.json
