@@ -88,8 +88,6 @@ def parse_rotten_tomatoes_pages(movie_responses, movie_titles_by_year, year):
                 if 'aggregateRating' in info_json.keys():
                     critics_ratings['count'] = info_json['aggregateRating']['ratingCount']
                     critics_ratings['rating'] = info_json['aggregateRating']['ratingValue']
-                    critics_ratings['best'] = info_json['aggregateRating']['bestRating']
-                    critics_ratings['worst'] = info_json['aggregateRating']['worstRating']
                 if 'contentRating' in info_json.keys():
                     content_rating = info_json['contentRating']
                 if 'productionCompany' in info_json.keys():
@@ -135,10 +133,10 @@ def get_id_for_movies(movie_information, movie_titles_by_year, year):
             current_results = json.load(infile)
         for movie in current_results:
             movie_by_year_id[movie] = current_results[movie]
-    with open('data/movie_information/valid_responses/%s' % current_year_file, 'w') as outfile:
+    with open('%s' % valid_path, 'w') as outfile:
         json.dump(movie_by_year_id, outfile, sort_keys=True, indent=4)
     incorrect_movies = list(set(movie_titles_by_year.values()) - set(movie_by_year_id.keys()))
-    with open('data/movie_information/invalid_responses/%s_movie_information.json' % year, 'w') as outfile:
+    with open('data/movie_information/invalid_responses/%s' % current_year_file, 'w') as outfile:
         json.dump(incorrect_movies, outfile, sort_keys=True, indent=4)
 
 init()
