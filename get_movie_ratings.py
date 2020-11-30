@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup as bs
 from multiprocessing import Process
 from tqdm import tqdm
 from colorama import init
+from pathlib import Path
 
 def get_all_movies():
     with open('data/box_office_movies.json') as infile:
@@ -38,19 +39,26 @@ def get_rotten_tomatoes_name(movies):
 
 def get_movies_from_rotten_tomatoes(movies, movie_titles_by_year):
     responses = {}
-    for year in tqdm(movies, desc='All Years'):
+    irregular_keys = {}
+    with open ('data/movie_information/irregular_movie_links.json') as infile:
+        irregular_keys = json.load(infile)
+    for year in tqdm(movies):
         responses[year] = {}
         urls = []
-        for movie in movies[year]:
-            urls.append('https://www.rottentomatoes.com/m/%s' % movie)
-        split_urls = [urls[i:i + 50] for i in range(0, len(urls), 50)]
+        for movie in list(movies[year]):
+            url_end = movie
+            if movies[year][movie] in irregular_keys[year].keys():
+                url_end = irregular_keys[year][movies[year][movie]]
+                movie_titles_by_year[year][url_end] = movie_titles_by_year[year][movie]
+            urls.append('https://www.rottentomatoes.com/m/%s' % url_end)
+        split_urls = [urls[i:i + 75] for i in range(0, len(urls), 75)]
         year_responses = []
         for lst in tqdm(split_urls, desc='%s' % year):
             grequest = (grequests.get(str(url)) for url in lst)
             year_responses += (grequests.map(grequest))
             if len(split_urls) > 2:
                 for i in tqdm(range(100)):
-                    time.sleep(.6)
+                    time.sleep(.45)
         responses[year] = year_responses
         parse_rotten_tomatoes_pages(responses[year], movie_titles_by_year[year], year)
 
@@ -118,7 +126,14 @@ def get_id_for_movies(movie_information, movie_titles_by_year, year):
     movie_by_year_id = {}
     for movie in movie_information:
         movie_by_year_id[movie_titles_by_year[movie]] = movie_information[movie]
-    with open('data/movie_information/valid_responses/%s_movie_information.json' % year, 'w') as outfile:
+    current_year_file = '%s_movie_information.json' % year
+    valid_path = 'data/movie_information/valid_responses/%s' % current_year_file
+    if Path(valid_path).exists():
+        with open(valid_path) as infile:
+            current_results = json.load(infile)
+        for movie in current_results:
+            movie_by_year_id[movie] = current_results[movie]
+    with open('data/movie_information/valid_responses/%s' % current_year_file, 'w') as outfile:
         json.dump(movie_by_year_id, outfile, sort_keys=True, indent=4)
     incorrect_movies = list(set(movie_titles_by_year.values()) - set(movie_by_year_id.keys()))
     with open('data/movie_information/invalid_responses/%s_movie_information.json' % year, 'w') as outfile:
