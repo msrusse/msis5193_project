@@ -101,7 +101,9 @@ def parse_rotten_tomatoes_pages(movie_responses, movie_titles_by_year, year):
                 except:
                     pass
                 try:
-                    total_audience_reviews = soup.find('strong', {'class' : 'mop-ratings-wrap__text--small'}).getText().replace(',', '').split(': ')[1]
+                    audience_revies_div = soup.find('div', {'class' : 'audience-score'})
+                    total_audience_reviews = audience_revies_div.find('strong', {'class' : 'mop-ratings-wrap__text--small'}).getText()
+                    total_audience_reviews = total_audience_reviews.replace(',', '').split(': ')[1]
                 except:
                     pass
                 genre_div = soup.find('div', {'class' : 'genre'})
