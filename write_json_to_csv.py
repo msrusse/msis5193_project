@@ -65,7 +65,7 @@ def writeAcademyAwardWinnersToCSV(academy_award_winning_movies):
         writer.writerow(['movieName', 'year', 'nominations', 'awards', 'bestPicture'])
         for movie in academy_award_winning_movies:
             movie_dict = academy_award_winning_movies[movie]
-            writer.writerow([movie_dict['title'], movie_dict['year'], movie_dict['nominations'], movie_dict['awards'], movie_dict['bestPicture']])
+            writer.writerow([movie_dict['movieName'], movie_dict['year'], movie_dict['nominations'], movie_dict['awards'], movie_dict['bestPicture']])
 
 def writePlotSummariesToCSV(movie_summaries):
     with open('data/csv_files/movie_summeries.csv', 'w', encoding='utf-8', newline='') as csvfile:
