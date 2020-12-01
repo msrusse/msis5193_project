@@ -152,7 +152,7 @@ def writeRottenTomatoesProductionCompanies(production_companies):
             writer.writerow([movie, production_companies[movie]])
 
 def writeRottenTomatoesReviews(reviews):
-    with open('data/csv_files/all_movie_revies.csv', 'w', encoding='utf-8', newline='') as csvfile:
+    with open('data/csv_files/all_movie_reviews.csv', 'w', encoding='utf-8', newline='') as csvfile:
         writer = csv.writer(csvfile, delimiter=',')
         writer.writerow(['uniqueID', 'review'])
         for movie in reviews:
@@ -161,16 +161,16 @@ def writeRottenTomatoesReviews(reviews):
 
 
 def main():
-    # box_office_totals = json.load(open('data/box_office_movies.json'))
-    # convertBoxOfficeTotalsToCSV(box_office_totals)
-    # all_movies_by_year_market = getMoviesByMarketYearJSON()
-    # all_movies_by_year_market_list = convertAllYearsIntoList(all_movies_by_year_market)
-    # writeMoviesByMarketToCSV(all_movies_by_year_market_list)
-    # wikipedia_movies = json.load(open('data/movies_from_wikipedia.json'))
-    # writeAcademyAwardWinnersToCSV(wikipedia_movies)
-    # all_movie_summaries = getMovieSummariesByYearJSON()
-    # all_movie_summaries_list = convertAllYearsIntoList(all_movie_summaries)
-    # writePlotSummariesToCSV(all_movie_summaries_list)
+    box_office_totals = json.load(open('data/box_office_movies.json'))
+    convertBoxOfficeTotalsToCSV(box_office_totals)
+    all_movies_by_year_market = getMoviesByMarketYearJSON()
+    all_movies_by_year_market_list = convertAllYearsIntoList(all_movies_by_year_market)
+    writeMoviesByMarketToCSV(all_movies_by_year_market_list)
+    wikipedia_movies = json.load(open('data/movies_from_wikipedia.json'))
+    writeAcademyAwardWinnersToCSV(wikipedia_movies)
+    all_movie_summaries = getMovieSummariesByYearJSON()
+    all_movie_summaries_list = convertAllYearsIntoList(all_movie_summaries)
+    writePlotSummariesToCSV(all_movie_summaries_list)
     rotten_tomatoes_movies = getMovieInformationByYearJSON()
     rotten_tomatoes_movies_list = convertAllYearsIntoList(rotten_tomatoes_movies)
     convertRottenTomatoesListToDicts(rotten_tomatoes_movies_list)
