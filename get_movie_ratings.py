@@ -94,12 +94,12 @@ def parse_rotten_tomatoes_pages(movie_responses, movie_titles_by_year, year):
                     production_company = info_json['productionCompany']['name']
                 for director in info_json['director']:
                     directors.append(director['name'])
+                audience_revies_div = soup.find('div', {'class' : 'audience-score'})
                 try:
-                    audience_rating = int(soup.find('span', {'class' : 'mop-ratings-wrap__percentage'}).getText().replace('%', '').replace('\n', '').replace(' ', ''))
+                    audience_rating = int(audience_revies_div.find('span', {'class' : 'mop-ratings-wrap__percentage'}).getText().replace('%', '').replace('\n', '').replace(' ', ''))
                 except:
                     pass
                 try:
-                    audience_revies_div = soup.find('div', {'class' : 'audience-score'})
                     total_audience_reviews = audience_revies_div.find('strong', {'class' : 'mop-ratings-wrap__text--small'}).getText()
                     total_audience_reviews = total_audience_reviews.replace(',', '').split(': ')[1]
                 except:
