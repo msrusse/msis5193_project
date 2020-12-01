@@ -8031,6 +8031,28 @@
             "A potentially intriguing concept undone by flawed execution."
         ]
     },
+    "1999_218": {
+        "actors": [
+            "Jean-Guy Bouchard",
+            "Raymond Bouchard",
+            "Gregory Charles"
+        ],
+        "audienceRatings": {
+            "count": "168",
+            "rating": 43
+        },
+        "contentRating": "NR",
+        "criticsRatings": {
+            "count": "168",
+            "rating": "43"
+        },
+        "directors": [
+            "Denise Filiatrault"
+        ],
+        "genre": "comedy",
+        "productionCompany": "",
+        "reviews": []
+    },
     "1999_219": {
         "actors": [
             "Sean Patrick Flanery",

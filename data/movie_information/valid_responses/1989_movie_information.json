@@ -6816,6 +6816,50 @@
         "productionCompany": "HBO Video",
         "reviews": []
     },
+    "1989_213": {
+        "actors": [
+            "Klaus Maria Brandauer",
+            "Erland Josephson",
+            "Ildik\u00f3 B\u00e1ns\u00e1gi",
+            "Walter Schmidinger",
+            "Karoly Eperjes",
+            "Grazyna Szapolowska",
+            "Colette Pilz-Warren",
+            "Adriana Biedrzynska",
+            "Adrianna Biedrzynska",
+            "Gy\u00f6rgy Cserhalmi",
+            "Michal Bajor",
+            "Jiri Adamira",
+            "Robert Ratonyi",
+            "P\u00e9ter Dobai",
+            "Kalina Jedrusik",
+            "Gabriela Kownacka",
+            "Ewa Blaszczyk",
+            "Peter Andorai",
+            "Lajos Kov\u00e1cs",
+            "Enik\u00f6 Eszenyi",
+            "Gyorgy Fenyves",
+            "Geza Kovacs",
+            "P\u00e9ter M\u00fcller",
+            "Sandor Simo",
+            "J\u00e1nos Xantus"
+        ],
+        "audienceRatings": {
+            "count": "261",
+            "rating": 91
+        },
+        "contentRating": "R",
+        "criticsRatings": {
+            "count": "261",
+            "rating": "91"
+        },
+        "directors": [
+            "Istv\u00e1n Szab\u00f3"
+        ],
+        "genre": "drama",
+        "productionCompany": "Columbia Pictures",
+        "reviews": []
+    },
     "1989_214": {
         "actors": [
             "Griffin Dunne",
