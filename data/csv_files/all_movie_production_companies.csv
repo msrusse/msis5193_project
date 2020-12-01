@@ -1346,7 +1346,48 @@ uniqueID,productionCompany
 1988_186,Virgin Vision
 1988_187,Virgin Vision
 1988_188,Cannon Film Distributors
+1988_19,Disney
+1988_190,
+1988_191,HBO Video
+1988_192,Media Home Entertainment
+1988_193,Cannon Home Video
+1988_194,Sony Video Software
+1988_195,Spectrafilm
+1988_196,MGM Home Entertainment
 1988_2,Buena Vista Distribution Compa
+1988_200,Warner Home Video
+1988_201,New World Video
+1988_202,
+1988_203,Anchor Bay Entertainment
+1988_204,Media Home Entertainment
+1988_205,Tinc Productions
+1988_206,MCEG Virgin Entertainment
+1988_207,HBO Video
+1988_208,Paramount Pictures
+1988_209,Twentieth Century Fox Home Entertainment
+1988_21,MCA Universal Home Video
+1988_210,Vestron Video
+1988_212,Image Entertainment
+1988_213,
+1988_214,Samuel Goldwyn Company
+1988_215,Cinevista/World Artists
+1988_216,Warner Home Video
+1988_217,
+1988_218,Cinecom Pictures
+1988_219,Sony Pictures Home Entertainment
+1988_22,Orion Pictures
+1988_220,Media Home Entertainment
+1988_221,HBO Video
+1988_222,Live Home Video
+1988_223,Paramount Pictures
+1988_225,MGM Home Entertainment
+1988_226,Cannon Group
+1988_228,Media Home Entertainment
+1988_23,Media Home Entertainment
+1988_230,MGM
+1988_231,British Screen
+1988_232,New World Video
+1988_233,Vestron Video
 1988_234,MoMA
 1988_235,E1 Entertainment
 1988_236,Hemdale Film Corporation
@@ -1544,6 +1585,7 @@ uniqueID,productionCompany
 1989_209,Sony Pictures Home Entertainment
 1989_21,MCA Universal Home Video
 1989_210,HBO Video
+1989_213,Columbia Pictures
 1989_214,Sony Pictures Home Entertainment
 1989_215,MGM-UA
 1989_216,Warner Home Video
@@ -3120,6 +3162,7 @@ uniqueID,productionCompany
 1996_50,MCA Universal Home Video
 1996_51,Twentieth Century Fox Home Entertainment
 1996_52,New Line Home Entertainment
+1996_53,New Line Home Entertainment
 1996_55,20th Century Fox
 1996_56,Buena Vista
 1996_57,American International Pictures
@@ -3545,6 +3588,7 @@ uniqueID,productionCompany
 1998_221,Sony Pictures Classics
 1998_222,October Films
 1998_223,MGM
+1998_226,BMG
 1998_227,Fine Line Features
 1998_228,Trimark Pictures
 1998_23,
@@ -3824,6 +3868,7 @@ uniqueID,productionCompany
 1999_215,Overseas Filmgroup
 1999_216,Artisan Pictures
 1999_217,Artistic License
+1999_218,
 1999_219,New Line Cinema
 1999_220,Strand Releasing
 1999_221,
@@ -4936,6 +4981,7 @@ uniqueID,productionCompany
 2002_383,Streetlight Films
 2002_384,Wildcard Releasing
 2002_385,Rosa Filmes
+2002_387,Sony Pictures Classics
 2002_388,
 2002_39,Dimension Films
 2002_390,New Yorker Films
@@ -6052,6 +6098,7 @@ uniqueID,productionCompany
 2005_244,Picture House
 2005_246,Outsider Pictures
 2005_247,
+2005_248,Warner Home Video
 2005_249,Sony Pictures Classics
 2005_25,Dreamworks Distribution LLC
 2005_253,Miramax
@@ -7822,6 +7869,7 @@ uniqueID,productionCompany
 2009_200,IFC Films
 2009_201,AVCO Embassy Pictures
 2009_202,Weinstein Company
+2009_203,Roadside Attractions
 2009_204,Fox Searchlight Pictures
 2009_207,Manga Video
 2009_209,IFC Films
@@ -8200,6 +8248,7 @@ uniqueID,productionCompany
 2010_198,Artificial Eye Film Co. Ltd
 2010_199,UTV Communications
 2010_2,Walt Disney Pictures
+2010_20,Universal Pictures
 2010_200,Sony
 2010_201,Sony Pictures Classics
 2010_202,Roadside Attractions
@@ -9349,6 +9398,7 @@ uniqueID,productionCompany
 2012_617,UTV Communications
 2012_618,Indican Pictures
 2012_619,Cinedigm
+2012_62,Sony Pictures
 2012_620,Cinema Libre
 2012_621,First Run Features
 2012_622,Tribeca Films
@@ -9449,6 +9499,7 @@ uniqueID,productionCompany
 2013_13,Walt Disney Pictures
 2013_130,CBS Films
 2013_131,Lionsgate/Roadside Attractions
+2013_132,Summit Entertainment
 2013_133,A24 Films
 2013_134,
 2013_136,Well Go USA
@@ -9580,6 +9631,7 @@ uniqueID,productionCompany
 2013_31,Sony Pictures
 2013_311,Freestyle Releasing
 2013_312,Millenium Entertainment
+2013_313,Magnolia Pictures
 2013_314,Vlader Company
 2013_315,Hammond Entertainment
 2013_318,IFC Films
@@ -11701,6 +11753,7 @@ uniqueID,productionCompany
 2017_424,Super LTD
 2017_425,Vertical Entertainment
 2017_426,Guilty Pleasures
+2017_429,Vinson Films
 2017_43,EuropaCorp / STXfilms
 2017_430,
 2017_431,LA Roma Films
@@ -11812,6 +11865,7 @@ uniqueID,productionCompany
 2017_559,
 2017_56,Fox Searchlight Pictures
 2017_564,
+2017_565,First Run Features
 2017_566,Pepper and Bones
 2017_567,Mongrel Media
 2017_569,Freestyle Releasing
@@ -13030,6 +13084,7 @@ uniqueID,productionCompany
 2019_77,FUNimation Films
 2019_770,Cinema Libre Studio
 2019_771,Abramorama
+2019_772,Ammo Content
 2019_774,Oscilloscope Laboratories
 2019_777,
 2019_778,

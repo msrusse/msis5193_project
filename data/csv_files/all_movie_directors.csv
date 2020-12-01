@@ -1459,7 +1459,48 @@ uniqueID,director
 1988_186,Matt Clark
 1988_187,Paul Morrissey
 1988_188,Godfrey Reggio
+1988_19,Garry Marshall
+1988_190,Lovisa Inserra
+1988_191,Peter Yates
+1988_192,Peter Masterson
+1988_193,Nicolas Roeg
+1988_194,Amin Q. Chaudhri
+1988_195,Tommy Lee Wallace
+1988_196,Michael Hoffman
 1988_2,Robert Zemeckis
+1988_200,Nicholas Meyer
+1988_201,Renny Harlin
+1988_202,Karl Mak
+1988_203,Bill Fishman
+1988_204,Lee H. Katzin
+1988_205,Andrzej Wajda
+1988_206,Keith Gordon
+1988_207,Jerry London
+1988_208,Martha Coolidge
+1988_209,Peter Bogdanovich
+1988_21,Mike Nichols
+1988_210,Sollace Mitchell
+1988_212,Richard Loncraine
+1988_213,John Duigan
+1988_214,Bertrand Tavernier
+1988_215,Pedro Almodóvar
+1988_216,Peter Richardson
+1988_217,Harvey Keith
+1988_218,Gary Sinise
+1988_219,Daniel Petrie Sr.
+1988_22,Ron Shelton
+1988_220,Beau Bridges
+1988_221,Jimmy Huston
+1988_222,David Beaird
+1988_223,John Lafia
+1988_225,Francis Megahy
+1988_226,Fritz Kiersch
+1988_228,Menahem Golan
+1988_23,Renny Harlin
+1988_230,Giles Foster
+1988_231,Harry Hook
+1988_232,Rip Torn
+1988_233,Dick Maas
 1988_234,Zhao Dayong
 1988_235,Peter Brook
 1988_235,Andrew McCullough
@@ -1674,6 +1715,7 @@ uniqueID,director
 1989_209,Christopher Guest
 1989_21,John Hughes
 1989_210,Rocky Lang
+1989_213,István Szabó
 1989_214,Doris Dörrie
 1989_215,Ken Wheat
 1989_215,Jim Wheat
@@ -3366,6 +3408,7 @@ uniqueID,director
 1996_50,Jonathan Lynn
 1996_51,David S. Ward
 1996_52,Scott Hicks
+1996_53,Martin Lawrence
 1996_55,Tom Hanks
 1996_56,Brian Henson
 1996_57,Daniel Mann
@@ -3823,6 +3866,7 @@ uniqueID,director
 1998_222,Trey Parker
 1998_223,Jonas Pate
 1998_223,Joshua Pate
+1998_226,Jill Sprecher
 1998_227,Barbara Kopple
 1998_228,Vincenzo Natali
 1998_230,Shohei Imamura
@@ -4121,6 +4165,7 @@ uniqueID,director
 1999_215,John Turturro
 1999_216,Atom Egoyan
 1999_217,Hirokazu Koreeda
+1999_218,Denise Filiatrault
 1999_219,Michael Cristofer
 1999_220,Ana Kokkinos
 1999_221,Mastan Alibhai Burmawalla
@@ -5380,6 +5425,7 @@ uniqueID,director
 2002_382,Nicolas Cage
 2002_383,Ramin Serry
 2002_385,João Pedro Rodrigues
+2002_387,Babak Payami
 2002_388,David Attwood
 2002_39,Robert Rodriguez
 2002_390,Arnon Goldfinger
@@ -6617,6 +6663,7 @@ uniqueID,director
 2005_244,Gus Van Sant
 2005_246,Anders Thomas Jensen
 2005_247,Brendan Foley
+2005_248,Geoff Murphy
 2005_249,Mike Mills
 2005_25,Hideo Nakata
 2005_253,Alain Jakubowicz
@@ -8609,6 +8656,7 @@ uniqueID,director
 2009_200,Catherine Corsini
 2009_201,Alberto De Martino
 2009_202,Sam Taylor-Johnson
+2009_203,R.J. Cutler
 2009_204,Vicky Jenson
 2009_207,Hiroyuki Kitakubo
 2009_209,Marco Bellocchio
@@ -9023,6 +9071,7 @@ uniqueID,director
 2010_198,Abbas Kiarostami
 2010_199,Sanjay Leela Bhansali
 2010_2,Tim Burton
+2010_20,Paul Weitz
 2010_200,Cody Cameron
 2010_201,David Michôd
 2010_202,Derrick Borte
@@ -10336,6 +10385,8 @@ uniqueID,director
 2012_618,James Savoca
 2012_619,Katherine Fairfax Wright
 2012_619,Malika Zouhali-Worrall
+2012_62,Peter Lord
+2012_62,Jeff Newitt
 2012_620,Thomas Napper
 2012_621,Xiaoshuai Wang
 2012_622,Whitney Sudler-Smith
@@ -10450,6 +10501,8 @@ uniqueID,director
 2013_130,Ethan Coen
 2013_130,Joel Coen
 2013_131,Jeff Nichols
+2013_132,Leslie Small
+2013_132,Tim Story
 2013_133,Harmony Korine
 2013_134,Étienne Dhaene
 2013_136,Clarence Yiu-leung Fok
@@ -10596,6 +10649,7 @@ uniqueID,director
 2013_31,David O. Russell
 2013_311,Andrew Adamson
 2013_312,Josh Boone
+2013_313,Kevin Macdonald
 2013_314,Vlad Yudin
 2013_315,Ray Bengston
 2013_318,Neil Jordan
@@ -13011,6 +13065,8 @@ uniqueID,director
 2017_424,Michaël R. Roskam
 2017_425,Cate Shortland
 2017_426,Amir Shervan
+2017_429,Robert Legato
+2017_429,Christopher Borrelli
 2017_43,Luc Besson
 2017_430,Meredith Ann Berg
 2017_431,Jon Dunham
@@ -13144,6 +13200,7 @@ uniqueID,director
 2017_559,Julien Duvivier
 2017_56,Martin McDonagh
 2017_564,Richard Linklater
+2017_565,Sean McAllister
 2017_566,Michael Tucker
 2017_566,Petra Epperlein
 2017_567,Abbas Kiarostami
@@ -14429,6 +14486,7 @@ uniqueID,director
 2019_770,François Margolin
 2019_770,Lemine Ould Salem
 2019_771,John McDermott
+2019_772,John Susman
 2019_774,Christopher Münch
 2019_777,Danny Lee
 2019_777,Herman Yau
