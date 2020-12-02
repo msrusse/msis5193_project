@@ -3,7 +3,6 @@
 import grequests
 import json, time, re
 from bs4 import BeautifulSoup as bs
-from multiprocessing import Process
 from tqdm import tqdm
 from colorama import init
 from pathlib import Path
