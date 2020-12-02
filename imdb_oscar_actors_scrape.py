@@ -55,10 +55,14 @@ def getOscarActorsFromResponse(response):
             if i+1 == len(year_indexes):
                 movies.append(all_movies[movie_indexes[i]+2:])
             else:
-                movies.append(all_movies[movie_indexes[i]+2:year_indexes[i]])
+                movies.append(all_movies[movie_indexes[i]+2:year_indexes[i+1]])
+        awards = {}
+        for movie in movies:
+            split = movie.split(' in ', 1)
+            awards[split[1]] = split[0]
         actors_info.append({
             'name' : actor.find('h3').getText().replace('\n', '').replace('\u00e9', 'e').replace('  ', '').split('.')[1].rstrip(),
-            'movies' : movies
+            'movies' : awards
         })
     return actors_info
 
