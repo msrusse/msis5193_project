@@ -68,7 +68,10 @@ def restructure_dict_to_file(movies, year):
     year_movies = {}
     for movie in movies:
         if 'plotSummary' in movies[movie].keys():
-            year_movies[movies[movie]['id']] = movies[movie]['plotSummary']
+            year_movies[movies[movie]['id']] = {
+                'plotSummary' : movies[movie]['plotSummary'],
+                'runtimeMinutes' : movies[movie]['runtimeMinutes']
+            }
     with open(movies_summary_path + '/%s_movie_summaries.json' % year, 'w') as outfile:
         json.dump(year_movies, outfile, sort_keys=True, indent=4)
 
