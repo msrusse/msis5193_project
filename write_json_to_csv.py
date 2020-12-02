@@ -70,10 +70,10 @@ def writeAcademyAwardWinnersToCSV(academy_award_winning_movies):
 def writePlotSummariesToCSV(movie_summaries):
     with open('data/csv_files/movie_summeries.csv', 'w', encoding='utf-8', newline='') as csvfile:
         writer = csv.writer(csvfile, delimiter=',')
-        writer.writerow(['uniqueID', 'plotSummary'])
+        writer.writerow(['uniqueID', 'plotSummary', 'runtime'])
         for year in movie_summaries:
             for movie in year:
-                writer.writerow([movie, year[movie]])
+                writer.writerow([movie, year[movie]['plotSummary'], year[movie]['runtimeMinutes']])
 
 def convertRottenTomatoesListToDicts(rotten_tomatoes_movies):
     actors = {}
