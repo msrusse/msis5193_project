@@ -75,9 +75,13 @@ def restructure_dict_to_file(movies, year):
     with open(movies_summary_path + '/%s_movie_summaries.json' % year, 'w') as outfile:
         json.dump(year_movies, outfile, sort_keys=True, indent=4)
 
-all_movies = determine_imdb_urls()
-bar = pb()
-for year in bar(all_movies):
-    movies = get_imdb_pages(all_movies[year])
-    year_movies = parse_imdb_pages(movies, all_movies[year])
-    restructure_dict_to_file(year_movies, year)
+def main():
+    all_movies = determine_imdb_urls()
+    bar = pb()
+    for year in bar(all_movies):
+        movies = get_imdb_pages(all_movies[year])
+        year_movies = parse_imdb_pages(movies, all_movies[year])
+        restructure_dict_to_file(year_movies, year)
+
+if __name__ == '__main__':
+    main()

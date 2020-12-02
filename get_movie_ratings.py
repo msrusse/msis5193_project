@@ -138,8 +138,12 @@ def get_id_for_movies(movie_information, movie_titles_by_year, year):
     with open('data/movie_information/invalid_responses/%s' % current_year_file, 'w') as outfile:
         json.dump(incorrect_movies, outfile, sort_keys=True, indent=4)
 
-init()
-movies = get_all_movies()
-movie_titles_by_year = get_movie_titles(movies)
-movie_titles_by_year = get_rotten_tomatoes_name(movie_titles_by_year)
-get_movies_from_rotten_tomatoes(movie_titles_by_year, movie_titles_by_year)
+def main():
+    init()
+    movies = get_all_movies()
+    movie_titles_by_year = get_movie_titles(movies)
+    movie_titles_by_year = get_rotten_tomatoes_name(movie_titles_by_year)
+    get_movies_from_rotten_tomatoes(movie_titles_by_year, movie_titles_by_year)
+
+if __name__ == '__main__':
+    main()
