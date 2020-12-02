@@ -59,6 +59,14 @@ def writeMoviesByMarketToCSV(movies_by_market):
                     for country in current_market:
                         writer.writerow([current_movie['id'], market, marketName(market), countryName(country['country']), country['countryGrossAmount'], country['countryOpeningAmount'], country['countryReleaseDate']])
 
+def writeOscarActorsToCSV(oscar_actors):
+    with open('data/csv_files/oscar_actors.csv', 'w', encoding='utf-8', newline='') as csvfile:
+        writer = csv.writer(csvfile, delimiter=',')
+        writer.writerow(['actorName', 'award', 'movieName'])
+        for actor in oscar_actors:
+            for movie in actor['movies']:
+                writer.writerow([actor['name'], actor['movies'][movie], movie])
+
 def writeAcademyAwardWinnersToCSV(academy_award_winning_movies):
     with open('data/csv_files/academy_award_winning_movies.csv', 'w', encoding='utf-8', newline='') as csvfile:
         writer = csv.writer(csvfile, delimiter=',')
@@ -166,6 +174,8 @@ def main():
     all_movies_by_year_market = getMoviesByMarketYearJSON()
     all_movies_by_year_market_list = convertAllYearsIntoList(all_movies_by_year_market)
     writeMoviesByMarketToCSV(all_movies_by_year_market_list)
+    oscar_actors = json.load(open('data/oscar_actors.json'))
+    writeOscarActorsToCSV(oscar_actors)
     wikipedia_movies = json.load(open('data/movies_from_wikipedia.json'))
     writeAcademyAwardWinnersToCSV(wikipedia_movies)
     all_movie_summaries = getMovieSummariesByYearJSON()
