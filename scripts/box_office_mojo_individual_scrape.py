@@ -1,11 +1,13 @@
 #! /usr/bin/python3
 
+import os
 from bs4 import BeautifulSoup as BS
 import numpy as np
 import grequests
-import json, csv, sys, time, requests
+import json, sys, time, requests
+from tqdm import tqdm
+from colorama import init
 from datetime import datetime
-from progressbar import ProgressBar as pb
 
 # Base url used for individual box office mojo movies, will have the movie ID appended to it
 base_url = 'https://www.boxofficemojo.com/releasegroup/'
@@ -14,7 +16,7 @@ errors = {}
 # Sets the standard output to console
 primary_stdout = sys.stdout
 # Sets the log file location
-log = open("logs/box_office_mojo_individual.log", "a")
+log = open("logs/errors/box_office_mojo_individual.log", "a")
 
 # TODO: Write function to sanitize country names with weird characters
 
@@ -79,9 +81,8 @@ def getIndividualMovies(movies):
     # Splits the urls into lists of 100, Box Office Mojo anti-ddos protocals kick in with more requests
     split_urls = [urls[i:i + 25] for i in range(0, len(urls), 25)]
     responses = []
-    bar = pb()
     # Loops through each list of 100
-    for lst in bar(split_urls):
+    for lst in tqdm(split_urls, desc='Box Office Mojo Individual'):
         # Grequest module adds each url in the set of 100 to the request object
         grequest = (grequests.get(base_url + str(url)) for url in lst)
         # Adds the responses to the overall list to be returned. grequests.map sends the requests asynchronously
@@ -122,8 +123,7 @@ def checkStatusCode(response, attempts=0):
 # Checks if the responses are valid and only returns if a valid value exists
 def determineValidResponse(individual_movies):
     valid_responses = []
-    bar = pb()
-    for response in bar(individual_movies):
+    for response in individual_movies:
         checked_response = checkStatusCode(response)
         if checked_response:
             valid_responses.append(checked_response)
@@ -136,8 +136,7 @@ def getTableInformation(valid_movie_responses, converted_movies, retry=False, in
         movie_information = individual_movies_by_year
     else:
         movie_information = {}
-    bar = pb()
-    for response in bar(valid_movie_responses):
+    for response in valid_movie_responses:
         # Converts response to a beautiful soup object
         response_bs = BS(response.content, 'lxml')
         # Grabs all tables with the releases-by-region class
@@ -192,6 +191,7 @@ def determineMoviesNotFound(individual_movies_by_year, converted_movies, year):
     return missing_movies
 
 def main():
+    init()
     # Sets the current start time for the script
     start_time = datetime.now()
     # Sets the output to the log file
@@ -207,37 +207,39 @@ def main():
     # Creates the individual movie dictionary
     # Loops through each year of the movies
     for year in converted_movies:
-        print('\nGetting movies for %s...' % year)
-        # Calls the getIndividualMovies function for all movies in the current year
-        individual_movies = getIndividualMovies(converted_movies[year])
-        print('Movies Retrieved.\nDetermining valid responses for %s...' % year)
-        # Calls the determineValidResponses function
-        movie_responses = determineValidResponse(individual_movies)
-        print('Valid Responses Determined.\nParsing movies for %s...' % year)
-        # Calls the getTableInformation function
-        individual_movies_by_year = getTableInformation(movie_responses, converted_movies[year])
-        # Converts the dictionary keys to lists, pulling all movies from the original dictionary and current year to compare with individual pages pulled
-        missing_movies = determineMoviesNotFound(list(individual_movies_by_year.keys()), list(converted_movies[year].keys()), year)
-        # If there are missing movies, attempts to recall those movies-
-        if len(missing_movies) > 0:
-            new_requests = []
-            # Makes the requests for all missing movies
-            for movie in missing_movies:
-                new_requests.append(requests.get(base_url + movie))
-            # Determines if the retried requests are valid
-            retried_movie_responses = determineValidResponse(new_requests)
-            # Calls the getTableInformation and sets the retry flag to True
-            individual_movies_by_year = getTableInformation(retried_movie_responses, converted_movies[year], True, individual_movies_by_year)
-        # Writes data to new JSON file
-        with open('data/movies_by_market/%s_movies_by_market.json' % year, 'w') as outfile:
-            json.dump(individual_movies_by_year, outfile, sort_keys=True, indent=4)
-        print('Movies Parsed. Sleeping for anti DDOS...')
-        timer_bar = pb()
-        # Adds in a sleep time between years to further prevent inadvertant DDOSing
-        for i in timer_bar(range(100)):
-            time.sleep(.2)
-            if int(year) > 2015:
-                time.sleep(.1)
+        year_file = 'data/movies_by_market/%s_movies_by_market.json' % year
+        current_year = datetime.now().year
+        if not os.path.exists(year_file) or (year == str(current_year) or year == str(current_year-1)):
+            print('\nGetting movies for %s...' % year)
+            # Calls the getIndividualMovies function for all movies in the current year
+            individual_movies = getIndividualMovies(converted_movies[year])
+            print('\nMovies Retrieved.\nDetermining valid responses for %s...' % year)
+            # Calls the determineValidResponses function
+            movie_responses = determineValidResponse(individual_movies)
+            print('\nValid Responses Determined.\nParsing movies for %s...' % year)
+            # Calls the getTableInformation function
+            individual_movies_by_year = getTableInformation(movie_responses, converted_movies[year])
+            # Converts the dictionary keys to lists, pulling all movies from the original dictionary and current year to compare with individual pages pulled
+            missing_movies = determineMoviesNotFound(list(individual_movies_by_year.keys()), list(converted_movies[year].keys()), year)
+            # If there are missing movies, attempts to recall those movies-
+            if len(missing_movies) > 0:
+                new_requests = []
+                # Makes the requests for all missing movies
+                for movie in missing_movies:
+                    new_requests.append(requests.get(base_url + movie))
+                # Determines if the retried requests are valid
+                retried_movie_responses = determineValidResponse(new_requests)
+                # Calls the getTableInformation and sets the retry flag to True
+                individual_movies_by_year = getTableInformation(retried_movie_responses, converted_movies[year], True, individual_movies_by_year)
+            # Writes data to new JSON file
+            with open(year_file, 'w') as outfile:
+                json.dump(individual_movies_by_year, outfile, sort_keys=True, indent=4)
+            print('\nMovies Parsed. Sleeping for anti DDOS...')
+            # Adds in a sleep time between years to further prevent inadvertant DDOSing
+            for i in range(100):
+                time.sleep(.2)
+                if int(year) > 2015:
+                    time.sleep(.1)
     # Writes errors dict to errors.json, if any exist
     if len(errors) > 0:
         with open('logs/movies_by_market/errors.json', 'w') as outfile:

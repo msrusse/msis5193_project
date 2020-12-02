@@ -2,9 +2,7 @@
 
 from bs4 import BeautifulSoup as BS
 import numpy as np
-import json, csv, sys, time, requests, re
-from datetime import datetime
-from progressbar import ProgressBar as pb
+import json, sys, requests, re
 
 # Creates errors dictionary
 errors = {}
@@ -37,7 +35,7 @@ def checkStatusCode(response):
             return None
     # If response is none, log the response in the log file
     else:
-        print('%s' % response)
+        print('\n%s' % response)
 
 def getOscarActorsFromResponse(response):
     response_html = BS(response.content, 'lxml')
@@ -69,11 +67,13 @@ def getOscarActorsFromResponse(response):
 def main():
     requests = getOscarActorsWebpage()
     actors = []
+    print('\nGetting Oscar Winning Actors from IMDB...')
     for response in requests:
         if checkStatusCode(response):
             actors += getOscarActorsFromResponse(response)
     with open('data/oscar_actors.json', 'w') as outfile:
         json.dump(actors, outfile, sort_keys=True, indent=4)
+    print('\nOscar Winning Actors Retrieved.')
 
 if __name__ == '__main__':
     main()

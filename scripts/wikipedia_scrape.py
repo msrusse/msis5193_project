@@ -2,9 +2,8 @@
 
 from bs4 import BeautifulSoup as BS
 import grequests
-import json, requests, sys
+import json, requests, sys, os
 from datetime import datetime
-from progressbar import ProgressBar as pb
 
 # Sets base URL for wikipedia
 wikipedia_url = 'https://en.wikipedia.org'
@@ -41,10 +40,10 @@ def determineMovies(response):
     # Creates variables to work with the logic for row and column spans of the awards and nominations
     total_award_rows = total_nominations_rows = nominations_row = award_row = 0
     current_year = current_awards = current_nominations = None
+    wiki_link = ''
     # Creates the progressbar object
-    bar = pb()
     # Loops through each movie, starts with index 1 because index 0 is the header row
-    for movie in bar(movie_rows[1:]):
+    for movie in movie_rows[1:]:
         # Finds all table data in the row, each item corresponds to the title, year, awards, and nominations
         cols = movie.find_all('td')
         # Gets the title and sanitizes it
@@ -190,7 +189,9 @@ def checkStatusCode(response):
             return None
     # If response is none, log the response in the log file
     else:
+        sys.stdout = log
         print('%s' % response)
+        sys.stdout = primary_stdout
 
 def parseWikipediaPages(response):
     # Converts response to soup object
@@ -228,20 +229,19 @@ def main():
     all_award_winners_wiki = requests.get(wikipedia_url + '/wiki/List_of_Academy_Award-winning_films')
     print('\nAll Academy Award winners retrieved. Determining response...')
     if determineIfValidRepsonse(all_award_winners_wiki):
-        print('Wikipedia returned a valid response. Parsing movies...')
+        print('\nWikipedia returned a valid response. Parsing movies...')
         movies = determineMovies(all_award_winners_wiki)
-        print('Movies parsed. Requesting Individual movie pages...')
+        print('\nMovies parsed. Requesting Individual movie pages...')
         individual_movie_wikis = getMoviesOnWikipedia(movies)
         print('\nIndividual movie pages retrieved. Parsing each page...')
-        bar = pb()
-        for response in bar(individual_movie_wikis):
+        for response in individual_movie_wikis:
             if checkStatusCode(response):
                 movies[response.url]['rottenTomatoes'] = parseWikipediaPages(response)
             else:
                 sys.stdout = log
                 print('Unable to retrieve %s' % response)
-                syst.stdout = primary_stdout
-        print('Individual movie pages parsed. Saving results to data/movies_from_wikipedia.json...')
+                sys.stdout = primary_stdout
+        print('\nIndividual movie pages parsed. Saving results to data/movies_from_wikipedia.json...')
         with open('data/movies_from_wikipedia.json', 'w') as outfile:
             json.dump(movies, outfile, sort_keys=True, indent=4)
         print('\nFile Saved.')

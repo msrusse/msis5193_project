@@ -2,9 +2,10 @@
 
 import grequests
 import json, time, re
-from bs4 import BeautifulSoup as bs
 from tqdm import tqdm
 from colorama import init
+from bs4 import BeautifulSoup as bs
+import numpy as np
 from pathlib import Path
 
 def get_all_movies():
@@ -41,7 +42,7 @@ def get_movies_from_rotten_tomatoes(movies, movie_titles_by_year):
     irregular_keys = {}
     with open ('data/movie_information/irregular_movie_links.json') as infile:
         irregular_keys = json.load(infile)
-    for year in tqdm(movies):
+    for year in tqdm(movies, desc='Movie Ratings'):
         responses[year] = {}
         urls = []
         for movie in list(movies[year]):
@@ -52,11 +53,11 @@ def get_movies_from_rotten_tomatoes(movies, movie_titles_by_year):
             urls.append('https://www.rottentomatoes.com/m/%s' % url_end)
         split_urls = [urls[i:i + 75] for i in range(0, len(urls), 75)]
         year_responses = []
-        for lst in tqdm(split_urls, desc='%s' % year):
+        for lst in split_urls:
             grequest = (grequests.get(str(url)) for url in lst)
             year_responses += (grequests.map(grequest))
             if len(split_urls) > 2:
-                for i in tqdm(range(100)):
+                for i in range(100):
                     time.sleep(.45)
         responses[year] = year_responses
         parse_rotten_tomatoes_pages(responses[year], movie_titles_by_year[year], year)
@@ -142,8 +143,10 @@ def main():
     init()
     movies = get_all_movies()
     movie_titles_by_year = get_movie_titles(movies)
+    print('\nRetreiving Movies from Rotten Tomatoes...')
     movie_titles_by_year = get_rotten_tomatoes_name(movie_titles_by_year)
     get_movies_from_rotten_tomatoes(movie_titles_by_year, movie_titles_by_year)
+    print('\nRotten Tomatoes Movies Retrieved.')
 
 if __name__ == '__main__':
     main()

@@ -2,8 +2,9 @@
 
 from bs4 import BeautifulSoup as BS
 import grequests
-import json, datetime, csv
-from progressbar import ProgressBar as pb
+import json, datetime
+from tqdm import tqdm
+from colorama import init
 
 base_url = 'https://www.boxofficemojo.com/'
 
@@ -52,20 +53,22 @@ def parseBoxOfficeYear(year_page):
     return movies_dict
 
 def getMoviesByYear(mapped_response):
-    bar = pb()
     movies_by_year = {}
     # Loops through all years returned and if there is a valid response it parses the HTML and adds it to the movies_by_year dict
-    for response in bar(mapped_response):
+    for response in tqdm(mapped_response, 'Box Office Mojo by Year'):
         if response is not None and response.status_code == 200:
             movies_by_year[response.url[-5:-1]] = parseBoxOfficeYear(response.content)
     return movies_by_year
 
 def main():
+    init()
+    print('\nGetting All Year Box Office Results...')
     all_movies = getAllYears()
     movies_by_year = getMoviesByYear(all_movies)
     # Writes movies dict to JSON file, making it easy to load in another script to grab individual movie details on releases.
     with open('data/box_office_movies.json', 'w') as outfile:
         json.dump(movies_by_year, outfile, sort_keys=True, indent=4)
+    print('\nAll Box Office Resutls Retrieved.')
 
 if __name__ == '__main__':
     main()

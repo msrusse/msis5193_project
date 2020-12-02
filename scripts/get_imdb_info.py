@@ -1,10 +1,14 @@
 #! /usr/bin/python
 
+from datetime import datetime
 import grequests
-import json, glob, time, re
+import json, glob, time, re, os
+from tqdm import tqdm
+from colorama import init
 from bs4 import BeautifulSoup as bs
-from progressbar import ProgressBar as pb
+import numpy as np
 
+os.environ["GEVENT_SUPPORT"] = 'True'
 movies_by_market_path = 'data/movies_by_market'
 movies_summary_path = 'data/movie_summaries'
 
@@ -77,11 +81,15 @@ def restructure_dict_to_file(movies, year):
 
 def main():
     all_movies = determine_imdb_urls()
-    bar = pb()
-    for year in bar(all_movies):
-        movies = get_imdb_pages(all_movies[year])
-        year_movies = parse_imdb_pages(movies, all_movies[year])
-        restructure_dict_to_file(year_movies, year)
+    print('\nGetting Movie Information from IMDB...')
+    for year in tqdm(all_movies, desc='IMDB Info'):
+        year_file = 'data/movies_by_market/%s_movies_by_market.json' % year
+        current_year = datetime.now().year
+        if not os.path.exists(year_file) or (year == str(current_year) or year == str(current_year-1)):
+            movies = get_imdb_pages(all_movies[year])
+            year_movies = parse_imdb_pages(movies, all_movies[year])
+            restructure_dict_to_file(year_movies, year)
+    print('\nIMDB Movie Information Retrieved.')
 
 if __name__ == '__main__':
     main()
