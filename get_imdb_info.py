@@ -1,7 +1,7 @@
 #! /usr/bin/python
 
 import grequests
-import json, glob, time
+import json, glob, time, re
 from bs4 import BeautifulSoup as bs
 from progressbar import ProgressBar as pb
 
@@ -47,13 +47,20 @@ def parse_imdb_pages(movies, year_movies):
                 if title_description is not None:
                     title_description = title_description.getText()
                     plot_summary = title_description.replace('\n', '').replace(' Read more: Plot summary', '').replace(' | Synopsis', '').replace('\u00e9', 'e').replace('\\', '')
+                runtime = html_bs.find('span', {'id' : 'running_time'})
+                if runtime is not None:
+                    runtime = runtime.getText()
+                    runtime = re.sub('[^0-9]+', '', runtime)
             else:
                 plot_summary =  'N/A, status code: %s' % movie.status_code
+                runtime = 'N/A, status code: %s' % movie.status_code
             if movie.url in year_movies.keys():
                 year_movies[movie.url]['plotSummary'] = plot_summary
+                year_movies[movie.url]['runtimeMinutes'] = runtime
             else:
                 year_movies[movie.url] = {
-                    'plotSummary' : plot_summary
+                    'plotSummary' : plot_summary,
+                    'runtimeMinutes' : runtime
                 }
     return year_movies
 
