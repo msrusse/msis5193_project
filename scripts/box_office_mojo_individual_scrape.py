@@ -27,8 +27,8 @@ def marketKey(market):
     return {
         'Domestic' : 'domestic',
         'Europe, Middle East, and Africa' : 'emea',
-        'Latin America' : 'latin_america',
-        'Asia Pacific' : 'asia_pacific',
+        'Latin America' : 'latinAmerica',
+        'Asia Pacific' : 'asiaPacific',
         'China' : 'china'
     }.get(market, market)
 
@@ -90,7 +90,7 @@ def getIndividualMovies(movies):
         # Adds the responses to the overall list to be returned. grequests.map sends the requests asynchronously
         responses += (grequests.map(grequest))
         if len(split_urls) > 2:
-            time.sleep(60)
+            time.sleep(45)
     return responses
 
 # Checks the status of each response

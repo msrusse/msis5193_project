@@ -1,4 +1,4 @@
-#! python
+#! python3
 
 from bs4 import BeautifulSoup as BS
 import grequests

@@ -9,9 +9,8 @@ def marketName(market_id):
     return {
         'domestic' : 'Domestic',
         'emea' : 'Europe, Middle East, and Africa',
-        'latin_america' : 'Latin America',
-        'latine_america' : 'Latin America',
-        'asia_pacific' : 'Asia Pacific',
+        'latinAmerica' : 'Latin America',
+        'asiaPacific' : 'Asia Pacific',
         'china' : 'China'
     }.get(market_id, market_id)
 

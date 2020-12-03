@@ -1,8 +1,8 @@
-#! /usr/bin/python
+#! /usr/bin/python3
 
 from multiprocessing.context import Process
 from scripts import box_office_mojo_individual_scrape, box_office_mojo_scrape, get_imdb_info, get_movie_ratings, imdb_oscar_actors_scrape, wikipedia_scrape, write_json_to_csv
-import os
+import os, json
 
 def mkdirs():
     data_path = 'data'
@@ -32,6 +32,8 @@ def mkdirs():
         mkdirs()
     if not os.path.isdir('logs'):
         os.mkdir('logs')
+    if not os.path.isfile(os.path.join(movie_information, 'irregular_movie_links.json')):
+        json.dump(json.load(open('sample_data/irregular_movie_links.json')), os.path.join(movie_information, 'irregular_movie_links.json'), sort_keys=True, indent=4)
 
 def executeBoxOfficeMojo():
     box_office_mojo_scrape.main()
