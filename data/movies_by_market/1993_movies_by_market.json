@@ -308,7 +308,7 @@
         "id": "1993_2",
         "individualURL": "gr1273123333",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 17928073.0,
@@ -578,7 +578,7 @@
                     "countryReleaseDate": "01/28/1994"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 1738854.0,
@@ -1418,7 +1418,7 @@
         "id": "1993_1",
         "individualURL": "gr1932939781",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 22121200.0,
@@ -1658,7 +1658,7 @@
                     "countryReleaseDate": "07/16/1993"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 8191506.0,
@@ -2082,7 +2082,7 @@
         "id": "1993_91",
         "individualURL": "gr2290045445",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 807227.0,
@@ -3482,7 +3482,7 @@
         "id": "1993_135",
         "individualURL": "gr3658568197",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "South Korea",
                     "countryGrossAmount": 768186.0,
@@ -3618,7 +3618,7 @@
         "id": "1993_4",
         "individualURL": "gr3907801605",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 6967301.0,
@@ -3840,7 +3840,7 @@
                     "countryReleaseDate": "02/18/1994"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 4004849.0,

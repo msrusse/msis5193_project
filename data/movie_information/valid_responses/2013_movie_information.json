@@ -23117,6 +23117,34 @@
             "What makes this film impressive is an unending parade of magic tricks performed by experts and filmed without editing tricks or special effects."
         ]
     },
+    "2013_632": {
+        "actors": [
+            "Zachery Bryan",
+            "Mac Brandt",
+            "Daz Crawford",
+            "Velislav Pavlov",
+            "Alexis Peters",
+            "Melissa Leigh",
+            "John Laskowski",
+            "Georgi Zlatarev",
+            "Raicho Vasilev"
+        ],
+        "audienceRatings": {
+            "count": "201",
+            "rating": 13
+        },
+        "contentRating": "NR",
+        "criticsRatings": {
+            "count": "201",
+            "rating": "13"
+        },
+        "directors": [
+            "Todor Chapkanov"
+        ],
+        "genre": "action, adventure, horror, fantasy",
+        "productionCompany": "Unified Film Organization",
+        "reviews": []
+    },
     "2013_634": {
         "actors": [
             "Ted Nugent",
@@ -23205,6 +23233,54 @@
             "James Franco's lovingly crafted, if minimalistic, cinematic ode to Sal Mineo - the actor most famous for his Oscar-nominated role opposite James Dean in \"Rebel Without a Cause\" - succeeds due in large part to Val Lauren's thoughtful portrayal. ",
             "Franco's visual sense and skill with atmosphere are strongly evident here, but, unfortunately, not enough happens in the movie.",
             "It functions under the delusion that subtext will magically appear if you linger on a character long enough, and the significance of most of its scenes is nothing if not inscrutable."
+        ]
+    },
+    "2013_636": {
+        "actors": [
+            "Val Lauren",
+            "Jim Parrack",
+            "James Franco",
+            "Brian Goodman",
+            "Eva Lauren",
+            "Vince Jolivette",
+            "Trevor Neuhoff",
+            "Stacey Miller",
+            "Christian Olave",
+            "April Bausista",
+            "Jacquelyn Deme",
+            "Ed Ghamem",
+            "Jason Fox",
+            "Felicity Bryant",
+            "Brian Lally",
+            "Robin Cohen",
+            "Adam Peek",
+            "John Morrow",
+            "Kristin Adams"
+        ],
+        "audienceRatings": {
+            "count": "109",
+            "rating": 30
+        },
+        "contentRating": "NR",
+        "criticsRatings": {
+            "count": "9",
+            "rating": "44"
+        },
+        "directors": [
+            "James Franco"
+        ],
+        "genre": "biography, drama",
+        "productionCompany": "Tribeca Film",
+        "reviews": [
+            "All we do is wait through uneventful hours with the protagonist until their foreordained death comes as a kind of finale and release.",
+            "Despite its modest proportions and chilling finale, Sal is foremost an affectionate tribute, conjuring ample warmth out of relatively little.",
+            "It functions under the delusion that subtext will magically appear if you linger on a character long enough, and the significance of most of its scenes is nothing if not inscrutable.",
+            "As always, Franco demonstrates a talent for and interest in composition, performance, and the naked human moment.",
+            "While the subject is intriguing, Franco's amateurish rendering would make a marvelous film school project, one that's neither compelling nor as provocative as it thinks it is.",
+            "In other words, \"Sal\" is not all that different from most other films from directors fresh out of film school - ambitious, accomplished and with room to improve.",
+            "[S]cene after scene plays out as if Franco has watched one too many Gus Van Sant movies and figured that's how you make an Important Movie.",
+            "James Franco's lovingly crafted, if minimalistic, cinematic ode to Sal Mineo - the actor most famous for his Oscar-nominated role opposite James Dean in \"Rebel Without a Cause\" - succeeds due in large part to Val Lauren's thoughtful portrayal. ",
+            "Franco's visual sense and skill with atmosphere are strongly evident here, but, unfortunately, not enough happens in the movie."
         ]
     },
     "2013_637": {
@@ -23469,6 +23545,30 @@
         "productionCompany": "Attagirl Productions",
         "reviews": []
     },
+    "2013_643": {
+        "actors": [
+            "Natalie Anderson",
+            "Athena Demos",
+            "Katie Alden",
+            "Tanna Frederick",
+            "Katie Aiden"
+        ],
+        "audienceRatings": {
+            "count": "358",
+            "rating": 27
+        },
+        "contentRating": "NR",
+        "criticsRatings": {
+            "count": "358",
+            "rating": "27"
+        },
+        "directors": [
+            "Helen Lesnick"
+        ],
+        "genre": "drama",
+        "productionCompany": "Attagirl Productions",
+        "reviews": []
+    },
     "2013_645": {
         "actors": [
             "Shannon Harper",
@@ -23562,6 +23662,31 @@
             "Priyadarshan has been growing so steadily unwatchable these days that you fear the worst when you step into Rangrezz, a remake of the Tamil hit Naadodigal. As the film unspools, each of those fears come true: this is rock-bottom."
         ]
     },
+    "2013_647": {
+        "actors": [
+            "Jacky Bhagnani",
+            "Rajpal Yadav",
+            "Priya Anand",
+            "Amitosh Nagpal"
+        ],
+        "audienceRatings": {
+            "count": "46",
+            "rating": 44
+        },
+        "contentRating": "NR",
+        "criticsRatings": {
+            "count": "46",
+            "rating": "44"
+        },
+        "directors": [
+            "Priyadarshan"
+        ],
+        "genre": "drama",
+        "productionCompany": "UTV Communications",
+        "reviews": [
+            "Priyadarshan has been growing so steadily unwatchable these days that you fear the worst when you step into Rangrezz, a remake of the Tamil hit Naadodigal. As the film unspools, each of those fears come true: this is rock-bottom."
+        ]
+    },
     "2013_648": {
         "actors": [
             "Effie Hortis",
@@ -23627,6 +23752,43 @@
             "At times the plot seems to exist merely to string together all these dance scenes ... Unfortunately, Five Dances feels more interested in the art than the artist.",
             "Anyone not associated with the world of modern dance and/or anyone not fixated on the bodies of agile young men will find little of interest in this slow, claustrophobic film ",
             "It's the moments when the director stops worrying about clarifying plot and character motivation and lets the performances bring those into being that makes this an authentic project.",
+            "Unfortunately, schmaltzy music and drab melodrama drag down the otherwise graceful moves of Five Dances."
+        ]
+    },
+    "2013_650": {
+        "actors": [
+            "Ryan Steele",
+            "Reed Luplau",
+            "Catherine Miller Scott",
+            "Kimiye Corwin",
+            "Luke Murphy"
+        ],
+        "audienceRatings": {
+            "count": "274",
+            "rating": 56
+        },
+        "contentRating": "NR",
+        "criticsRatings": {
+            "count": "12",
+            "rating": "58"
+        },
+        "directors": [
+            "Alan Brown"
+        ],
+        "genre": "drama",
+        "productionCompany": "Paladin",
+        "reviews": [
+            "A lovingly shot valentine to work and body and art, and a generous, ultimately happy little story of a lost boy finding a community and a kindred soul.",
+            "Five Dances should well impress dance aficionados even if its skimpy narrative proves less than inspired.",
+            "Rather than adapting the pieces to conform to his paper-thin narrative, Brown explores the tensions and contortions of dancers expressing fresh emotion through a pre-existing art form. ",
+            "Just when the plotting had me sighing with impatience, Brown would get back into showing us rehearsal and things would liven up again. It's in the recording of dance that this movie comes alive.",
+            "There's an interesting vibe there, but it's not enough to save what seems like a failed experiment.",
+            "It's the moments when the director stops worrying about clarifying plot and character motivation and lets the performances bring those into being that makes this an authentic project.",
+            "Five Dances is sublimely on-point about both modern dance and love.",
+            "Five Dances is a well-crafted film without seeming intentionally so, with a streamlined approach to the storytelling - wordless scenes that speak to certain things and glances that convey more than most dialogue ever could.",
+            "At times the plot seems to exist merely to string together all these dance scenes ... Unfortunately, Five Dances feels more interested in the art than the artist.",
+            "Anyone not associated with the world of modern dance and/or anyone not fixated on the bodies of agile young men will find little of interest in this slow, claustrophobic film ",
+            "Though the film's untested cast struggles with the drama, and the sketched-out story is often banal (there are several amateurish calls-to-mom scenes), the presentation of a specific city subculture is etched from the heart.",
             "Unfortunately, schmaltzy music and drab melodrama drag down the otherwise graceful moves of Five Dances."
         ]
     },
@@ -23711,6 +23873,55 @@
             "Cynical and savvy, it's a small film with a big message about the ends justifying the means."
         ]
     },
+    "2013_653": {
+        "actors": [
+            "Rob Lowe",
+            "Julie Bowen",
+            "Saffron Burrows",
+            "Jamie Chung",
+            "David Harbour",
+            "Eric McCormack",
+            "Jennifer Morrison",
+            "Carrie-Anne Moss",
+            "Richard Schiff",
+            "Amanda Crew",
+            "Michelle Krusiec"
+        ],
+        "audienceRatings": {
+            "count": "282",
+            "rating": 26
+        },
+        "contentRating": "R",
+        "criticsRatings": {
+            "count": "18",
+            "rating": "28"
+        },
+        "directors": [
+            "Bill Guttentag"
+        ],
+        "genre": "drama",
+        "productionCompany": "IFC Films",
+        "reviews": [
+            "Lowe's Paul is slimy, but, lo and behold, we are supposed to believe that he smells like a rose. He really wants to make the world a better place. His sentiments may be genuine but they come across as a con.",
+            "Meanders aimlessly around too-familiar territory.",
+            "An improbable fantasy in which the people who make political advertising emerge as chisel-jawed heroes of democracy.",
+            "Whether playing it sleazy or noble, Mr. Lowe brings little emotional weight to his role.",
+            "[An] underwhelming, would-be political satire.",
+            "Soulless and two-dimensional, Knife Fight is a black hole of disillusion and spin.",
+            "A fun, tack-sharp political drama with satirical underpinnings, buoyed by crisp characterizations.",
+            "It could have been an incisive counterpoint to a film like \"The Ides of March.\" Instead, it's a forgettable series of bullet points barely strung together by charismatic performances.",
+            "For all the knowing monologues mentioning tax breaks for the rich and diet drinks for the poor, Knife Fight feels squeaky-clean -- a remedial spin class that tells more than it shows.",
+            "Smart, brisk political satire, so smoothly done and performed that it overrides certain weaknesses and a climactic sentimental face change.",
+            "Another clich\u00e9d story of a cynic who gets in touch with his inner idealist..Movies like this give political satire a bad name. ",
+            "A mixed bag, offering a few winning performances and moments of revelation, while the rest scatters aimlessly, in search of structure director Bill Guttentag doesn't provide. ",
+            "U.S. politics provides more than ample fodder for sharply observed satire. Someone needs to tell Guttentag that requires a scalpel, not a dull-edged butter knife.",
+            "Though everyone's intentions seem honorable, this limp political satire overshoots its targets almost every time.",
+            "Everyone from Eric McCormack's caricature of a Southern candidate to Julie Bowen's celebrity newscaster are simply straw men for writer-director Bill Guttentag's argument that elections are a dirty business ...",
+            "With so many characters and so many issues, Knife Fight seems overlong, but it's still above and beyond most movies that try to puncture the balloons of political hypocrisy. The writing is sometimes awkward, but the actors are uniformly convincing.",
+            "Bill Guttentag exaggerates the absurd lengths advisors go to win an election and yet ultimately aggrandizes their behavior.",
+            "Cynical and savvy, it's a small film with a big message about the ends justifying the means."
+        ]
+    },
     "2013_654": {
         "actors": [
             "Tim DeChristopher",
@@ -23768,6 +23979,44 @@
             "count": "15",
             "rating": "73",
             "worst": "0"
+        },
+        "directors": [
+            "Roman Polanski"
+        ],
+        "genre": "documentary",
+        "productionCompany": "Submarine Media",
+        "reviews": [
+            "A good weekend's work by everyone; including the sharp director, Frank Simon.",
+            "\"Weekend of a Champion\" will appeal mostly to motor-racing enthusiasts and movie archaeologists.",
+            "Polanski and Stewart reunite at the film's end to reminisce, but it's the original footage that thrills.",
+            "Weekend Of A Champion serves as a terrific primer on auto racing.",
+            "Weekend of a Champion begins as a motorsports movie but ends up a portrait of two wily elder statesmen who have survived into their seventies by skill, stealth and sheer luck.",
+            "Stewart knows his stuff, but his confidence is accompanied by the lingering sense that something could go wrong at any moment.",
+            "...fascinating insight into the mind of a champion at the height of his powers...a don't-miss film, even if you're not an auto racing aficionado, which I'm not.",
+            "'Weekend of a Champion' is too diffuse and too light, and when it comes time for the big race itself, it founders.",
+            "An all-access pass into the past, this intimate behind-the-scenes documentary...is entrancing even for those of us whose familiarity with the sport begins and ends with the Indianapolis 500.",
+            "Weekend Of A Champion takes audiences close enough to the brink of oblivion to really drive home what a remarkable accomplishment that represents.",
+            "Even when he's talking technical, as he mostly does, Stewart's engaging, no-nonsense good humour shines through.",
+            "The film is at its most fascinating when Jackie Stewart authoritatively and pedagogically discusses the nuances of his trade.",
+            "Even racing aficionados might find the chitchat a little vague.",
+            "Stewart, found here at the height of his prowess and celebrity, proves a rather charming and loquacious subject, long ago inured to the spotlight and thus comfortable indulging our interest with candor.",
+            "I wonder if there isn't something a little bit placid and self-satisfied about the film, which is paced remarkably slowly, given the subject matter."
+        ]
+    },
+    "2013_656": {
+        "actors": [
+            "Roman Polanski",
+            "Jackie Stewart",
+            "Helen Stewart"
+        ],
+        "audienceRatings": {
+            "count": "179",
+            "rating": 75
+        },
+        "contentRating": "NR",
+        "criticsRatings": {
+            "count": "15",
+            "rating": "73"
         },
         "directors": [
             "Roman Polanski"
@@ -24139,6 +24388,64 @@
             "An uncommonly tedious horror effort..."
         ]
     },
+    "2013_663": {
+        "actors": [
+            "Francisco Barreiro",
+            "Laura Caro",
+            "Laura Caro",
+            "Mich\u00e8le Garcia",
+            "Alan Martinez",
+            "David Arturo Cabezud",
+            "Giancarlo Ruiz",
+            "Paco Mufote",
+            "Enrique Saint-Martin",
+            "Jessica Iris",
+            "Dana Dorel",
+            "Chuy Padilla",
+            "Raymundo Garduno",
+            "Minerva Noriega"
+        ],
+        "audienceRatings": {
+            "count": "3835",
+            "rating": 31
+        },
+        "contentRating": "R",
+        "criticsRatings": {
+            "count": "26",
+            "rating": "46"
+        },
+        "directors": [
+            "Adrian Garc\u00eda Bogliano"
+        ],
+        "genre": "mystery and thriller, horror",
+        "productionCompany": "Magnolia Pictures",
+        "reviews": [
+            "An auteur like Carlos Reygadas would have taken this in a worthwhile direction, and he did something like this with his significantly artier film Post Tenebras Lux.",
+            "\"Here Comes the Devil\" is a horror movie. The problem is that writer-director Adri\u00e1n Garc\u00eda Bogliano can't decide what kind of horror movie he wants it to be.",
+            "A muddled supernatural thriller that fails to capitalize on either its horrific prologue or eerie location.",
+            "Fond of lurching weirdness, jarring inserts and sonic loudness, Bogliano shows he's invested as much in conveying the psychodrama of a fractured home as he is the signposts of edgy, bloody retro-infused terror.",
+            "Bogliano keeps the focus on the psychology rather than the bloodlust, so \"Here Comes The Devil\" rises above the schlock of typical horror.",
+            "Bogliano provides a steady series of jolts, all the way to an ending that's twisty but ultimately unsatisfying.",
+            "Bogliano, at last, manages to show remarkable restraint in the proceedings, with Here Comes the Devil recalling some great genre art house efforts from decades past. ",
+            "Here Comes The Devil may be awful a lot of the time, yet I can't deny its power at keeping me invested throughout.",
+            "Here Comes the Devil is one of the most interesting, frightening and thoroughly alive-both intellectually and viscerally-works of horror and dread this critic has seen in a very, very long time.",
+            "The film builds to an effectively tense climax, but spends much of its runtime bogged down by tonally incongruous sub-plots that alternate between boring and nonsensical.",
+            "There's probably a frightening movie in there somewhere, or at least a darkly intriguing one, but this version can't unravel the chills of a half-glimpsed mystery.",
+            "Fuses the grindhouse with the arthouse into an interesting but unsatisfying hybrid.",
+            "Has mood but no real presence, making the movie a grab bag of lustful encounters and skin-ripping gore, while submitting the most vaginally-inspired imagery of the film year. ",
+            "The idiosyncratic, jagged-meets-subtle style writer-director Adri\u00e1n Garc\u00eda Bogliano demonstrates in this Mexican horror story suggests we'll be seeing more of his nightmares.",
+            "Better sex scenes than scary scenes. Too few of either to make a difference. ",
+            "But once it becomes clear that the children really are possessed -- cue the flickering lights and late-night levitation -- Here Comes the Devil settles into an all-too familiar groove.",
+            "Bogliano's unnerving mood, complemented by grungy camerawork and a shroud of sonic chaos, provides an emotional strain that makes anything possible.",
+            "Horror movies punish the sexually irresponsible; the Spanish-language film Here Comes the Devil manages to indict a married couple with that slasher-movie charge.",
+            "Here Comes The Devil embraces a certain amount of midnight movie fun, but with a lack of true horror, you'll be screaming \"WHAT?!\" for all the wrong reasons.",
+            "Intriguing if ultimately less than satisfying.",
+            "The film is eventually revealed as less interested in subverting or playing off its influences than rigorously retracing them.",
+            "It exudes an effective creepiness and a free-wheeling attitude to both hot and horrible sexuality, but Adrian Garcia Bogliano's bad-seed opus Here Comes The Devil doesn't amount to much more than a stylish ode to 70's giallo-esque excess.",
+            "It's not outright terrifying, but Here Comes the Devil is subtly scary and well worth a look.",
+            "An uncommonly tedious horror effort..."
+        ]
+    },
     "2013_664": {
         "actors": [
             "Anne von Keller",
@@ -24417,6 +24724,31 @@
             "Blue Jasmine weaponises Blanchett's elegant image against us, showing a character who is trying with all her might to maintain this glamour that is falling down around her. Seriously, she's amazing in this one."
         ]
     },
+    "2013_670": {
+        "actors": [
+            "Jason Chan (II) ",
+            "Yasuko Tomita",
+            "Kar-Ying Law",
+            "Karen Mok",
+            "Siu-Ming Lau",
+            "Lo Koon-Lan"
+        ],
+        "audienceRatings": {
+            "count": "Not yet available",
+            "rating": ""
+        },
+        "contentRating": "NR",
+        "criticsRatings": {
+            "count": "5",
+            "rating": null
+        },
+        "directors": [
+            "Ho Yim"
+        ],
+        "genre": "romance, drama, comedy",
+        "productionCompany": "",
+        "reviews": []
+    },
     "2013_672": {
         "actors": [
             "Zhou Shuguang",
@@ -24551,6 +24883,105 @@
             "...a nifty vicarious wallow for the \"No Fear\" T-shirt crowd."
         ]
     },
+    "2013_674": {
+        "actors": [
+            "Steve Austin",
+            "Vinnie Jones",
+            "Rick Hoffman",
+            "Madeline West",
+            "Robert Mammone",
+            "Victoria Mussett",
+            "Tory Mussett",
+            "Samantha Healy",
+            "Luke Pegler",
+            "Masa Yamaguchi",
+            "Emelia Burns",
+            "Dasi Ruz",
+            "Steve Harman",
+            "Steve Morris",
+            "Nigel Harbach",
+            "Marcus Johnson",
+            "Lani John Tupu",
+            "Peter Kent",
+            "Andy McPhee",
+            "Kurt Durval",
+            "Rai Fazio",
+            "Jesse Pikler-Brembly",
+            "Kaitlyn Clare",
+            "Josh Futcher",
+            "Miranda Podleska",
+            "Angie Milliken",
+            "Christopher Baker",
+            "Madeleine West",
+            "Jared Robinson",
+            "Sullivan Stapleton",
+            "Jared Robinsen",
+            "Andrew Buchanan",
+            "Brad Hayes",
+            "Ty Hungerford",
+            "John Orcsik",
+            "Mick Glancy",
+            "John Brently Reynolds",
+            "Greg Jones",
+            "Mick Roughan",
+            "John Walton",
+            "Anthony Chan",
+            "Manu Bennett",
+            "Grant Piro",
+            "Jacy Lewis",
+            "Domenic Brancatisano",
+            "Chris Palframan",
+            "Trent Sullivan",
+            "Joey Massey",
+            "Martin Challis",
+            "Neil Pigot",
+            "James Stewart",
+            "Evert McQueen",
+            "Brad McMurray",
+            "Daniel Pirrone-Cook",
+            "Robbie Reltano",
+            "Jimmy Christiansen",
+            "Ozzie Devrish"
+        ],
+        "audienceRatings": {
+            "count": "71003",
+            "rating": 58
+        },
+        "contentRating": "R",
+        "criticsRatings": {
+            "count": "101",
+            "rating": "15"
+        },
+        "directors": [
+            "Scott Wiper"
+        ],
+        "genre": "action, mystery and thriller",
+        "productionCompany": "Lionsgate Films",
+        "reviews": [
+            "An action film about a hyper-violent reality contest that quickly devolves into a monotonous series of hand-to-hand combat scenes.",
+            "The Condemned sprays its fury wide: media manipulators, political opportunists and technology-pacified couch potatoes are among the collaterally damaged. Paying audiences don't get off so easy either.",
+            "Cheesy enough to satisfy your B-movie cravings in half Grindhouse's running time.",
+            "This is a fast-paced, well-made piece of garbage.",
+            "The most notable thing about The Condemned is how it manages to be both ridiculously dull and incredibly offensive at the same time.",
+            "In the great pantheon of recent WWE vehicles, The Condemned ranks somewhere above the Kane vehicle See No Evil and below the John Cena-starrer The Marine.",
+            "One of the most deplorable movie-going experiences of my life.",
+            "There's nothing wrong with enjoying a balls to the wall guy film where muscle bound behemoths blow shit up and fight to the death...",
+            "The film even attempts to make moral judgments about how watching a fight to the death is wrong, which ends up alienating anybody that sat their butt down in the theater in the first place.",
+            "...Scott Wiper's hopelessly inept directorial choices - coupled with an overall vibe of ugliness - ensures that the movie ultimately fares about as well as its straight-to-video action brethren...",
+            "Don't look to glean too much from it other than a few cool fight scenes and some funny one-liners.",
+            "What a base, and baseless, film this is.",
+            "This is why wrestlers wrestle and actors act.",
+            "The Condemned tries to have its cake and eat it, too, alternately between a preachy scene about the depravity of reality entertainment followed by sequences of remorseless carnage, such as when Vinnie Jones guns down a roomful of unarmed people in cold bl",
+            "Designed to make you cringe from its violent scenes, \"The Condemned\" is a paradox of a movie.Its sole purpose is to depict people killing, torturing and raping each other. And yet it contains a preachy theme about the kinds of people who would pay to watc",
+            "Where's Richard Dawson when you need him?",
+            "Attacking the intended audience is one of those things that a filmmaker just doesn't do. Jeez!",
+            "if you're going to make a movie like this... do it right. Don't complicate things. Keep it simple, bloody, and stupid.",
+            "I was looking for a movie like this. An over the top cheesy action film. What?! I said I've been seeing a lot of overly serious movies lately. What?! Its summer, I want to see stuff get blown up. What?!",
+            "If you're going to promise audiences a death match, pony up a real budget instead of padding your plot to make us feel guilty for watching it.",
+            "...a nifty vicarious wallow for the \"No Fear\" T-shirt crowd.",
+            "There were definitely some unexplored situations that would have made this film a lot more enthralling."
+        ]
+    },
     "2013_676": {
         "actors": [
             "Josh Duhamel",
@@ -24576,6 +25007,54 @@
             "Michael Goetz (II) "
         ],
         "genre": "mystery and thriller, drama",
+        "productionCompany": "Vertical Entertainment",
+        "reviews": [
+            "It's actually a well-made, well-acted low-budget thriller that is more resonant than expected. ",
+            "At the very least shows you how to make a smart, cheap little movie with only two actors, one main exterior set and no special effects.",
+            "Kyle Killen's script is generally uninspired and fairly predictable ...",
+            "It begins with energy, dulls in the middle stretches but redeems itself with a final destination that makes the trip feel worth it.",
+            "Fogler impresses with some brooding edge, but neither he nor the location photography is enough to recommend you join him on this doomed trip.",
+            "Mitchell and Carter never extend beyond the archetypes of Unhappy Family Man and Bitter Failed Artist. Nor do Duhamel and Fogler's inconsistent performances breathe life into their flat characters.",
+            "Overall, Scenic Route is a thoughtful piece about friendship and adulthood, though it becomes repetitive in both action, theme, and the occasionally insufferable demeanor of its leads.",
+            "Just because moviegoers begin to know these characters intimately doesn't mean they like them, or care whether they perish in the harsh conditions.",
+            "Refreshingly intelligent and palpably suspenseful. Josh Duhamel and Dan Fogler give the best performance of their career.",
+            "Perhaps even more effectively than The World's End - but in a less escapist fashion - this is a parable of responsibilities and foibles filtered through genre (horror, in this case).",
+            "Lined with a certain bruised grace... a spare, streamlined, desert-set psychological thriller that doubles as a study in masculine relationship drift.",
+            "Scenic Route is an unsettling and wonderfully obtuse picture that will provide a different experience for every viewer.",
+            "Is there a worse cinematic punishment than a two-hander featuring dull, unsympathetic twits bickering for an hour and a half?",
+            "The howl of the desert wind and the unflagging hammer of the sun are the backdrop for every bad decision, lending them a plausibility they wouldn't have in comfort.",
+            "Scenic Route is a movie that crawls under your skin and stays there for a while, thanks largely in part to its haunting ending. ",
+            "Scenic Route offers strong roles for Josh Duhamel and Dan Fogler, and while familiar in tone and structure it is watchable and well performed.",
+            "When Scenic Route works it really works, and it's definitely a trip worth taking.",
+            "It's beautifully shot, has awesome performances from its two leads but just ultimately is marred by its inconsistent storytelling and brutally awful ending.",
+            "This script, by Kyle Killen, and direction from brothers Kevin and Michael Goetz have resulted in a very powerful film that you should see with your best friend. Then take a road trip together. You both might need it.",
+            "The movie becomes a survival tale and is more successful in its grueling, slightly crazed second half. ",
+            "As the guys' circumstances become more dire ... Scenic Route gets increasingly dopey and contrived. And the movie's cheesily ambiguous ending ... doesn't help."
+        ]
+    },
+    "2013_677": {
+        "actors": [
+            "Josh Duhamel",
+            "Dan Fogler",
+            "Christie Burson",
+            "Leah McKendrick",
+            "Peter Michael Goetz",
+            "Miracle Laurie "
+        ],
+        "audienceRatings": {
+            "count": "4480",
+            "rating": 50
+        },
+        "contentRating": "R",
+        "criticsRatings": {
+            "count": "21",
+            "rating": "67"
+        },
+        "directors": [
+            "Kevin Goetz",
+            "Michael Goetz (II) "
+        ],
+        "genre": "drama, mystery and thriller",
         "productionCompany": "Vertical Entertainment",
         "reviews": [
             "It's actually a well-made, well-acted low-budget thriller that is more resonant than expected. ",
@@ -24755,6 +25234,50 @@
             "A movie that celebrates the work, but at the expense of contemporary John Alvin, who isn't just a glaring omission from the story, but in a couple of instances is actively obliterated from it.",
             "This star-studded documentary about poster artist Drew Struzan would never play as fiction: His rags-to-riches journey from poverty to Hollywood acclaim is straight out a '30s movie.",
             "There's a context to Struzan -- not just biographically, but culturally -- and while Sharkey seems to understand that, his movie, ironically, doesn't illustrate it particularly well."
+        ]
+    },
+    "2013_682": {
+        "actors": [
+            "Steve Guttenberg",
+            "Drew Struzan",
+            "George Lucas",
+            "Bob Gale",
+            "Steven Spielberg",
+            "Harrison Ford",
+            "Alice Cooper",
+            "Michael J. Fox",
+            "Frank Darabont",
+            "Leonard Maltin",
+            "Guillermo del Toro",
+            "Michael Uslan",
+            "Thomas Jane",
+            "Joanna Cassidy"
+        ],
+        "audienceRatings": {
+            "count": "353",
+            "rating": 71
+        },
+        "contentRating": "NR",
+        "criticsRatings": {
+            "count": "10",
+            "rating": "50"
+        },
+        "directors": [
+            "Erik Sharkey"
+        ],
+        "genre": "biography, documentary",
+        "productionCompany": "Kino Lorber",
+        "reviews": [
+            "The Norman Rockwell of movie advertising steps in front of the camera for a long-overdue celebration sure to delight fans and heighten awareness of his legacy.",
+            "Though it will play well with genre diehards on video, the sometimes awkwardly shot doc is too fawning and narrow in scope to attract much of a crowd in theaters.",
+            "At length, the cheerleading (capped with fawning fanboys at San Diego Comic-Con) becomes a mildly taxing torrent. And Mr. Struzan, while an agreeable presence, is not an especially engrossing speaker.",
+            "The summary comes when the low-key Struzan offhandedly reveals what he often hears: \"Give it your magic.\" It's all on view here.",
+            "There's a context to Struzan -- not just biographically, but culturally -- and while Sharkey seems to understand that, his movie, ironically, doesn't illustrate it particularly well.",
+            "Drew makes a valid case for the artist as not simply an all-time great, but as a casualty of a business that prizes bottom-line cost management above unique creativity.",
+            "the documentary is also a sly elegy for a changing Hollywood where real hands-on artistry is being replaced by the rush to digital homogeneity.",
+            "A movie that celebrates the work, but at the expense of contemporary John Alvin, who isn't just a glaring omission from the story, but in a couple of instances is actively obliterated from it.",
+            "This star-studded documentary about poster artist Drew Struzan would never play as fiction: His rags-to-riches journey from poverty to Hollywood acclaim is straight out a '30s movie.",
+            "The demure, self-effacing Struzan undermines Sharkey's strategy by insisting his art is only the product of a mundane creative process."
         ]
     },
     "2013_685": {

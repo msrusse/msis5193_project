@@ -861,7 +861,7 @@
                 }
             ]
         },
-        "movieName": "Vincent: The Life and Death of Vincent Van Gogh"
+        "movieName": "Vincent"
     },
     "gr185225733": {
         "castURL": "https://pro.imdb.com/title/tt0096030/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
@@ -1604,7 +1604,7 @@
         "id": "1988_10",
         "individualURL": "gr2634437125",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 2879839.0,
@@ -1790,7 +1790,7 @@
                     "countryReleaseDate": "03/31/1989"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 226703.0,
@@ -2004,7 +2004,7 @@
         "id": "1988_142",
         "individualURL": "gr2718913029",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "South Korea",
                     "countryGrossAmount": 2547.0,
@@ -2485,7 +2485,7 @@
                 }
             ]
         },
-        "movieName": "Gorillas in the Mist: The Adventure of Dian Fossey"
+        "movieName": "Gorillas in the Mist"
     },
     "gr3076411909": {
         "castURL": "https://pro.imdb.com/title/tt0096487/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
@@ -3916,7 +3916,7 @@
         "id": "1988_9",
         "individualURL": "gr701846021",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 2372650.0,
@@ -4102,7 +4102,7 @@
                     "countryReleaseDate": "02/03/1989"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 158914.0,

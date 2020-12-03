@@ -97,7 +97,7 @@
     },
     "gr1094734341": {
         "castURL": "https://pro.imdb.com/title/tt0086387/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_383",
+        "id": "1999_382",
         "individualURL": "gr1094734341",
         "markets": {
             "domestic": [
@@ -305,7 +305,7 @@
     },
     "gr1296388613": {
         "castURL": "https://pro.imdb.com/title/tt0128370/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_362",
+        "id": "1999_361",
         "individualURL": "gr1296388613",
         "markets": {
             "domestic": [
@@ -337,7 +337,7 @@
     },
     "gr1309168133": {
         "castURL": "https://pro.imdb.com/title/tt0123923/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_364",
+        "id": "1999_363",
         "individualURL": "gr1309168133",
         "markets": {
             "domestic": [
@@ -433,7 +433,7 @@
     },
     "gr1415336453": {
         "castURL": "https://pro.imdb.com/title/tt0111013/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_378",
+        "id": "1999_377",
         "individualURL": "gr1415336453",
         "markets": {
             "domestic": [
@@ -660,7 +660,7 @@
         "id": "1999_32",
         "individualURL": "gr1608471045",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "South Korea",
                     "countryGrossAmount": 3543.0,
@@ -684,7 +684,7 @@
         "id": "1999_6",
         "individualURL": "gr1631801861",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 12818925.0,
@@ -966,7 +966,7 @@
                     "countryReleaseDate": "02/25/2000"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 5180357.0,
@@ -1097,7 +1097,7 @@
     },
     "gr1682723333": {
         "castURL": "https://pro.imdb.com/title/tt0185711/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_369",
+        "id": "1999_368",
         "individualURL": "gr1682723333",
         "markets": {
             "domestic": [
@@ -1136,28 +1136,12 @@
                 {
                     "country": "Domestic",
                     "countryGrossAmount": 11130.0,
-                    "countryOpeningAmount": "-",
-                    "countryReleaseDate": "10/29/1999"
-                }
-            ]
-        },
-        "movieName": "The Suburbans"
-    },
-    "gr1731744261": {
-        "castURL": "https://pro.imdb.com/title/tt0157075/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_349",
-        "individualURL": "gr1731744261",
-        "markets": {
-            "domestic": [
-                {
-                    "country": "Domestic",
-                    "countryGrossAmount": 11130.0,
                     "countryOpeningAmount": 5797.0,
                     "countryReleaseDate": "10/29/1999"
                 }
             ]
         },
-        "movieName": "The Suburbans 1999 Re-release"
+        "movieName": "The Suburbans"
     },
     "gr1733841413": {
         "castURL": "https://pro.imdb.com/title/tt0172704/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
@@ -1193,7 +1177,7 @@
     },
     "gr1752191493": {
         "castURL": "https://pro.imdb.com/title/tt0138677/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_366",
+        "id": "1999_365",
         "individualURL": "gr1752191493",
         "markets": {
             "domestic": [
@@ -1225,7 +1209,7 @@
     },
     "gr1796690437": {
         "castURL": "https://pro.imdb.com/title/tt0117695/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_371",
+        "id": "1999_370",
         "individualURL": "gr1796690437",
         "markets": {
             "domestic": [
@@ -1460,7 +1444,7 @@
         "id": "1999_109",
         "individualURL": "gr1934447109",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 4178003.0,
@@ -1593,7 +1577,7 @@
     },
     "gr203051525": {
         "castURL": "https://pro.imdb.com/title/tt0203027/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_386",
+        "id": "1999_385",
         "individualURL": "gr203051525",
         "markets": {
             "domestic": [
@@ -1724,7 +1708,7 @@
         "id": "1999_1",
         "individualURL": "gr2130858501",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 25492472.0,
@@ -2038,7 +2022,7 @@
                     "countryReleaseDate": "07/16/1999"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 7474281.0,
@@ -2382,7 +2366,7 @@
         "id": "1999_7",
         "individualURL": "gr224743941",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Russia/CIS",
                     "countryGrossAmount": 450000.0,
@@ -2436,7 +2420,7 @@
         "id": "1999_268",
         "individualURL": "gr2266845701",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Russia/CIS",
                     "countryGrossAmount": 50000.0,
@@ -2489,7 +2473,7 @@
     },
     "gr2317832709": {
         "castURL": "https://pro.imdb.com/title/tt0124137/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_354",
+        "id": "1999_353",
         "individualURL": "gr2317832709",
         "markets": {
             "domestic": [
@@ -2801,7 +2785,7 @@
     },
     "gr2457817605": {
         "castURL": "https://pro.imdb.com/title/tt0139898/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_373",
+        "id": "1999_372",
         "individualURL": "gr2457817605",
         "markets": {
             "domestic": [
@@ -2961,7 +2945,7 @@
     },
     "gr2564444677": {
         "castURL": "https://pro.imdb.com/title/tt0139057/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_375",
+        "id": "1999_374",
         "individualURL": "gr2564444677",
         "markets": {
             "domestic": [
@@ -3033,7 +3017,7 @@
     },
     "gr2619494917": {
         "castURL": "https://pro.imdb.com/title/tt0138862/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_350",
+        "id": "1999_349",
         "individualURL": "gr2619494917",
         "markets": {
             "domestic": [
@@ -3065,7 +3049,7 @@
     },
     "gr2642366981": {
         "castURL": "https://pro.imdb.com/title/tt0119472/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_359",
+        "id": "1999_358",
         "individualURL": "gr2642366981",
         "markets": {
             "domestic": [
@@ -3161,7 +3145,7 @@
     },
     "gr2699252229": {
         "castURL": "https://pro.imdb.com/title/tt0117132/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_367",
+        "id": "1999_366",
         "individualURL": "gr2699252229",
         "markets": {
             "domestic": [
@@ -3241,7 +3225,7 @@
     },
     "gr2725990917": {
         "castURL": "https://pro.imdb.com/title/tt0120859/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_377",
+        "id": "1999_376",
         "individualURL": "gr2725990917",
         "markets": {
             "domestic": [
@@ -3449,7 +3433,7 @@
     },
     "gr281694725": {
         "castURL": "https://pro.imdb.com/title/tt0157016/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_355",
+        "id": "1999_354",
         "individualURL": "gr281694725",
         "markets": {
             "domestic": [
@@ -3817,7 +3801,7 @@
     },
     "gr2986365445": {
         "castURL": "https://pro.imdb.com/title/tt0168950/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_357",
+        "id": "1999_356",
         "individualURL": "gr2986365445",
         "markets": {
             "domestic": [
@@ -3932,6 +3916,14 @@
         "id": "1999_149",
         "individualURL": "gr3060879877",
         "markets": {
+            "asiaPacific": [
+                {
+                    "country": "Australia",
+                    "countryGrossAmount": 0.0,
+                    "countryOpeningAmount": 682.0,
+                    "countryReleaseDate": ""
+                }
+            ],
             "domestic": [
                 {
                     "country": "Domestic",
@@ -3940,7 +3932,7 @@
                     "countryReleaseDate": "10/15/1999"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 213281.0,
@@ -4260,6 +4252,14 @@
         "id": "1999_45",
         "individualURL": "gr3309654533",
         "markets": {
+            "asiaPacific": [
+                {
+                    "country": "Australia",
+                    "countryGrossAmount": 0.0,
+                    "countryOpeningAmount": 502.0,
+                    "countryReleaseDate": ""
+                }
+            ],
             "domestic": [
                 {
                     "country": "Domestic",
@@ -4297,7 +4297,7 @@
     },
     "gr3358347781": {
         "castURL": "https://pro.imdb.com/title/tt0119114/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_368",
+        "id": "1999_367",
         "individualURL": "gr3358347781",
         "markets": {
             "domestic": [
@@ -4707,7 +4707,7 @@
     },
     "gr3506065925": {
         "castURL": "https://pro.imdb.com/title/tt0054219/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_381",
+        "id": "1999_380",
         "individualURL": "gr3506065925",
         "markets": {
             "domestic": [
@@ -4843,7 +4843,7 @@
     },
     "gr3590738437": {
         "castURL": "https://pro.imdb.com/title/tt0127302/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_382",
+        "id": "1999_381",
         "individualURL": "gr3590738437",
         "markets": {
             "domestic": [
@@ -4955,7 +4955,7 @@
     },
     "gr3645657605": {
         "castURL": "https://pro.imdb.com/title/tt0120642/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_365",
+        "id": "1999_364",
         "individualURL": "gr3645657605",
         "markets": {
             "domestic": [
@@ -5051,7 +5051,7 @@
     },
     "gr3771683333": {
         "castURL": "https://pro.imdb.com/title/tt0181835/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_356",
+        "id": "1999_355",
         "individualURL": "gr3771683333",
         "markets": {
             "domestic": [
@@ -5265,7 +5265,7 @@
     },
     "gr3844166149": {
         "castURL": "https://pro.imdb.com/title/tt0116192/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_363",
+        "id": "1999_362",
         "individualURL": "gr3844166149",
         "markets": {
             "domestic": [
@@ -5393,7 +5393,7 @@
     },
     "gr3970454021": {
         "castURL": "https://pro.imdb.com/title/tt0082783/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_361",
+        "id": "1999_360",
         "individualURL": "gr3970454021",
         "markets": {
             "domestic": [
@@ -5412,7 +5412,7 @@
         "id": "1999_15",
         "individualURL": "gr3982905861",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 10298605.0,
@@ -5441,7 +5441,7 @@
     },
     "gr3991360005": {
         "castURL": "https://pro.imdb.com/title/tt0201290/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_384",
+        "id": "1999_383",
         "individualURL": "gr3991360005",
         "markets": {
             "domestic": [
@@ -5521,7 +5521,7 @@
     },
     "gr4016722437": {
         "castURL": "https://pro.imdb.com/title/tt0144637/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_353",
+        "id": "1999_352",
         "individualURL": "gr4016722437",
         "markets": {
             "domestic": [
@@ -5630,7 +5630,7 @@
         "id": "1999_10",
         "individualURL": "gr4040053253",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 14447826.0,
@@ -5876,7 +5876,7 @@
                     "countryReleaseDate": "07/30/1999"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 595377.0,
@@ -6019,7 +6019,7 @@
     },
     "gr4109390341": {
         "castURL": "https://pro.imdb.com/title/tt0116851/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_360",
+        "id": "1999_359",
         "individualURL": "gr4109390341",
         "markets": {
             "domestic": [
@@ -6035,7 +6035,7 @@
     },
     "gr4111356421": {
         "castURL": "https://pro.imdb.com/title/tt0118994/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_372",
+        "id": "1999_371",
         "individualURL": "gr4111356421",
         "markets": {
             "domestic": [
@@ -6166,7 +6166,7 @@
         "id": "1999_137",
         "individualURL": "gr4164571653",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "South Korea",
                     "countryGrossAmount": 739326.0,
@@ -6267,7 +6267,7 @@
     },
     "gr4199305733": {
         "castURL": "https://pro.imdb.com/title/tt0167059/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_351",
+        "id": "1999_350",
         "individualURL": "gr4199305733",
         "markets": {
             "domestic": [
@@ -6307,7 +6307,7 @@
     },
     "gr421941765": {
         "castURL": "https://pro.imdb.com/title/tt0120878/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_379",
+        "id": "1999_378",
         "individualURL": "gr421941765",
         "markets": {
             "domestic": [
@@ -6366,7 +6366,7 @@
         "id": "1999_9",
         "individualURL": "gr425677317",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 12253693.0,
@@ -6605,7 +6605,7 @@
     },
     "gr53367301": {
         "castURL": "https://pro.imdb.com/title/tt0116116/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_358",
+        "id": "1999_357",
         "individualURL": "gr53367301",
         "markets": {
             "domestic": [
@@ -6701,7 +6701,7 @@
     },
     "gr570708485": {
         "castURL": "https://pro.imdb.com/title/tt0119347/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_380",
+        "id": "1999_379",
         "individualURL": "gr570708485",
         "markets": {
             "domestic": [
@@ -6749,7 +6749,7 @@
     },
     "gr605377029": {
         "castURL": "https://pro.imdb.com/title/tt0119054/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_352",
+        "id": "1999_351",
         "individualURL": "gr605377029",
         "markets": {
             "domestic": [
@@ -7053,7 +7053,7 @@
     },
     "gr743920133": {
         "castURL": "https://pro.imdb.com/title/tt0120697/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_376",
+        "id": "1999_375",
         "individualURL": "gr743920133",
         "markets": {
             "domestic": [
@@ -7416,7 +7416,7 @@
         "id": "1999_16",
         "individualURL": "gr923816453",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 9585364.0,
@@ -7482,7 +7482,7 @@
         "id": "1999_179",
         "individualURL": "gr927945221",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Taiwan",
                     "countryGrossAmount": 10128.0,
@@ -7519,7 +7519,7 @@
     },
     "gr940921349": {
         "castURL": "https://pro.imdb.com/title/tt0108233/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_370",
+        "id": "1999_369",
         "individualURL": "gr940921349",
         "markets": {
             "domestic": [
@@ -7581,7 +7581,7 @@
     },
     "gr969298437": {
         "castURL": "https://pro.imdb.com/title/tt0119920/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_385",
+        "id": "1999_384",
         "individualURL": "gr969298437",
         "markets": {
             "domestic": [
@@ -7600,18 +7600,12 @@
         "id": "1999_4",
         "individualURL": "gr979587589",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 10467585.0,
                     "countryOpeningAmount": "-",
                     "countryReleaseDate": "04/08/1999"
-                },
-                {
-                    "country": "Russia/CIS",
-                    "countryGrossAmount": 647434.0,
-                    "countryOpeningAmount": "-",
-                    "countryReleaseDate": "10/12/2019"
                 }
             ],
             "domestic": [
@@ -7628,12 +7622,6 @@
                     "countryGrossAmount": 590966.0,
                     "countryOpeningAmount": "-",
                     "countryReleaseDate": "08/05/1999"
-                },
-                {
-                    "country": "Russia",
-                    "countryGrossAmount": "-",
-                    "countryOpeningAmount": "-",
-                    "countryReleaseDate": "10/17/2019"
                 }
             ]
         },
@@ -7673,7 +7661,7 @@
     },
     "gr997085701": {
         "castURL": "https://pro.imdb.com/title/tt0160620/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1999_374",
+        "id": "1999_373",
         "individualURL": "gr997085701",
         "markets": {
             "domestic": [

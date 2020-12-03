@@ -52,6 +52,14 @@
         "id": "1997_8",
         "individualURL": "gr1074549253",
         "markets": {
+            "asiaPacific": [
+                {
+                    "country": "Australia",
+                    "countryGrossAmount": 0.0,
+                    "countryOpeningAmount": 456.0,
+                    "countryReleaseDate": ""
+                }
+            ],
             "domestic": [
                 {
                     "country": "Domestic",
@@ -145,7 +153,7 @@
     },
     "gr1107120645": {
         "castURL": "https://pro.imdb.com/title/tt0116581/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1997_70",
+        "id": "1997_69",
         "individualURL": "gr1107120645",
         "markets": {
             "domestic": [
@@ -177,7 +185,7 @@
     },
     "gr1125274117": {
         "castURL": "https://pro.imdb.com/title/tt0119664/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1997_72",
+        "id": "1997_71",
         "individualURL": "gr1125274117",
         "markets": {
             "domestic": [
@@ -388,7 +396,7 @@
         "id": "1997_11",
         "individualURL": "gr123163141",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 8871494.0,
@@ -664,7 +672,7 @@
                     "countryReleaseDate": "03/21/1997"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 1342322.0,
@@ -857,7 +865,7 @@
     },
     "gr1331384837": {
         "castURL": "https://pro.imdb.com/title/tt0118556/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1997_68",
+        "id": "1997_67",
         "individualURL": "gr1331384837",
         "markets": {
             "domestic": [
@@ -1033,7 +1041,7 @@
     },
     "gr1546342917": {
         "castURL": "https://pro.imdb.com/title/tt0120032/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1997_76",
+        "id": "1997_75",
         "individualURL": "gr1546342917",
         "markets": {
             "domestic": [
@@ -1068,7 +1076,7 @@
         "id": "1997_10",
         "individualURL": "gr1567248901",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 16342421.0,
@@ -1338,7 +1346,7 @@
                     "countryReleaseDate": "02/26/1998"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 2955479.0,
@@ -1457,7 +1465,7 @@
     },
     "gr1568625157": {
         "castURL": "https://pro.imdb.com/title/tt0119848/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1997_74",
+        "id": "1997_73",
         "individualURL": "gr1568625157",
         "markets": {
             "domestic": [
@@ -1953,7 +1961,7 @@
     },
     "gr1946440197": {
         "castURL": "https://pro.imdb.com/title/tt0120004/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1997_69",
+        "id": "1997_68",
         "individualURL": "gr1946440197",
         "markets": {
             "domestic": [
@@ -2312,7 +2320,7 @@
         "id": "1997_35",
         "individualURL": "gr2194166277",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 3527470.0,
@@ -2588,7 +2596,7 @@
                     "countryReleaseDate": "04/11/1997"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 543211.0,
@@ -2944,6 +2952,14 @@
         "id": "1997_163",
         "individualURL": "gr2389004805",
         "markets": {
+            "asiaPacific": [
+                {
+                    "country": "Australia",
+                    "countryGrossAmount": "-",
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                }
+            ],
             "domestic": [
                 {
                     "country": "Domestic",
@@ -2957,7 +2973,7 @@
     },
     "gr2389070341": {
         "castURL": "https://pro.imdb.com/title/tt0119141/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1997_75",
+        "id": "1997_74",
         "individualURL": "gr2389070341",
         "markets": {
             "domestic": [
@@ -2989,7 +3005,7 @@
     },
     "gr2393395717": {
         "castURL": "https://pro.imdb.com/title/tt0119229/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1997_78",
+        "id": "1997_77",
         "individualURL": "gr2393395717",
         "markets": {
             "domestic": [
@@ -3213,7 +3229,7 @@
     },
     "gr2599375365": {
         "castURL": "https://pro.imdb.com/title/tt0119142/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1997_71",
+        "id": "1997_70",
         "individualURL": "gr2599375365",
         "markets": {
             "domestic": [
@@ -3581,49 +3597,15 @@
     },
     "gr2843234821": {
         "castURL": "https://pro.imdb.com/title/tt0097757/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1997_66",
+        "id": "1997_78",
         "individualURL": "gr2843234821",
         "markets": {
-            "asia_pacific": [
-                {
-                    "country": "Australia",
-                    "countryGrossAmount": 1726924.0,
-                    "countryOpeningAmount": "-",
-                    "countryReleaseDate": "06/18/1998"
-                }
-            ],
             "domestic": [
                 {
                     "country": "Domestic",
                     "countryGrossAmount": 27187616.0,
                     "countryOpeningAmount": 9814520.0,
                     "countryReleaseDate": "11/14/1997"
-                }
-            ],
-            "emea": [
-                {
-                    "country": "France",
-                    "countryGrossAmount": 2536100.0,
-                    "countryOpeningAmount": "-",
-                    "countryReleaseDate": "07/01/1998"
-                },
-                {
-                    "country": "Germany",
-                    "countryGrossAmount": 3813839.0,
-                    "countryOpeningAmount": "-",
-                    "countryReleaseDate": "07/01/1998"
-                },
-                {
-                    "country": "Italy",
-                    "countryGrossAmount": 429088.0,
-                    "countryOpeningAmount": "-",
-                    "countryReleaseDate": "02/19/1998"
-                },
-                {
-                    "country": "Spain",
-                    "countryGrossAmount": 632121.0,
-                    "countryOpeningAmount": "-",
-                    "countryReleaseDate": "06/26/1998"
                 }
             ]
         },
@@ -4034,7 +4016,7 @@
         "id": "1997_2",
         "individualURL": "gr3243201029",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 15673811.0,
@@ -4183,7 +4165,7 @@
     },
     "gr3299365381": {
         "castURL": "https://pro.imdb.com/title/tt0120094/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1997_67",
+        "id": "1997_66",
         "individualURL": "gr3299365381",
         "markets": {
             "domestic": [
@@ -4394,7 +4376,7 @@
         "id": "1997_7",
         "individualURL": "gr3489026565",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 16274409.0,
@@ -4844,7 +4826,7 @@
         "id": "1997_3",
         "individualURL": "gr3991294469",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Russia/CIS",
                     "countryGrossAmount": 540000.0,
@@ -4980,7 +4962,7 @@
         "id": "1997_13",
         "individualURL": "gr4079899141",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 14331780.0,
@@ -5238,7 +5220,7 @@
                     "countryReleaseDate": "08/08/1997"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 1173919.0,
@@ -5472,7 +5454,7 @@
         "id": "1997_192",
         "individualURL": "gr4167586309",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Russia/CIS",
                     "countryGrossAmount": 100000.0,
@@ -5576,7 +5558,7 @@
         "id": "1997_1",
         "individualURL": "gr4195045893",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 39601327.0,
@@ -5890,7 +5872,7 @@
                     "countryReleaseDate": "03/19/1998"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 23269046.0,
@@ -6372,7 +6354,7 @@
         "id": "1997_42",
         "individualURL": "gr604787205",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 2504516.0,
@@ -6648,7 +6630,7 @@
                     "countryReleaseDate": "04/25/1997"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 333640.0,
@@ -7052,7 +7034,7 @@
         "id": "1997_24",
         "individualURL": "gr911495685",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 3832598.0,
@@ -7340,7 +7322,7 @@
                     "countryReleaseDate": "02/19/1998"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 1422362.0,
@@ -7475,7 +7457,7 @@
     },
     "gr928731653": {
         "castURL": "https://pro.imdb.com/title/tt0118708/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1997_73",
+        "id": "1997_72",
         "individualURL": "gr928731653",
         "markets": {
             "domestic": [
@@ -7491,7 +7473,7 @@
     },
     "gr956846597": {
         "castURL": "https://pro.imdb.com/title/tt0119109/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "1997_77",
+        "id": "1997_76",
         "individualURL": "gr956846597",
         "markets": {
             "domestic": [

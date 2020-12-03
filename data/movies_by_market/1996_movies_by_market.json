@@ -36,7 +36,7 @@
         "id": "1996_159",
         "individualURL": "gr1055674885",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "South Korea",
                     "countryGrossAmount": 21046.0,
@@ -860,7 +860,7 @@
         "id": "1996_3",
         "individualURL": "gr1880314373",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 12123783.0,
@@ -1138,7 +1138,7 @@
                     "countryReleaseDate": "08/29/1996"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 3902546.0,
@@ -1876,7 +1876,7 @@
         "id": "1996_13",
         "individualURL": "gr2302431749",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 13429466.0,
@@ -2122,7 +2122,7 @@
                     "countryReleaseDate": "07/31/2013"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 339110.0,
@@ -2592,7 +2592,7 @@
         "id": "1996_22",
         "individualURL": "gr2606125573",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 12594776.0,
@@ -2868,7 +2868,7 @@
                     "countryReleaseDate": "03/28/1997"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 695906.0,
@@ -3580,7 +3580,7 @@
         "id": "1996_1",
         "individualURL": "gr3060158981",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 23358496.0,
@@ -3868,7 +3868,7 @@
                     "countryReleaseDate": "10/24/1996"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 6824943.0,
@@ -3968,7 +3968,7 @@
         "id": "1996_152",
         "individualURL": "gr30888453",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Russia/CIS",
                     "countryGrossAmount": 40000.0,
@@ -4408,6 +4408,14 @@
         "id": "1996_74",
         "individualURL": "gr3338555909",
         "markets": {
+            "asiaPacific": [
+                {
+                    "country": "Australia",
+                    "countryGrossAmount": 0.0,
+                    "countryOpeningAmount": 603.0,
+                    "countryReleaseDate": ""
+                }
+            ],
             "domestic": [
                 {
                     "country": "Domestic",
@@ -4488,6 +4496,14 @@
         "id": "1996_69",
         "individualURL": "gr3359461893",
         "markets": {
+            "asiaPacific": [
+                {
+                    "country": "New Zealand",
+                    "countryGrossAmount": 68.0,
+                    "countryOpeningAmount": 68.0,
+                    "countryReleaseDate": ""
+                }
+            ],
             "domestic": [
                 {
                     "country": "Domestic",
@@ -5824,7 +5840,7 @@
         "id": "1996_52",
         "individualURL": "gr571101701",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "South Korea",
                     "countryGrossAmount": 106751.0,

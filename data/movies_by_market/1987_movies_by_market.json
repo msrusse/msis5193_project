@@ -532,7 +532,7 @@
         "id": "1987_8",
         "individualURL": "gr1490964997",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 1326911.0,
@@ -712,7 +712,7 @@
                     "countryReleaseDate": "01/07/1988"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 667853.0,
@@ -1299,7 +1299,7 @@
                 }
             ]
         },
-        "movieName": "Chuck Berry Hail! Hail! Rock 'n' Roll"
+        "movieName": "Chuck Berry: Hail! Hail! Rock 'n' Roll"
     },
     "gr2029539845": {
         "castURL": "https://pro.imdb.com/title/tt0094072/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
@@ -1866,7 +1866,7 @@
         "id": "1987_11",
         "individualURL": "gr270291461",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 1394059.0,
@@ -2046,7 +2046,7 @@
                     "countryReleaseDate": "04/08/1988"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 181251.0,
@@ -2282,7 +2282,7 @@
         "id": "1987_1",
         "individualURL": "gr285626885",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 8680604.0,
@@ -2474,7 +2474,7 @@
                     "countryReleaseDate": "01/15/1988"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 1269307.0,
@@ -3957,7 +3957,7 @@
                 }
             ]
         },
-        "movieName": "Planes, Trains and Automobiles"
+        "movieName": "Planes, Trains & Automobiles"
     },
     "gr506745349": {
         "castURL": "https://pro.imdb.com/title/tt0091142/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
@@ -4140,7 +4140,7 @@
         "id": "1987_2",
         "individualURL": "gr650596869",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 1826962.0,
@@ -4338,7 +4338,7 @@
                     "countryReleaseDate": "10/09/1987"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 242590.0,

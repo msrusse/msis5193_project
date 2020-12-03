@@ -52,7 +52,7 @@
         "id": "1994_4",
         "individualURL": "gr1023562245",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 15123750.0,
@@ -322,7 +322,7 @@
                     "countryReleaseDate": "09/19/1994"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 7703153.0,
@@ -714,7 +714,7 @@
         "id": "1994_6",
         "individualURL": "gr1309561349",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 10943476.0,
@@ -764,13 +764,7 @@
         "id": "1994_1",
         "individualURL": "gr1310020101",
         "markets": {
-            "asia_pacific": [
-                {
-                    "country": "Australia",
-                    "countryGrossAmount": 20108702.0,
-                    "countryOpeningAmount": "-",
-                    "countryReleaseDate": "08/25/1994"
-                },
+            "asiaPacific": [
                 {
                     "country": "South Korea",
                     "countryGrossAmount": 2933131.0,
@@ -1413,7 +1407,7 @@
                 }
             ]
         },
-        "movieName": "Ri\u00a2hie Ri\u00a2h"
+        "movieName": "Richie Rich"
     },
     "gr1974096389": {
         "castURL": "https://pro.imdb.com/title/tt0110044/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
@@ -1948,7 +1942,7 @@
         "id": "1994_2",
         "individualURL": "gr2428654085",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 22839211.0,
@@ -2206,7 +2200,7 @@
                     "countryReleaseDate": ""
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 4999308.0,
@@ -2304,7 +2298,7 @@
         "id": "1994_19",
         "individualURL": "gr2452050437",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 3804832.0,
@@ -2538,7 +2532,7 @@
                     "countryReleaseDate": "06/24/1994"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 548248.0,
@@ -3260,6 +3254,14 @@
         "id": "1994_7",
         "individualURL": "gr3157217797",
         "markets": {
+            "asiaPacific": [
+                {
+                    "country": "Australia",
+                    "countryGrossAmount": 0.0,
+                    "countryOpeningAmount": 308.0,
+                    "countryReleaseDate": ""
+                }
+            ],
             "domestic": [
                 {
                     "country": "Domestic",

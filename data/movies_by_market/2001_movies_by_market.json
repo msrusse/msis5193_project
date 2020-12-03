@@ -36,7 +36,7 @@
                     "countryReleaseDate": "10/24/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 38916.0,
@@ -58,7 +58,7 @@
         "id": "2001_248",
         "individualURL": "gr101667333",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Taiwan",
                     "countryGrossAmount": 8829.0,
@@ -154,7 +154,7 @@
         "id": "2001_150",
         "individualURL": "gr1069961733",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 6620.0,
@@ -186,7 +186,7 @@
         "id": "2001_239",
         "individualURL": "gr1097290245",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 12859.0,
@@ -216,7 +216,7 @@
                     "countryReleaseDate": "06/21/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 85948.0,
@@ -312,7 +312,7 @@
         "id": "2001_50",
         "individualURL": "gr1146507781",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 2054209.0,
@@ -414,7 +414,7 @@
                     "countryReleaseDate": "01/11/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 36594.0,
@@ -466,7 +466,7 @@
         "id": "2001_161",
         "individualURL": "gr1157190149",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 9935.0,
@@ -482,7 +482,7 @@
                     "countryReleaseDate": "04/27/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 208508.0,
@@ -528,7 +528,7 @@
         "id": "2001_82",
         "individualURL": "gr1172394501",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 728030.0,
@@ -594,7 +594,7 @@
                     "countryReleaseDate": "01/25/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Chile",
                     "countryGrossAmount": 93144.0,
@@ -616,7 +616,7 @@
         "id": "2001_27",
         "individualURL": "gr1178161669",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 3783241.0,
@@ -712,7 +712,7 @@
                     "countryReleaseDate": "12/21/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 4010592.0,
@@ -728,7 +728,7 @@
         "id": "2001_23",
         "individualURL": "gr1182487045",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 14340922.0,
@@ -1030,7 +1030,7 @@
                     "countryReleaseDate": "09/07/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 1912788.0,
@@ -1130,7 +1130,7 @@
         "id": "2001_18",
         "individualURL": "gr1188450821",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 5407845.0,
@@ -1250,7 +1250,7 @@
                     "countryReleaseDate": "11/02/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 4209593.0,
@@ -1272,7 +1272,7 @@
         "id": "2001_79",
         "individualURL": "gr1193431557",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 1073223.0,
@@ -1374,7 +1374,7 @@
                     "countryReleaseDate": "06/07/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 65713.0,
@@ -1402,7 +1402,7 @@
         "id": "2001_30",
         "individualURL": "gr1229672965",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 7694768.0,
@@ -1480,7 +1480,7 @@
                     "countryReleaseDate": "07/27/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 2003175.0,
@@ -1510,7 +1510,7 @@
                     "countryReleaseDate": "08/31/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 40428.0,
@@ -1526,7 +1526,7 @@
         "id": "2001_184",
         "individualURL": "gr1238913541",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 77373.0,
@@ -1580,7 +1580,7 @@
                     "countryReleaseDate": "05/24/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 53776.0,
@@ -1642,7 +1642,7 @@
         "id": "2001_55",
         "individualURL": "gr1275154949",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 2651363.0,
@@ -1774,7 +1774,7 @@
                     "countryReleaseDate": "12/28/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 392083.0,
@@ -1828,7 +1828,7 @@
         "id": "2001_54",
         "individualURL": "gr1293636101",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 1741983.0,
@@ -1878,7 +1878,7 @@
         "id": "2001_73",
         "individualURL": "gr131355141",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 850711.0,
@@ -1962,7 +1962,7 @@
                     "countryReleaseDate": "10/19/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 685483.0,
@@ -2000,7 +2000,7 @@
         "id": "2001_168",
         "individualURL": "gr1349014021",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 1359.0,
@@ -2048,7 +2048,7 @@
                     "countryReleaseDate": "11/23/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 251979.0,
@@ -2110,7 +2110,7 @@
         "id": "2001_46",
         "individualURL": "gr138957317",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 2256611.0,
@@ -2160,7 +2160,7 @@
         "id": "2001_63",
         "individualURL": "gr140595717",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 940284.0,
@@ -2256,7 +2256,7 @@
                     "countryReleaseDate": "03/15/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 711853.0,
@@ -2374,7 +2374,7 @@
         "id": "2001_101",
         "individualURL": "gr141447685",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 88170.0,
@@ -2434,7 +2434,7 @@
                     "countryReleaseDate": "01/04/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 9042.0,
@@ -2500,7 +2500,7 @@
         "id": "2001_156",
         "individualURL": "gr1428705797",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Taiwan",
                     "countryGrossAmount": 31124.0,
@@ -2572,7 +2572,7 @@
         "id": "2001_33",
         "individualURL": "gr1444106757",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 1976869.0,
@@ -2644,7 +2644,7 @@
                     "countryReleaseDate": "09/07/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 3436552.0,
@@ -2682,7 +2682,7 @@
         "id": "2001_108",
         "individualURL": "gr1475236357",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 100185.0,
@@ -2790,7 +2790,7 @@
                     "countryReleaseDate": "11/23/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 300560.0,
@@ -2828,7 +2828,7 @@
         "id": "2001_213",
         "individualURL": "gr1484542469",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 24240.0,
@@ -2860,7 +2860,7 @@
         "id": "2001_293",
         "individualURL": "gr1488998917",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Taiwan",
                     "countryGrossAmount": 2288.0,
@@ -2900,7 +2900,7 @@
         "id": "2001_26",
         "individualURL": "gr149574149",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 5477785.0,
@@ -3008,7 +3008,7 @@
                     "countryReleaseDate": "01/18/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 1397135.0,
@@ -3078,7 +3078,7 @@
         "id": "2001_151",
         "individualURL": "gr1528910341",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 160687.0,
@@ -3150,7 +3150,7 @@
         "id": "2001_45",
         "individualURL": "gr1543983621",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 1269953.0,
@@ -3228,7 +3228,7 @@
         "id": "2001_74",
         "individualURL": "gr1546670597",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 1217991.0,
@@ -3294,7 +3294,7 @@
                     "countryReleaseDate": ""
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 842371.0,
@@ -3386,7 +3386,7 @@
         "id": "2001_84",
         "individualURL": "gr1580421637",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Hong Kong",
                     "countryGrossAmount": 7384615.0,
@@ -3476,7 +3476,7 @@
         "id": "2001_91",
         "individualURL": "gr1634226693",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 302775.0,
@@ -3548,7 +3548,7 @@
                     "countryReleaseDate": "04/05/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 319684.0,
@@ -3570,7 +3570,7 @@
         "id": "2001_172",
         "individualURL": "gr1634357765",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 18147.0,
@@ -3642,7 +3642,7 @@
                     "countryReleaseDate": "05/10/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Chile",
                     "countryGrossAmount": 67906.0,
@@ -3664,7 +3664,7 @@
         "id": "2001_53",
         "individualURL": "gr165958149",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 2111740.0,
@@ -3754,7 +3754,7 @@
         "id": "2001_15",
         "individualURL": "gr1694585349",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 154349.0,
@@ -3874,7 +3874,7 @@
                     "countryReleaseDate": "09/12/2003"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 215307.0,
@@ -3896,7 +3896,7 @@
         "id": "2001_12",
         "individualURL": "gr1696027141",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 10368890.0,
@@ -4022,7 +4022,7 @@
                     "countryReleaseDate": "02/22/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 1512073.0,
@@ -4050,7 +4050,7 @@
         "id": "2001_136",
         "individualURL": "gr1705660933",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 236381.0,
@@ -4126,7 +4126,7 @@
         "id": "2001_92",
         "individualURL": "gr1716343301",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 604027.0,
@@ -4204,7 +4204,7 @@
                     "countryReleaseDate": "03/16/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Colombia",
                     "countryGrossAmount": 3793.0,
@@ -4220,7 +4220,7 @@
         "id": "2001_56",
         "individualURL": "gr1725190661",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 3230989.0,
@@ -4328,7 +4328,7 @@
                     "countryReleaseDate": "04/05/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 150954.0,
@@ -4356,7 +4356,7 @@
         "id": "2001_86",
         "individualURL": "gr1733251589",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 2022828.0,
@@ -4404,7 +4404,7 @@
                     "countryReleaseDate": "12/13/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 73594.0,
@@ -4426,7 +4426,7 @@
         "id": "2001_8",
         "individualURL": "gr1745375749",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 5472737.0,
@@ -4510,7 +4510,7 @@
                     "countryReleaseDate": "07/20/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 12662384.0,
@@ -4526,7 +4526,7 @@
         "id": "2001_132",
         "individualURL": "gr1746817541",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 489383.0,
@@ -4604,7 +4604,7 @@
                     "countryReleaseDate": "10/26/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 154626.0,
@@ -4620,7 +4620,7 @@
         "id": "2001_94",
         "individualURL": "gr1748455941",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 1538987.0,
@@ -4698,7 +4698,7 @@
                     "countryReleaseDate": "12/07/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 531944.0,
@@ -4730,7 +4730,7 @@
         "id": "2001_113",
         "individualURL": "gr1756058117",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 331290.0,
@@ -4766,7 +4766,7 @@
                     "countryReleaseDate": "01/24/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 283029.0,
@@ -4798,7 +4798,7 @@
         "id": "2001_196",
         "individualURL": "gr1782600197",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Hong Kong",
                     "countryGrossAmount": 106505.0,
@@ -4866,7 +4866,7 @@
         "id": "2001_97",
         "individualURL": "gr181883397",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 371670.0,
@@ -4962,7 +4962,7 @@
                     "countryReleaseDate": "04/12/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 234208.0,
@@ -4978,7 +4978,7 @@
         "id": "2001_42",
         "individualURL": "gr1819693573",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 2401714.0,
@@ -5098,7 +5098,7 @@
                     "countryReleaseDate": "02/22/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 1319934.0,
@@ -5120,7 +5120,7 @@
         "id": "2001_81",
         "individualURL": "gr183390725",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 143640.0,
@@ -5186,7 +5186,7 @@
                     "countryReleaseDate": "06/21/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 342869.0,
@@ -5248,7 +5248,7 @@
         "id": "2001_259",
         "individualURL": "gr1842303493",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 11902.0,
@@ -5278,7 +5278,7 @@
                     "countryReleaseDate": "07/05/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 45275.0,
@@ -5312,7 +5312,7 @@
         "id": "2001_141",
         "individualURL": "gr1851871749",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 6125907.0,
@@ -5396,7 +5396,7 @@
         "id": "2001_98",
         "individualURL": "gr1893159429",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 215887.0,
@@ -5462,7 +5462,7 @@
                     "countryReleaseDate": "06/21/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 10510.0,
@@ -5520,7 +5520,7 @@
         "id": "2001_272",
         "individualURL": "gr1928090117",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 5578.0,
@@ -5536,7 +5536,7 @@
                     "countryReleaseDate": "09/07/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 93617.0,
@@ -5552,7 +5552,7 @@
         "id": "2001_66",
         "individualURL": "gr192827909",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 2714998.0,
@@ -5642,7 +5642,7 @@
                     "countryReleaseDate": "05/24/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 978602.0,
@@ -5670,7 +5670,7 @@
         "id": "2001_144",
         "individualURL": "gr1929400837",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 35217.0,
@@ -5694,7 +5694,7 @@
                     "countryReleaseDate": "03/23/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Chile",
                     "countryGrossAmount": 2682.0,
@@ -5726,7 +5726,7 @@
         "id": "2001_107",
         "individualURL": "gr1943753221",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 25468.0,
@@ -5834,7 +5834,7 @@
         "id": "2001_83",
         "individualURL": "gr1983402501",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 795614.0,
@@ -5866,7 +5866,7 @@
         "id": "2001_165",
         "individualURL": "gr1983664645",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 181174.0,
@@ -5914,7 +5914,7 @@
                     "countryReleaseDate": "12/14/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 171844.0,
@@ -5968,7 +5968,7 @@
         "id": "2001_25",
         "individualURL": "gr2002801157",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 3336919.0,
@@ -6082,7 +6082,7 @@
                     "countryReleaseDate": "10/05/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 587337.0,
@@ -6104,7 +6104,7 @@
         "id": "2001_129",
         "individualURL": "gr2002997765",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 4030122.0,
@@ -6304,7 +6304,7 @@
         "id": "2001_29",
         "individualURL": "gr2144752133",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 3592748.0,
@@ -6414,7 +6414,7 @@
         "id": "2001_131",
         "individualURL": "gr2155631109",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Taiwan",
                     "countryGrossAmount": 21723.0,
@@ -6474,7 +6474,7 @@
         "id": "2001_304",
         "individualURL": "gr2168148485",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 105021.0,
@@ -6554,7 +6554,7 @@
                     "countryReleaseDate": "09/19/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 17402.0,
@@ -6600,7 +6600,7 @@
         "id": "2001_40",
         "individualURL": "gr2244039173",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 2559356.0,
@@ -6702,7 +6702,7 @@
                     "countryReleaseDate": "01/01/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 323162.0,
@@ -6730,7 +6730,7 @@
         "id": "2001_194",
         "individualURL": "gr2253345285",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 1064.0,
@@ -6772,7 +6772,7 @@
                     "countryReleaseDate": "01/11/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 81147.0,
@@ -6788,7 +6788,7 @@
         "id": "2001_231",
         "individualURL": "gr2256032261",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 1198441.0,
@@ -6812,7 +6812,7 @@
                     "countryReleaseDate": "02/15/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 40000.0,
@@ -6868,7 +6868,7 @@
         "id": "2001_41",
         "individualURL": "gr2268221957",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 2903028.0,
@@ -6952,7 +6952,7 @@
                     "countryReleaseDate": "03/22/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 369598.0,
@@ -6980,7 +6980,7 @@
         "id": "2001_142",
         "individualURL": "gr2288865797",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 723295.0,
@@ -7090,7 +7090,7 @@
         "id": "2001_1",
         "individualURL": "gr2296795653",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 21404392.0,
@@ -7210,7 +7210,7 @@
                     "countryReleaseDate": "11/16/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 9701073.0,
@@ -7266,7 +7266,7 @@
                     "countryReleaseDate": "06/20/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 18534.0,
@@ -7304,7 +7304,7 @@
         "id": "2001_88",
         "individualURL": "gr2306232837",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 3786220.0,
@@ -7328,7 +7328,7 @@
         "id": "2001_9",
         "individualURL": "gr2317373957",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 6060123.0,
@@ -7412,7 +7412,7 @@
                     "countryReleaseDate": "08/17/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 5037114.0,
@@ -7458,7 +7458,7 @@
         "id": "2001_22",
         "individualURL": "gr2331529733",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 1145414.0,
@@ -7616,7 +7616,7 @@
         "id": "2001_51",
         "individualURL": "gr2357023237",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 2567656.0,
@@ -7706,7 +7706,7 @@
         "id": "2001_60",
         "individualURL": "gr236409349",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 1255590.0,
@@ -7808,7 +7808,7 @@
                     "countryReleaseDate": "03/15/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 569277.0,
@@ -7830,7 +7830,7 @@
         "id": "2001_65",
         "individualURL": "gr2378912261",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 1841808.0,
@@ -7938,7 +7938,7 @@
                     "countryReleaseDate": "11/30/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 1744679.0,
@@ -7960,7 +7960,7 @@
         "id": "2001_28",
         "individualURL": "gr2381468165",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 3331433.0,
@@ -8016,7 +8016,7 @@
         "id": "2001_64",
         "individualURL": "gr2394968581",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 549902.0,
@@ -8066,7 +8066,7 @@
         "id": "2001_199",
         "individualURL": "gr2407027205",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 253296.0,
@@ -8122,7 +8122,7 @@
         "id": "2001_48",
         "individualURL": "gr240734725",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 4545780.0,
@@ -8230,7 +8230,7 @@
                     "countryReleaseDate": "02/01/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 396078.0,
@@ -8246,7 +8246,7 @@
         "id": "2001_302",
         "individualURL": "gr241717765",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 186798.0,
@@ -8270,7 +8270,7 @@
         "id": "2001_306",
         "individualURL": "gr2423738885",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Taiwan",
                     "countryGrossAmount": 233440.0,
@@ -8302,7 +8302,7 @@
         "id": "2001_162",
         "individualURL": "gr2434028037",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Japan",
                     "countryGrossAmount": 1329252.0,
@@ -8386,7 +8386,7 @@
                     "countryReleaseDate": "06/28/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 58711.0,
@@ -8418,7 +8418,7 @@
         "id": "2001_175",
         "individualURL": "gr2451001861",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 9309.0,
@@ -8480,7 +8480,7 @@
         "id": "2001_247",
         "individualURL": "gr2454016517",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 172779.0,
@@ -8512,7 +8512,7 @@
         "id": "2001_39",
         "individualURL": "gr2464829957",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 2334726.0,
@@ -8574,7 +8574,7 @@
         "id": "2001_13",
         "individualURL": "gr2466075141",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 6807893.0,
@@ -8676,7 +8676,7 @@
                     "countryReleaseDate": "10/12/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 3104022.0,
@@ -8698,7 +8698,7 @@
         "id": "2001_251",
         "individualURL": "gr2471252485",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 24211.0,
@@ -8722,7 +8722,7 @@
                     "countryReleaseDate": "08/09/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 88124.0,
@@ -8738,7 +8738,7 @@
         "id": "2001_114",
         "individualURL": "gr2484359685",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 1371939.0,
@@ -8828,7 +8828,7 @@
                     "countryReleaseDate": "03/15/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 71429.0,
@@ -8850,7 +8850,7 @@
         "id": "2001_133",
         "individualURL": "gr2484490757",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 76573.0,
@@ -8910,7 +8910,7 @@
                     "countryReleaseDate": "05/16/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 61722.0,
@@ -8954,7 +8954,7 @@
         "id": "2001_130",
         "individualURL": "gr2515948037",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 356986.0,
@@ -9058,7 +9058,7 @@
         "id": "2001_14",
         "individualURL": "gr2549961221",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 11632274.0,
@@ -9148,7 +9148,7 @@
                     "countryReleaseDate": "04/13/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 1819409.0,
@@ -9186,7 +9186,7 @@
         "id": "2001_43",
         "individualURL": "gr257643013",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 2904537.0,
@@ -9240,7 +9240,7 @@
                     "countryReleaseDate": ""
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 2635884.0,
@@ -9256,7 +9256,7 @@
         "id": "2001_299",
         "individualURL": "gr2588561925",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Taiwan",
                     "countryGrossAmount": 18543.0,
@@ -9316,7 +9316,7 @@
                     "countryReleaseDate": "11/23/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 10102.0,
@@ -9348,7 +9348,7 @@
         "id": "2001_177",
         "individualURL": "gr2606256645",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 9805.0,
@@ -9426,7 +9426,7 @@
                     "countryReleaseDate": "11/09/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 70623.0,
@@ -9442,7 +9442,7 @@
         "id": "2001_155",
         "individualURL": "gr2614579717",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 34875.0,
@@ -9508,7 +9508,7 @@
                     "countryReleaseDate": "12/07/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Chile",
                     "countryGrossAmount": 9837.0,
@@ -9546,7 +9546,7 @@
         "id": "2001_96",
         "individualURL": "gr2630242821",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 940600.0,
@@ -9624,7 +9624,7 @@
                     "countryReleaseDate": "11/30/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 89220.0,
@@ -9640,7 +9640,7 @@
         "id": "2001_117",
         "individualURL": "gr2631488005",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 1503387.0,
@@ -9724,7 +9724,7 @@
                     "countryReleaseDate": "03/15/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 25224.0,
@@ -9768,7 +9768,7 @@
         "id": "2001_105",
         "individualURL": "gr2649575941",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 79625.0,
@@ -9840,7 +9840,7 @@
                     "countryReleaseDate": "08/31/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 532916.0,
@@ -9878,7 +9878,7 @@
         "id": "2001_78",
         "individualURL": "gr2692174341",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 553872.0,
@@ -9932,7 +9932,7 @@
                     "countryReleaseDate": "05/17/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Chile",
                     "countryGrossAmount": 168399.0,
@@ -9984,7 +9984,7 @@
         "id": "2001_6",
         "individualURL": "gr2728940037",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 10034063.0,
@@ -10074,7 +10074,7 @@
         "id": "2001_70",
         "individualURL": "gr2745782789",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 2339543.0,
@@ -10146,7 +10146,7 @@
                     "countryReleaseDate": "05/04/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 679110.0,
@@ -10178,7 +10178,7 @@
         "id": "2001_36",
         "individualURL": "gr2750763525",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 4072909.0,
@@ -10256,7 +10256,7 @@
         "id": "2001_104",
         "individualURL": "gr276779525",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 890439.0,
@@ -10322,7 +10322,7 @@
                     "countryReleaseDate": "01/04/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 190334.0,
@@ -10422,7 +10422,7 @@
         "id": "2001_138",
         "individualURL": "gr2800243205",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 33767.0,
@@ -10482,7 +10482,7 @@
         "id": "2001_214",
         "individualURL": "gr2821542405",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 161127.0,
@@ -10526,7 +10526,7 @@
         "id": "2001_337",
         "individualURL": "gr2821935621",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Taiwan",
                     "countryGrossAmount": 575.0,
@@ -10558,7 +10558,7 @@
         "id": "2001_167",
         "individualURL": "gr2856342021",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 7045.0,
@@ -10612,7 +10612,7 @@
                     "countryReleaseDate": "11/23/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 90652.0,
@@ -10696,7 +10696,7 @@
         "id": "2001_169",
         "individualURL": "gr288707077",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 307147.0,
@@ -10780,7 +10780,7 @@
         "id": "2001_190",
         "individualURL": "gr289559045",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 112675.0,
@@ -10840,7 +10840,7 @@
                     "countryReleaseDate": "02/08/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 167326.0,
@@ -10868,7 +10868,7 @@
         "id": "2001_187",
         "individualURL": "gr2900972037",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 25371.0,
@@ -10904,7 +10904,7 @@
                     "countryReleaseDate": "05/09/2003"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Chile",
                     "countryGrossAmount": 7644.0,
@@ -10920,7 +10920,7 @@
         "id": "2001_209",
         "individualURL": "gr2901889541",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 74747.0,
@@ -10962,7 +10962,7 @@
                     "countryReleaseDate": "09/27/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 20932.0,
@@ -11034,7 +11034,7 @@
         "id": "2001_324",
         "individualURL": "gr2956218885",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Taiwan",
                     "countryGrossAmount": 71778.0,
@@ -11088,7 +11088,7 @@
         "id": "2001_5",
         "individualURL": "gr2971685381",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 11289006.0,
@@ -11214,7 +11214,7 @@
                     "countryReleaseDate": "02/15/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 6115943.0,
@@ -11236,7 +11236,7 @@
         "id": "2001_153",
         "individualURL": "gr2974568965",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 139345.0,
@@ -11322,7 +11322,7 @@
         "id": "2001_90",
         "individualURL": "gr2987610629",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 208498.0,
@@ -11378,7 +11378,7 @@
         "id": "2001_77",
         "individualURL": "gr2991936005",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 696829.0,
@@ -11492,7 +11492,7 @@
                     "countryReleaseDate": "01/11/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 138867.0,
@@ -11526,7 +11526,7 @@
         "id": "2001_52",
         "individualURL": "gr3002552837",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 2959006.0,
@@ -11598,7 +11598,7 @@
                     "countryReleaseDate": "11/02/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 980796.0,
@@ -11614,7 +11614,7 @@
         "id": "2001_93",
         "individualURL": "gr3021689349",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 642708.0,
@@ -11686,7 +11686,7 @@
                     "countryReleaseDate": "04/26/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 503828.0,
@@ -11708,7 +11708,7 @@
         "id": "2001_115",
         "individualURL": "gr3026866693",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 111718.0,
@@ -11744,7 +11744,7 @@
                     "countryReleaseDate": "04/12/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 917266.0,
@@ -11760,7 +11760,7 @@
         "id": "2001_134",
         "individualURL": "gr3042464261",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 127326.0,
@@ -11820,7 +11820,7 @@
                     "countryReleaseDate": "07/18/2003"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 148721.0,
@@ -11842,7 +11842,7 @@
         "id": "2001_111",
         "individualURL": "gr3050131973",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 849154.0,
@@ -11920,7 +11920,7 @@
                     "countryReleaseDate": "01/04/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 39441.0,
@@ -11942,7 +11942,7 @@
         "id": "2001_207",
         "individualURL": "gr3056161285",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 2131.0,
@@ -11978,7 +11978,7 @@
                     "countryReleaseDate": "11/15/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 112283.0,
@@ -11994,7 +11994,7 @@
         "id": "2001_68",
         "individualURL": "gr3067367941",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 571219.0,
@@ -12090,7 +12090,7 @@
                     "countryReleaseDate": "04/12/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 29822.0,
@@ -12118,7 +12118,7 @@
         "id": "2001_158",
         "individualURL": "gr3069399557",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 466421.0,
@@ -12220,7 +12220,7 @@
         "id": "2001_118",
         "individualURL": "gr3103347205",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 38468.0,
@@ -12286,7 +12286,7 @@
                     "countryReleaseDate": "01/25/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 1065220.0,
@@ -12302,7 +12302,7 @@
         "id": "2001_17",
         "individualURL": "gr3117306373",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 2093647.0,
@@ -12386,7 +12386,7 @@
                     "countryReleaseDate": "09/21/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 3831448.0,
@@ -12408,7 +12408,7 @@
         "id": "2001_59",
         "individualURL": "gr3126284805",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 2182340.0,
@@ -12504,7 +12504,7 @@
                     "countryReleaseDate": "01/11/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 768610.0,
@@ -12626,7 +12626,7 @@
         "id": "2001_61",
         "individualURL": "gr3170980357",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 671444.0,
@@ -12682,7 +12682,7 @@
         "id": "2001_21",
         "individualURL": "gr3173011973",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 8401173.0,
@@ -12748,7 +12748,7 @@
                     "countryReleaseDate": "08/03/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 2203695.0,
@@ -12770,7 +12770,7 @@
         "id": "2001_34",
         "individualURL": "gr3186119173",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 4705964.0,
@@ -12890,7 +12890,7 @@
                     "countryReleaseDate": "02/01/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 10933825.0,
@@ -12946,7 +12946,7 @@
         "id": "2001_127",
         "individualURL": "gr3210039813",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 629345.0,
@@ -13000,7 +13000,7 @@
                     "countryReleaseDate": ""
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 44938.0,
@@ -13022,7 +13022,7 @@
         "id": "2001_139",
         "individualURL": "gr3218559493",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 14255.0,
@@ -13070,7 +13070,7 @@
                     "countryReleaseDate": "02/08/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 138449.0,
@@ -13086,7 +13086,7 @@
         "id": "2001_4",
         "individualURL": "gr3227800069",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 16710733.0,
@@ -13322,7 +13322,7 @@
                     "countryReleaseDate": "06/29/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 3499185.0,
@@ -13444,7 +13444,7 @@
         "id": "2001_106",
         "individualURL": "gr3304477189",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 451279.0,
@@ -13510,7 +13510,7 @@
                     "countryReleaseDate": "10/12/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Chile",
                     "countryGrossAmount": 75042.0,
@@ -13532,7 +13532,7 @@
         "id": "2001_174",
         "individualURL": "gr3307819525",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 462195.0,
@@ -13592,7 +13592,7 @@
                     "countryReleaseDate": "12/28/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 67084.0,
@@ -13608,7 +13608,7 @@
         "id": "2001_69",
         "individualURL": "gr3317977605",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 1773190.0,
@@ -13674,7 +13674,7 @@
                     "countryReleaseDate": "11/09/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 79124.0,
@@ -13794,7 +13794,7 @@
         "id": "2001_173",
         "individualURL": "gr337924613",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 31255.0,
@@ -13818,7 +13818,7 @@
         "id": "2001_189",
         "individualURL": "gr3379909125",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 19696.0,
@@ -13842,7 +13842,7 @@
                     "countryReleaseDate": "01/10/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Chile",
                     "countryGrossAmount": 15671.0,
@@ -13874,7 +13874,7 @@
         "id": "2001_20",
         "individualURL": "gr3419034117",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 3728281.0,
@@ -13994,7 +13994,7 @@
                     "countryReleaseDate": "01/25/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 3932113.0,
@@ -14034,7 +14034,7 @@
         "id": "2001_122",
         "individualURL": "gr3421327877",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Hong Kong",
                     "countryGrossAmount": 41908.0,
@@ -14114,7 +14114,7 @@
         "id": "2001_238",
         "individualURL": "gr3429454341",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Japan",
                     "countryGrossAmount": 314092.0,
@@ -14164,7 +14164,7 @@
         "id": "2001_233",
         "individualURL": "gr3485815301",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 78152.0,
@@ -14218,7 +14218,7 @@
                     "countryReleaseDate": ""
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 31232.0,
@@ -14256,7 +14256,7 @@
         "id": "2001_126",
         "individualURL": "gr3495055877",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 154206.0,
@@ -14342,7 +14342,7 @@
         "id": "2001_319",
         "individualURL": "gr3507704325",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 73165.0,
@@ -14374,7 +14374,7 @@
         "id": "2001_75",
         "individualURL": "gr3507769861",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 1363811.0,
@@ -14440,7 +14440,7 @@
         "id": "2001_145",
         "individualURL": "gr3538047493",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 257538.0,
@@ -14520,7 +14520,7 @@
         "id": "2001_85",
         "individualURL": "gr3560591877",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 527423.0,
@@ -14574,7 +14574,7 @@
                     "countryReleaseDate": "08/23/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 351857.0,
@@ -14590,7 +14590,7 @@
         "id": "2001_263",
         "individualURL": "gr356733445",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 16662.0,
@@ -14662,7 +14662,7 @@
         "id": "2001_124",
         "individualURL": "gr3569701381",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 573443.0,
@@ -14758,7 +14758,7 @@
                     "countryReleaseDate": "01/04/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 22470.0,
@@ -14792,7 +14792,7 @@
         "id": "2001_72",
         "individualURL": "gr3586281989",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 45270.0,
@@ -14884,7 +14884,7 @@
         "id": "2001_202",
         "individualURL": "gr3635040773",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 66955.0,
@@ -14908,7 +14908,7 @@
         "id": "2001_229",
         "individualURL": "gr3676459525",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Taiwan",
                     "countryGrossAmount": 10386.0,
@@ -14932,7 +14932,7 @@
                     "countryReleaseDate": "03/21/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 59906.0,
@@ -14960,7 +14960,7 @@
         "id": "2001_146",
         "individualURL": "gr3677377029",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 7400.0,
@@ -15032,7 +15032,7 @@
                     "countryReleaseDate": "09/05/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Chile",
                     "countryGrossAmount": 18963.0,
@@ -15048,7 +15048,7 @@
         "id": "2001_197",
         "individualURL": "gr3689107973",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 23073.0,
@@ -15114,7 +15114,7 @@
         "id": "2001_87",
         "individualURL": "gr3708178949",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 3857807.0,
@@ -15164,7 +15164,7 @@
         "id": "2001_178",
         "individualURL": "gr3709555205",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 17158.0,
@@ -15180,7 +15180,7 @@
                     "countryReleaseDate": "05/04/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Chile",
                     "countryGrossAmount": 19515.0,
@@ -15196,7 +15196,7 @@
         "id": "2001_103",
         "individualURL": "gr3713290757",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 1175819.0,
@@ -15268,7 +15268,7 @@
                     "countryReleaseDate": "02/08/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 834370.0,
@@ -15284,7 +15284,7 @@
         "id": "2001_186",
         "individualURL": "gr3714077189",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 34476.0,
@@ -15332,7 +15332,7 @@
                     "countryReleaseDate": "11/23/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 78068.0,
@@ -15364,7 +15364,7 @@
         "id": "2001_311",
         "individualURL": "gr3732820485",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 2224.0,
@@ -15396,7 +15396,7 @@
         "id": "2001_16",
         "individualURL": "gr373445125",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 8428397.0,
@@ -15680,7 +15680,7 @@
                     "countryReleaseDate": "07/06/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 2010302.0,
@@ -15738,7 +15738,7 @@
         "id": "2001_253",
         "individualURL": "gr3738456581",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Taiwan",
                     "countryGrossAmount": 4171.0,
@@ -15776,7 +15776,7 @@
         "id": "2001_32",
         "individualURL": "gr3739832837",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 5264546.0,
@@ -15878,7 +15878,7 @@
                     "countryReleaseDate": "10/26/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 1387059.0,
@@ -15900,7 +15900,7 @@
         "id": "2001_24",
         "individualURL": "gr3740684805",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 5353930.0,
@@ -16076,7 +16076,7 @@
         "id": "2001_119",
         "individualURL": "gr3825488389",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 1406080.0,
@@ -16156,7 +16156,7 @@
         "id": "2001_62",
         "individualURL": "gr383078917",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 181922.0,
@@ -16228,7 +16228,7 @@
                     "countryReleaseDate": "10/19/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 225212.0,
@@ -16284,7 +16284,7 @@
                     "countryReleaseDate": "09/28/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 458280.0,
@@ -16316,7 +16316,7 @@
         "id": "2001_234",
         "individualURL": "gr384717317",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Hong Kong",
                     "countryGrossAmount": 82974.0,
@@ -16390,7 +16390,7 @@
         "id": "2001_170",
         "individualURL": "gr3882832389",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 133351.0,
@@ -16432,7 +16432,7 @@
                     "countryReleaseDate": "09/07/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 171863.0,
@@ -16480,7 +16480,7 @@
         "id": "2001_58",
         "individualURL": "gr3956756997",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 1418708.0,
@@ -16600,7 +16600,7 @@
                     "countryReleaseDate": "01/08/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 321008.0,
@@ -16622,7 +16622,7 @@
         "id": "2001_31",
         "individualURL": "gr3957936645",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 3090507.0,
@@ -16754,7 +16754,7 @@
                     "countryReleaseDate": "11/23/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 366467.0,
@@ -16822,7 +16822,7 @@
                     "countryReleaseDate": "07/27/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 93107.0,
@@ -16874,7 +16874,7 @@
         "id": "2001_260",
         "individualURL": "gr3998896645",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Taiwan",
                     "countryGrossAmount": 4156.0,
@@ -16956,7 +16956,7 @@
         "id": "2001_7",
         "individualURL": "gr4044575237",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 9341940.0,
@@ -17240,7 +17240,7 @@
                     "countryReleaseDate": "05/18/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 3425760.0,
@@ -17314,7 +17314,7 @@
         "id": "2001_235",
         "individualURL": "gr4059320837",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 16195.0,
@@ -17338,7 +17338,7 @@
         "id": "2001_265",
         "individualURL": "gr4064760325",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 11399.0,
@@ -17368,7 +17368,7 @@
                     "countryReleaseDate": "05/16/2003"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 65426.0,
@@ -17384,7 +17384,7 @@
         "id": "2001_76",
         "individualURL": "gr4080620037",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 639376.0,
@@ -17500,7 +17500,7 @@
         "id": "2001_154",
         "individualURL": "gr4109849093",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 700446.0,
@@ -17556,7 +17556,7 @@
         "id": "2001_49",
         "individualURL": "gr4118172165",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 3461737.0,
@@ -17646,7 +17646,7 @@
                     "countryReleaseDate": "02/15/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 4889.0,
@@ -17684,7 +17684,7 @@
         "id": "2001_137",
         "individualURL": "gr4164243973",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 47980.0,
@@ -17732,7 +17732,7 @@
                     "countryReleaseDate": "07/19/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 278738.0,
@@ -17786,7 +17786,7 @@
         "id": "2001_19",
         "individualURL": "gr4182725125",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 5141047.0,
@@ -17870,7 +17870,7 @@
                     "countryReleaseDate": "09/14/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 1378170.0,
@@ -17892,7 +17892,7 @@
         "id": "2001_181",
         "individualURL": "gr418861573",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 189881.0,
@@ -17916,7 +17916,7 @@
                     "countryReleaseDate": "04/25/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Chile",
                     "countryGrossAmount": 2992.0,
@@ -17956,7 +17956,7 @@
         "id": "2001_185",
         "individualURL": "gr4191638021",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 2228991.0,
@@ -18042,7 +18042,7 @@
         "id": "2001_317",
         "individualURL": "gr4202254853",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Taiwan",
                     "countryGrossAmount": 5688.0,
@@ -18090,7 +18090,7 @@
         "id": "2001_67",
         "individualURL": "gr4249506309",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 98858.0,
@@ -18182,7 +18182,7 @@
         "id": "2001_80",
         "individualURL": "gr4292432389",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 809090.0,
@@ -18224,7 +18224,7 @@
                     "countryReleaseDate": ""
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 149967.0,
@@ -18256,7 +18256,7 @@
         "id": "2001_71",
         "individualURL": "gr447435269",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 2236527.0,
@@ -18340,7 +18340,7 @@
                     "countryReleaseDate": "11/30/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 181745.0,
@@ -18386,7 +18386,7 @@
         "id": "2001_35",
         "individualURL": "gr466571781",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 3996157.0,
@@ -18488,7 +18488,7 @@
                     "countryReleaseDate": "10/19/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 1795563.0,
@@ -18510,7 +18510,7 @@
         "id": "2001_271",
         "individualURL": "gr490951173",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 165707.0,
@@ -18526,7 +18526,7 @@
                     "countryReleaseDate": "05/11/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 360478.0,
@@ -18542,7 +18542,7 @@
         "id": "2001_135",
         "individualURL": "gr493244933",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 353600.0,
@@ -18558,7 +18558,7 @@
                     "countryReleaseDate": "10/05/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 737415.0,
@@ -18574,7 +18574,7 @@
         "id": "2001_216",
         "individualURL": "gr49828357",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 82098.0,
@@ -18598,7 +18598,7 @@
                     "countryReleaseDate": "12/06/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 38223.0,
@@ -18614,7 +18614,7 @@
         "id": "2001_182",
         "individualURL": "gr510743045",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 150167.0,
@@ -18668,7 +18668,7 @@
                     "countryReleaseDate": "08/10/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 49621.0,
@@ -18696,7 +18696,7 @@
         "id": "2001_246",
         "individualURL": "gr52580869",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 146001.0,
@@ -18756,7 +18756,7 @@
         "id": "2001_11",
         "individualURL": "gr554586629",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 6284063.0,
@@ -18834,7 +18834,7 @@
                     "countryReleaseDate": "08/03/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 1732622.0,
@@ -18892,7 +18892,7 @@
         "id": "2001_112",
         "individualURL": "gr56775173",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 176322.0,
@@ -18958,7 +18958,7 @@
                     "countryReleaseDate": ""
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 1004421.0,
@@ -18974,7 +18974,7 @@
         "id": "2001_3",
         "individualURL": "gr589582853",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 12989361.0,
@@ -19088,7 +19088,7 @@
                     "countryReleaseDate": ""
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 5759610.0,
@@ -19126,7 +19126,7 @@
         "id": "2001_95",
         "individualURL": "gr611602949",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 258519.0,
@@ -19204,7 +19204,7 @@
                     "countryReleaseDate": "10/05/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 1017944.0,
@@ -19226,7 +19226,7 @@
         "id": "2001_157",
         "individualURL": "gr625627653",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 234531.0,
@@ -19292,7 +19292,7 @@
                     "countryReleaseDate": "11/23/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 110791.0,
@@ -19338,7 +19338,7 @@
         "id": "2001_116",
         "individualURL": "gr642667013",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 855643.0,
@@ -19440,7 +19440,7 @@
                     "countryReleaseDate": "04/04/2003"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 371051.0,
@@ -19484,7 +19484,7 @@
         "id": "2001_262",
         "individualURL": "gr657871365",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 39851.0,
@@ -19524,7 +19524,7 @@
         "id": "2001_179",
         "individualURL": "gr670978565",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 6894.0,
@@ -19566,7 +19566,7 @@
                     "countryReleaseDate": "11/30/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 5075197.0,
@@ -19618,7 +19618,7 @@
         "id": "2001_89",
         "individualURL": "gr693719557",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 1071148.0,
@@ -19680,7 +19680,7 @@
         "id": "2001_38",
         "individualURL": "gr696144389",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 1707751.0,
@@ -19776,7 +19776,7 @@
                     "countryReleaseDate": "09/28/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 1194793.0,
@@ -19814,7 +19814,7 @@
         "id": "2001_102",
         "individualURL": "gr755126789",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 1969897.0,
@@ -19862,7 +19862,7 @@
         "id": "2001_159",
         "individualURL": "gr759321093",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 71769.0,
@@ -19904,7 +19904,7 @@
                     "countryReleaseDate": "01/03/2003"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 85029.0,
@@ -19920,7 +19920,7 @@
         "id": "2001_44",
         "individualURL": "gr771969541",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 2464334.0,
@@ -20028,7 +20028,7 @@
                     "countryReleaseDate": "05/10/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 550051.0,
@@ -20062,7 +20062,7 @@
         "id": "2001_164",
         "individualURL": "gr773935621",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 460358.0,
@@ -20116,7 +20116,7 @@
                     "countryReleaseDate": "01/12/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 150191.0,
@@ -20132,7 +20132,7 @@
         "id": "2001_290",
         "individualURL": "gr775311877",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "South Korea",
                     "countryGrossAmount": 2133.0,
@@ -20182,7 +20182,7 @@
         "id": "2001_140",
         "individualURL": "gr775705093",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 979005.0,
@@ -20260,7 +20260,7 @@
                     "countryReleaseDate": "01/18/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 21989.0,
@@ -20294,7 +20294,7 @@
         "id": "2001_204",
         "individualURL": "gr792941061",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 254042.0,
@@ -20372,7 +20372,7 @@
         "id": "2001_109",
         "individualURL": "gr82006533",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 399791.0,
@@ -20402,7 +20402,7 @@
                     "countryReleaseDate": "04/20/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 477088.0,
@@ -20418,7 +20418,7 @@
         "id": "2001_274",
         "individualURL": "gr821318149",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Taiwan",
                     "countryGrossAmount": 36150.0,
@@ -20514,7 +20514,7 @@
         "id": "2001_2",
         "individualURL": "gr892686853",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 24703245.0,
@@ -20828,7 +20828,7 @@
                     "countryReleaseDate": "12/21/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 3658920.0,
@@ -20970,7 +20970,7 @@
         "id": "2001_47",
         "individualURL": "gr909529605",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 2350826.0,
@@ -21090,7 +21090,7 @@
                     "countryReleaseDate": "01/04/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Mexico",
                     "countryGrossAmount": 2452389.0,
@@ -21146,7 +21146,7 @@
         "id": "2001_37",
         "individualURL": "gr955798021",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 4518086.0,
@@ -21242,7 +21242,7 @@
                     "countryReleaseDate": "08/31/2001"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Brazil",
                     "countryGrossAmount": 1518614.0,
@@ -21264,7 +21264,7 @@
         "id": "2001_123",
         "individualURL": "gr957370885",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 14588.0,
@@ -21314,7 +21314,7 @@
         "id": "2001_10",
         "individualURL": "gr962220549",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 5555753.0,
@@ -21392,7 +21392,7 @@
                     "countryReleaseDate": "06/20/2002"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 10335.0,

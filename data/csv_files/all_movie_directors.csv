@@ -1088,6 +1088,7 @@ uniqueID,director
 1986_44,W.B. Zullo
 1986_46,Robert Mandel
 1986_49,Randal Kleiser
+1986_5,John G. Avildsen
 1986_50,Richard Pryor
 1986_51,Menahem Golan
 1986_56,Ridley Scott
@@ -1418,6 +1419,7 @@ uniqueID,director
 1988_157,Mike Figgis
 1988_158,Richard Benjamin
 1988_159,Frank LaLoggia
+1988_16,Michael Apted
 1988_160,Eline Timmer
 1988_161,Woody Allen
 1988_162,Charles Sturridge
@@ -2857,6 +2859,7 @@ uniqueID,director
 1994_4,Peter Bogdanovich
 1994_40,Paul Weiland
 1994_43,Steven Seagal
+1994_44,Donald Petrie
 1994_45,Phil Rosen
 1994_45,Alfred L. Werker
 1994_46,Ben Stiller
@@ -3705,12 +3708,14 @@ uniqueID,director
 1997_63,Paul Bartel
 1997_64,Quentin Tarantino
 1997_65,Stephen Kessler
+1997_66,Gregory Nava
 1997_67,Gregory Nava
 1997_68,Griffin Dunne
 1997_69,Peter Hyams
 1997_7,Tom Shadyac
 1997_70,Jaco Van Dormael
 1997_71,Roger Melvin
+1997_72,Dennis Dugan
 1997_73,Dennis Dugan
 1997_74,Martha Coolidge
 1997_75,Andrew Tennant
@@ -4289,6 +4294,7 @@ uniqueID,director
 1999_345,Eric Styles
 1999_346,Tony Cinciripini
 1999_348,Donal Lardner Ward
+1999_349,Avi Nesher
 1999_35,Les Mayfield
 1999_350,Avi Nesher
 1999_351,Hal Hartley
@@ -4299,16 +4305,25 @@ uniqueID,director
 1999_357,Jennifer Baichwal
 1999_358,Frank O'Connor
 1999_359,Thomas Jahn
+1999_360,Louis Malle
 1999_361,Louis Malle
+1999_362,Barry J. Hershey
 1999_363,Barry J. Hershey
+1999_364,John N. Smith
 1999_365,John N. Smith
+1999_367,Bobby Farrelly
+1999_367,Peter Farrelly
+1999_367,Shawn Levy
 1999_368,Bobby Farrelly
 1999_368,Peter Farrelly
 1999_368,Shawn Levy
+1999_369,Rea Tajiri
 1999_37,David O. Russell
 1999_370,Rea Tajiri
+1999_372,Christophe Charrier
 1999_373,Christophe Charrier
 1999_374,Richard Shepard
+1999_375,Tom Tykwer
 1999_376,Tom Tykwer
 1999_377,Robert DeFranco
 1999_378,Eran Palatnik
@@ -4318,6 +4333,7 @@ uniqueID,director
 1999_381,Nikolas Winding Refn
 1999_381,Nicolas Winding Refn
 1999_382,Hilary Brougher
+1999_383,Vince Offer
 1999_384,Vince Offer
 1999_39,David Fincher
 1999_4,Lilly Wachowski
@@ -5326,6 +5342,8 @@ uniqueID,director
 2002_285,Rebecca Miller
 2002_286,Georg Wilhelm Pabst
 2002_287,Manoel de Oliveira
+2002_289,Corey Yuen
+2002_289,Cory Yuen
 2002_29,Michael Lembeck
 2002_290,Lynne Ramsay
 2002_291,Blair Treu
@@ -5477,6 +5495,7 @@ uniqueID,director
 2002_438,Peter O'Fallon
 2002_439,Shunji Iwai
 2002_440,Paul McGuigan
+2002_442,Zhang Yang
 2002_443,Zhang Yang
 2002_444,Kim Ki-duk
 2002_445,Michael Caulfield
@@ -5503,29 +5522,37 @@ uniqueID,director
 2002_460,Colin Nutley
 2002_461,John Walsh
 2002_462,George Cukor
+2002_463,Sean McAllister
 2002_464,Sean McAllister
 2002_465,Tom Zuber
+2002_466,Dan Verete
 2002_467,Dan Verete
 2002_468,Verónica Chen
+2002_469,William Gazecki
 2002_47,Alexander Payne
 2002_470,William Gazecki
 2002_471,Gil Cates Jr.
 2002_472,Arthur Dong
 2002_474,Tim McCann
 2002_475,Jae-eun Jeong
+2002_476,Tom Rice
 2002_477,Tom Rice
 2002_478,Jacques Thelemaque
 2002_479,Olaf Breuning
 2002_48,Kevin Donovan
+2002_481,Matej Minac
 2002_482,Matej Minac
+2002_483,Mick Jackson
 2002_484,Mick Jackson
 2002_485,Barbara Willis Sweete
 2002_486,Imogen Kimmel
 2002_487,Don Boyd
+2002_488,Derek Jarman
 2002_489,Derek Jarman
 2002_49,Paul W.S. Anderson
 2002_490,J.T.S. Moore
 2002_491,Jake Torem
+2002_492,Jo Sol
 2002_493,Jo Sol
 2002_494,Roberto Gavaldón
 2002_495,Takashi Miike
@@ -5539,6 +5566,13 @@ uniqueID,director
 2002_503,Kevin Connor
 2002_504,Ian McCrudden
 2002_505,Karl Maka
+2002_506,Ngozi Onwurah
+2002_506,Bridget Pickering
+2002_506,Zulfa Otto-Sallies
+2002_506,Ingrid Sinclair
+2002_506,Zulfah Otto-Sallies
+2002_506,Raja Amari
+2002_506,Fanta Régina Nacro
 2002_507,Ngozi Onwurah
 2002_507,Bridget Pickering
 2002_507,Zulfa Otto-Sallies
@@ -5755,8 +5789,10 @@ uniqueID,director
 2003_269,Rolf de Heer
 2003_27,Quentin Tarantino
 2003_270,Richard Kwietniowski
+2003_271,Richard Kwietniowski
 2003_273,Olias Barco
 2003_274,Norman Jewison
+2003_275,Norman Jewison
 2003_276,Chandra Prakash Dwivedi
 2003_276,Farida Jalal
 2003_276,Isha Koppikar
@@ -5768,17 +5804,21 @@ uniqueID,director
 2003_276,Seema Biswas
 2003_276,Urmila Matondkar
 2003_277,Robert Duvall
+2003_278,Robert Duvall
 2003_279,Robert Michael Lewis
 2003_28,Stephen Norrington
 2003_280,Gilles Marchand
 2003_281,Louis Bélanger
+2003_282,Louis Bélanger
 2003_283,Neil LaBute
 2003_284,Fenton Bailey
 2003_284,Randy Barbato
 2003_285,William Phillips
+2003_286,William Phillips
 2003_289,Ed Solomon
 2003_29,Mark Steven Johnson
 2003_290,Jonas Åkerlund
+2003_291,Jonas Åkerlund
 2003_292,Ekachai Uekrongtham
 2003_295,C.B. Harding
 2003_296,Eitan Gorlin
@@ -5874,17 +5914,22 @@ uniqueID,director
 2003_387,E. Nivas
 2003_387,E. Niwas
 2003_388,Jean-Luc Godard
+2003_389,Liz Garbus
 2003_39,Gary Ross
 2003_390,Jonathan Kesselman
+2003_391,Jonathan Kesselman
 2003_392,Benny Mathews
 2003_393,Robert Cary
 2003_394,Barbara Albert
 2003_395,Tony Shalhoub
 2003_396,Shinsuke Sato
+2003_397,Shinsuke Sato
 2003_398,François Velle
+2003_399,François Velle
 2003_4,Gore Verbinski
 2003_40,Mathieu Kassovitz
 2003_400,Fernando Sariñana
+2003_401,Fernando Sariñana
 2003_403,Mark Decena
 2003_404,A. Dean Bell
 2003_405,Li Yang
@@ -5892,6 +5937,7 @@ uniqueID,director
 2003_406,D.A. Pennebaker
 2003_407,Kurt Voss
 2003_408,Catherine Jelski
+2003_409,Catherine Jelski
 2003_41,Mike Newell
 2003_410,Tian Zhuangzhuang
 2003_411,Stuart Gillard
@@ -5902,18 +5948,24 @@ uniqueID,director
 2003_414,Eric Mueller
 2003_414,Brian Sloan
 2003_415,Abderrahmane Sissako
+2003_416,Abderrahmane Sissako
 2003_417,Dean Shek
+2003_418,Dean Shek
 2003_42,Steve Trenbirth
 2003_420,Robert Bresson
 2003_421,Aviva Slesin
 2003_422,Jonathan Karsh
 2003_423,Paul Devlin
+2003_424,Paul Devlin
 2003_426,Danny Provenzano
+2003_427,Danny Provenzano
 2003_428,Thom Fitzgerald
 2003_429,Mike Figgis
 2003_43,Bo Welch
 2003_430,Richard LaGravenese
 2003_430,Ted Demme
+2003_431,Richard LaGravenese
+2003_431,Ted Demme
 2003_432,Jacques Nolot
 2003_433,Chris Marker
 2003_434,Rakhshan Bani Etemad
@@ -5923,23 +5975,35 @@ uniqueID,director
 2003_438,Steve Guttenberg
 2003_439,Claes Lilja
 2003_44,Richard Linklater
+2003_440,Claes Lilja
 2003_441,Lab Ky Mo
+2003_442,Lab Ky Mo
 2003_443,Everett Lewis
 2003_444,Harold Ramis
 2003_444,John Sayles
 2003_444,John McNaughton
 2003_444,Kevin Mukherji
+2003_445,Harold Ramis
+2003_445,John Sayles
+2003_445,John McNaughton
+2003_445,Kevin Mukherji
 2003_446,Jim Simpson
+2003_447,Jim Simpson
 2003_448,Scott Marcano
 2003_449,Michele Maher
+2003_450,Michele Maher
 2003_451,Director John H. Smihula
+2003_452,Director John H. Smihula
 2003_453,Alexandra Latishev Salazar
 2003_454,Kristian Levring
+2003_455,Kristian Levring
 2003_456,Mel Stuart
+2003_457,Mel Stuart
 2003_460,Jordan Susman
 2003_461,Alex Smith
 2003_461,Andrew J. Smith
 2003_462,Charles Atlas
+2003_463,Charles Atlas
 2003_465,Hamlet Sarkissian
 2003_466,Stephen Kijak
 2003_466,Angela Christlieb
@@ -5956,15 +6020,19 @@ uniqueID,director
 2003_475,Martina Kudlácek
 2003_476,Jesus Nebot
 2003_476,Julia Montejo
+2003_477,Jesus Nebot
+2003_477,Julia Montejo
 2003_478,Billy Wilder
 2003_479,Azita Zendel
 2003_48,Joel Coen
 2003_48,Ethan Coen
 2003_480,Robert Mulligan
+2003_481,Robert Mulligan
 2003_483,Peter Watkins
 2003_484,Paul F. Ryan
 2003_486,Ole Christian Madsen
 2003_487,Alison Thompson
+2003_488,Alison Thompson
 2003_49,Sofia Coppola
 2003_490,Bob Odenkirk
 2003_491,John Henry Davis
@@ -5987,18 +6055,21 @@ uniqueID,director
 2003_496,Rob Fruchtman
 2003_497,Robert M. Young
 2003_498,Nathan Smith Jones
+2003_499,Nathan Smith Jones
 2003_5,Tom Shadyac
 2003_50,John Woo
 2003_500,Mark Wilkinson
 2003_501,Bret Wood
 2003_502,Joey Travolta
 2003_503,Anna Chi
+2003_504,Anna Chi
 2003_506,Nina Gilden Seavey
 2003_507,Gonzalo Justiniano
 2003_508,William A. Baker
 2003_508,William Baker
 2003_509,Chuck Workman
 2003_51,Ronny Yu
+2003_510,Chuck Workman
 2003_52,Marcus Nispel
 2003_53,Shawn Levy
 2003_54,Roger Donaldson
@@ -6295,6 +6366,8 @@ uniqueID,director
 2004_347,Daniel Harris
 2004_347,Dan Harris
 2004_348,Jean-Luc Godard
+2004_349,Lars von Trier
+2004_349,Jørgen Leth
 2004_35,Joel Schumacher
 2004_350,Dylan Kidd
 2004_351,Jeff Santo
@@ -6633,9 +6706,11 @@ uniqueID,director
 2005_21,Peter Segal
 2005_210,David LaChapelle
 2005_211,Jeff Byrd
+2005_212,Jeff Byrd
 2005_213,James Ivory
 2005_214,Werner Herzog
 2005_215,Xavier Beauvois
+2005_216,Xavier Beauvois
 2005_217,Dan Ireland
 2005_218,Lexi Alexander
 2005_219,Byrum Geisler
@@ -6655,40 +6730,56 @@ uniqueID,director
 2005_232,Chad Hartigan
 2005_233,Manuel Gómez Pereira
 2005_234,Judy Irving
+2005_235,Judy Irving
 2005_236,Christopher Scott Cherot
+2005_237,Christopher Scott Cherot
 2005_239,François Ozon
 2005_240,Patrice Chéreau
 2005_241,Brent Hamer
 2005_241,Bent Hamer
+2005_242,Brent Hamer
+2005_242,Bent Hamer
 2005_244,Gus Van Sant
+2005_245,Gus Van Sant
 2005_246,Anders Thomas Jensen
 2005_247,Brendan Foley
 2005_248,Geoff Murphy
 2005_249,Mike Mills
 2005_25,Hideo Nakata
+2005_250,Mike Mills
 2005_253,Alain Jakubowicz
 2005_253,Jonathan Jakubowicz
 2005_255,Anna Reeves
 2005_256,Henry-Alex Rubin
 2005_256,Dana Adam Shapiro
+2005_257,Henry-Alex Rubin
+2005_257,Dana Adam Shapiro
 2005_259,Don Roos
 2005_26,Michael Bay
 2005_260,Shona Auerbach
+2005_261,Shona Auerbach
 2005_262,Michael Dowse
+2005_263,Michael Dowse
 2005_264,Gidi Dar
 2005_265,Jean-Luc Godard
 2005_266,Gregg Araki
+2005_267,Gregg Araki
 2005_27,Sydney Pollack
 2005_270,Liam Lynch
+2005_271,Homi Adajania
 2005_272,Campbell Scott
 2005_273,Chris Terrio
+2005_274,Campbell Scott
 2005_275,Dharmesh Darshan
 2005_276,Alice Wu
+2005_277,Dharmesh Darshan
+2005_278,Alice Wu
 2005_28,Rob Marshall
 2005_280,Mark Levin
 2005_281,Brett Leonard
 2005_282,Meiert Avis
 2005_283,Bahman Ghobadi
+2005_284,Meiert Avis
 2005_285,Carroll Ballard
 2005_286,Kevin Harrison
 2005_286,Kemp Curley
@@ -6700,6 +6791,8 @@ uniqueID,director
 2005_29,Quentin Tarantino
 2005_29,Frank Miller
 2005_290,Dave McKean
+2005_291,Gary Breslin
+2005_292,Dave McKean
 2005_294,Sebastián Cordero
 2005_295,Kevin Willmott
 2005_295,Ken Willmott
@@ -6714,6 +6807,7 @@ uniqueID,director
 2005_300,Vikram Bhatt
 2005_301,Jane Anderson
 2005_302,Lars von Trier
+2005_303,Lars von Trier
 2005_304,Sally Potter
 2005_305,Dana Brown
 2005_306,Petra Epperlein
@@ -6721,21 +6815,26 @@ uniqueID,director
 2005_306,Mike Tucker
 2005_307,Thomas Vinterberg
 2005_308,Hsiao-hsien Hou
+2005_309,Hsiao-hsien Hou
 2005_31,Darren Lynn Bousman
 2005_310,Jun Ichikawa
+2005_311,Jun Ichikawa
 2005_312,Michael Dowse
 2005_313,Marcos Siega
 2005_314,William Bindley
 2005_315,David Dhawan
 2005_316,Subhash Ghai
+2005_317,Subhash Ghai
 2005_319,Ming-liang Tsai
 2005_32,Scott Derrickson
+2005_320,Ming-liang Tsai
 2005_322,John E. Moyer
 2005_323,Rosario Roveto Jr.
 2005_324,Lodge Kerrigan
 2005_325,David Duchovny
 2005_326,David Anspaugh
 2005_327,Barbara Kopple
+2005_328,Barbara Kopple
 2005_329,Arie Posin
 2005_33,Angela Robinson
 2005_330,Craig Lucas
@@ -6746,6 +6845,7 @@ uniqueID,director
 2005_334,John Daly
 2005_335,Louis Malle
 2005_336,Matthew Parkhill
+2005_337,Matthew Parkhill
 2005_338,F. Gary Gray
 2005_339,Brian Herzlinger
 2005_339,Jon Gunn
@@ -6753,8 +6853,11 @@ uniqueID,director
 2005_34,Martin Campbell
 2005_340,Carlos Reygadas
 2005_341,Michael Kehoe
+2005_342,Michael Kehoe
 2005_343,Joseph Lovett
+2005_344,Joseph Lovett
 2005_345,Yaron Zilberman
+2005_346,Yaron Zilberman
 2005_348,Greg Whiteley
 2005_349,Eric Hendershot
 2005_35,Nora Ephron
@@ -6765,6 +6868,7 @@ uniqueID,director
 2005_354,Keith Beauchamp
 2005_354,Keith A. Beauchamp
 2005_355,Richard Dutcher
+2005_356,Richard Dutcher
 2005_357,Boris Rytsarev
 2005_358,Greg Harrison
 2005_359,Stephen Woolley
@@ -6773,15 +6877,20 @@ uniqueID,director
 2005_361,Jérôme Boivin
 2005_361,Jérôme Boivin
 2005_362,Marc Levin
+2005_363,Marc Levin
 2005_364,Ira Sachs
+2005_365,Ira Sachs
 2005_369,Q. Allan Brocka
 2005_37,Adam Shankman
 2005_370,Mark Milgard
+2005_371,Mark Milgard
 2005_372,David Caesar
+2005_373,David Caesar
 2005_375,Kevin Jordan
 2005_376,Volker Schlöndorff
 2005_377,Jan Svankmajer
 2005_378,Margaret Brown
+2005_379,Margaret Brown
 2005_38,Luc Jacquet
 2005_381,Tim Kirkman
 2005_382,Jessica Sanders
@@ -6790,10 +6899,13 @@ uniqueID,director
 2005_385,Angela Robinson
 2005_386,Claude Sautet
 2005_387,Suparn Verma
+2005_388,Suparn Verma
 2005_389,Victor Vu
 2005_39,Kirk Jones
+2005_390,Victor Vu
 2005_391,Jose Montesinos
 2005_392,Andrew Bujalski
+2005_393,Andrew Bujalski
 2005_394,Deborah Koons Garcia
 2005_395,Ray McKinnon
 2005_396,Andrew Douglas
@@ -6803,12 +6915,16 @@ uniqueID,director
 2005_4,Steven Spielberg
 2005_400,Tennyson Bardwell
 2005_401,Paula Fouce
+2005_402,Paula Fouce
 2005_403,Andrew Wagner
 2005_404,Huck Botko
 2005_404,Andrew Gurland
+2005_405,Huck Botko
+2005_405,Andrew Gurland
 2005_406,Theodoros Angelopoulos
 2005_407,Don Argott
 2005_408,Anahí Berneri
+2005_409,Anahí Berneri
 2005_410,Kirk Davis
 2005_411,Sujoy Ghosh
 2005_412,Jiang Xiao
@@ -6816,19 +6932,25 @@ uniqueID,director
 2005_414,Marcos Bernstein
 2005_415,Gulshat Omarova
 2005_416,Doron Eran
+2005_417,Doron Eran
 2005_419,Lori Silverbush
 2005_419,Michael Skolnik
 2005_420,Elliot Greenebaum
+2005_421,Elliot Greenebaum
 2005_424,Sean Anders
 2005_425,Lutz Hachmeister
 2005_426,Apichatpong Weerasethakul
+2005_427,Apichatpong Weerasethakul
 2005_428,Scott Coffey
+2005_429,Scott Coffey
 2005_43,Tim Burton
 2005_43,Mike Johnson
 2005_430,David Devine
+2005_431,David Devine
 2005_433,Mark Wexler
 2005_433,Mark S. Wexler
 2005_434,Damon Dash
+2005_435,Damon Dash
 2005_436,Serge Leroy
 2005_437,Tommy Stovall
 2005_438,Astra Taylor
@@ -6838,6 +6960,7 @@ uniqueID,director
 2005_440,James D. Stern
 2005_441,John Asher
 2005_442,Vadim Jean
+2005_443,Vadim Jean
 2005_444,Park Kyung-Hee
 2005_446,Henry Jaglom
 2005_447,Dani Menkin
@@ -6845,37 +6968,52 @@ uniqueID,director
 2005_449,Christopher K. Long
 2005_449,Christopher Long
 2005_45,Don Ross
+2005_450,Christopher K. Long
+2005_450,Christopher Long
 2005_451,Mark Bamford
+2005_452,Mark Bamford
 2005_454,T. Lee Beideck
 2005_455,Jorge Furtado
 2005_456,Lisa Lax
 2005_456,Nancy Stern
+2005_457,Lisa Lax
+2005_457,Nancy Stern
 2005_458,Gaël Morel
 2005_459,Casper Andreas
 2005_46,Ron Howard
+2005_460,Casper Andreas
 2005_461,Al Corley
 2005_462,Scott Caan
 2005_463,Sam Peckinpah
 2005_464,Rick King
 2005_465,Helmut Schleppi
+2005_466,Helmut Schleppi
 2005_467,John Schott
 2005_467,E.J. Vaughan
+2005_468,John Schott
+2005_468,E.J. Vaughan
 2005_471,John Young
 2005_471,John G. Young
 2005_472,Allan Mindel
 2005_473,Laura Gabbert
 2005_474,Ivo Trajkov
+2005_475,Ivo Trajkov
 2005_476,Barry Avrich
 2005_477,Quentin Lee
 2005_478,Hassan Zee
 2005_479,Adam Bhala Lough
 2005_48,Terry Gilliam
+2005_480,Adam Bhala Lough
 2005_481,Stephen Vittoria
+2005_482,Stephen Vittoria
 2005_483,Franklin Brauner
 2005_483,Donald Cammell
+2005_484,Franklin Brauner
+2005_484,Donald Cammell
 2005_486,Michael Wranovics
 2005_487,Matt Mulhern
 2005_488,Sue Corcoran
+2005_489,Sue Corcoran
 2005_49,Garth Jennings
 2005_492,Pola Rapaport
 2005_493,Lee Friedlander
@@ -6884,6 +7022,8 @@ uniqueID,director
 2005_497,J.D. Page
 2005_498,Lim Sang-soo
 2005_498,Im Sang-soo
+2005_499,Lim Sang-soo
+2005_499,Im Sang-soo
 2005_5,Peter Jackson
 2005_50,Kevin Rodney Sullivan
 2005_502,Jesse Harris
@@ -6896,12 +7036,16 @@ uniqueID,director
 2005_508,Nicolas Rossier
 2005_509,Daniel Peddle
 2005_51,Mark Waters (VIII)
+2005_510,Daniel Peddle
 2005_511,Peter Bate
 2005_512,Franny Armstrong
 2005_513,Susan Kraker
 2005_513,Pi Ware
+2005_514,Susan Kraker
+2005_514,Pi Ware
 2005_516,Shin Sang-Ok
 2005_517,Ti West
+2005_518,Ti West
 2005_522,Joshua Waltezky
 2005_523,Steven Greenstreet
 2005_524,Peter Manoogian
@@ -6910,17 +7054,23 @@ uniqueID,director
 2005_526,A. Raven Cruz
 2005_527,Michael Almereyda
 2005_528,Adam Goldberg
+2005_529,Adam Goldberg
 2005_530,Tim McCann
 2005_531,William Cole
+2005_532,William Cole
 2005_534,Michael Meredith
 2005_535,Anthony Simmons
 2005_536,Kathleen Slattery-Moschkau
 2005_537,Melissa Painter
+2005_538,Melissa Painter
 2005_541,Catherine Gund
+2005_542,Catherine Gund
 2005_543,Shyam Benegal
 2005_544,Kelly Duane
 2005_545,Maysoon Pachachi
+2005_546,Maysoon Pachachi
 2005_550,Paul Fox
+2005_551,Paul Fox
 2005_57,F. Gary Gray
 2005_59,Stephen Gaghan
 2005_6,Eric Darnell
@@ -7318,6 +7468,7 @@ uniqueID,director
 2006_448,Homi Adajania
 2006_449,Katharina Otto-Bernstein
 2006_45,Mel Gibson
+2006_452,Raj Kaushal
 2006_453,Raj Kaushal
 2006_454,Aaron Russo
 2006_455,David Fincher
@@ -7331,7 +7482,9 @@ uniqueID,director
 2006_460,Gurbir Singh Grewal
 2006_460,Gurbir Singh Grewal
 2006_461,Rodney Henson
+2006_463,Rick Beairsto
 2006_464,Rick Beairsto
+2006_466,Zak Tucker
 2006_467,Zak Tucker
 2006_468,James C.E. Burke
 2006_469,Saket Chaudhary
@@ -7340,10 +7493,14 @@ uniqueID,director
 2006_471,Ramin Bahrani
 2006_472,Jim Tushniski
 2006_472,Jim Tushinski
+2006_473,Chris Metzler
+2006_473,Jeff Springer
 2006_474,Chris Metzler
 2006_474,Jeff Springer
 2006_475,Cathy Garcia-Molina
 2006_476,Dean Matthew Ronalds
+2006_479,Hank Rogerson
+2006_479,Jilann Spitzmiller
 2006_48,James Wong
 2006_480,Hank Rogerson
 2006_480,Jilann Spitzmiller
@@ -7363,11 +7520,14 @@ uniqueID,director
 2006_497,Laura Poitras
 2006_5,Shawn Levy
 2006_50,Alejandro Agresti
+2006_507,Peter Rosen
 2006_508,Peter Rosen
 2006_509,Mohammad Rasoulof
 2006_51,Anne Fletcher
 2006_510,Chris Sheridan
 2006_510,Patty Kim
+2006_511,Jonathan Hock
+2006_511,Alistair Christopher
 2006_512,Jonathan Hock
 2006_512,Alistair Christopher
 2006_513,Steve Anderson
@@ -7375,50 +7535,74 @@ uniqueID,director
 2006_515,João Pedro Rodrigues
 2006_516,James Ponsolot
 2006_516,James Ponsoldt
+2006_517,Bryan Daly
+2006_517,Gregory M. Davis
 2006_518,Bryan Daly
 2006_518,Gregory M. Davis
 2006_52,Len Wiseman
+2006_521,Kevin Keating
 2006_522,Kevin Keating
 2006_523,Steven Ascher
 2006_523,Jeanne Jordan
+2006_524,Chris Marker
 2006_525,Chris Marker
 2006_526,Tricia Brock
 2006_529,Lesley Ann Patten
 2006_530,Cesar Alejandro
+2006_531,Jeff Zimbalist
+2006_531,Matt Mochary
 2006_532,Jeff Zimbalist
 2006_532,Matt Mochary
 2006_533,Pen-Ek Ratanaruang
+2006_534,Kelsey T. Howard
 2006_535,Kelsey T. Howard
+2006_536,James Westby
 2006_537,James Westby
+2006_538,Trish  Doolan
 2006_539,Trish  Doolan
 2006_54,Christopher Nolan
 2006_540,Ducho Mundrov
 2006_541,Matt Mahurin
 2006_542,Alison Chernick
+2006_544,Caroline Roboh
 2006_545,Caroline Roboh
+2006_546,Matt Tauber
 2006_547,Matt Tauber
+2006_548,Alex Steyermark
 2006_549,Alex Steyermark
 2006_55,Luc Besson
+2006_551,William C. Laufer
 2006_552,William C. Laufer
+2006_554,Thom Fitzgerald
 2006_555,Thom Fitzgerald
+2006_557,Doug Bollinger
+2006_557,Bx Giongrete
 2006_558,Doug Bollinger
 2006_558,Bx Giongrete
 2006_559,John Roecker
 2006_56,Keenen Ivory Wayans
 2006_560,Justin Lo
+2006_562,Adam Del Deo
+2006_562,James D. Stern
 2006_563,Adam Del Deo
 2006_563,James D. Stern
 2006_564,Tanuja Chandra
+2006_565,Brant Sersen
 2006_566,Brant Sersen
 2006_567,Tony Abulu
+2006_568,Burhan Qurbani
 2006_569,Burhan Qurbani
 2006_57,Nicolette Krebitz
 2006_570,Mari Marchbanks
+2006_571,Martin Curland
 2006_572,Martin Curland
 2006_573,S.A. Crary
 2006_573,Scott Cray
 2006_573,Scott Crary
+2006_574,Michael Sturminger
 2006_575,Michael Sturminger
+2006_576,Steven Cantor
+2006_576,Matthew Galkin
 2006_577,Steven Cantor
 2006_577,Matthew Galkin
 2006_578,David Batty
@@ -7433,6 +7617,7 @@ uniqueID,director
 2006_585,James Lay
 2006_586,Brett C. Leonard
 2006_587,Greg St. Pierre
+2006_588,Peter Paige
 2006_589,Peter Paige
 2006_59,Christophe Gans
 2006_590,Bill Plympton
@@ -7440,32 +7625,45 @@ uniqueID,director
 2006_592,Tommy Wiseau
 2006_593,Pippa Scott
 2006_593,Oreet Rees
+2006_596,Ellen Perry
 2006_597,Ellen Perry
+2006_598,Salomé Breziner
 2006_599,Salomé Breziner
 2006_6,John Lasseter
 2006_6,Joe Ranft
 2006_60,Robert De Niro
 2006_600,Edward Burns
 2006_601,Michèle Ohayon
+2006_604,Mark W. Travis
 2006_605,Mark W. Travis
 2006_606,Ron Oliver
+2006_607,Fabrice Du Welz
 2006_608,Fabrice Du Welz
 2006_61,Jared Hess
+2006_610,Ted Fukuda
 2006_611,Ted Fukuda
+2006_612,Makoto Satô
 2006_613,Makoto Satô
 2006_614,Jon Fine
 2006_614,Doug Biro
+2006_616,Svetozar Ristovski
 2006_617,Svetozar Ristovski
 2006_618,Michael Glawogger
+2006_620,Bernard Murray Jr.
 2006_621,Bernard Murray Jr.
 2006_622,Everett Lewis
 2006_623,Jill Culton
+2006_624,Andrew van den Houten
 2006_625,Andrew van den Houten
+2006_626,Daniel Ross
+2006_626,David Barison
 2006_627,Daniel Ross
 2006_627,David Barison
 2006_628,Philippe Diaz
+2006_629,Brian Trenchard-Smith
 2006_63,Andrew Davis
 2006_630,Brian Trenchard-Smith
+2006_631,Van Elder
 2006_632,Van Elder
 2006_633,Gionata Zarantonello
 2006_634,Bader Ben Hirsi
@@ -8229,6 +8427,7 @@ uniqueID,director
 2008_270,James D. Stern
 2008_271,Aly Badrakhan
 2008_272,David Mamet
+2008_274,Mabrouk El Mechri
 2008_275,Mitchell Lichtenstein
 2008_276,Steve Jacobs
 2008_279,Elissa Down
@@ -9122,6 +9321,7 @@ uniqueID,director
 2010_242,David Nixon
 2010_242,Patrick Doughtie
 2010_243,Nikita Mikhalkov
+2010_245,Chang-dong Lee
 2010_246,Ruba Nadda
 2010_247,Michael R Steinbeck
 2010_248,Alison Peebles
@@ -9223,10 +9423,13 @@ uniqueID,director
 2010_364,Ilisa Barbash
 2010_365,Mel Damski
 2010_366,Mahamat-Saleh Haroun
+2010_367,Mahamat-Saleh Haroun
 2010_37,Eric Brevig
 2010_370,James Cruze
+2010_371,James Cruze
 2010_372,Ben Steinbauer
 2010_373,Patricio Guzmán
+2010_374,Patricio Guzmán
 2010_375,Lonzo Nzekwe
 2010_376,Ian Fitzgibbon
 2010_377,Peter Raymont
@@ -9234,18 +9437,24 @@ uniqueID,director
 2010_378,Robert Altman
 2010_379,Joseph L. Scanlan
 2010_38,Robert Schwentke
+2010_380,Joseph L. Scanlan
 2010_381,Adam Green
+2010_382,Adam Green
 2010_384,Ana Kokkinos
+2010_385,Ana Kokkinos
 2010_387,George A. Romero
 2010_388,David N. Donihue
 2010_389,Taylor Hackford
 2010_39,Tod Williams
 2010_390,Athina Rachel Tsangari
 2010_391,Christopher Cain
+2010_392,Christopher Cain
 2010_393,Kate Davis
 2010_393,David Heilbroner
 2010_394,Florent de la Tullaye
 2010_394,Renaud Barret
+2010_395,Florent de la Tullaye
+2010_395,Renaud Barret
 2010_398,Tim Boxell
 2010_399,Stéphane Laporte
 2010_399,Jean Lamoureux
@@ -10021,16 +10230,21 @@ uniqueID,director
 2012_222,Kabir Khan
 2012_223,Daniel Barnz
 2012_224,Reema Kagti
+2012_225,Reema Kagti
 2012_226,Sarah Polley
 2012_227,Augusto González Polo
+2012_228,Augusto González Polo
 2012_229,Patricia Riggen
 2012_23,Brad Peyton
 2012_230,Mark Duplass
 2012_230,Jay Duplass
 2012_231,Paul Angunawela
+2012_232,Paul Angunawela
 2012_233,William Friedkin
 2012_235,Kazuhiro Soda
+2012_236,Kazuhiro Soda
 2012_237,Colin Trevorrow
+2012_238,Colin Trevorrow
 2012_241,D. Ross Lederman
 2012_242,Arbaaz Khan
 2012_243,Gregg Godfrey
@@ -10040,27 +10254,34 @@ uniqueID,director
 2012_246,Julie Delpy
 2012_247,Ho-Cheung Pang
 2012_248,Ho-Cheung Pang
+2012_249,Ho-Cheung Pang
 2012_25,William Joyce
 2012_25,Peter Ramsey
 2012_25,Peter A. Ramsey
 2012_250,Cam Christiansen
 2012_251,Kevin Macdonald
 2012_252,Malgorzata Szumowska
+2012_253,Kevin Macdonald
 2012_254,Douglas Jackson
 2012_256,Chan Hing-kai
 2012_256,Janet Chun
 2012_257,Michael Taverna
+2012_259,Michael Taverna
 2012_26,Peter Berg
 2012_261,Kevin S. McAfee
 2012_261,Darrel Campbell [act]
 2012_262,Lynn Shelton
 2012_263,Rama Burshtein
 2012_264,Michael Pressman
+2012_265,Rama Burshtein
+2012_266,Michael Pressman
 2012_267,Roger Donaldson
 2012_268,David Gelb
+2012_269,Roger Donaldson
 2012_27,Joe Whiteaker
 2012_270,Richard Compton
 2012_271,Pablo Berger
+2012_272,Richard Compton
 2012_273,Wuershan
 2012_274,Elijah Moshinsky
 2012_275,Cate Shortland
@@ -10069,11 +10290,15 @@ uniqueID,director
 2012_277,Shakun Batra
 2012_278,Mike Birbiglia
 2012_278,Seth Barrish
+2012_279,Shakun Batra
 2012_28,Mark Atkins
 2012_280,Nikkhil Advani
 2012_281,José Henrique Fonseca
 2012_281,José Enrique Fonseca
 2012_282,Ben Wheatley
+2012_283,José Henrique Fonseca
+2012_283,José Enrique Fonseca
+2012_284,Ben Wheatley
 2012_285,Leos Carax
 2012_286,Bryan Forbes
 2012_287,Adam Wingard
@@ -10083,13 +10308,22 @@ uniqueID,director
 2012_287,Ti West
 2012_287,Radio Silence
 2012_288,Steve Rash
+2012_289,Adam Wingard
+2012_289,Glenn McQuaid
+2012_289,David Bruckner
+2012_289,Joe Swanberg
+2012_289,Ti West
+2012_289,Radio Silence
+2012_290,Steve Rash
 2012_291,Lisa Immordino Vreeland
 2012_291,Bent-Jorgen Perlmutt
 2012_291,Frédéric Tcheng
 2012_292,Ulrich Seidl
 2012_294,Tony Kaye
+2012_295,Ulrich Seidl
 2012_296,Georg Maas
 2012_297,Ashwani Dhir
+2012_299,Georg Maas
 2012_3,Christopher Nolan
 2012_300,Markus Imhoof
 2012_301,Duane Adler
@@ -10099,14 +10333,20 @@ uniqueID,director
 2012_305,Vittorio Taviani
 2012_306,Richard Lee Givens
 2012_307,William Eubank
+2012_308,Paolo Taviani
+2012_308,Vittorio Taviani
+2012_309,Richard Lee Givens
 2012_31,Rawson Marshall Thurber
+2012_310,William Eubank
 2012_311,John Hyams
 2012_312,Jamie Travis
 2012_313,Jeff Orlowski
 2012_314,Karan Johar
+2012_315,Jamie Travis
 2012_316,Whit Stillman
 2012_317,Christian Fry
 2012_317,Jean-Jacques Mantello
+2012_319,Whit Stillman
 2012_32,Tim Burton
 2012_320,James Honeyborne
 2012_321,Deepa Mehta
@@ -10117,6 +10357,9 @@ uniqueID,director
 2012_328,Lawrence Kasdan
 2012_329,Josh Radnor
 2012_33,Paul W.S. Anderson
+2012_330,Alain Resnais
+2012_331,Lawrence Kasdan
+2012_332,Josh Radnor
 2012_335,Gillo Pontecorvo
 2012_336,Paul Weitz
 2012_338,David Allen Brooks
@@ -10127,12 +10370,17 @@ uniqueID,director
 2012_341,Ashish R. Mohan
 2012_342,Dan Carracino
 2012_342,Kevin Hanlon
+2012_343,Alison Klayman
 2012_344,Shoojit Sircar
+2012_345,Dan Carracino
+2012_345,Kevin Hanlon
 2012_347,Rajesh Mapuskar
 2012_348,N. Linguswamy
 2012_349,Cristian Mungiu
 2012_35,Leif Tilden
 2012_35,Mark Poggi
+2012_350,Rajesh Mapuskar
+2012_351,N. Linguswamy
 2012_352,Ya-che Yang
 2012_354,Johannes Roberts
 2012_355,Dario Argento
@@ -10149,15 +10397,20 @@ uniqueID,director
 2012_364,Chris Nelius
 2012_364,Justin McMillan
 2012_365,Darren Ashton
+2012_366,Craig Zobel
+2012_367,Chris Nelius
+2012_367,Justin McMillan
 2012_368,Abbas Kiarostami
 2012_369,James Ponsoldt
 2012_37,Christopher McQuarrie
 2012_370,Sune Lund-Sørensen
 2012_371,Lenny Abrahamson
+2012_372,James Ponsoldt
 2012_373,Kleber Mendonça Filho
 2012_374,Larry Clark
 2012_375,Daryl Wein
 2012_376,Zal Batmanglij
+2012_377,Daryl Wein
 2012_378,Priyadarshan
 2012_379,Bobcat Goldthwait
 2012_380,Heidi Ewing
@@ -10169,12 +10422,16 @@ uniqueID,director
 2012_385,David Hemmings
 2012_386,Ice-T
 2012_386,Andy Baybutt
+2012_387,Ice-T
+2012_387,Andy Baybutt
 2012_39,Kim Manners
 2012_390,Alejandro Brugués
 2012_391,Catherine Corsini
+2012_392,Catherine Corsini
 2012_393,Amy Berg
 2012_394,Kim Nguyen (IV)
 2012_395,Peter Strickland
+2012_396,Peter Strickland
 2012_398,Jamie Linden
 2012_399,Eduardo Sánchez
 2012_4,Peter Jackson
@@ -10950,8 +11207,10 @@ uniqueID,director
 2013_630,Austin Chick
 2013_631,Joe Tyler Gold
 2013_631,Tammy Caplan
+2013_632,Todor Chapkanov
 2013_634,Kris Koenig
 2013_635,James Franco
+2013_636,James Franco
 2013_637,Laura Colella
 2013_638,John Daschbach
 2013_639,Harold Guskin
@@ -10959,15 +11218,20 @@ uniqueID,director
 2013_641,Colin Cairnes
 2013_641,Cameron Cairnes
 2013_642,Helen Lesnick
+2013_643,Helen Lesnick
 2013_645,Keith Miller
 2013_646,Priyadarshan
+2013_647,Priyadarshan
 2013_648,Stephen Maximillian Stahl
 2013_649,Alan Brown
+2013_650,Alan Brown
 2013_651,Joel Heath
 2013_652,Bill Guttentag
+2013_653,Bill Guttentag
 2013_654,Beth Gage
 2013_654,George Gage
 2013_655,Roman Polanski
+2013_656,Roman Polanski
 2013_657,Angad Bhalla
 2013_658,Daniel Schechter
 2013_659,Gabriel Sabloff
@@ -10975,6 +11239,7 @@ uniqueID,director
 2013_660,Christopher Felver
 2013_661,Phil Morrison
 2013_662,Adrian García Bogliano
+2013_663,Adrian García Bogliano
 2013_664,Sebastian Fritszch
 2013_665,Michelle Schumacher
 2013_666,Clay Borris
@@ -10982,14 +11247,19 @@ uniqueID,director
 2013_668,Pasha Roberts
 2013_669,Ho Yim
 2013_67,Woody Allen
+2013_670,Ho Yim
 2013_672,Stephen Maing
 2013_673,Scott Wiper
+2013_674,Scott Wiper
 2013_676,Kevin Goetz
 2013_676,Michael Goetz (II) 
+2013_677,Kevin Goetz
+2013_677,Michael Goetz (II) 
 2013_679,Gary Jones
 2013_68,Hark Tsui
 2013_680,Max Mayer
 2013_681,Erik Sharkey
+2013_682,Erik Sharkey
 2013_685,Noah Buschel
 2013_686,E. Thomas Ewing
 2013_687,Todor Chapkanov
@@ -11127,6 +11397,7 @@ uniqueID,director
 2014_195,Jason Bateman
 2014_196,Homi Adajania
 2014_197,Thomas Lilti
+2014_198,Thomas Lilti
 2014_2,Peter Jackson
 2014_20,Doug Liman
 2014_200,Mike Disa
@@ -11134,6 +11405,7 @@ uniqueID,director
 2014_202,Taika Waititi
 2014_202,Jemaine Clement
 2014_203,Vinil Mathew
+2014_204,Vinil Mathew
 2014_207,Peter Chelsom
 2014_209,Henry Bedwell
 2014_21,David Fincher
@@ -11168,6 +11440,7 @@ uniqueID,director
 2014_248,Kevin Macdonald
 2014_249,Jane Simpson
 2014_25,Noam Murro
+2014_252,Rob Thomas (II)
 2014_255,Fred Schepisi
 2014_256,Cédric Anger
 2014_258,Nicolas Cuche
@@ -11217,6 +11490,7 @@ uniqueID,director
 2014_309,Vishal Bhardwaj
 2014_310,A.R. Murugadoss
 2014_311,Sanjay Chel
+2014_312,Sanjay Chel
 2014_313,Paul Cox
 2014_314,David Maysles
 2014_314,Albert Maysles
@@ -11236,8 +11510,11 @@ uniqueID,director
 2014_330,Elaine John Constantine
 2014_331,Jim Wilson
 2014_332,Selma Vilhunen
+2014_333,Selma Vilhunen
 2014_334,Jeremy Saulnier
+2014_335,Jeremy Saulnier
 2014_336,Gia Coppola
+2014_337,Gia Coppola
 2014_338,George C. Wolfe
 2014_339,Mark Levinson
 2014_34,John Musker
@@ -11249,23 +11526,32 @@ uniqueID,director
 2014_344,Ali Abbas Zafar
 2014_345,Omung Kumar
 2014_346,Daniel Stamm
+2014_347,Daniel Stamm
 2014_35,José Padilha
 2014_350,Karim Aïnouz
 2014_351,Sabine Gisiger
+2014_352,Sabine Gisiger
 2014_353,Martha Stephens
 2014_353,Aaron Katz (II) 
 2014_354,Richard Laxton
+2014_355,Martha Stephens
+2014_355,Aaron Katz (II) 
+2014_356,Richard Laxton
 2014_358,Frank Pavich
 2014_360,Sebastian Dehnhardt
 2014_361,Daniel Augusto
 2014_362,Jan Verheyen
 2014_363,John Ridley
+2014_364,John Ridley
 2014_365,Matthew Weiner
 2014_366,Kornél Mundruczó
 2014_367,Jean-Luc Godard
+2014_368,Jean-Luc Godard
 2014_37,Hiroyuki Tanaka
 2014_370,Dylan Baker
+2014_371,Dylan Baker
 2014_373,Dana Brown
+2014_374,Dana Brown
 2014_375,Dominik Moll
 2014_376,Max Nichols
 2014_377,David Hayter
@@ -11274,6 +11560,7 @@ uniqueID,director
 2014_38,Gary Shore (IV)
 2014_38,Gary Shore
 2014_380,Rory Kennedy
+2014_381,Rory Kennedy
 2014_383,Richard Raymond
 2014_384,Peter Strickland
 2014_384,Nick Fenton
@@ -11281,10 +11568,12 @@ uniqueID,director
 2014_386,David Tucker
 2014_387,Mary Dore
 2014_388,John Slattery
+2014_389,John Slattery
 2014_390,James Keach
 2014_391,Zak Hilditch
 2014_392,Richard Brooks
 2014_393,Frederick Wiseman
+2014_394,Frederick Wiseman
 2014_396,Chiemi Karasawa
 2014_397,Charles Saunders
 2014_397,Phil Karlson
@@ -11296,13 +11585,17 @@ uniqueID,director
 2014_404,Navot Papushado
 2014_405,Jason Friedberg
 2014_405,Aaron Seltzer
+2014_406,Jason Friedberg
+2014_406,Aaron Seltzer
 2014_407,Anthony Powell
+2014_408,Anthony Powell
 2014_410,Jeff Baena
 2014_411,Ernie Barbarash
 2014_412,Kunal Deshmukh
 2014_413,Michael Rossato-Bennett
 2014_414,Tom Berninger
 2014_415,Hong Khaou
+2014_416,Hong Khaou
 2014_418,Sam Cullman
 2014_418,Jennifer Grausman
 2014_419,Jean-François Pouliot
@@ -11311,6 +11604,7 @@ uniqueID,director
 2014_421,Mike Myers
 2014_421,Beth Aala
 2014_422,Raymond De Felitta
+2014_423,Raymond De Felitta
 2014_424,Jane Lipsitz
 2014_424,Dan Cutforth
 2014_425,Lina Plioplyte
@@ -11319,10 +11613,13 @@ uniqueID,director
 2014_428,Eric Rohmer
 2014_429,William Lee
 2014_43,Hugo Haas
+2014_430,William Lee
 2014_431,Bent Hamer
+2014_432,Bent Hamer
 2014_433,Nancy Buirski
 2014_434,Catherine Breillat
 2014_435,Frédéric Auburtin
+2014_436,Frédéric Auburtin
 2014_437,One9
 2014_438,Robin Campillo
 2014_439,Alan Hicks
@@ -11330,14 +11627,18 @@ uniqueID,director
 2014_441,Carl Deal
 2014_441,Tia Lessin
 2014_442,Alex Gibney
+2014_443,Alex Gibney
 2014_445,Robert May
 2014_446,Cherien Dabis
 2014_447,Nicholas Wrathall
+2014_448,Nicholas Wrathall
 2014_45,Hao Ning
 2014_451,Randal Kleiser
 2014_452,Talya Lavie
 2014_453,Gary Lundgren
+2014_454,Gary Lundgren
 2014_455,Ilan Duran Cohen
+2014_456,Ilan Duran Cohen
 2014_458,Joe Lynch (V) 
 2014_459,Jason Stoddard
 2014_460,David Posamentier
@@ -12013,11 +12314,15 @@ uniqueID,director
 2015_522,Sebastián Silva
 2015_523,Eric Gladen
 2015_525,Athina Rachel Tsangari
+2015_527,Dana Nachman
 2015_528,Dana Nachman
+2015_529,Ryan Little
 2015_53,Kathryn Bigelow
 2015_530,Ryan Little
 2015_531,Ariel Kleiman
+2015_532,Robbie Pickering
 2015_533,Robbie Pickering
+2015_534,Pierre Deschamps
 2015_535,Pierre Deschamps
 2015_536,Chad N. Walker
 2015_536,Dave LaMattina
@@ -12025,22 +12330,35 @@ uniqueID,director
 2015_538,Anouk Whissell
 2015_538,François Simard
 2015_538,Yoann-Karl Whissell
+2015_540,Adam Salky
 2015_541,Adam Salky
+2015_544,Chaitanya Tamhane
 2015_545,Chaitanya Tamhane
 2015_546,Rick Alverson
 2015_547,David Evans
+2015_549,Sylvie Rokab
 2015_550,Sylvie Rokab
 2015_551,Christopher Nolan
+2015_552,John Patterson
 2015_553,John Patterson
 2015_554,Ousa Khun
+2015_557,Joaquin Oristrell
 2015_558,Joaquin Oristrell
+2015_559,Matthew Barney
 2015_56,Sicheng Chen
 2015_560,Matthew Barney
 2015_561,Mary Agnes Donoghue
 2015_562,Terry Ingram
+2015_563,Mor Loushy
 2015_564,Mor Loushy
+2015_565,Amy Berg
 2015_566,Amy Berg
 2015_567,Marc Silver
+2015_569,David Maysles
+2015_569,Susan Froemke
+2015_569,Albert Maysles
+2015_569,Ellen Hovde
+2015_569,Muffie Meyer
 2015_57,Jean-Jacques Annaud
 2015_570,David Maysles
 2015_570,Susan Froemke
@@ -12048,18 +12366,25 @@ uniqueID,director
 2015_570,Ellen Hovde
 2015_570,Muffie Meyer
 2015_571,Corey Grant
+2015_572,Christopher K. Walker
+2015_572,Michael Beach Nichols
 2015_573,Christopher K. Walker
 2015_573,Michael Beach Nichols
 2015_575,Jennifer Alleyn
 2015_575,Manon Briand
+2015_576,Paul Katis
 2015_577,Paul Katis
 2015_578,Beth Harrington
 2015_579,Tyler Shields
 2015_58,Tim Story
+2015_580,Jared Hess
 2015_581,Jared Hess
+2015_583,Kate Geis
 2015_584,Kate Geis
+2015_585,Theo Avgerinos
 2015_586,Ming-liang Tsai
 2015_587,Theo Avgerinos
+2015_588,Bob Byington
 2015_589,Frank Whaley
 2015_59,Daniel Lee
 2015_590,Bob Byington
@@ -12070,59 +12395,81 @@ uniqueID,director
 2015_594,Brad Barber
 2015_594,Scott Christopherson
 2015_596,Hitoshi Matsumoto
+2015_597,Andy Grieve
+2015_597,Lauren Lazin
 2015_598,Carlos Saura
 2015_599,Andy Grieve
 2015_599,Lauren Lazin
 2015_6,Scott Levy
 2015_6,Scott P. Levy
 2015_60,Gregory Jacobs
+2015_600,Paul Munger
 2015_601,Sheena M. Joyce
 2015_601,Don Argott
 2015_601,Tammy Tiehel-Stedman
 2015_602,Paul Munger
+2015_603,Peter Sagnia
 2015_605,Peter Sagnia
+2015_606,Jisuk Jung
 2015_607,Christopher Kublan
 2015_608,Jisuk Jung
 2015_609,Lawrence Michael Levine
 2015_61,Leigh Whannell
 2015_610,Kevin Pollak
 2015_611,Justin Webster
+2015_612,Bruno Dumont
 2015_613,Glenn Jordan
 2015_614,Bruno Dumont
 2015_615,René Allio
+2015_616,Avi Lewis
 2015_618,Avi Lewis
+2015_619,Yogi Roth
 2015_62,Etan Cohen
 2015_620,Suki Hawley
 2015_620,Michael Galinsky
 2015_620,David Beilinson
 2015_621,Yogi Roth
+2015_622,Anand Patwardhan
 2015_623,Delila Vallot
 2015_624,Anand Patwardhan
 2015_625,Eric Rohmer
 2015_626,Manu Luksch
 2015_626,Martin Reinhart
 2015_626,Thomas Tode
+2015_627,Bill Plympton
 2015_629,Bill Plympton
+2015_630,Joel Potrykus
 2015_631,Timothy Hines
 2015_632,Joel Potrykus
 2015_633,Brandon Walter
 2015_633,Kasi Brown
 2015_634,Adam MacDonald
 2015_636,Takashi Miike
+2015_639,Douglas Kass
+2015_639,Roger Kass
+2015_639,Roger E Kass Esq.
 2015_64,Andy Fickman
+2015_640,Courteney Cox
 2015_641,Douglas Kass
 2015_641,Roger Kass
 2015_641,Roger E Kass Esq.
 2015_642,Courteney Cox
+2015_644,Antonio Santini
+2015_644,Dan Sickles
 2015_645,Gregory Hines
 2015_646,Antonio Santini
 2015_646,Dan Sickles
+2015_647,Sophie Hyde
+2015_648,Ed Pincus
+2015_648,Lucia Small
 2015_649,Sophie Hyde
 2015_65,Hajime Kadoi
 2015_650,Ed Pincus
 2015_650,Lucia Small
 2015_651,Alejandro Benitez
 2015_651,Luis Soto
+2015_653,Mert Baykal
+2015_654,Kirk Loudon
 2015_655,Mert Baykal
 2015_656,Kirk Loudon
 2015_657,Alex Holdridge
@@ -12132,14 +12479,19 @@ uniqueID,director
 2015_660,Takashi Murakami
 2015_662,Zephyr Benson
 2015_664,Arturo Ripstein
+2015_665,Shan Nicholson
 2015_666,Oren Peli
 2015_667,Shan Nicholson
 2015_668,Dena Seidel
 2015_67,Mark Burton
 2015_67,Richard Starzak
+2015_670,Pedro Costa
+2015_671,Nathan Kurosawa
 2015_672,Pedro Costa
 2015_673,Nathan Kurosawa
 2015_674,Stéphane Lafleur
+2015_675,Eric Rohmer
+2015_676,Ally Walker
 2015_677,Eric Rohmer
 2015_678,Ally Walker
 2015_679,Andrea Pallaoro
@@ -12148,12 +12500,16 @@ uniqueID,director
 2015_681,Adam Friedman
 2015_681,Iain Kennedy
 2015_682,Jeta Amata
+2015_683,Larry Weinstein
+2015_683,Drew Taylor (XI) 
 2015_684,Paul Ashton
 2015_685,Larry Weinstein
 2015_685,Drew Taylor (XI) 
 2015_686,Paul A. Wagner
 2015_687,Anja Marquardt
 2015_69,Neill Blomkamp
+2015_690,Aaron Re
+2015_691,Johan Jonason
 2015_692,Aaron Re
 2015_693,Johan Jonason
 2015_694,Greg Vander Veer
@@ -12165,6 +12521,8 @@ uniqueID,director
 2015_7,David Ogden
 2015_70,Julie Shles
 2015_701,Pat Kiely
+2015_704,Robert Fontaine Jr.
+2015_705,Juan Carlos Pineiro-Escoriaza
 2015_706,Robert Fontaine Jr.
 2015_707,Juan Carlos Pineiro-Escoriaza
 2015_708,Nick Weiss
@@ -12172,21 +12530,28 @@ uniqueID,director
 2015_71,Nigel Wingrove
 2015_710,LaRon Austin
 2015_711,Robert J. Flaherty
+2015_713,Terron R. Parsons
 2015_715,Terron R. Parsons
+2015_716,Steve Myung
 2015_717,Owen Martin
 2015_718,Steve Myung
 2015_719,Jaime Zevallos
 2015_720,David T. Friendly
 2015_720,Mick Partridge
 2015_722,Roger Boyer
+2015_723,Tony Ayres
 2015_724,Dean Francis
 2015_725,Tony Ayres
 2015_726,John Korty
 2015_727,Muffie Meyer
+2015_729,Emma Christopher
 2015_73,Chao Deng
 2015_73,Yu Baimei
+2015_730,Jefferson Moneo
 2015_731,Emma Christopher
 2015_732,Jefferson Moneo
+2015_733,Nadia Conners
+2015_733,Leila Conners
 2015_735,Nadia Conners
 2015_735,Leila Conners
 2015_74,Jordan Walker-Pearlman
@@ -12215,15 +12580,21 @@ uniqueID,director
 2015_98,Taika Waititi
 2016_1,Anthony Russo
 2016_10,Bernard B. Ray
+2016_103,Joe Eckardt
 2016_104,Joe Eckardt
+2016_105,Guo Jingming
 2016_106,Guo Jingming
+2016_107,Ben Stiller
 2016_108,Ben Stiller
 2016_109,Malcolm D. Lee
 2016_113,Peter Baylis
 2016_114,Daston Kalili
+2016_117,Donald Collup
 2016_118,Donald Collup
 2016_119,Charles Kaufman
 2016_12,Robert J. Flaherty
+2016_120,Brandon Bethmann
+2016_120,Eric Szmyr
 2016_121,Brandon Bethmann
 2016_121,Eric Szmyr
 2016_122,Dexter Fletcher
@@ -12233,22 +12604,28 @@ uniqueID,director
 2016_126,Phil Morrison
 2016_127,Damiano Damiani
 2016_128,Shinji Aoyama
+2016_129,Mandie Fletcher
 2016_13,Richard Baskin
 2016_130,Mandie Fletcher
 2016_131,Woo-ping Yuen
 2016_132,David Mackenzie
+2016_133,Oliver Stone
 2016_134,Oliver Stone
 2016_135,Gavin Hood
 2016_136,Karan Johar
 2016_137,Ang Lee
 2016_138,Trevor Wall
+2016_139,Tom Ford (VIII) 
 2016_14,Colter Johnson
 2016_140,Tom Ford (VIII) 
+2016_141,Greg Mottola
 2016_142,Greg Mottola
 2016_143,Roger Christian
 2016_144,Neeraj Pandey
 2016_145,Maneesh Sharma
 2016_146,Louis Leterrier
+2016_148,Shen Zhou
+2016_148,Lu Liu
 2016_149,Shen Zhou
 2016_149,Lu Liu
 2016_150,Chuan Lu
@@ -12257,20 +12634,26 @@ uniqueID,director
 2016_152,Gary Ross
 2016_153,Glenn Ficarra
 2016_153,John Requa
+2016_154,Harold Cronk
 2016_155,Harold Cronk
+2016_157,Mark Waters (VIII)
 2016_158,Mark Waters (VIII)
+2016_16,Alessandro Carloni
+2016_16,Jennifer Yuh Nelson
 2016_160,John Korty
 2016_161,Ash Avildsen
 2016_162,Nacho G. Velilla
 2016_163,Steve Carr
 2016_164,John Hillcoat
 2016_165,Ash Brannon
+2016_166,Taika Waititi
 2016_167,Taika Waititi
 2016_168,Ken Loach
 2016_169,Matt Ross
 2016_17,Alessandro Carloni
 2016_17,Jennifer Yuh Nelson
 2016_170,Ben Affleck
+2016_172,John Mackenzie
 2016_173,John Mackenzie
 2016_174,Peter Atencio
 2016_175,Baopin Cao
@@ -12278,20 +12661,26 @@ uniqueID,director
 2016_176,Sunao Katabuchi
 2016_177,David Moreton
 2016_178,Kwon Soo-kyung
+2016_179,Kei'ichi Sato
 2016_18,Damien Chazelle
 2016_180,Kei'ichi Sato
+2016_181,Ilya Naishuller
 2016_182,Ilya Naishuller
 2016_183,D.W. Griffith
 2016_184,Burr Steers
 2016_185,Ken Loach
 2016_186,Thomas Lilti
+2016_187,Leon Ichaso
 2016_188,Leon Ichaso
 2016_189,Park Dae-min
 2016_19,Duncan Jones
 2016_190,Derek Yee
 2016_191,Michael Showalter
+2016_193,John Carney
 2016_194,John Carney
 2016_195,Wai Man Yip
+2016_196,Dinesh D'Souza
+2016_196,Bruce Schooley
 2016_197,Dinesh D'Souza
 2016_197,Bruce Schooley
 2016_198,Farren Blackburn
@@ -12299,41 +12688,60 @@ uniqueID,director
 2016_2,Gareth Edwards (V)
 2016_20,Paul Greengrass
 2016_200,Geraldine Brezca
+2016_203,Maren Ade
 2016_204,Maren Ade
+2016_205,Simon Verhoeven
 2016_206,Simon Verhoeven
 2016_207,Jaume Balagueró
 2016_208,Susanna White
 2016_209,Mark Deimel
 2016_21,Mike Thurmeier
 2016_210,Mira Nair
+2016_212,Akiva Schaffer
+2016_212,Jorma Taccone
 2016_213,Akiva Schaffer
 2016_213,Jorma Taccone
 2016_214,Jim Jarmusch
 2016_215,Tom Tykwer
 2016_216,John Madden
 2016_217,Deon Taylor
+2016_218,Drake Doremus
 2016_219,Drake Doremus
 2016_22,Roland Emmerich
+2016_220,Karel Reisz
 2016_221,Karel Reisz
+2016_223,Jae-young Kwak
 2016_224,Jae-young Kwak
+2016_225,Joel Kelly
 2016_226,Joel Kelly
 2016_227,Pan Anzi
+2016_229,Paco León
 2016_230,Paco León
 2016_231,François Ozon
+2016_232,Babar Ahmed
 2016_233,Babar Ahmed
 2016_234,Gregory Marquette
 2016_235,Oscar Lu
+2016_236,Mike Mills
 2016_237,Mike Mills
 2016_238,Nitya Mehra
+2016_239,Albert Maysles
+2016_239,David Maysles
 2016_240,Albert Maysles
 2016_240,David Maysles
+2016_242,Ben Younger
 2016_243,Ben Younger
 2016_244,Richard Tanne
+2016_245,Lee Han
 2016_246,Lee Han
 2016_247,Nicole Garcia
 2016_248,Stewart Hendler
+2016_25,Mike Mitchell
+2016_25,Walt Dohrn
+2016_251,Rebecca Miller
 2016_252,Rebecca Miller
 2016_253,Claude Barras
+2016_254,Takeshi Nozue
 2016_255,Takeshi Nozue
 2016_256,Hyeon-jin Park
 2016_257,P.J. Hogan
@@ -12343,22 +12751,27 @@ uniqueID,director
 2016_26,Walt Dohrn
 2016_260,Guy Ferland
 2016_261,Ringo Lam
+2016_263,Sean Ellis (II) 
 2016_264,Sean Ellis (II) 
 2016_265,Jonathan Jakubowicz
 2016_266,Daniel Scheinert
 2016_266,Daniel Kwan
 2016_267,Jonás Cuarón
+2016_268,Michael Moore
 2016_269,Michael Moore
 2016_27,Justin Lin
 2016_270,Richard Linklater
+2016_271,Danièle Thompson
 2016_272,Danièle Thompson
 2016_273,Sam Liu
 2016_274,Mike Birbiglia
 2016_275,Jonathan Berman
+2016_276,Pa. Ranjith
 2016_277,Pa. Ranjith
 2016_278,Kevin J. Dobson
 2016_279,Gabriel Mascaro
 2016_28,Peter Wang
+2016_282,A.R. Murugadoss
 2016_283,A.R. Murugadoss
 2016_284,James Schamus
 2016_285,Warren Beatty
@@ -12368,15 +12781,19 @@ uniqueID,director
 2016_289,Florian Gallenberger
 2016_29,Jon M. Chu
 2016_291,Goran Dukic
+2016_292,Uhm Tae-hwa
 2016_293,Uhm Tae-hwa
 2016_294,Ayman Jamal
 2016_294,Khurram H. Alavi
 2016_295,Gauri Shinde
 2016_296,Kleber Mendonça Filho
+2016_297,Lee Yoon-jung
 2016_298,Lee Yoon-jung
 2016_299,Olivier Assayas
 2016_3,Andrew Stanton
 2016_3,Angus MacLane
+2016_30,Paul W.S. Anderson
+2016_300,Michael John Warren
 2016_301,Michael John Warren
 2016_305,Andrea Arnold
 2016_307,Katell Quillévéré
@@ -12418,19 +12835,27 @@ uniqueID,director
 2016_343,Maurice Barthélemy
 2016_344,Howard Avedis
 2016_344,Howard H. Avedis
+2016_345,Howard Avedis
+2016_345,Howard H. Avedis
 2016_347,Vincent Perez
+2016_349,Vincent Perez
 2016_35,Tim Burton
 2016_355,Kishore Vyas
 2016_356,Bob Yari
+2016_357,Kishore Vyas
+2016_358,Bob Yari
 2016_36,Dave Green
 2016_360,Vincent Garenq
 2016_361,Aditya Chopra
 2016_362,Valerie Muller
 2016_362,Angelin Preljocaj
 2016_363,Jim Jarmusch
+2016_364,Jim Jarmusch
 2016_365,Gan Bi
 2016_366,S. Shankar
 2016_366,Shankar
+2016_367,S. Shankar
+2016_367,Shankar
 2016_369,Gus Van Sant
 2016_37,Clint Eastwood
 2016_370,Rob Zombie
@@ -12438,14 +12863,19 @@ uniqueID,director
 2016_372,David Farrier
 2016_372,Dylan Reeve
 2016_373,Werner Herzog
+2016_374,Werner Herzog
 2016_375,Michael Buster
+2016_376,Michael Buster
 2016_377,Bruce Beresford
 2016_378,Gaby Dellal
 2016_379,Deepak Shivdasani
 2016_38,Justin Kurzel
 2016_380,Tomer Heymann
+2016_381,Tomer Heymann
 2016_383,Ross Patterson
+2016_384,Ross Patterson
 2016_387,Howard Deutch
+2016_388,Howard Deutch
 2016_389,Juho Kuosmanen
 2016_39,Ted Melfi
 2016_390,Alejandro Jodorowsky
@@ -12453,27 +12883,37 @@ uniqueID,director
 2016_392,Stephen Kijak
 2016_393,Rebecca Zlotowski
 2016_394,Sujoy Ghosh
+2016_395,Sujoy Ghosh
 2016_397,Simeon Rice
+2016_398,Simeon Rice
 2016_399,Alain Guiraudie
 2016_4,Byron Howard
 2016_4,Rich Moore
 2016_4,Jared Bush
 2016_40,Ivan Reitman
 2016_400,Daniel Alfredson
+2016_401,Daniel Alfredson
 2016_402,Anna Biller
+2016_403,Anna Biller
 2016_406,Elite Zexer
 2016_408,Michel Franco
+2016_409,Michel Franco
+2016_41,Rawson Marshall Thurber
 2016_410,Geoffrey Reeve
 2016_411,Gottfried Reinhardt
 2016_412,Gokul
+2016_413,Gokul
 2016_414,Dan Golden
+2016_415,Dan Golden
 2016_416,Roger Ross Williams
 2016_417,Terrence Malick
 2016_418,Bertrand Bonello
 2016_419,Darezhan Omirbayev
 2016_42,Rawson Marshall Thurber
+2016_420,Darezhan Omirbayev
 2016_421,John Carpenter
 2016_422,Colin Nutley
+2016_423,Colin Nutley
 2016_424,Jack Gold
 2016_424,Richard T. Heffron
 2016_425,Jonathan Kesselman
@@ -12483,23 +12923,31 @@ uniqueID,director
 2016_429,Misti Barnes
 2016_429,Misti L. Barnes
 2016_43,Sharon Maguire
+2016_430,Misti Barnes
+2016_430,Misti L. Barnes
 2016_431,Matt D'Avella
+2016_432,Matt D'Avella
 2016_435,Peter Billingsley
 2016_436,Juzo Itami
+2016_437,Juzo Itami
 2016_439,Joshua Marston
 2016_44,Thea Sharrock
+2016_440,Joshua Marston
 2016_443,Taggart Siegel
 2016_443,Jon Betz
 2016_444,Anna Muylaert
 2016_445,Pieter van Huystee
 2016_446,Elizabeth Wood
+2016_447,Elizabeth Wood
 2016_45,Babak Najafi
 2016_450,Christian Sesma
 2016_451,Gabriel Mascaro
 2016_452,Sean Bloomfield
+2016_453,Sean Bloomfield
 2016_454,Noah Baumbach
 2016_454,Jake Paltrow
 2016_455,Pema Tseden
+2016_456,Pema Tseden
 2016_46,David Schmoeller
 2016_463,Asaph Polonsky
 2016_464,Robert Budreau
@@ -12507,12 +12955,15 @@ uniqueID,director
 2016_465,Jeff Reilly
 2016_466,Lindy Heymann
 2016_467,Michael Moore
+2016_468,Michael Moore
 2016_471,Daniel Zirilli
 2016_476,Babak Anvari
 2016_477,Bill Morrison (II)
 2016_478,Kelly Nyks
 2016_478,Peter D. Hutchison
 2016_478,Jared P. Scott
+2016_48,Jon Lucas
+2016_48,Scott Moore
 2016_482,Barbara Kopple
 2016_484,Dave Christiano
 2016_487,Lisa Arnold
@@ -12558,18 +13009,24 @@ uniqueID,director
 2016_53,Dante Lam
 2016_530,Nishikant Kamat
 2016_531,Milap Zaveri
+2016_532,Milap Zaveri
 2016_535,Daniel Noah
 2016_536,Erika Frankel
 2016_537,Rosemary Myers
+2016_538,Rosemary Myers
 2016_539,Benjamin Dickinson
 2016_54,André Téchiné
 2016_540,Steven Okazaki
 2016_541,Ti West
+2016_542,Ti West
 2016_543,Junfeng Boo
 2016_544,Dennis Hauck
 2016_545,Ido Haar
 2016_546,Robert Kenner
+2016_547,Robert Kenner
 2016_549,Nitzan Gilady
+2016_55,Geoff Murphy
+2016_550,Nitzan Gilady
 2016_551,Anthony Burns
 2016_551,Anthony Scott Burns
 2016_551,Nicholas McCarthy
@@ -12580,26 +13037,43 @@ uniqueID,director
 2016_551,Scott Stewart
 2016_551,Kevin Kölsch
 2016_551,Dennis Widmyer
+2016_552,Anthony Burns
+2016_552,Anthony Scott Burns
+2016_552,Nicholas McCarthy
+2016_552,Adam Egypt Mortimer
+2016_552,Gary Shore
+2016_552,Kevin Smith
+2016_552,Sarah Adina Smith
+2016_552,Scott Stewart
+2016_552,Kevin Kölsch
+2016_552,Dennis Widmyer
 2016_553,Tamás Sas
 2016_554,Andres Ramirez
 2016_555,Leyla Bouzid
+2016_556,Leyla Bouzid
 2016_558,Vahe Berberian
 2016_558,Vahik Pirhamzei
 2016_559,Martin Ritt
 2016_56,Geoff Murphy
 2016_560,Brendan Toller
 2016_561,Robert J. Flaherty
+2016_562,Robert J. Flaherty
 2016_563,Stephen Dunn
 2016_564,Patrick Shen
 2016_565,Richie Adams
 2016_566,Matt Cooper
+2016_567,Matt Cooper
 2016_568,Michelangelo Antonioni
 2016_569,Eugène Green
 2016_57,Edward Zwick
 2016_570,Rhyan LaMarr
+2016_571,Rhyan LaMarr
 2016_572,Andrew Ahn
+2016_573,Andrew Ahn
 2016_574,John Waters
+2016_575,John Waters
 2016_576,Johnny O'Reilly
+2016_577,Johnny O'Reilly
 2016_578,Dominik Moll
 2016_579,Sandra L. Martin
 2016_58,Nino Kirtadze
@@ -12609,20 +13083,29 @@ uniqueID,director
 2016_584,Rob Reiner
 2016_585,Shannon Hile
 2016_586,Chantal Akerman
+2016_587,Chantal Akerman
 2016_589,Zhang Yang
 2016_59,Ray McKinnon
+2016_590,Zhang Yang
 2016_591,Christy Cabanne
 2016_591,D.W. Griffith
+2016_592,Christy Cabanne
+2016_592,D.W. Griffith
 2016_596,Charles Ferguson (III) 
 2016_597,Amos Gitai
+2016_598,Amos Gitai
 2016_599,Robert Greene
 2016_6,Yarrow Cheney
 2016_6,Chris Renaud
 2016_600,Chris Hegedus
 2016_600,D.A. Pennebaker
+2016_601,Chris Hegedus
+2016_601,D.A. Pennebaker
 2016_602,Ray Yeung
 2016_603,Jillian Elizabeth
 2016_603,Neil Dalal
+2016_604,Jillian Elizabeth
+2016_604,Neil Dalal
 2016_605,Steven Gomez
 2016_606,Ai Weiwei
 2016_607,Nishikant Kamat
@@ -12630,11 +13113,13 @@ uniqueID,director
 2016_609,Rodrigo García
 2016_61,Don Chaffey
 2016_610,Peter Lauer
+2016_611,Peter Lauer
 2016_612,Steve Hoover
 2016_613,David Bruckner
 2016_613,Patrick Horvath
 2016_613,Roxanne Benjamin
 2016_614,Usher Morgan
+2016_615,Usher Morgan
 2016_619,Wolf Gremm
 2016_62,Conrad Vernon
 2016_62,Greg Tiernan
@@ -12642,18 +13127,24 @@ uniqueID,director
 2016_621,Cheryl Miller-Houser
 2016_621,Cynthia Wade
 2016_622,Kyle Ham
+2016_623,Kyle Ham
 2016_624,Alexandre Lehmann
 2016_625,Tom Donahue
 2016_626,Emily Ting
+2016_627,Emily Ting
 2016_628,Aaron Nee
 2016_628,Adam Nee
 2016_629,Steve Anderson
+2016_63,Dennis Gansel
+2016_630,Steve Anderson
 2016_631,Luke Meyer
 2016_631,Andrew Neel
 2016_632,Kirby Voss
 2016_633,Lee Wilkof
 2016_634,Ludwig Shammasian
 2016_634,Paul Shammasian
+2016_635,Ludwig Shammasian
+2016_635,Paul Shammasian
 2016_636,Victor Kanefsky
 2016_637,Ivan I. Tverdovskiy
 2016_637,Ivan Tverdovsky
@@ -12705,6 +13196,7 @@ uniqueID,director
 2016_684,David Schisgall
 2016_687,Jeong-min Kim
 2016_688,Sonia Kennebeck
+2016_69,John Hamburg
 2016_690,Mark Elijah Rosenberg
 2016_691,Nicholas Gyeney
 2016_693,Zakia Bouchaala
@@ -12761,6 +13253,7 @@ uniqueID,director
 2016_755,Ravi Kapoor
 2016_758,Nicolas Steiner
 2016_759,Shawn Crahan
+2016_76,Sheng Ding
 2016_77,Sheng Ding
 2016_78,John Huston
 2016_78,Billy Wilder
@@ -12778,6 +13271,7 @@ uniqueID,director
 2016_88,Eric Summer
 2016_88,Éric Warin
 2016_89,Mike Flanagan
+2016_90,Kenneth Lonergan
 2016_91,Kenneth Lonergan
 2016_93,Hideaki Anno
 2016_93,Shinji Higuchi
@@ -12834,16 +13328,23 @@ uniqueID,director
 2017_145,Don Siegel
 2017_146,Dax Shepard
 2017_148,Ana Kokkinos
+2017_149,Guo Ke-Yu
 2017_150,Shashank Khaitan
+2017_151,Shashank Khaitan
 2017_152,Eleanor Earl
+2017_153,Eleanor Earl
 2017_154,Subhash Kapoor
 2017_155,Hyun-seok Kim
 2017_156,John R. Leonetti
+2017_157,John R. Leonetti
 2017_158,Alan Mak
 2017_158,Anthony Pun
+2017_159,Alan Mak
+2017_159,Anthony Pun
 2017_16,Michael Bay
 2017_161,Renny Harlin
 2017_162,Trey Edward Shults
+2017_163,Trey Edward Shults
 2017_164,Shin-yeon Won
 2017_165,Jonathan Dayton
 2017_165,Valerie Faris
@@ -12852,14 +13353,19 @@ uniqueID,director
 2017_167,Michael Eaton
 2017_167,Timothy Eaton
 2017_168,John Dahl
+2017_169,John Dahl
 2017_17,Jordan Vogt-Roberts
 2017_171,Yang Lei
 2017_172,Ry Russo-Young
+2017_173,Ry Russo-Young
 2017_174,Woody Allen
+2017_175,Woody Allen
 2017_177,William Dear
 2017_178,Gabriela Cowperthwaite
 2017_179,Nicolás López (III) 
 2017_18,Tom McGrath
+2017_180,Antoon Krings
+2017_180,Arnaud Bouron
 2017_181,Lee Chang-jae
 2017_182,Eleanor Coppola
 2017_183,Dan Gilroy
@@ -12869,10 +13375,13 @@ uniqueID,director
 2017_185,Lixin Fan
 2017_186,George Clooney
 2017_187,Lone Scherfig
+2017_188,George Clooney
 2017_189,Sergio G. Sánchez
 2017_19,Leslie Norman
 2017_191,Gurinder Chadha
 2017_192,Cédric Klapisch
+2017_193,Gurinder Chadha
+2017_194,Cédric Klapisch
 2017_198,Tim Everett
 2017_199,Reginald Hudlin
 2017_2,Juraj Herz
@@ -12883,28 +13392,38 @@ uniqueID,director
 2017_203,Gordon Chan
 2017_204,Nash Edgerton
 2017_205,Ann Hui
+2017_206,Nash Edgerton
+2017_207,Ann Hui
 2017_208,Lynne Ramsay
 2017_209,Justin Chadwick
 2017_210,Henry Koster
 2017_211,Da Peng
 2017_212,Claude Chabrol
+2017_213,Da Peng
+2017_214,Claude Chabrol
 2017_215,Franck Khalfoun
 2017_217,Rahul Dholakia
 2017_218,Raoul Peck
+2017_219,Rahul Dholakia
 2017_22,Matthew Vaughn
 2017_220,Carlos Bolado
+2017_222,Carlos Bolado
 2017_223,Ron Shelton
 2017_224,Miguel Arteta
+2017_226,Miguel Arteta
 2017_227,John Huston
 2017_228,George Nolfi
 2017_229,Takashi Miike
+2017_230,George Nolfi
 2017_231,Jonathan Teplitzky
 2017_232,Catalina Aguilar Mastretta
 2017_233,Michael Carney (XII) 
 2017_234,Joel Hopkins
+2017_235,Michael Carney (XII) 
 2017_236,Jonathan Segal
 2017_237,Steve Gomer
 2017_238,Anshai Lal
+2017_239,Steve Gomer
 2017_24,Brian Fee
 2017_240,Saman Moghadam
 2017_240,Saman Moghaddam
@@ -12912,17 +13431,20 @@ uniqueID,director
 2017_244,William Oldroyd
 2017_245,Christian-Jaque
 2017_246,Fatih Akin
+2017_247,Christian-Jaque
 2017_248,Jeffrey Blitz
 2017_249,Kiran Kumar
 2017_25,James Foley
 2017_250,Devon Deshaun Stewart
 2017_251,François Ozon
+2017_252,Devon Deshaun Stewart
 2017_255,Kabir Khan
 2017_257,Nacho Vigalondo
 2017_258,Cam Christiansen
 2017_259,Otto Preminger
 2017_26,Sidney Lumet
 2017_260,Peter Landesman
+2017_261,Otto Preminger
 2017_262,Claire Denis
 2017_263,Sarik Andreasyan
 2017_263,Mark A.C. Brown
@@ -12932,6 +13454,8 @@ uniqueID,director
 2017_267,JR
 2017_267,Agnès Varda
 2017_268,J.D. Dillard
+2017_269,JR
+2017_269,Agnès Varda
 2017_27,D.J. Caruso
 2017_270,Steven Shea
 2017_272,Kathryn Bigelow
@@ -12939,6 +13463,7 @@ uniqueID,director
 2017_274,Sergio Corbucci
 2017_275,Mike White
 2017_276,Ben Wheatley
+2017_277,Mike White
 2017_278,Gilles Paquet-Brenner
 2017_280,Justin Barber
 2017_281,Jung Ji-woo
@@ -12950,16 +13475,19 @@ uniqueID,director
 2017_286,Todd Haynes
 2017_287,Benny Safdie
 2017_287,Josh Safdie
+2017_288,Todd Haynes
 2017_289,Matt Spicer
 2017_291,Cohan Banfield
 2017_291,Mark Brightwell
 2017_292,Arnaud Desplechin
 2017_293,Geoffrey Haley
 2017_293,Geoff Haley
+2017_294,Arnaud Desplechin
 2017_295,Tom Volf
 2017_296,Carl Upsdell
 2017_297,Radhika Rao
 2017_297,Vinay Sapru
+2017_298,Carl Upsdell
 2017_299,Wi Ding Ho
 2017_3,F. Gary Gray
 2017_30,David F. Sandberg
@@ -12967,11 +13495,14 @@ uniqueID,director
 2017_301,Shreyas Talpade
 2017_302,Stephen Gyllenhaal
 2017_303,Thomas Purifoy
+2017_304,Stephen Gyllenhaal
+2017_305,Thomas Purifoy
 2017_306,Jeff Calhoun
 2017_308,Erin Zimmerman
 2017_309,Sanjay Khanna
 2017_31,Stephen Chbosky
 2017_310,Rob Reiner
+2017_311,Sanjay Khanna
 2017_312,Kwak Kyung-taek
 2017_313,Jean-Marc Barr
 2017_315,Francesco Amato
@@ -12979,16 +13510,21 @@ uniqueID,director
 2017_317,Pablo Berger
 2017_318,Dominique Abel
 2017_318,Fiona Gordon (II) 
+2017_319,Edward Dmytryk
 2017_32,Carlos Saldanha
+2017_320,Pablo Berger
 2017_321,Carla Simón
 2017_322,Joshua Z. Weinstein
 2017_323,John Irvin
+2017_324,Carla Simón
 2017_325,Brett Morgen
+2017_326,John Irvin
 2017_327,Richard Linklater
 2017_328,Ai Weiwei
 2017_329,Terrence Malick
 2017_33,Jamie Buckner
 2017_330,Dome Karukoski
+2017_331,Ai Weiwei
 2017_332,Timothy A. Chey
 2017_333,Stanley Tucci
 2017_335,Brett Ratner
@@ -12998,43 +13534,58 @@ uniqueID,director
 2017_338,Kevin Mock
 2017_339,Ralph Strean
 2017_34,Denis Villeneuve
+2017_340,Jeffrey Walker
 2017_341,Scott Haze
 2017_342,Geremy Jasper
 2017_344,Marc Meyers
 2017_345,Tatsuma Minamikawa
 2017_346,Michel Hazanavicius
+2017_347,Marc Meyers
 2017_349,Darrell Wheat
 2017_35,Stanley Tong
 2017_350,Ferenc Torok
 2017_351,Preston A. Whitmore II
 2017_352,Ben Smallbone
 2017_352,Jon Erwin
+2017_353,Darrell Wheat
 2017_355,Kenji Kamiyama
+2017_356,Ben Smallbone
+2017_356,Jon Erwin
 2017_358,Scott Waugh
+2017_359,Kenji Kamiyama
 2017_36,Jordan Peele
 2017_360,Alexandra Dean
 2017_361,Aaron Woodley
+2017_362,Scott Waugh
 2017_364,Jamie Morgan
 2017_365,Liam O'Donnell
 2017_366,Hafsteinn Gunnar Sigurdsson
 2017_367,Danny Strong
+2017_368,Jamie Morgan
 2017_369,Gillian Robespierre
 2017_37,S.S. Rajamouli
 2017_370,Michael Almereyda
 2017_371,Goran Paskaljevic
 2017_371,Bata Paskaljevic
 2017_373,Henry King
+2017_374,Michael Almereyda
 2017_375,Jeff Mahler
 2017_376,Robin Swicord
+2017_377,Henry King
+2017_379,Jeff Mahler
 2017_38,Hark Tsui
 2017_380,Jason Connery
 2017_382,Raymond Depardon
+2017_384,Jason Connery
 2017_385,Lucy Walker
+2017_386,Raymond Depardon
 2017_387,Andrew Sandler
+2017_389,Lucy Walker
 2017_39,Ridley Scott
 2017_390,Dave McCary
 2017_391,Marc Forster
 2017_392,Alexander Mackendrick
+2017_393,Dave McCary
 2017_394,Sophie Fiennes
 2017_397,Steven Lewis Simpson
 2017_398,Margaret Betts
@@ -13043,8 +13594,10 @@ uniqueID,director
 2017_4,Pierre Coffin
 2017_4,Eric Guillon
 2017_40,Paul King (VII) 
+2017_400,Steven Lewis Simpson
 2017_401,Arthur Rasco
 2017_402,Tatiana Villacob Meléndez
+2017_403,Arthur Rasco
 2017_406,Fellipe Barbosa
 2017_407,Zeva Oelbaum
 2017_407,Sabine Krayenbühl
@@ -13054,24 +13607,31 @@ uniqueID,director
 2017_410,Lucrecia Martel
 2017_411,Eliza Hittman
 2017_412,Scott Marcano
+2017_413,Eliza Hittman
 2017_414,Lili Fini Zanuck
 2017_415,Kunihiko Ikuhara
+2017_416,Lili Fini Zanuck
 2017_417,Danny Clinch
 2017_418,Kiyoshi Kurosawa
 2017_419,Hong Sang-soo
 2017_42,Edgar Wright
+2017_421,Hong Sang-soo
 2017_422,T.C. Christensen
 2017_423,John Scheinfeld
 2017_424,Michaël R. Roskam
 2017_425,Cate Shortland
 2017_426,Amir Shervan
+2017_427,Cate Shortland
+2017_428,Amir Shervan
 2017_429,Robert Legato
 2017_429,Christopher Borrelli
 2017_43,Luc Besson
 2017_430,Meredith Ann Berg
 2017_431,Jon Dunham
+2017_433,Jon Dunham
 2017_436,Ali Soozandeh
 2017_437,James Black
+2017_438,Ali Soozandeh
 2017_439,Barry Davis
 2017_44,Dean Devlin
 2017_440,Matt Tyrnauer
@@ -13081,6 +13641,9 @@ uniqueID,director
 2017_443,Rick Barnes
 2017_443,Olivia Neergaard-Holm
 2017_444,Lake Bell
+2017_445,Jon Nguyen
+2017_445,Rick Barnes
+2017_445,Olivia Neergaard-Holm
 2017_446,Catherine Gund
 2017_446,Daresha Kyi
 2017_448,Akshay Roy
@@ -13090,6 +13653,7 @@ uniqueID,director
 2017_453,Zoe Lister-Jones
 2017_454,Jeremy Kagan
 2017_455,Ash Avildsen
+2017_456,Jeremy Kagan
 2017_457,Matt Dillon
 2017_458,Lydia Tenaglia
 2017_459,Catherine Bainbridge
@@ -13098,56 +13662,75 @@ uniqueID,director
 2017_461,Doug Nichol
 2017_462,Vishram Sawant
 2017_463,Michael Almereyda
+2017_464,Vishram Sawant
 2017_465,Leah Warshawski
 2017_465,Todd Soliday
 2017_467,Fabio Grassadonia
 2017_467,Antonio Piazza
 2017_468,Kirsten Tan
+2017_469,Fabio Grassadonia
+2017_469,Antonio Piazza
 2017_47,Kelly Asbury
 2017_470,Gédéon Naudet
 2017_470,Jules Naudet
 2017_470,James Hanlon
 2017_471,Frederick Wiseman
 2017_472,Patrick Rand
+2017_473,Frederick Wiseman
 2017_474,Avi Nesher
 2017_475,Sabir Khan
+2017_476,Avi Nesher
 2017_477,Sabaah Folayan
 2017_478,Rungano Nyoni
 2017_479,Sam Garbarski
 2017_480,Chris Peckover
 2017_481,Stephen Gyllenhaal
+2017_482,Chris Peckover
 2017_483,Dan Glaser
 2017_484,Kaouther Ben Hania
 2017_485,Nicholas Meyer
 2017_486,Andrew J. Smith
 2017_486,Alex Smith
 2017_487,Koji Fukada
+2017_488,Koji Fukada
 2017_489,Adam Schlesinger
 2017_489,Linda Saffire
 2017_49,Trish Sie
+2017_490,Adam Schlesinger
+2017_490,Linda Saffire
 2017_493,John Griesser
 2017_493,Lauren Ross
 2017_493,Jean Griesser
 2017_494,Kasper Collin
+2017_495,Kasper Collin
 2017_496,Tyler Macintyre
+2017_497,Tyler Macintyre
 2017_498,Christopher Gorham
 2017_5,Jake Kasdan
 2017_50,Sean Anders
 2017_500,Michael James Regan
+2017_501,Michael James Regan
 2017_502,Kresten Vestbjerg Andersen
 2017_502,Thorbjørn Christoffersen
 2017_502,Stefan Fjeldmark
 2017_502,Randolph Kret
+2017_503,Kresten Vestbjerg Andersen
+2017_503,Thorbjørn Christoffersen
+2017_503,Stefan Fjeldmark
+2017_503,Randolph Kret
 2017_505,Jesse Harley
 2017_506,Lisa Immordino Vreeland
 2017_507,Scott Simpson
+2017_508,Scott Simpson
 2017_51,Matthias Bruhn
 2017_510,Alon Schwarz
 2017_510,Shaul Schwarz
 2017_511,Jeff Wedding
 2017_511,Steve Wedding
 2017_512,Cameron Sawyer
+2017_513,Cameron Sawyer
 2017_514,Sean Carter
+2017_515,Sean Carter
 2017_517,George A. Romero
 2017_518,David Butler
 2017_52,Douglas Schwartz
@@ -13155,6 +13738,7 @@ uniqueID,director
 2017_520,Neasa Ní Chianáin
 2017_521,Dee Rees
 2017_522,Robert D. Webb
+2017_523,Robert D. Webb
 2017_524, Daniel Raim
 2017_524,Francis Ford Coppola
 2017_524,Mel Brooks
@@ -13171,13 +13755,17 @@ uniqueID,director
 2017_533,Nancy Meckler
 2017_535,David Lee George
 2017_536,Michael Roberts
+2017_537,Michael Roberts
 2017_538,Kris Avedisian
 2017_539,Yu Kan Ping
 2017_54,Chad Stahelski
 2017_540,Henry King
+2017_541,Henry King
 2017_543,Mark Rosman
 2017_544,Brett Berns
 2017_544,Bob Sarles
+2017_545,Brett Berns
+2017_545,Bob Sarles
 2017_546,Andrew Sherburne
 2017_546,Tommy Haines
 2017_547,Luc Bondy
@@ -13186,6 +13774,7 @@ uniqueID,director
 2017_548,Karyn Kusama
 2017_549,Shivam Nair
 2017_55,Mamoru Oshii
+2017_550,Shivam Nair
 2017_551,Alberto Vazquez
 2017_551,Pedro Rivero
 2017_552,Sara Taksler
@@ -13269,6 +13858,7 @@ uniqueID,director
 2017_636,Ciaran O'Connor
 2017_638,Todd Hughes
 2017_638,P. David Ebersole
+2017_639,Andrzej Zulawski
 2017_640,Elvira Lind
 2017_641,Roland Tec
 2017_646,David Steensland
@@ -13277,8 +13867,11 @@ uniqueID,director
 2017_648,Srikant Chellappa
 2017_649,Scott Hamilton Kennedy
 2017_650,James Polakof
+2017_651,James Polakof
 2017_652,Jody Lambert
+2017_653,Jody Lambert
 2017_654,David Fairhead
+2017_655,David Fairhead
 2017_656,Lucas Belvaux
 2017_657,Kelly Richmond Pope
 2017_658,Phillip Baribeau
@@ -13290,80 +13883,113 @@ uniqueID,director
 2017_662,Bobbi Jo Hart
 2017_663,Amber Edwards
 2017_663,Dave Davidson
+2017_664,Amber Edwards
+2017_664,Dave Davidson
 2017_665,Feras Fayyad
+2017_666,Feras Fayyad
 2017_668,Charles T. Kanganis
 2017_669,Marina Willer
 2017_670,Piotr Andrejew
+2017_671,Piotr Andrejew
 2017_673,Dwight H. Little
+2017_674,Dwight H. Little
 2017_675,Colette Burson
 2017_676,Udi Aloni
 2017_677,Kelly Noonan
 2017_678,Lina Wertmüller
+2017_679,Lina Wertmüller
 2017_681,Antonino D'Ambrosio
 2017_682,Emmett Malloy
 2017_682,Brendan Malloy
 2017_683,Jon Brewer
+2017_684,Jon Brewer
 2017_686,Johannes Jaeger
 2017_687,Scooter Corkle
+2017_688,Scooter Corkle
 2017_689,Eric Till
+2017_690,Eric Till
 2017_694,Dan Ireland
+2017_695,Dan Ireland
 2017_696,Nathan Silver
+2017_697,Nathan Silver
 2017_698,Stan Brakhage
 2017_699,Pappi Corsicato
 2017_7,Jing Wu
 2017_70,Freddie Francis
 2017_70,Ken Wiederhorn
+2017_700,Pappi Corsicato
 2017_701,Nick Laughland
 2017_702,Jean Delannoy
 2017_704,Neil Berkeley
 2017_705,Derek Bailey
+2017_706,Derek Bailey
 2017_707,Lysa Heslov
+2017_708,Lysa Heslov
 2017_709,Matthew Newton
 2017_71,Wang Baoqiang
 2017_710,Lina Wertmüller
+2017_711,Lina Wertmüller
 2017_712,Maura Axelrod
+2017_713,Maura Axelrod
 2017_715,Civia Tamarkin
 2017_716,Jan Egleson
 2017_717,Lowell Dean
+2017_718,Lowell Dean
 2017_72,Kim Yong-hwa
 2017_721,John Schlesinger
+2017_722,John Schlesinger
 2017_724,Vincent Sabella
 2017_725,Alan Clarke
+2017_726,Alan Clarke
 2017_728,La Raza
 2017_729,Richard A. Colla
+2017_730,Richard A. Colla
 2017_731,Mehrdad Oskouei
+2017_732,Mehrdad Oskouei
 2017_733,Leonor Caraballo
 2017_733,Matteo Norzi
+2017_734,Leonor Caraballo
+2017_734,Matteo Norzi
 2017_736,Samir Oliveros
 2017_737,Joey Curtis
+2017_738,Joey Curtis
 2017_739,Alan Snitow
 2017_739,Deborah Kaufman
 2017_74,Ted Demme
 2017_740,Dan Bell
 2017_741,Ken Hughes
 2017_742,Doug Archibald
+2017_743,Doug Archibald
 2017_746,Sidney Bernstein
 2017_746,Alfred Hitchcock
 2017_747,Vlad Yudin
+2017_748,Vlad Yudin
 2017_750,Sean Brenden Brosnan
 2017_753,Tristan Ferland Milewski
+2017_754,Tristan Ferland Milewski
 2017_755,Joseph Conti
+2017_756,Joseph Conti
 2017_758,Scott Jacobs
 2017_759,Amber Fares
+2017_760,Amber Fares
 2017_762,Maria Ramos
 2017_763,Amy Glazer
 2017_764,Etimov Alexander
 2017_765,Ernesto Contreras
+2017_766,Ernesto Contreras
 2017_768,Alex Pillai
 2017_769,Nathan Adloff
 2017_77,Chris Nahon
 2017_772,Amman Abbasi
+2017_773,Amman Abbasi
 2017_774,Edgar G. Ulmer
 2017_775,Maren Ade
+2017_776,Maren Ade
 2017_778,Alan Govenar
 2017_779,Sion Sono
 2017_78,Ali Abbas Zafar
 2017_780,Akihiko Shiota
+2017_781,Akihiko Shiota
 2017_79,Martin Scorsese
 2017_8,James Gunn (II)
 2017_80,Martin Brest
@@ -13389,6 +14015,7 @@ uniqueID,director
 2018_102,Sylvain White
 2018_103,Bill Forsyth
 2018_104,Rohit Shetty
+2018_105,Rohit Shetty
 2018_106,Michael Winner
 2018_107,Kar Lok Chin
 2018_108,Josie Rourke
@@ -13399,19 +14026,24 @@ uniqueID,director
 2018_112,Michael Spierig
 2018_112,Peter Spierig
 2018_113,Alex Garland
+2018_114,Alex Garland
 2018_115,Gan Bi
 2018_116,Stuart Cooper
+2018_117,Stuart Cooper
 2018_12,Steven Spielberg
 2018_120,Vijay Krishna Acharya
 2018_121,Raja Gosnell
 2018_122,Henry Bean
+2018_123,Henry Bean
 2018_124,Mimi Leder
 2018_125,You-yin Wu
 2018_126,S. Shankar
 2018_127,Pieter Kuijpers
 2018_128,Gilles de Maistre
+2018_129,Gilles de Maistre
 2018_13,Dante Lam
 2018_132,Ahmed Khan
+2018_133,Ahmed Khan
 2018_134,Drew Goddard
 2018_135,Donovan Marsh
 2018_136,Jay Chandrasekhar
@@ -13423,15 +14055,18 @@ uniqueID,director
 2018_140,Simon Brand
 2018_141,Shin'ichirô Ueda
 2018_142,Mamoru Hosoda
+2018_143,Shin'ichirô Ueda
 2018_146,Siddharth Malhotra
 2018_147,Yann Demange
 2018_148,Andrew Hyatt
 2018_149,Choi Sung-hyun
 2018_15,Phil Johnston
 2018_15,Rich Moore
+2018_150,Choi Sung-hyun
 2018_153,Sanjay Leela Bhansali
 2018_154,Morgan Neville
 2018_155,Fei Xing
+2018_156,Fei Xing
 2018_157,Woo-ping Yuen
 2018_158,Babak Najafi
 2018_159,Nathan Leon
@@ -13442,16 +14077,20 @@ uniqueID,director
 2018_162,Gordon Parks
 2018_163,Barry Jenkins (III) 
 2018_164,Park Jun-soo
+2018_165,Peter Jackson
 2018_166,Tom Noonan
 2018_166,Christian Fletcher
 2018_167,Peter Jackson
 2018_168,Asghar Farhadi
+2018_169,Asghar Farhadi
+2018_17,Genndy Tartakovsky
 2018_170,Kim Suk-yoon
 2018_171,Yang Xiao
 2018_172,Toshio Masuda
 2018_173,John Curran
 2018_174,Boots Riley
 2018_175,Gregory Plotkin
+2018_176,Gregory Plotkin
 2018_178,Chris Weitz
 2018_179,Fernando León de Aranoa
 2018_18,Travis Knight
@@ -13461,8 +14100,12 @@ uniqueID,director
 2018_183,Bethany Ashton Wolf
 2018_184,Stephen Susco
 2018_185,Richard Loncraine
+2018_186,Richard Loncraine
 2018_187,Hillary Birmingham
 2018_187,Hilary Birmingham
+2018_188,Hillary Birmingham
+2018_188,Hilary Birmingham
+2018_19,Travis Knight
 2018_190,Betsy West
 2018_190,Julie Cohen
 2018_191,Bo Burnham
@@ -13472,6 +14115,7 @@ uniqueID,director
 2018_195,Abhishek Kapoor
 2018_197,Tim Wardle
 2018_198,Drew Pearce
+2018_199,Drew Pearce
 2018_2,Ian Merrick
 2018_200,Robert Zemeckis
 2018_201,Kim Byung-woo
@@ -13479,6 +14123,7 @@ uniqueID,director
 2018_202,Wolfgang Lauenstein
 2018_203,Marielle Heller
 2018_204,Kim Sung-hoon
+2018_205,Kim Sung-hoon
 2018_208,Joel Edgerton
 2018_209,David Carson
 2018_21,Ol Parker
@@ -13498,6 +14143,7 @@ uniqueID,director
 2018_227,Alastair Reid
 2018_228,Jeremy Power Regimbal
 2018_229,Jonah Hill
+2018_23,Ron Howard
 2018_230,Stephen Gyllenhaal
 2018_231,José Padilha
 2018_232,Wim Wenders
@@ -13515,6 +14161,7 @@ uniqueID,director
 2018_246,Ulrich Seidl
 2018_248,Michael Moore
 2018_249,Shaad Ali
+2018_25,James Foley
 2018_250,Robert Harmon
 2018_251,Harold Cronk
 2018_252,Florian Henckel von Donnersmarck
@@ -13533,6 +14180,7 @@ uniqueID,director
 2018_268,Anthony Waller
 2018_268,Anthony Walker
 2018_269,Jesse Peretz
+2018_27,Raman Hui
 2018_270,Benedikt Erlingsson
 2018_271,Henri Safran
 2018_272,Gus Van Sant
@@ -13545,6 +14193,7 @@ uniqueID,director
 2018_282,Nick Searcy
 2018_285,Quinn Sanders
 2018_287,Benoît Godbout
+2018_29,Rob Marshall
 2018_290,Mandie Fletcher
 2018_291,Dominic Cooke
 2018_292,Stefan Rainer
@@ -13588,6 +14237,7 @@ uniqueID,director
 2018_346,Vipul Amrutlal Shah
 2018_347,Christophe Honoré
 2018_348,Scott Speer
+2018_35,Wes Ball
 2018_350,Idris Elba
 2018_351,Phil Whitman
 2018_352,Alexander Mackendrick
@@ -13628,15 +14278,21 @@ uniqueID,director
 2018_405,Eric Khoo
 2018_407,Crispian Mills
 2018_408,Naoko Yamada
+2018_409,Heather Lenz
 2018_41,Marc Forster
 2018_410,Alison Chernick
 2018_411,Ron Shelton
 2018_413,Thomas Stuber
+2018_414,Thomas Stuber
 2018_415,John McPhail 
+2018_416,John McPhail 
 2018_418,Shree Narayan Singh
 2018_419,Lisa DaPolito
 2018_42,Antoine Fuqua
+2018_420,Lisa DaPolito
 2018_427,Atsuko Hirayanagi
+2018_428,Atsuko Hirayanagi
+2018_43,Antoine Fuqua
 2018_432,Heather Lenz
 2018_434,Nicolas Acuña
 2018_435,Shashank Khaitan
@@ -13673,6 +14329,7 @@ uniqueID,director
 2018_48,Francis Lawrence
 2018_483,Paul Weitz
 2018_486,Pavel Sorokin
+2018_49,Francis Lawrence
 2018_490,François-Jacques Ossang
 2018_493,Vikramaditya Motwane
 2018_494,Scott Hicks
@@ -13682,6 +14339,7 @@ uniqueID,director
 2018_499,David Zellner
 2018_499,Nathan Zellner
 2018_5,James Wan
+2018_500,Kitaro Kosaka
 2018_501,Kitaro Kosaka
 2018_51,Lun Xu
 2018_513,Lauren Greenfield
@@ -13694,6 +14352,7 @@ uniqueID,director
 2018_524,Paul David Kennamer Jr.
 2018_527,Pradeep Sarkar
 2018_528,Elijah Bynum
+2018_53,John Kent Harrison
 2018_534,Gabriel Abrantes
 2018_534,Daniel Schmidt
 2018_538,Matt Tyrnauer
@@ -13708,6 +14367,7 @@ uniqueID,director
 2018_548,Daniel A. Miller
 2018_548,Jeremy Newberger
 2018_549,Andy Tennant
+2018_55,Sean Anders
 2018_551,Shin'ya Tsukamoto
 2018_553,Josephine Decker
 2018_556,Hong Sang-soo
@@ -13722,6 +14382,7 @@ uniqueID,director
 2018_577,Barney Elliott
 2018_578,Manuel Poirier
 2018_579,Jim Hemphill
+2018_58,Tatsuya Nagamine
 2018_580,Christopher Dillon Quinn
 2018_582,Tim Janis
 2018_589,Andrew Bujalski
@@ -13735,6 +14396,7 @@ uniqueID,director
 2018_602,Amma Asante
 2018_608,Owen Egerton
 2018_61,Ken Hughes
+2018_610,Alex Wright
 2018_611,Robert Greene
 2018_613,Armand Garabidian
 2018_614,Julien Faraut
@@ -13830,34 +14492,45 @@ uniqueID,director
 2018_738,Juuso Laatio
 2018_739,Olivier Assayas
 2018_74,Hark Tsui
+2018_740,Olivier Assayas
 2018_741,Derick Thomas
 2018_742,Aaron Wolf
+2018_743,Aaron Wolf
 2018_745,Luchino Visconti
 2018_746,Jake Meginsky
 2018_746,Neil Young (XII) 
 2018_747,Jason Stone
 2018_748,Mouly Surya
+2018_749,Mouly Surya
 2018_750,Hunter West
+2018_751,Hunter West
 2018_752,Khalik Allah
 2018_753,Daniela Thomas
+2018_754,Daniela Thomas
 2018_755,Dominga Sotomayor Castillo
 2018_756,Chris Martin
 2018_757,Harrison Smith
+2018_758,Harrison Smith
 2018_759,Leon Lee
+2018_760,Leon Lee
 2018_761,Jan Zabeil
 2018_762,Timothy McNeil
 2018_763,Jayne Loader
 2018_763,Kevin Rafferty
 2018_763,Pierce Rafferty
 2018_764,Tyler Farr
+2018_765,Tyler Farr
 2018_766,Amy Adrion
+2018_767,Amy Adrion
 2018_77,Christian Rivers
 2018_771,Léa Mysius
 2018_772,Travis Wilkerson
 2018_773,Trudie Styler
 2018_774,Bruce Stacey
+2018_775,Bruce Stacey
 2018_776,Christian Papierniak
 2018_777,Eric Leiser
+2018_778,Eric Leiser
 2018_779,Agnès Varda
 2018_78,Christian Gudegast
 2018_780,Jack Bryan
@@ -13865,21 +14538,28 @@ uniqueID,director
 2018_782,Matthew Newton
 2018_783,Greg Harrison
 2018_784,Michael Oblowitz
+2018_785,Michael Oblowitz
 2018_788,Sam Patton (III) 
 2018_789,Elan Bogarin
 2018_789,Jonathan Bogarín
 2018_79,Ari Aster
+2018_790,Elan Bogarin
+2018_790,Jonathan Bogarín
 2018_794,Danny Green
+2018_795,Danny Green
 2018_796,Edgar G. Ulmer
 2018_797,Samuel Brownfield
 2018_798,Jean-Pierre Melville
 2018_799,Jean-Pierre Melville
 2018_8,Christopher McQuarrie
+2018_80,Ari Aster
 2018_800,Steve McLean
+2018_801,Steve McLean
 2018_802,Narcissister
 2018_803,Hao Wu
 2018_804,Alex Winter
 2018_805,Giacomo Durzi
+2018_806,Giacomo Durzi
 2018_808,Scott Smith
 2018_809,Abby Epstein
 2018_81,Rajkumar Hirani
@@ -13891,20 +14571,27 @@ uniqueID,director
 2018_815,Talal Derki
 2018_816,Laurie Simmons
 2018_817,James D. Stern
+2018_818,James D. Stern
 2018_82,Valeriy Todorovskiy
 2018_821,Jean Cocteau
 2018_822,Becca Gleason
+2018_823,Becca Gleason
 2018_824,Jacques Becker
 2018_825,David McCracken
+2018_826,David McCracken
 2018_827,Eric Stoltz
 2018_83,Geoffrey Sax
+2018_830,Eric Stoltz
 2018_831,Tristan Cook
 2018_834,Evan Tramel
 2018_835,Matthew Cooke
 2018_836,Pedro Costa
+2018_837,Evan Tramel
 2018_838,Daniel McCabe
+2018_839,Pedro Costa
 2018_84,Stefano Sollima
 2018_840,Laurie Collyer
+2018_841,Daniel McCabe
 2018_842,King Hu
 2018_843,Claude Lanzmann
 2018_845,Juan Carlos Medina
@@ -13920,12 +14607,17 @@ uniqueID,director
 2018_853,John Barbisan
 2018_853,Michael Hamilton
 2018_853,Edward Cotterill
+2018_854,Fred Schepisi
 2018_855,Xander Robin
 2018_856,Asori Soto
 2018_857,J.L. Topkis
 2018_858,Mark Rydell
 2018_859,Ricky D'Ambrose
+2018_86,Victoria Mahoney
+2018_860,J.L. Topkis
 2018_861,Theresa Bennett
+2018_862,Ricky D'Ambrose
+2018_864,Theresa Bennett
 2018_865,Jaron Albertin
 2018_868,Nelson Carlo de Los Santos Arias
 2018_869,Polly Draper
@@ -13933,9 +14625,12 @@ uniqueID,director
 2018_871,Carmine Cangialosi
 2018_872,Jeffrey Lau
 2018_873,Anne Émond
+2018_874,Carmine Cangialosi
 2018_875,Kyle Henry
+2018_876,Anne Émond
 2018_878,Jonathan M. Flicker
 2018_879,Marta Prus
+2018_88,Olmo Omerzu
 2018_880,Robert Imbs
 2018_881,Michael Dinner
 2018_882,Christian-Jaque
@@ -13944,16 +14639,21 @@ uniqueID,director
 2018_884,Samuel D. Pollard
 2018_885,Amos Gitai
 2018_886,Ted Nicolaou
+2018_887,Reuben Atlas
+2018_887,Samuel D. Pollard
 2018_889,Sandra Luckow
 2018_89,Hirokazu Koreeda
 2018_890,LaRon Austin
 2018_891,Kate Rees Davies
+2018_892,LaRon Austin
 2018_893,Satinder Garcha
 2018_893,Mike Rogers
 2018_894,Christoph Lehmann 
 2018_895,Shraysi Tandon
 2018_896,Paul Goldsmith
 2018_897,Matthew Santoro
+2018_898,Paul Goldsmith
+2018_899,Matthew Santoro
 2018_9,David Leitch
 2018_90,Nicolai Fuglsig
 2018_91,Greg Berlanti
@@ -13963,15 +14663,19 @@ uniqueID,director
 2018_95,Tammi Sutton
 2018_96,Sriram Raghavan
 2018_97,Baltasar Kormákur
+2018_98,Baltasar Kormákur
 2019_1,Anthony Russo
 2019_10,Jake Kasdan
 2019_100,Josh Safdie
 2019_100,Benny Safdie
 2019_102,Takashi Shimizu
+2019_103,Takashi Shimizu
 2019_104,Norman Z. McLeod
 2019_105,Akram Zaatari
 2019_106,Ari Aster
+2019_107,Ari Aster
 2019_108,Johannes Roberts
+2019_109,Johannes Roberts
 2019_110,Tom Holland
 2019_111,Guillermo del Toro
 2019_112,Clint Eastwood
@@ -13999,6 +14703,7 @@ uniqueID,director
 2019_140,Xiaogang Feng
 2019_141,Mariano Baino
 2019_141,Mariano Baino Carancula
+2019_142,Christian Carion
 2019_143,Christian Carion
 2019_144,Matthew Peek
 2019_146,Tim Story
@@ -14018,11 +14723,13 @@ uniqueID,director
 2019_155,Gurinder Chadha
 2019_156,Abhishek Varman
 2019_158,Alexandre Avancini
+2019_159,Alexandre Avancini
 2019_16,Andy Muschietti
 2019_160,Zara Hayes
 2019_161,Law Wing Cheong
 2019_162,Lino DiSalvo
 2019_163,Ho Yim
+2019_164,Ho Yim
 2019_165,Gerardo Naranjo
 2019_166,Norberto Barba
 2019_167,Curtis Harrington
@@ -14036,9 +14743,11 @@ uniqueID,director
 2019_17,Wen Muye
 2019_17,Kaige Chen
 2019_17,Huang Jianxin
+2019_170,Joss Whedon
 2019_174,Park Jun-soo
 2019_175,Sebastián Lelio
 2019_176,Richard Linklater
+2019_177,Richard Linklater
 2019_180,Céline Sciamma
 2019_181,Aaron Woodley
 2019_182,Ariel Winograd
@@ -14050,13 +14759,18 @@ uniqueID,director
 2019_188,Jerome Prieur
 2019_188,Gérard Mordillat
 2019_189,Rupert Wyatt
+2019_19,Rob Reep
 2019_190,Jeffrey Nachmanoff
 2019_191,Ken Loach
+2019_192,Ken Loach
 2019_193,Gopi Puthran
 2019_194,Ron Howard
+2019_195,Ron Howard
 2019_197,Kazuo Sakai
 2019_198,Alastair Fothergill
 2019_198,Jeff Wyatt Wilson
+2019_199,Alastair Fothergill
+2019_199,Jeff Wyatt Wilson
 2019_2,Roger Allers
 2019_2,Rob Minkoff
 2019_20,Rob Reep
@@ -14065,8 +14779,10 @@ uniqueID,director
 2019_202,Muh Chen
 2019_203,John Hanson
 2019_204,Takashi Yamazaki
+2019_205,John Hanson
 2019_206,B.R. Chopra
 2019_208,Chris Dowling
+2019_209,Chris Dowling
 2019_21,Robert Rodriguez
 2019_210,Hiroshi Akabane
 2019_211,Alexis Michalik
@@ -14075,17 +14791,22 @@ uniqueID,director
 2019_214,Sujeeth
 2019_215,Jagan Shakti
 2019_216,Anees Bazmee
+2019_217,Anees Bazmee
 2019_22,Terrell O. Morse
 2019_22,Ishirô Honda
 2019_22,Terry Morse
 2019_223,Émile Gaudreault
 2019_225,Farhad Samji
+2019_227,Farhad Samji
 2019_229,Christian Haas
 2019_229,Andrea Block
 2019_230,Tom Shadyac
 2019_231,Rob Epstein
 2019_231,Jeffrey Friedman
 2019_232,Ed Medard
+2019_233,Rob Epstein
+2019_233,Jeffrey Friedman
+2019_234,Ed Medard
 2019_235,Masaaki Yuasa
 2019_236,Prithviraj Sukumaran
 2019_237,Thom Zimny
@@ -14094,6 +14815,7 @@ uniqueID,director
 2019_239,Kleber Mendonça Filho
 2019_239,Juliano Dornelles
 2019_24,Quentin Tarantino
+2019_240,Sujoy Ghosh
 2019_241,Shelly Chopra Dhar
 2019_243,Alex Holmes
 2019_245,Joji Matsuoka
@@ -14103,13 +14825,20 @@ uniqueID,director
 2019_246,Kevin Bright
 2019_246,Michael Lembeck
 2019_247,Alma Har'el
+2019_248,James Burrows
+2019_248,Peter Bonerz
+2019_248,Gail Musanco
+2019_248,Kevin Bright
+2019_248,Michael Lembeck
 2019_249,Andrew Slater (XI) 
 2019_25,David F. Sandberg
 2019_250,Ashutosh Gowariker
+2019_251,Andrew Slater (XI) 
 2019_252,Nitesh Tiwari
 2019_254,Robert Fernàndez
 2019_255,Kenneth Branagh
 2019_256,Justine Triet
+2019_257,Kenneth Branagh
 2019_258,Susanne Bier
 2019_259,Brett Sullivan
 2019_26,Sam Armstrong
@@ -14121,15 +14850,22 @@ uniqueID,director
 2019_26,Samuel Armstrong
 2019_260,Asif Kapadia
 2019_261,Arthur Robison
+2019_262,Asif Kapadia
 2019_263,Camila Jiménez Villa
+2019_265,Camila Jiménez Villa
 2019_267,Claudio Giovannesi
 2019_268,Rob Zombie
 2019_269,Julius Onah
+2019_270,Rob Zombie
+2019_271,Julius Onah
 2019_272,Mark Bramble
 2019_272,Ross MacGibbon
 2019_274,T.Y. Drake
 2019_274,Tom Y. Drake
 2019_275,Louie Schwartzberg
+2019_277,T.Y. Drake
+2019_277,Tom Y. Drake
+2019_278,Louie Schwartzberg
 2019_279,Karim Aïnouz
 2019_28,Rian Johnson
 2019_280,Geoffrey Reeve
@@ -14139,7 +14875,9 @@ uniqueID,director
 2019_285,Kantemir Balagov
 2019_286,George Ogilvie
 2019_287,Gil Junger
+2019_288,Kantemir Balagov
 2019_289,Sameh Zoabi
+2019_290,Gil Junger
 2019_291,Jean-Pierre Dardenne
 2019_291,Luc Dardenne
 2019_292,Akiv Ali
@@ -14147,7 +14885,9 @@ uniqueID,director
 2019_295,Waad al-Kateab
 2019_295,Edward Watts
 2019_296,Casey Affleck
+2019_297,Ben Hernandez Bray
 2019_298,Yuri Grigorovich
+2019_299,Casey Affleck
 2019_3,Jennifer Lee
 2019_3,Chris Buck
 2019_30,Andy Froemke
@@ -14156,59 +14896,88 @@ uniqueID,director
 2019_303,Nikkhil Advani
 2019_304,Ljubomir Stefanov
 2019_304,Tamara Kotevska
+2019_305,Heiward Mak
+2019_307,Ljubomir Stefanov
+2019_307,Tamara Kotevska
 2019_313,Nick Knight
 2019_314,Richard Lowenstein
 2019_315,Louise Archambault
 2019_316,Alex Ranarivelo
+2019_317,Richard Lowenstein
 2019_318,Darren Aronofsky
 2019_319,Frédéric Petitjean
 2019_32,F. Gary Gray
 2019_321,Nan Triveni Achnas
+2019_322,Frédéric Petitjean
 2019_323,Donald Crombie
+2019_324,Nan Triveni Achnas
 2019_326,Timothy Greenfield-Sanders
 2019_327,Robert Imbs
+2019_329,Timothy Greenfield-Sanders
 2019_330,Steven Cantor
 2019_333,André Lage
 2019_333,Frank Perozo
 2019_337,Rick Altizer
 2019_339,Lisa Barros D'Sa
 2019_339,Glenn Leyburn
+2019_341,Rick Altizer
 2019_342,Timothy Mahoney
+2019_343,Lisa Barros D'Sa
+2019_343,Glenn Leyburn
 2019_344,Sebastian Jones
 2019_344,Ramez Silyan
 2019_345,A.J. Eaton
 2019_346,Matt Tyrnauer
+2019_348,Sebastian Jones
+2019_348,Ramez Silyan
+2019_349,A.J. Eaton
 2019_351,Robbie Grewal
 2019_352,Aaron Lieber
 2019_353,Borja Soler
 2019_353,Rodrigo Sorogoyen
 2019_355,Milap Zaveri
 2019_356,Victor Kossakovsky
+2019_357,Aaron Lieber
+2019_358,Borja Soler
+2019_358,Rodrigo Sorogoyen
 2019_36,Gary Dauberman
 2019_360,William Clemens
+2019_361,Milap Zaveri
 2019_362,Malik Bader
+2019_366,William Clemens
+2019_368,Malik Bader
 2019_370,James Cox
 2019_371,Levan Akin
 2019_373,Max Lewkowicz
+2019_375,James Cox
+2019_376,Ben Smith
 2019_38,James Mangold
 2019_382,Madeleine Olnek
 2019_384,Nadav Lapid
+2019_387,Madeleine Olnek
 2019_389,Michael Apted
 2019_391,Charlie Lightening
 2019_391,Gavin Fitzgerald
 2019_392,Denholm Hewlett
 2019_394,Penny Lane
 2019_395,Jonathan Wright
+2019_396,Charlie Lightening
+2019_396,Gavin Fitzgerald
 2019_397,Ben Smith
+2019_399,Penny Lane
 2019_4,Jon Watts
 2019_40,Barry Sonnenfeld
+2019_400,Jonathan Wright
 2019_406,Gene Kelly
 2019_41,Jeremy Isbell
+2019_410,Gene Kelly
 2019_411,Jonas Åkerlund
 2019_412,Joseph Albanese
 2019_413,Alla Kovgan
+2019_414,Alla Kovgan
 2019_416,Noble Jones
 2019_416,Doug Campbell
+2019_417,Joseph Albanese
 2019_418,Mark Vasconcellos
 2019_42,Michael Engler
 2019_420,David Miller
@@ -14216,6 +14985,7 @@ uniqueID,director
 2019_422,Jennifer Baichwal
 2019_422,Edward Burtynsky
 2019_422,Nicholas De Pencier
+2019_424,David Miller
 2019_425,Noah Hawley
 2019_426,Lynn Shelton
 2019_428,Chris Robinson
@@ -14224,33 +14994,52 @@ uniqueID,director
 2019_43,Makoto Shinkai
 2019_430,Moze Mossanen
 2019_431,Ryan White
+2019_432,Chris Robinson
+2019_433,Werner Herzog
+2019_433,André Singer
+2019_434,Moze Mossanen
+2019_435,Ryan White
 2019_436,Van Ling
 2019_437,James Merryman
 2019_438,Bill Rebane
+2019_440,Van Ling
+2019_441,James Merryman
 2019_442,Emil Nava
 2019_443,Avi Belkin
 2019_444,Harry Essex
 2019_444,Harry J. Essex
 2019_446,David Mahmoudieh
+2019_447,Avi Belkin
 2019_448,B.J. McDonnell
 2019_449,Nanfu Wang
 2019_449,Jialing Zhang
+2019_450,David Mahmoudieh
 2019_452,Garrett Batty
+2019_453,Nanfu Wang
+2019_453,Jialing Zhang
 2019_454,Alex Ross Perry
 2019_455,Mark Steven Grove
 2019_456,Bruce Hunt
 2019_458,Corey Grant
 2019_459,Rhyan LaMarr
 2019_46,Jill Culton
+2019_460,Bruce Hunt
+2019_461,Rich Christiano
 2019_462,Rich Christiano
+2019_463,Corey Grant
 2019_464,Jake Scott
 2019_465,Carol Morley
 2019_468,Raj Kumar Gupta
+2019_469,Carol Morley
 2019_47,Wilson Yip
+2019_472,Raj Kumar Gupta
 2019_473,Eddie Mensore
 2019_475,Mike Ahern
 2019_475,Enda Loughman
 2019_477,Jack Bennett (XI) 
+2019_479,Mike Ahern
+2019_479,Enda Loughman
+2019_481,Jack Bennett (XI) 
 2019_482,Troy Miller
 2019_485,Michal Aviad
 2019_486,Patrick Creadon
@@ -14258,13 +15047,18 @@ uniqueID,director
 2019_489,Bertrand Bonello
 2019_49,Troy Quane
 2019_49,Nick Bruno
+2019_490,Patrick Creadon
 2019_491,Jessica Hausner
+2019_492,Bob Misiorowski
+2019_493,Bertrand Bonello
 2019_494,Joseph Losey
 2019_498,Shawn Snyder (IV) 
 2019_5,Anna Boden
 2019_5,Ryan Fleck
 2019_50,Wayne Kramer
 2019_500,Keith Behrman
+2019_502,Shawn Snyder (IV) 
+2019_504,Keith Behrman
 2019_505,Yoshiyuki Momose
 2019_505,Hiromasa Yonebayashi
 2019_505,Akihiko Yamashita
@@ -14274,8 +15068,12 @@ uniqueID,director
 2019_508,Dan Madison Savage
 2019_509,Nia DaCosta
 2019_510,Kevin Knoblock
+2019_511,Jake Clennell
 2019_512,David Noroña
 2019_512,Fred Vassallo
+2019_513,Britt Poulton
+2019_513,Dan Madison Savage
+2019_514,Nia DaCosta
 2019_515,Sean Hanish
 2019_516,Frédéric Tcheng
 2019_519,Steven Hilliard Stern
@@ -14284,12 +15082,18 @@ uniqueID,director
 2019_521,Stephen Wilkes (III) 
 2019_523,Nicolas Pesce
 2019_524,Edward Zwick
+2019_525,Stephen Wilkes (III) 
 2019_526,Nick Hamm
 2019_527,Alex Gibney
 2019_528,Don Argott
 2019_528,Sheena M. Joyce
 2019_529,Peter Grimwade
 2019_53,Ivan Andonov
+2019_530,Nick Hamm
+2019_531,Alex Gibney
+2019_532,Don Argott
+2019_532,Sheena M. Joyce
+2019_533,Peter Grimwade
 2019_534,Roberta Grossman
 2019_537,Guy Nattiv
 2019_538,Abhishek Chaubey
@@ -14297,16 +15101,22 @@ uniqueID,director
 2019_542,Manish Gupta
 2019_544,Avi Lewis
 2019_545,Patrice Toye
+2019_546,Manish Gupta
+2019_548,Avi Lewis
+2019_549,Patrice Toye
 2019_55,Ric Roman Waugh
 2019_550,Ron Underwood
 2019_551,Rémi St-Michel
 2019_553,Jean-Luc Godard
+2019_554,Ron Underwood
 2019_555,Jackie Chan
 2019_556,Franco Rosso
+2019_557,Jean-Luc Godard
 2019_559,Hong Sang-soo
 2019_56,James Gray
 2019_561,Tara Wood
 2019_563,Michael Oblowitz
+2019_564,Kevin Connor
 2019_565,Nicole Garcia
 2019_566,Deva Katta
 2019_567,Richard Alan Greenberg
@@ -14316,12 +15126,19 @@ uniqueID,director
 2019_57,Deland Nuse
 2019_571,Ondi Timoner
 2019_572,Jason Baffa
+2019_573,Richard Alan Greenberg
+2019_573,Richard Greenberg
 2019_574,Bill Haney
 2019_575,Gianni Proia
 2019_576,James Black
+2019_577,Ondi Timoner
 2019_578,Mark Hayes
 2019_579,Michael Wadleigh
+2019_580,Bill Haney
+2019_581,Gianni Proia
 2019_582,Oscar D'Roccster
+2019_583,Mark Hayes
+2019_584,Michael Wadleigh
 2019_585,Justin Chon
 2019_586,Menahem Golan
 2019_587,Lucio Castro
@@ -14332,6 +15149,12 @@ uniqueID,director
 2019_591,Rubaiyat Hossain
 2019_592,Dan Krauss
 2019_592,Paul Haggis
+2019_593,Francesco Rosi
+2019_594,Julia Hart
+2019_595,Jocelyn DeBoer
+2019_595,Dawn Luebbe
+2019_597,Dan Krauss
+2019_597,Paul Haggis
 2019_599,Midge Costin
 2019_6,Sune Lund-Sørensen
 2019_600,Garret Price
@@ -14348,6 +15171,8 @@ uniqueID,director
 2019_611,Ingrid Serban
 2019_612,Spencer Gordon Bennet
 2019_613,Stephen Frears
+2019_614,Richard Grieco
+2019_614,Steve Stanulis
 2019_615,Peter Hyams
 2019_616,Tony Wash
 2019_617,Richard Gale
@@ -14357,6 +15182,8 @@ uniqueID,director
 2019_621,Roberto Minervini
 2019_622,Ron Mann
 2019_623,Sophie Lorain
+2019_624,John Crowley
+2019_624,Olivier Meyrou
 2019_625,Brett Harvey
 2019_626,Kirill Sokolov
 2019_627,Pella Kågerman
@@ -14365,8 +15192,10 @@ uniqueID,director
 2019_629,Jessica Scalise
 2019_63,Lee Byeong-heon
 2019_630,Drew Cullingham
+2019_631,Padraig Reynolds
 2019_632,Alexandre O. Philippe
 2019_633,Sidney Meyers
+2019_634,Gabriel Mascaro
 2019_635,Milko Lazarov
 2019_636,Drew Bolton
 2019_637,Irene Taylor Brodsky
@@ -14376,10 +15205,16 @@ uniqueID,director
 2019_641,Vahik Pirhamzei
 2019_642,Stuart Swezey
 2019_643,Robin McKenna
+2019_644,Irene Taylor Brodsky
 2019_645,Morten Tyldum
+2019_646,Matthew Barney
 2019_647,Bettina Perut
 2019_647,Ivan Osnovikoff
+2019_649,Stuart Swezey
+2019_650,Robin McKenna
 2019_652,Stefan Teofilovic
+2019_654,Bettina Perut
+2019_654,Ivan Osnovikoff
 2019_655,Gerald Fox
 2019_656,Suzannah Herbert
 2019_656,Lauren Belfer
@@ -14392,14 +15227,21 @@ uniqueID,director
 2019_662,Timothy Wheeler
 2019_663,Rebecca Sugar
 2019_664,Richard Gray
+2019_665,Paul Harrill
+2019_666,Tommy Reid
 2019_667,Martin J Pickering
 2019_667,Mark Pickering
 2019_668,Dylan Thomas Ellis
+2019_669,Steve Brown
+2019_669,Timothy Wheeler
 2019_67,Edoardo Winspeare
 2019_670,Sarah Kerruish
 2019_670,Matt Maude
+2019_671,Richard Gray
 2019_672,Mark Landsman
 2019_673,Greta Schiller
+2019_674,Martin J Pickering
+2019_674,Mark Pickering
 2019_675,Gary Lundgren
 2019_676,Mikhail Kalatozov
 2019_677,Harry Fraser
@@ -14408,6 +15250,7 @@ uniqueID,director
 2019_679,Daniel Stine
 2019_68,Mary Lambert
 2019_680,John Williams
+2019_682,Gary Lundgren
 2019_683,Erin Derham
 2019_684,Joan Micklin Silver
 2019_685,Denis Do
@@ -14420,7 +15263,10 @@ uniqueID,director
 2019_692,Gene Graham
 2019_693,Michael William Miles
 2019_693,Roger Hinze
+2019_694,Sam Dunn
+2019_696,Miles Lagoze
 2019_697,Werner Penzel
+2019_698,Árpád Bogdán
 2019_699,Joe Hisaishi
 2019_7,J.J. Abrams
 2019_70,André Øvredal
@@ -14434,11 +15280,16 @@ uniqueID,director
 2019_709,Chad Archibald
 2019_71,Jazz Boon 
 2019_710,Jon Kasbe
+2019_711,Qiu Sheng
+2019_713,Maia Wechsler
+2019_714,Rodney Evans
 2019_715,Bjorn Stewart
 2019_715,Kodie Bedford
 2019_715,Liam Phillips
 2019_715,Perun Bonser
 2019_715,Rob Braslin
+2019_716,Chad Archibald
+2019_717,Jon Kasbe
 2019_72,Peter Bogdanovich
 2019_721,Tyler Chandler
 2019_722,Steve Carver
@@ -14450,6 +15301,7 @@ uniqueID,director
 2019_728,Bill Forsyth
 2019_73,Hervé Lasgouttes
 2019_730,April Wright
+2019_731,James Longley
 2019_732,Alec Tibaldi
 2019_733,Archie Borders
 2019_734,Josh Aronson
@@ -14457,8 +15309,11 @@ uniqueID,director
 2019_736,Jeremiah Buckhalt
 2019_737,Vince D'Amato
 2019_738,Kevin J. Flannagan
+2019_739,Alec Tibaldi
 2019_74,Justin Baldoni
+2019_740,Archie Borders
 2019_741,Brian Skiba
+2019_742,Joel Potrykus
 2019_743,Hank Leigh Hump
 2019_744,Roxanne Benjamin
 2019_745,Les Blank
@@ -14474,23 +15329,37 @@ uniqueID,director
 2019_754,Meredith Danluck
 2019_755,Xiaoshuai Wang
 2019_756,Mariano Llinás
+2019_757,Armando Croda
+2019_757,Lindsey Cordero
 2019_758,Joel Souza
+2019_759,André Catoto Dias
+2019_759,Gabriel Bitar
 2019_76,Taika Waititi
+2019_760,King Hu
 2019_761,Brian Skiba
 2019_762,Elizabeth Rynecki
+2019_763,Mariano Llinás
 2019_764,S.A. Halewood
 2019_765,Jacques Rivette
 2019_766,Martin Bell
+2019_768,Brian Skiba
 2019_769,Peter Chelsom
 2019_77,Takashi Otsuka
 2019_770,François Margolin
 2019_770,Lemine Ould Salem
 2019_771,John McDermott
 2019_772,John Susman
+2019_773,Martin Bell
 2019_774,Christopher Münch
+2019_776,Peter Chelsom
 2019_777,Danny Lee
 2019_777,Herman Yau
 2019_778,Geoffrey Schaaf
+2019_779,John Susman
+2019_781,Christopher Münch
+2019_784,Danny Lee
+2019_784,Herman Yau
+2019_785,Geoffrey Schaaf
 2019_79,Hans Petter Moland
 2019_8,Josh Cooley
 2019_83,McG
@@ -14508,21 +15377,27 @@ uniqueID,director
 2019_95,Paul Wynne
 2019_96,Sean Doyle (II)
 2019_97,Jacob LaMendola
+2019_98,Jacob LaMendola
 2019_99,Destin Daniel Cretton
 2020_1,Hu Guan
 2020_100,Kumar Jay
 2020_101,Lance Hool
 2020_104,Brandon Cronenberg
 2020_105,Rose Glass
+2020_106,Michael Matthews
 2020_107,Andrew Traucki
 2020_108,Anthony DiBlasi
+2020_109,Richard Stanley
 2020_11,Barry Cook
 2020_11,Tony Bancroft
+2020_110,Vincent Ward
 2020_111,Benedict Andrews
+2020_112,Daniel Grou
 2020_114,Antoine Le
 2020_115,Parkpoom Wongpoom
 2020_115,Banjong Pisanthanakun
 2020_117,Daniel Roher
+2020_118,Kumar Jay
 2020_12,Richard Lang
 2020_120,Justin Kurzel
 2020_122,David Prior
@@ -14536,37 +15411,54 @@ uniqueID,director
 2020_133,Amy Seimetz
 2020_134,Michael Matthews
 2020_135,Diane Paragas
+2020_137,Parkpoom Wongpoom
+2020_137,Banjong Pisanthanakun
 2020_138,Alex Huston Fischer
 2020_138,Eleanor D. Wilson
+2020_14,Roger Kumble
+2020_140,Joe Thomas
 2020_141,Michael Pack
 2020_143,Carlo Mirabella-Davis
 2020_144,Jean Dréville
+2020_145,Daniel Roher
 2020_146,Eliza Hittman
 2020_147,Ann Turner
 2020_148,Gavin Rothery
 2020_15,John Sturges
 2020_150,Geoffrey Rogers
+2020_152,Justin Kurzel
 2020_153,Michael Almereyda
+2020_154,Michael David Lynch
 2020_157,Marc Meyers
 2020_159,Christian Bisceglia
 2020_159,Fabio Ciampo
 2020_159,Ascanio Malgarini
 2020_16,Don Gronquist
+2020_161,Amy Seimetz
+2020_162,Brenda Chapman
 2020_163,Don Weis
+2020_164,Ann Turner
 2020_165,Benh Zeitlin
+2020_166,Michael Almereyda
 2020_167,Yaron Zilberman
 2020_168,Walter E. Grauman
 2020_169,Max Pachman
 2020_17,Sang-ho Yeon
+2020_170,Alex Huston Fischer
+2020_170,Eleanor D. Wilson
 2020_171,Takashi Doscher
 2020_172,Jean-Philippe Duval
 2020_173,Ant Timpson
 2020_174,Sasie Sealy
+2020_175,Michael Pack
 2020_176,Tom Tykwer
 2020_177,Channing Godfrey Peoples
 2020_178,Aaron Sorkin
+2020_179,Gavin Rothery
+2020_18,John Sturges
 2020_180,Kelly Reichardt
 2020_181,Stanley Logan
+2020_182,Geoffrey Rogers
 2020_184,Coky Giedroyc
 2020_186,Giles Walker
 2020_187,Ricky Borba
@@ -14574,8 +15466,10 @@ uniqueID,director
 2020_189,Sara Zandieh
 2020_19,Raoul Girard
 2020_190,Jonathan Cipiti
+2020_191,Sasie Sealy
 2020_192,P. David Ebersole
 2020_192,Todd Hughes
+2020_193,Marc Meyers
 2020_195,Jack Henry Robbins
 2020_196,Sammo Kam-Bo Hung
 2020_197,Tommy Lee Wallace
@@ -14586,28 +15480,37 @@ uniqueID,director
 2020_20,Ric Roman Waugh
 2020_200,Paul Solet
 2020_201,Ben Cookson
+2020_202,Yaron Zilberman
 2020_203,Sean Olson
+2020_204,Max Pachman
 2020_205,Emily Taguchi
 2020_205,Jake Lefferman
 2020_206,Jeremy Teicher
 2020_207,Tanya Wexler
+2020_209,Tom Tykwer
 2020_21,Miguel Arteta
+2020_210,Channing Godfrey Peoples
 2020_212,Albert Shin
 2020_213,Charles Brabin
+2020_214,Sean Olson
 2020_215,Gary Lundgren
+2020_216,Werner Herzog
 2020_217,Luchino Visconti
+2020_218,Jonathan Cipiti
 2020_219,Cate Shortland
 2020_22,Walt Dohrn
 2020_22,David P. Smith
 2020_22,David Smith
 2020_220,Youssef Delara
 2020_221,Fruit Chan
+2020_222,Alex Thompson
 2020_223,Leslie Megahey
 2020_224,Goetz Grossman
 2020_228,Bernie Olaf
 2020_229,Angela Schanelec
 2020_23,John Glenister
 2020_230,Travis Irvine
+2020_231,Neil Goss
 2020_232,B.J. Colangelo
 2020_232,R. Zachary Shildwachter
 2020_233,Tony Stopperan
@@ -14639,6 +15542,8 @@ uniqueID,director
 2020_257,Jerry Ciccoritti
 2020_258,Laura Gabbert
 2020_259,Chris Herd
+2020_26,Eric Summer
+2020_26,Éric Warin
 2020_260,Joseph Sayer
 2020_261,Dagmar Hirtz
 2020_262,Sicheng Chen
@@ -14647,14 +15552,60 @@ uniqueID,director
 2020_266,Steve Tung-Wai
 2020_267,Dante Yore
 2020_268,Majid Majidi
+2020_269,Bille August
 2020_27,Nan Triveni Achnas
+2020_270,Angela Schanelec
+2020_271,Travis Irvine
 2020_272,Kevin McMahon
+2020_273,B.J. Colangelo
+2020_273,R. Zachary Shildwachter
+2020_274,Tony Stopperan
+2020_275,Albert Brooks
+2020_276,Dimitri de Clercq
+2020_277,Shalini Kantayya
+2020_278,Timothy Busfield
+2020_279,Joe Heslinga
 2020_28,William Brent Bell
+2020_280,Faleena Hopkins
+2020_281,Stephen Carpenter
+2020_281,Jeffrey Obrow
+2020_282,Guy Moshe
+2020_283,Aaron Fisher
+2020_285,Jarrod Anderson
+2020_286,Hugh Schulze
+2020_287,Rachel Lee Goldenberg
+2020_289,Patrick Rea
 2020_29,L.A. Puopolo
+2020_290,Ben Hickernell
+2020_291,Brea Grant
+2020_292,Paolo Virzì
+2020_293,Ofra Bloch
+2020_294,Caylee So
+2020_295,Chris Herd
+2020_296,Matthew Vaughn
+2020_297,Jerry Ciccoritti
+2020_298,Luis Carlos Hueck
+2020_298,Ethan Zvi Kaplan
+2020_299,Vladimir V. Feyer 
 2020_3,Christopher Nolan
+2020_300,Laura Gabbert
+2020_301,Doug Witkins
+2020_302,Joseph Sayer
+2020_304,Christine Lucas
+2020_305,Dagmar Hirtz
+2020_306,Sicheng Chen
+2020_307,Sam de Jong
 2020_31,Ahmed Khan
+2020_310,Amjad Khan
+2020_311,Steve Tung-Wai
+2020_312,Majid Majidi
+2020_313,Dante Yore
+2020_315,Vanesa Wilkey-Escobar
+2020_317,Kevin McMahon
 2020_32,Andrew Erwin
 2020_32,Jon Erwin
+2020_34,L.A. Puopolo
+2020_35,Tomohisa Taguchi
 2020_36,Fritz Kiersch
 2020_37,Mark Williams (V) 
 2020_38,Chris Henchy
@@ -14662,13 +15613,21 @@ uniqueID,director
 2020_4,Jeff Fowler
 2020_41,James Rouse
 2020_42,Mohit Suri
+2020_43,Jacob Chase
+2020_44,Chris Henchy
 2020_45,Meghna Gulzar
 2020_46,Diego Kaplan
 2020_47,Gerard Bush
 2020_47,Christoper Renz
 2020_49,Reed Morano
 2020_5,Stephen Gaghan
+2020_50,Mohit Suri
+2020_53,Gerard Bush
+2020_53,Christoper Renz
+2020_54,Meghna Gulzar
+2020_55,Diego Kaplan
 2020_57,Peter Cattaneo
+2020_58,Hiroshi Akabane
 2020_6,Cathy Yan
 2020_60,Tomohisa Taguchi
 2020_61,Martin Campbell
@@ -14676,24 +15635,31 @@ uniqueID,director
 2020_65,Brad Helmink
 2020_65,John Rauschelbach
 2020_66,Alexs Stadermann
+2020_67,Alexs Stadermann
+2020_69,Martin Campbell
 2020_7,Teng Cheng
 2020_7,Wei Li
 2020_70,Léa Mysius
 2020_71,Thor Freudenthal
 2020_74,Peter Hyams
+2020_75,Tanguy de Kermel
+2020_76,Léa Mysius
 2020_78,Hiroshi Akabane
 2020_8,Dan Scanlon
 2020_80,Taylor Hayden
 2020_81,Anil Ravipudi
 2020_83,Daniel Petrie Sr.
+2020_84,Peter Hyams
 2020_85,R.J. Cutler
 2020_85,David Van Taylor
 2020_86,Stanley Tong
 2020_87,Philippa Lowthorpe
 2020_89,Ed Medard
 2020_9,Leigh Whannell
+2020_90,Ron Howard
 2020_91,Richard Stanley
 2020_92,Miranda July
+2020_93,Rose Glass
 2020_94,Vincent Ward
 2020_95,John McColgan
 2020_96,Daniel Grou

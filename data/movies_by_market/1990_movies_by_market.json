@@ -244,7 +244,7 @@
         "id": "1990_24",
         "individualURL": "gr1325158917",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 1775332.0,
@@ -454,7 +454,7 @@
                     "countryReleaseDate": "05/03/1991"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 168666.0,
@@ -1038,7 +1038,7 @@
         "id": "1990_13",
         "individualURL": "gr1900106245",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 4492812.0,
@@ -1206,7 +1206,7 @@
         "id": "1990_7",
         "individualURL": "gr2029474309",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 5420176.0,
@@ -1416,7 +1416,7 @@
                     "countryReleaseDate": "11/27/1990"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 829099.0,
@@ -1712,7 +1712,7 @@
         "id": "1990_2",
         "individualURL": "gr2254131717",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 11513736.0,
@@ -1976,7 +1976,7 @@
                     "countryReleaseDate": "12/07/1990"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 978420.0,
@@ -4000,7 +4000,7 @@
         "id": "1990_1",
         "individualURL": "gr503927301",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 16975991.0,
@@ -4186,7 +4186,7 @@
                     "countryReleaseDate": "10/05/1990"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 4003332.0,
@@ -4405,7 +4405,7 @@
                 }
             ]
         },
-        "movieName": "The Godfather: Part III"
+        "movieName": "The Godfather Coda: The Death of Michael Corleone"
     },
     "gr69423621": {
         "castURL": "https://pro.imdb.com/title/tt0100740/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
@@ -4588,7 +4588,7 @@
         "id": "1990_208",
         "individualURL": "gr826954245",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Singapore",
                     "countryGrossAmount": 232366.0,

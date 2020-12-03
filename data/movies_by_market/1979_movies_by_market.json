@@ -284,7 +284,7 @@
         "id": "1979_3",
         "individualURL": "gr1761825285",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 3494292.0,
@@ -452,7 +452,7 @@
                     "countryReleaseDate": "11/01/1979"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 387733.0,

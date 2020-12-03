@@ -980,7 +980,7 @@
         "id": "1989_3",
         "individualURL": "gr2012303877",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "South Korea",
                     "countryGrossAmount": 99328.0,
@@ -2172,7 +2172,7 @@
         "id": "1989_23",
         "individualURL": "gr305746437",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 318024.0,
@@ -2340,7 +2340,7 @@
                     "countryReleaseDate": "03/20/1990"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 47169.0,
@@ -3688,7 +3688,7 @@
         "id": "1989_1",
         "individualURL": "gr643846661",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 11621611.0,
@@ -3880,7 +3880,7 @@
                     "countryReleaseDate": "06/28/1989"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 329688.0,

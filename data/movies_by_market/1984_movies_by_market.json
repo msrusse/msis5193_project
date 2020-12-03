@@ -628,7 +628,7 @@
         "id": "1984_2",
         "individualURL": "gr1817006597",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 2155670.0,
@@ -814,7 +814,7 @@
                     "countryReleaseDate": "01/25/1985"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 538500.0,

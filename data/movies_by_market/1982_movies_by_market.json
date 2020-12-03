@@ -733,7 +733,7 @@
                 }
             ]
         },
-        "movieName": "The Road Warrior"
+        "movieName": "Mad Max 2: The Road Warrior"
     },
     "gr2671661573": {
         "castURL": "https://pro.imdb.com/title/tt0082096/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
@@ -868,7 +868,7 @@
         "id": "1982_1",
         "individualURL": "gr2980663813",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 18464000.0,
@@ -1036,7 +1036,7 @@
                     "countryReleaseDate": "12/10/1982"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 2882000.0,

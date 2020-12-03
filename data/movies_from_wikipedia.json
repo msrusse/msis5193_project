@@ -175,7 +175,6 @@
         "bestPicture": false,
         "movieName": "A Free Soul",
         "nominations": 3,
-        "rottenTomatoes": "N/A",
         "wikiLink": "https://en.wikipedia.org/wiki/A_Free_Soul",
         "year": 1930
     },
@@ -733,7 +732,7 @@
         "bestPicture": false,
         "movieName": "An American Werewolf in London",
         "nominations": 1,
-        "rottenTomatoes": "https://www.rottentomatoes.com/m/american_werewolf_in_london",
+        "rottenTomatoes": "https://rottentomatoes.com/m/american_werewolf_in_london/",
         "wikiLink": "https://en.wikipedia.org/wiki/An_American_Werewolf_in_London",
         "year": 1981
     },
@@ -3469,7 +3468,7 @@
         "bestPicture": false,
         "movieName": "Good Will Hunting",
         "nominations": 9,
-        "rottenTomatoes": "https://www.rottentomatoes.com/m/good_will_hunting",
+        "rottenTomatoes": "http://www.rottentomatoes.com/m/good_will_hunting/",
         "wikiLink": "https://en.wikipedia.org/wiki/Good_Will_Hunting",
         "year": 1997
     },
@@ -4945,7 +4944,7 @@
         "bestPicture": false,
         "movieName": "Little Women",
         "nominations": 6,
-        "rottenTomatoes": "https://www.rottentomatoes.com/m/little-women-2019",
+        "rottenTomatoes": "https://www.rottentomatoes.com/m/little_women_2019",
         "wikiLink": "https://en.wikipedia.org/wiki/Little_Women_(2019_film)",
         "year": 2019
     },
@@ -5053,7 +5052,7 @@
         "bestPicture": false,
         "movieName": "Madame Rosa (La Vie devant soi)",
         "nominations": 1,
-        "rottenTomatoes": "https://www.rottentomatoes.com/m/madame_rosa/",
+        "rottenTomatoes": "https://www.rottentomatoes.com/m/madame_rosa",
         "wikiLink": "https://en.wikipedia.org/wiki/Madame_Rosa",
         "year": 1977
     },
@@ -7771,7 +7770,7 @@
         "bestPicture": true,
         "movieName": "Terms of Endearment",
         "nominations": 11,
-        "rottenTomatoes": "https://www.rottentomatoes.com/m/terms_of_endearment",
+        "rottenTomatoes": "http://www.rottentomatoes.com/m/terms_of_endearment/",
         "wikiLink": "https://en.wikipedia.org/wiki/Terms_of_Endearment",
         "year": 1983
     },
@@ -9256,7 +9255,7 @@
         "bestPicture": true,
         "movieName": "The King's Speech",
         "nominations": 12,
-        "rottenTomatoes": "https://www.rottentomatoes.com/m/the_kings_speech",
+        "rottenTomatoes": "https://www.rottentomatoes.com/m/the_kings_speech/",
         "wikiLink": "https://en.wikipedia.org/wiki/The_King%27s_Speech",
         "year": 2010
     },
@@ -10318,7 +10317,7 @@
         "bestPicture": false,
         "movieName": "The Theory of Everything",
         "nominations": 5,
-        "rottenTomatoes": "https://www.rottentomatoes.com/m/the_theory_of_everything_2014",
+        "rottenTomatoes": "N/A",
         "wikiLink": "https://en.wikipedia.org/wiki/The_Theory_of_Everything_(2014_film)",
         "year": 2014
     },
@@ -11209,7 +11208,6 @@
         "bestPicture": false,
         "movieName": "Up",
         "nominations": 5,
-        "rottenTomatoes": "https://www.rottentomatoes.com/m/up",
         "wikiLink": "https://en.wikipedia.org/wiki/Up_(2009_film)",
         "year": 2009
     },

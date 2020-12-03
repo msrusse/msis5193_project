@@ -29,7 +29,7 @@
                 }
             ]
         },
-        "movieName": "\u00a1Three Amigos!"
+        "movieName": "Three Amigos!"
     },
     "gr101470725": {
         "castURL": "https://pro.imdb.com/title/tt0091635/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
@@ -356,7 +356,7 @@
         "id": "1986_12",
         "individualURL": "gr1311068677",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 576308.0,
@@ -820,7 +820,7 @@
         "id": "1986_45",
         "individualURL": "gr1664897541",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "South Korea",
                     "countryGrossAmount": 73673.0,
@@ -1068,7 +1068,7 @@
         "id": "1986_3",
         "individualURL": "gr1968394757",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "South Korea",
                     "countryGrossAmount": 15067.0,
@@ -1268,7 +1268,7 @@
         "id": "1986_4",
         "individualURL": "gr2211140101",
         "markets": {
-            "asia_pacific": [
+            "asiaPacific": [
                 {
                     "country": "Australia",
                     "countryGrossAmount": 3118350.0,
@@ -1448,7 +1448,7 @@
                     "countryReleaseDate": "10/23/1986"
                 }
             ],
-            "latin_america": [
+            "latinAmerica": [
                 {
                     "country": "Argentina",
                     "countryGrossAmount": 472866.0,

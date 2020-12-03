@@ -707,14 +707,6 @@
                     "countryOpeningAmount": 8941717.0,
                     "countryReleaseDate": "06/16/1978"
                 }
-            ],
-            "emea": [
-                {
-                    "country": "Norway",
-                    "countryGrossAmount": 26964.0,
-                    "countryOpeningAmount": "-",
-                    "countryReleaseDate": "06/05/1998"
-                }
             ]
         },
         "movieName": "Grease"
