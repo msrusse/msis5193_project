@@ -66,11 +66,7 @@ def writeMoviesByMarketMonthsToCSV(movies_by_market):
         for year in movies_by_market:
             for movie in year:
                 current_movie = year[movie]
-                for market in current_movie['markets']:
-                    current_market = current_movie['markets'][market]
-                    for country in current_market:
-                        writer.writerow([current_movie['id'], country['countryReleaseDate'].split('/', 1)[0]])
-
+                writer.writerow([current_movie['id'], current_movie['markets']['domestic'][0]['countryReleaseDate'].split('/', 1)[0]])
 
 def writeOscarActorsToCSV(oscar_actors):
     with open(os.path.join(csv_path, 'oscar_actors.csv'), 'w', encoding='utf-8', newline='') as csvfile:
@@ -188,16 +184,16 @@ def main():
     all_movies_by_year_market_list = convertAllYearsIntoList(all_movies_by_year_market)
     writeMoviesByMarketToCSV(all_movies_by_year_market_list)
     writeMoviesByMarketMonthsToCSV(all_movies_by_year_market_list)
-    # oscar_actors = json.load(open(os.path.join(data_path, 'oscar_actors.json')))
-    # writeOscarActorsToCSV(oscar_actors)
-    # wikipedia_movies = json.load(open(os.path.join(data_path, 'movies_from_wikipedia.json')))
-    # writeAcademyAwardWinnersToCSV(wikipedia_movies)
-    # all_movie_summaries = getMovieSummariesByYearJSON()
-    # all_movie_summaries_list = convertAllYearsIntoList(all_movie_summaries)
-    # writePlotSummariesToCSV(all_movie_summaries_list)
-    # rotten_tomatoes_movies = getMovieInformationByYearJSON()
-    # rotten_tomatoes_movies_list = convertAllYearsIntoList(rotten_tomatoes_movies)
-    # convertRottenTomatoesListToDicts(rotten_tomatoes_movies_list)
+    oscar_actors = json.load(open(os.path.join(data_path, 'oscar_actors.json')))
+    writeOscarActorsToCSV(oscar_actors)
+    wikipedia_movies = json.load(open(os.path.join(data_path, 'movies_from_wikipedia.json')))
+    writeAcademyAwardWinnersToCSV(wikipedia_movies)
+    all_movie_summaries = getMovieSummariesByYearJSON()
+    all_movie_summaries_list = convertAllYearsIntoList(all_movie_summaries)
+    writePlotSummariesToCSV(all_movie_summaries_list)
+    rotten_tomatoes_movies = getMovieInformationByYearJSON()
+    rotten_tomatoes_movies_list = convertAllYearsIntoList(rotten_tomatoes_movies)
+    convertRottenTomatoesListToDicts(rotten_tomatoes_movies_list)
 
 if __name__ == '__main__':
     main()
