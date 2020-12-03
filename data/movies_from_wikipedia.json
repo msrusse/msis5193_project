@@ -175,6 +175,7 @@
         "bestPicture": false,
         "movieName": "A Free Soul",
         "nominations": 3,
+        "rottenTomatoes": "N/A",
         "wikiLink": "https://en.wikipedia.org/wiki/A_Free_Soul",
         "year": 1930
     },
@@ -11208,6 +11209,7 @@
         "bestPicture": false,
         "movieName": "Up",
         "nominations": 5,
+        "rottenTomatoes": "https://www.rottentomatoes.com/m/up",
         "wikiLink": "https://en.wikipedia.org/wiki/Up_(2009_film)",
         "year": 2009
     },

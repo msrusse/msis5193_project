@@ -481,7 +481,7 @@
     },
     "gr1117868549": {
         "castURL": "https://pro.imdb.com/title/tt11618536/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_260",
+        "id": "2020_261",
         "individualURL": "gr1117868549",
         "markets": {
             "domestic": [
@@ -497,7 +497,7 @@
     },
     "gr1134645765": {
         "castURL": "https://pro.imdb.com/title/tt11656800/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_300",
+        "id": "2020_301",
         "individualURL": "gr1134645765",
         "markets": {
             "domestic": [
@@ -537,7 +537,7 @@
     },
     "gr1135235589": {
         "castURL": "https://pro.imdb.com/title/tt8203706/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_268",
+        "id": "2020_269",
         "individualURL": "gr1135235589",
         "markets": {
             "domestic": [
@@ -553,7 +553,7 @@
     },
     "gr1169052165": {
         "castURL": "https://pro.imdb.com/title/tt4354756/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_284",
+        "id": "2020_285",
         "individualURL": "gr1169052165",
         "markets": {
             "domestic": [
@@ -599,7 +599,7 @@
     },
     "gr1218728453": {
         "castURL": "https://pro.imdb.com/title/tt11394170/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_277",
+        "id": "2020_278",
         "individualURL": "gr1218728453",
         "markets": {
             "domestic": [
@@ -1973,7 +1973,7 @@
     },
     "gr1403146757": {
         "castURL": "https://pro.imdb.com/title/tt12519206/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_245",
+        "id": "2020_246",
         "individualURL": "gr1403146757",
         "markets": {
             "domestic": [
@@ -2071,7 +2071,7 @@
     },
     "gr1453740549": {
         "castURL": "https://pro.imdb.com/title/tt10309552/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_291",
+        "id": "2020_292",
         "individualURL": "gr1453740549",
         "markets": {
             "domestic": [
@@ -2127,7 +2127,7 @@
     },
     "gr1470452229": {
         "castURL": "https://pro.imdb.com/title/tt5294522/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_259",
+        "id": "2020_260",
         "individualURL": "gr1470452229",
         "markets": {
             "domestic": [
@@ -2289,7 +2289,7 @@
     },
     "gr1570984453": {
         "castURL": "https://pro.imdb.com/title/tt5805768/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_241",
+        "id": "2020_242",
         "individualURL": "gr1570984453",
         "markets": {
             "asiaPacific": [
@@ -2817,6 +2817,30 @@
         },
         "movieName": "An American in Paris 2020 Re-release"
     },
+    "gr1688359429": {
+        "castURL": "https://pro.imdb.com/title/tt7435316/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
+        "id": "2020_238",
+        "individualURL": "gr1688359429",
+        "markets": {
+            "domestic": [
+                {
+                    "country": "Domestic",
+                    "countryGrossAmount": "-",
+                    "countryOpeningAmount": "-",
+                    "countryReleaseDate": ""
+                }
+            ],
+            "emea": [
+                {
+                    "country": "Netherlands",
+                    "countryGrossAmount": 30940.0,
+                    "countryOpeningAmount": 22924.0,
+                    "countryReleaseDate": "11/26/2020"
+                }
+            ]
+        },
+        "movieName": "The Glorias"
+    },
     "gr1689080325": {
         "castURL": "https://pro.imdb.com/title/tt9355194/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
         "id": "2020_192",
@@ -3191,7 +3215,7 @@
     },
     "gr1738691077": {
         "castURL": "https://pro.imdb.com/title/tt8945942/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_264",
+        "id": "2020_265",
         "individualURL": "gr1738691077",
         "markets": {
             "domestic": [
@@ -3335,7 +3359,7 @@
     },
     "gr1772311045": {
         "castURL": "https://pro.imdb.com/title/tt9133378/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_251",
+        "id": "2020_252",
         "individualURL": "gr1772311045",
         "markets": {
             "domestic": [
@@ -3643,7 +3667,7 @@
     },
     "gr1805865477": {
         "castURL": "https://pro.imdb.com/title/tt11833592/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_314",
+        "id": "2020_315",
         "individualURL": "gr1805865477",
         "markets": {
             "domestic": [
@@ -4275,7 +4299,7 @@
     },
     "gr1889686021": {
         "castURL": "https://pro.imdb.com/title/tt8650976/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_278",
+        "id": "2020_279",
         "individualURL": "gr1889686021",
         "markets": {
             "domestic": [
@@ -4377,7 +4401,7 @@
     },
     "gr1923240453": {
         "castURL": "https://pro.imdb.com/title/tt6780790/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_311",
+        "id": "2020_312",
         "individualURL": "gr1923240453",
         "markets": {
             "domestic": [
@@ -4431,7 +4455,7 @@
     },
     "gr1940017669": {
         "castURL": "https://pro.imdb.com/title/tt5980638/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_309",
+        "id": "2020_310",
         "individualURL": "gr1940017669",
         "markets": {
             "domestic": [
@@ -4447,7 +4471,7 @@
     },
     "gr195383813": {
         "castURL": "https://pro.imdb.com/title/tt8764942/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_267",
+        "id": "2020_268",
         "individualURL": "gr195383813",
         "markets": {
             "domestic": [
@@ -5165,13 +5189,13 @@
     },
     "gr2225426949": {
         "castURL": "https://pro.imdb.com/title/tt7704726/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_315",
+        "id": "2020_316",
         "individualURL": "gr2225426949",
         "markets": {
             "domestic": [
                 {
                     "country": "Domestic",
-                    "countryGrossAmount": 500.0,
+                    "countryGrossAmount": 790.0,
                     "countryOpeningAmount": 500.0,
                     "countryReleaseDate": "11/20/2020"
                 }
@@ -5221,7 +5245,7 @@
     },
     "gr2242007557": {
         "castURL": "https://pro.imdb.com/title/tt1266036/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_287",
+        "id": "2020_288",
         "individualURL": "gr2242007557",
         "markets": {
             "domestic": [
@@ -5275,7 +5299,7 @@
     },
     "gr2259046917": {
         "castURL": "https://pro.imdb.com/title/tt7768544/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_303",
+        "id": "2020_304",
         "individualURL": "gr2259046917",
         "markets": {
             "domestic": [
@@ -5331,7 +5355,7 @@
     },
     "gr2292404741": {
         "castURL": "https://pro.imdb.com/title/tt7662752/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_276",
+        "id": "2020_277",
         "individualURL": "gr2292404741",
         "markets": {
             "domestic": [
@@ -5347,7 +5371,7 @@
     },
     "gr2309181957": {
         "castURL": "https://pro.imdb.com/title/tt8964214/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_239",
+        "id": "2020_240",
         "individualURL": "gr2309181957",
         "markets": {
             "domestic": [
@@ -5499,7 +5523,7 @@
     },
     "gr2325893637": {
         "castURL": "https://pro.imdb.com/title/tt7541838/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_298",
+        "id": "2020_299",
         "individualURL": "gr2325893637",
         "markets": {
             "domestic": [
@@ -5515,7 +5539,7 @@
     },
     "gr2342998533": {
         "castURL": "https://pro.imdb.com/title/tt2950418/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_316",
+        "id": "2020_317",
         "individualURL": "gr2342998533",
         "markets": {
             "domestic": [
@@ -5611,7 +5635,7 @@
     },
     "gr2359513605": {
         "castURL": "https://pro.imdb.com/title/tt0074686/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_252",
+        "id": "2020_253",
         "individualURL": "gr2359513605",
         "markets": {
             "domestic": [
@@ -5665,7 +5689,7 @@
     },
     "gr2359710213": {
         "castURL": "https://pro.imdb.com/title/tt4351684/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_253",
+        "id": "2020_254",
         "individualURL": "gr2359710213",
         "markets": {
             "domestic": [
@@ -5757,7 +5781,7 @@
     },
     "gr2409845253": {
         "castURL": "https://pro.imdb.com/title/tt8647310/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_240",
+        "id": "2020_241",
         "individualURL": "gr2409845253",
         "markets": {
             "domestic": [
@@ -5773,7 +5797,7 @@
     },
     "gr2410107397": {
         "castURL": "https://pro.imdb.com/title/tt6579888/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_256",
+        "id": "2020_257",
         "individualURL": "gr2410107397",
         "markets": {
             "asiaPacific": [
@@ -5797,7 +5821,7 @@
     },
     "gr2427212293": {
         "castURL": "https://pro.imdb.com/title/tt5038134/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_255",
+        "id": "2020_256",
         "individualURL": "gr2427212293",
         "markets": {
             "domestic": [
@@ -5837,7 +5861,7 @@
     },
     "gr2443989509": {
         "castURL": "https://pro.imdb.com/title/tt3448854/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_275",
+        "id": "2020_276",
         "individualURL": "gr2443989509",
         "markets": {
             "domestic": [
@@ -5883,7 +5907,7 @@
     },
     "gr2460111365": {
         "castURL": "https://pro.imdb.com/title/tt5919756/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_246",
+        "id": "2020_247",
         "individualURL": "gr2460111365",
         "markets": {
             "domestic": [
@@ -6179,7 +6203,7 @@
     },
     "gr2510508549": {
         "castURL": "https://pro.imdb.com/title/tt6365796/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_272",
+        "id": "2020_273",
         "individualURL": "gr2510508549",
         "markets": {
             "domestic": [
@@ -6257,7 +6281,7 @@
     },
     "gr2527875589": {
         "castURL": "https://pro.imdb.com/title/tt9035872/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_280",
+        "id": "2020_281",
         "individualURL": "gr2527875589",
         "markets": {
             "domestic": [
@@ -6297,7 +6321,7 @@
     },
     "gr2577551877": {
         "castURL": "https://pro.imdb.com/title/tt11394188/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_317",
+        "id": "2020_318",
         "individualURL": "gr2577551877",
         "markets": {
             "asiaPacific": [
@@ -6329,7 +6353,7 @@
     },
     "gr2594591237": {
         "castURL": "https://pro.imdb.com/title/tt8456568/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_274",
+        "id": "2020_275",
         "individualURL": "gr2594591237",
         "markets": {
             "domestic": [
@@ -6345,7 +6369,7 @@
     },
     "gr2594656773": {
         "castURL": "https://pro.imdb.com/title/tt7400998/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_282",
+        "id": "2020_283",
         "individualURL": "gr2594656773",
         "markets": {
             "domestic": [
@@ -6423,7 +6447,7 @@
     },
     "gr2611368453": {
         "castURL": "https://pro.imdb.com/title/tt9059850/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_286",
+        "id": "2020_287",
         "individualURL": "gr2611368453",
         "markets": {
             "domestic": [
@@ -7477,7 +7501,7 @@
     },
     "gr2745979397": {
         "castURL": "https://pro.imdb.com/title/tt10370822/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_306",
+        "id": "2020_307",
         "individualURL": "gr2745979397",
         "markets": {
             "asiaPacific": [
@@ -7657,7 +7681,7 @@
     },
     "gr279007749": {
         "castURL": "https://pro.imdb.com/title/tt4789618/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_299",
+        "id": "2020_300",
         "individualURL": "gr279007749",
         "markets": {
             "domestic": [
@@ -7673,7 +7697,7 @@
     },
     "gr279400965": {
         "castURL": "https://pro.imdb.com/title/tt9694312/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_296",
+        "id": "2020_297",
         "individualURL": "gr279400965",
         "markets": {
             "domestic": [
@@ -7689,7 +7713,7 @@
     },
     "gr279466501": {
         "castURL": "https://pro.imdb.com/title/tt1070874/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_248",
+        "id": "2020_249",
         "individualURL": "gr279466501",
         "markets": {
             "asiaPacific": [
@@ -7727,7 +7751,7 @@
     },
     "gr2812301829": {
         "castURL": "https://pro.imdb.com/title/tt9742392/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_281",
+        "id": "2020_282",
         "individualURL": "gr2812301829",
         "markets": {
             "domestic": [
@@ -7743,7 +7767,7 @@
     },
     "gr2862764549": {
         "castURL": "https://pro.imdb.com/title/tt9125394/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_305",
+        "id": "2020_306",
         "individualURL": "gr2862764549",
         "markets": {
             "domestic": [
@@ -7759,7 +7783,7 @@
     },
     "gr2862830085": {
         "castURL": "https://pro.imdb.com/title/tt7760890/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_270",
+        "id": "2020_271",
         "individualURL": "gr2862830085",
         "markets": {
             "domestic": [
@@ -8275,7 +8299,7 @@
     },
     "gr2913751557": {
         "castURL": "https://pro.imdb.com/title/tt8586088/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_250",
+        "id": "2020_251",
         "individualURL": "gr2913751557",
         "markets": {
             "domestic": [
@@ -8291,7 +8315,7 @@
     },
     "gr296178181": {
         "castURL": "https://pro.imdb.com/title/tt6539992/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_244",
+        "id": "2020_245",
         "individualURL": "gr296178181",
         "markets": {
             "domestic": [
@@ -9857,7 +9881,7 @@
     },
     "gr3148829189": {
         "castURL": "https://pro.imdb.com/title/tt11029976/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_283",
+        "id": "2020_284",
         "individualURL": "gr3148829189",
         "markets": {
             "domestic": [
@@ -10135,7 +10159,7 @@
     },
     "gr3282194949": {
         "castURL": "https://pro.imdb.com/title/tt4109438/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_249",
+        "id": "2020_250",
         "individualURL": "gr3282194949",
         "markets": {
             "domestic": [
@@ -10581,7 +10605,7 @@
     },
     "gr346247685": {
         "castURL": "https://pro.imdb.com/title/tt6782632/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_273",
+        "id": "2020_274",
         "individualURL": "gr346247685",
         "markets": {
             "domestic": [
@@ -10673,7 +10697,7 @@
     },
     "gr3483521541": {
         "castURL": "https://pro.imdb.com/title/tt7737734/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_288",
+        "id": "2020_289",
         "individualURL": "gr3483521541",
         "markets": {
             "domestic": [
@@ -10747,7 +10771,7 @@
     },
     "gr3517141509": {
         "castURL": "https://pro.imdb.com/title/tt0043899/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_262",
+        "id": "2020_263",
         "individualURL": "gr3517141509",
         "markets": {
             "domestic": [
@@ -10763,7 +10787,7 @@
     },
     "gr3533722117": {
         "castURL": "https://pro.imdb.com/title/tt8364138/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_247",
+        "id": "2020_248",
         "individualURL": "gr3533722117",
         "markets": {
             "domestic": [
@@ -11277,7 +11301,7 @@
     },
     "gr3567473157": {
         "castURL": "https://pro.imdb.com/title/tt10146728/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_279",
+        "id": "2020_280",
         "individualURL": "gr3567473157",
         "markets": {
             "domestic": [
@@ -11293,7 +11317,7 @@
     },
     "gr3584250373": {
         "castURL": "https://pro.imdb.com/title/tt0318346/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_242",
+        "id": "2020_243",
         "individualURL": "gr3584250373",
         "markets": {
             "domestic": [
@@ -11605,7 +11629,7 @@
     },
     "gr3617804805": {
         "castURL": "https://pro.imdb.com/title/tt9099136/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_238",
+        "id": "2020_239",
         "individualURL": "gr3617804805",
         "markets": {
             "domestic": [
@@ -11621,7 +11645,7 @@
     },
     "gr363024901": {
         "castURL": "https://pro.imdb.com/title/tt3380766/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_302",
+        "id": "2020_303",
         "individualURL": "gr363024901",
         "markets": {
             "domestic": [
@@ -11637,7 +11661,7 @@
     },
     "gr363155973": {
         "castURL": "https://pro.imdb.com/title/tt6998518/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_258",
+        "id": "2020_259",
         "individualURL": "gr363155973",
         "markets": {
             "asiaPacific": [
@@ -11761,7 +11785,7 @@
     },
     "gr3635237381": {
         "castURL": "https://pro.imdb.com/title/tt7335104/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_307",
+        "id": "2020_308",
         "individualURL": "gr3635237381",
         "markets": {
             "domestic": [
@@ -12125,7 +12149,7 @@
     },
     "gr3651162629": {
         "castURL": "https://pro.imdb.com/title/tt7179594/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_290",
+        "id": "2020_291",
         "individualURL": "gr3651162629",
         "markets": {
             "domestic": [
@@ -12171,7 +12195,7 @@
     },
     "gr3651359237": {
         "castURL": "https://pro.imdb.com/title/tt0097814/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_318",
+        "id": "2020_319",
         "individualURL": "gr3651359237",
         "markets": {
             "asiaPacific": [
@@ -12433,7 +12457,7 @@
     },
     "gr3735441925": {
         "castURL": "https://pro.imdb.com/title/tt4887002/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_308",
+        "id": "2020_309",
         "individualURL": "gr3735441925",
         "markets": {
             "domestic": [
@@ -12485,7 +12509,7 @@
     },
     "gr3752219141": {
         "castURL": "https://pro.imdb.com/title/tt4669974/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_257",
+        "id": "2020_258",
         "individualURL": "gr3752219141",
         "markets": {
             "domestic": [
@@ -12785,7 +12809,7 @@
     },
     "gr3802223109": {
         "castURL": "https://pro.imdb.com/title/tt5496628/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_294",
+        "id": "2020_295",
         "individualURL": "gr3802223109",
         "markets": {
             "domestic": [
@@ -12801,7 +12825,7 @@
     },
     "gr380457477": {
         "castURL": "https://pro.imdb.com/title/tt9010460/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_293",
+        "id": "2020_294",
         "individualURL": "gr380457477",
         "markets": {
             "domestic": [
@@ -12895,7 +12919,7 @@
     },
     "gr3852816901": {
         "castURL": "https://pro.imdb.com/title/tt8952968/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_289",
+        "id": "2020_290",
         "individualURL": "gr3852816901",
         "markets": {
             "domestic": [
@@ -13345,7 +13369,7 @@
     },
     "gr3886502405": {
         "castURL": "https://pro.imdb.com/title/tt8262686/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_297",
+        "id": "2020_298",
         "individualURL": "gr3886502405",
         "markets": {
             "domestic": [
@@ -13399,7 +13423,7 @@
     },
     "gr3919598085": {
         "castURL": "https://pro.imdb.com/title/tt9178402/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_254",
+        "id": "2020_255",
         "individualURL": "gr3919598085",
         "markets": {
             "asiaPacific": [
@@ -13965,7 +13989,7 @@
     },
     "gr3953152517": {
         "castURL": "https://pro.imdb.com/title/tt5617312/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_266",
+        "id": "2020_267",
         "individualURL": "gr3953152517",
         "markets": {
             "asiaPacific": [
@@ -14005,7 +14029,7 @@
     },
     "gr397234693": {
         "castURL": "https://pro.imdb.com/title/tt8176312/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_310",
+        "id": "2020_311",
         "individualURL": "gr397234693",
         "markets": {
             "domestic": [
@@ -14029,7 +14053,7 @@
     },
     "gr3986772485": {
         "castURL": "https://pro.imdb.com/title/tt8042004/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_271",
+        "id": "2020_272",
         "individualURL": "gr3986772485",
         "markets": {
             "domestic": [
@@ -14215,7 +14239,7 @@
     },
     "gr4038808069": {
         "castURL": "https://pro.imdb.com/title/tt4881578/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_269",
+        "id": "2020_270",
         "individualURL": "gr4038808069",
         "markets": {
             "domestic": [
@@ -14615,7 +14639,7 @@
             "domestic": [
                 {
                     "country": "Domestic",
-                    "countryGrossAmount": 56900000.0,
+                    "countryGrossAmount": 57400000.0,
                     "countryOpeningAmount": 20200000.0,
                     "countryReleaseDate": "09/03/2020"
                 }
@@ -15263,7 +15287,7 @@
             "domestic": [
                 {
                     "country": "Domestic",
-                    "countryGrossAmount": 50000.0,
+                    "countryGrossAmount": 220000.0,
                     "countryOpeningAmount": 170000.0,
                     "countryReleaseDate": "11/25/2020"
                 }
@@ -15459,7 +15483,7 @@
     },
     "gr446976517": {
         "castURL": "https://pro.imdb.com/title/tt3300874/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_304",
+        "id": "2020_305",
         "individualURL": "gr446976517",
         "markets": {
             "domestic": [
@@ -15547,7 +15571,7 @@
     },
     "gr543773189": {
         "castURL": "https://pro.imdb.com/title/tt9111316/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_285",
+        "id": "2020_286",
         "individualURL": "gr543773189",
         "markets": {
             "domestic": [
@@ -15591,7 +15615,7 @@
             "domestic": [
                 {
                     "country": "Domestic",
-                    "countryGrossAmount": 536000.0,
+                    "countryGrossAmount": 706000.0,
                     "countryOpeningAmount": 461000.0,
                     "countryReleaseDate": "11/20/2020"
                 }
@@ -15601,7 +15625,7 @@
     },
     "gr581128709": {
         "castURL": "https://pro.imdb.com/title/tt8855960/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_265",
+        "id": "2020_266",
         "individualURL": "gr581128709",
         "markets": {
             "domestic": [
@@ -15693,7 +15717,7 @@
     },
     "gr597905925": {
         "castURL": "https://pro.imdb.com/title/tt0123328/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_261",
+        "id": "2020_262",
         "individualURL": "gr597905925",
         "markets": {
             "domestic": [
@@ -15753,7 +15777,7 @@
     },
     "gr61690373": {
         "castURL": "https://pro.imdb.com/title/tt9358246/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_263",
+        "id": "2020_264",
         "individualURL": "gr61690373",
         "markets": {
             "domestic": [
@@ -15915,7 +15939,7 @@
             "domestic": [
                 {
                     "country": "Domestic",
-                    "countryGrossAmount": 1086932.0,
+                    "countryGrossAmount": 1117807.0,
                     "countryOpeningAmount": 274631.0,
                     "countryReleaseDate": "11/06/2020"
                 }
@@ -16433,7 +16457,7 @@
     },
     "gr783045125": {
         "castURL": "https://pro.imdb.com/title/tt6933338/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_243",
+        "id": "2020_244",
         "individualURL": "gr783045125",
         "markets": {
             "domestic": [
@@ -16799,7 +16823,7 @@
     },
     "gr832786949": {
         "castURL": "https://pro.imdb.com/title/tt10272386/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_312",
+        "id": "2020_313",
         "individualURL": "gr832786949",
         "markets": {
             "domestic": [
@@ -17053,7 +17077,7 @@
     },
     "gr866406917": {
         "castURL": "https://pro.imdb.com/title/tt9630868/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_301",
+        "id": "2020_302",
         "individualURL": "gr866406917",
         "markets": {
             "domestic": [
@@ -17069,7 +17093,7 @@
     },
     "gr882921989": {
         "castURL": "https://pro.imdb.com/title/tt3036538/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_295",
+        "id": "2020_296",
         "individualURL": "gr882921989",
         "markets": {
             "domestic": [
@@ -18107,7 +18131,7 @@
     },
     "gr933253637": {
         "castURL": "https://pro.imdb.com/title/tt9191844/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_313",
+        "id": "2020_314",
         "individualURL": "gr933253637",
         "markets": {
             "domestic": [
@@ -18139,7 +18163,7 @@
     },
     "gr94589445": {
         "castURL": "https://pro.imdb.com/title/tt9185066/cast?ref_=mojo_gr_cta_cast&rf=mojo_gr_cta_cast",
-        "id": "2020_292",
+        "id": "2020_293",
         "individualURL": "gr94589445",
         "markets": {
             "domestic": [
