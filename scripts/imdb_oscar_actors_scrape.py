@@ -9,7 +9,7 @@ log_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'logs')
 # Creates errors dictionary
 errors = {}
 # Sets the log file location
-log = open(os.path.join(log_path,'logs','imdb_oscar_actors_scrape.log'), "a")
+log = open(os.path.join(log_path,'imdb_oscar_actors_scrape.log'), "a")
 # Sets the standard output to console
 primary_stdout = sys.stdout
 
