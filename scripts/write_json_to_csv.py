@@ -48,7 +48,7 @@ def convertAllYearsIntoList(all_movies_by_year):
     return all_movies_by_year_list
 
 def writeMoviesByMarketToCSV(movies_by_market):
-    with open(os.path.join(csv_path, '/movies_by_year_market.csv'), 'w', newline='') as csvfile:
+    with open(os.path.join(csv_path, 'movies_by_year_market.csv'), 'w', newline='') as csvfile:
         writer = csv.writer(csvfile, delimiter=',')
         writer.writerow(['uniqueID', 'marketID', 'marketName', 'country', 'countryGrossAmount', 'countryOpeningAmount', 'countryReleaseDate'])
         for year in movies_by_market:
@@ -76,7 +76,7 @@ def writeAcademyAwardWinnersToCSV(academy_award_winning_movies):
             writer.writerow([movie_dict['movieName'], movie_dict['year'], movie_dict['nominations'], movie_dict['awards'], movie_dict['bestPicture']])
 
 def writePlotSummariesToCSV(movie_summaries):
-    with open(os.path.join(csv_path, '/movie_summeries.csv'), 'w', encoding='utf-8', newline='') as csvfile:
+    with open(os.path.join(csv_path, 'movie_summeries.csv'), 'w', encoding='utf-8', newline='') as csvfile:
         writer = csv.writer(csvfile, delimiter=',')
         writer.writerow(['uniqueID', 'plotSummary', 'runtime'])
         for year in movie_summaries:
