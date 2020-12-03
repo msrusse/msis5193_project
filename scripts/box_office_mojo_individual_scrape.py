@@ -9,6 +9,8 @@ from tqdm import tqdm
 from colorama import init
 from datetime import datetime
 
+data_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data')
+log_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'logs')
 # Base url used for individual box office mojo movies, will have the movie ID appended to it
 base_url = 'https://www.boxofficemojo.com/releasegroup/'
 # Creates dictionary for holding any errors in responses that are unhandled
@@ -16,7 +18,7 @@ errors = {}
 # Sets the standard output to console
 primary_stdout = sys.stdout
 # Sets the log file location
-log = open("logs/errors/box_office_mojo_individual.log", "a")
+log = open(os.path.join(log_path,'errors', 'box_office_mojo_individual.log'), "a")
 
 # TODO: Write function to sanitize country names with weird characters
 
@@ -201,13 +203,13 @@ def main():
     # Reverts standard out to the console
     sys.stdout = primary_stdout
     # Loads in the box office movies from the JSON file written in box_office_mojo_scrape
-    movies_dict = json.load(open('data/box_office_movies.json'))
+    movies_dict = json.load(open(os.path.join(data_path, 'box_office_movies.json')))
     # Calls the convertDict function for loaded movies
     converted_movies = convertDict(movies_dict)
     # Creates the individual movie dictionary
     # Loops through each year of the movies
     for year in converted_movies:
-        year_file = 'data/movies_by_market/%s_movies_by_market.json' % year
+        year_file = os.path.join(data_path, 'movies_by_market', '%s_movies_by_market.json' % year)
         current_year = datetime.now().year
         if not os.path.exists(year_file) or (year == str(current_year) or year == str(current_year-1)):
             print('\nGetting movies for %s...' % year)
@@ -242,7 +244,7 @@ def main():
                     time.sleep(.1)
     # Writes errors dict to errors.json, if any exist
     if len(errors) > 0:
-        with open('logs/movies_by_market/errors.json', 'w') as outfile:
+        with open(os.path.join(log_path, 'movies_by_market', 'errors.json'), 'w') as outfile:
             json.dump(errors, outfile, sort_keys=True, indent=4)
     # Prints the run time of the script to the log file
     sys.stdout = log

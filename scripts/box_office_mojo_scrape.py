@@ -2,11 +2,12 @@
 
 from bs4 import BeautifulSoup as BS
 import grequests
-import json, datetime
+import json, datetime, os
 from tqdm import tqdm
 from colorama import init
 
 base_url = 'https://www.boxofficemojo.com/'
+data_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data')
 
 def sanitizeNumbers(numbers):
     sanitized = []
@@ -66,7 +67,7 @@ def main():
     all_movies = getAllYears()
     movies_by_year = getMoviesByYear(all_movies)
     # Writes movies dict to JSON file, making it easy to load in another script to grab individual movie details on releases.
-    with open('data/box_office_movies.json', 'w') as outfile:
+    with open(os.path.join(data_path, 'box_office_movies.json'), 'w') as outfile:
         json.dump(movies_by_year, outfile, sort_keys=True, indent=4)
     print('\nAll Box Office Resutls Retrieved.')
 

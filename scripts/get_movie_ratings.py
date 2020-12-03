@@ -1,15 +1,18 @@
 #1 /usr/bin/python
 
 import grequests
-import json, time, re
+import json, time, re, os
 from tqdm import tqdm
 from colorama import init
 from bs4 import BeautifulSoup as bs
 import numpy as np
 from pathlib import Path
 
+data_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data')
+log_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'log')
+
 def get_all_movies():
-    with open('data/box_office_movies.json') as infile:
+    with open(os.path.join(data_path,'box_office_movies.json')) as infile:
         return json.load(infile)
 
 def get_movie_titles(movies):
@@ -40,7 +43,7 @@ def get_rotten_tomatoes_name(movies):
 def get_movies_from_rotten_tomatoes(movies, movie_titles_by_year):
     responses = {}
     irregular_keys = {}
-    with open ('data/movie_information/irregular_movie_links.json') as infile:
+    with open(os.path.join('movie_information','irregular_movie_links.json')) as infile:
         irregular_keys = json.load(infile)
     for year in tqdm(movies, desc='Movie Ratings'):
         responses[year] = {}
@@ -127,7 +130,7 @@ def get_id_for_movies(movie_information, movie_titles_by_year, year):
     for movie in movie_information:
         movie_by_year_id[movie_titles_by_year[movie]] = movie_information[movie]
     current_year_file = '%s_movie_information.json' % year
-    valid_path = 'data/movie_information/valid_responses/%s' % current_year_file
+    valid_path = os.path.join(data_path, 'movie_information','valid_responses','%s' % current_year_file)
     if Path(valid_path).exists():
         with open(valid_path) as infile:
             current_results = json.load(infile)
@@ -136,7 +139,7 @@ def get_id_for_movies(movie_information, movie_titles_by_year, year):
     with open('%s' % valid_path, 'w') as outfile:
         json.dump(movie_by_year_id, outfile, sort_keys=True, indent=4)
     incorrect_movies = list(set(movie_titles_by_year.values()) - set(movie_by_year_id.keys()))
-    with open('data/movie_information/invalid_responses/%s' % current_year_file, 'w') as outfile:
+    with open(os.path.join(log_path,'movie_information','invalid_responses','%s' % current_year_file), 'w') as outfile:
         json.dump(incorrect_movies, outfile, sort_keys=True, indent=4)
 
 def main():

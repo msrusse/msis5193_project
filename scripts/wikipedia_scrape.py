@@ -5,6 +5,7 @@ import grequests
 import json, requests, sys, os
 from datetime import datetime
 
+data_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data')
 # Sets base URL for wikipedia
 wikipedia_url = 'https://en.wikipedia.org'
 # Creates errors dictionary
@@ -242,7 +243,7 @@ def main():
                 print('Unable to retrieve %s' % response)
                 sys.stdout = primary_stdout
         print('\nIndividual movie pages parsed. Saving results to data/movies_from_wikipedia.json...')
-        with open('data/movies_from_wikipedia.json', 'w') as outfile:
+        with open(os.path.join(data_path,'movies_from_wikipedia.json'), 'w') as outfile:
             json.dump(movies, outfile, sort_keys=True, indent=4)
         print('\nFile Saved.')
         sys.stdout = log

@@ -8,9 +8,9 @@ from colorama import init
 from bs4 import BeautifulSoup as bs
 import numpy as np
 
-os.environ["GEVENT_SUPPORT"] = 'True'
-movies_by_market_path = 'data/movies_by_market'
-movies_summary_path = 'data/movie_summaries'
+data_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data')
+movies_by_market_path = os.path.join(data_path, 'movies_by_market')
+movies_summary_path = os.path.join(data_path, 'movie_summaries')
 
 def parse_json_files(file):
     with open(file) as infile:
@@ -24,7 +24,7 @@ def parse_json_files(file):
 
 def determine_imdb_urls():
     imdb_urls = {}
-    files = glob.glob('%s/*.json' % movies_by_market_path)
+    files = glob.glob(os.path.join(movies_by_market_path, '*.json'))
     for file in files:
         year = file.split('\\')[1][0:4]
         imdb_urls[year] = parse_json_files(file)
@@ -76,16 +76,16 @@ def restructure_dict_to_file(movies, year):
                 'plotSummary' : movies[movie]['plotSummary'],
                 'runtimeMinutes' : movies[movie]['runtimeMinutes']
             }
-    with open(movies_summary_path + '/%s_movie_summaries.json' % year, 'w') as outfile:
+    with open(os.path.join(movies_summary_path, '%s_movie_summaries.json' % year), 'w') as outfile:
         json.dump(year_movies, outfile, sort_keys=True, indent=4)
 
 def main():
     all_movies = determine_imdb_urls()
     print('\nGetting Movie Information from IMDB...')
     for year in tqdm(all_movies, desc='IMDB Info'):
-        year_file = 'data/movies_by_market/%s_movies_by_market.json' % year
+        year_file = os.path.join(movies_by_market_path, '%s_movie_summaries.json' % year)
         current_year = datetime.now().year
-        if not os.path.exists(year_file) or (year == str(current_year) or year == str(current_year-1)):
+        if (not os.path.exists(year_file)) or year == str(current_year-1):
             movies = get_imdb_pages(all_movies[year])
             year_movies = parse_imdb_pages(movies, all_movies[year])
             restructure_dict_to_file(year_movies, year)

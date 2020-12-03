@@ -2,12 +2,14 @@
 
 from bs4 import BeautifulSoup as BS
 import numpy as np
-import json, sys, requests, re
+import json, sys, requests, re, os
 
+data_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data')
+log_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'logs')
 # Creates errors dictionary
 errors = {}
 # Sets the log file location
-log = open("logs/imdb_oscar_actors_scrape.log", "a")
+log = open(os.path.join(log_path,'logs','imdb_oscar_actors_scrape.log'), "a")
 # Sets the standard output to console
 primary_stdout = sys.stdout
 
@@ -71,7 +73,7 @@ def main():
     for response in requests:
         if checkStatusCode(response):
             actors += getOscarActorsFromResponse(response)
-    with open('data/oscar_actors.json', 'w') as outfile:
+    with open(os.path.join(data_path,'oscar_actors.json'), 'w') as outfile:
         json.dump(actors, outfile, sort_keys=True, indent=4)
     print('\nOscar Winning Actors Retrieved.')
 
