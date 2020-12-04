@@ -47,20 +47,18 @@
             "Huey Lewis"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 96
+            "count": "1095064",
+            "rating": 94
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "84",
-            "rating": "96",
-            "worst": "0"
+            "rating": "96"
         },
         "directors": [
             "Robert Zemeckis"
         ],
-        "genre": "comedy, adventure, fantasy, sci fi",
+        "genre": "fantasy, sci fi, adventure, comedy",
         "productionCompany": "Universal Pictures",
         "reviews": [
             "\"Back to the Future\" is the best comic-strip movie I've seen this year. It's well-made, lighthearted and is exactly the right length to give you excitement and laughs and a few surprises, and then it's over, leaving you feeling good.",
@@ -137,15 +135,13 @@
             "Duey Thomasick"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 85
+            "count": "8179",
+            "rating": 76
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "34",
-            "rating": "85",
-            "worst": "0"
+            "rating": "85"
         },
         "directors": [
             "Andrey Konchalovskiy"
@@ -183,15 +179,13 @@
             "Alan Oppenheimer"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 60
+            "count": "4430",
+            "rating": 79
         },
         "contentRating": "G",
         "criticsRatings": {
-            "best": "100",
             "count": "5",
-            "rating": "60",
-            "worst": "0"
+            "rating": "60"
         },
         "directors": [
             "Bill Reed",
@@ -200,7 +194,7 @@
             "Lou Kachivas",
             "Marsh Lamore"
         ],
-        "genre": "animation, fantasy",
+        "genre": "fantasy, animation",
         "productionCompany": "Saturday Morning TV",
         "reviews": [
             "The amalgam of fairytale, sci-fi and Greek mythology is exciting.",
@@ -306,20 +300,18 @@
             "Alma Beltran"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 38
+            "count": "3421",
+            "rating": 49
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "24",
-            "rating": "38",
-            "worst": "0"
+            "rating": "38"
         },
         "directors": [
             "John Landis"
         ],
-        "genre": "mystery and thriller, comedy",
+        "genre": "comedy, mystery and thriller",
         "productionCompany": "Universal",
         "reviews": [
             "\"Into the Night\" features cameo appearances by 11 directors, none of whom had the sense to get behind the camera and help the 12th, John Landis.",
@@ -374,15 +366,13 @@
             "Andrew Van Wagenen"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 100
+            "count": "1534",
+            "rating": 85
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "9",
-            "rating": "100",
-            "worst": "0"
+            "rating": "100"
         },
         "directors": [
             "Peter Masterson"
@@ -426,15 +416,13 @@
             "Robert F. Lyons"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 18
+            "count": "7636",
+            "rating": 41
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "11",
-            "rating": "18",
-            "worst": "0"
+            "rating": "18"
         },
         "directors": [
             "Rudy De Luca"
@@ -449,15 +437,13 @@
     "1985_105": {
         "actors": [],
         "audienceRatings": {
-            "count": "",
+            "count": "Not yet available",
             "rating": ""
         },
         "contentRating": "NR",
         "criticsRatings": {
-            "best": "100",
             "count": null,
-            "rating": null,
-            "worst": "0"
+            "rating": null
         },
         "directors": [],
         "genre": "",
@@ -477,20 +463,18 @@
             "Mona Marshall"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "1694",
             "rating": 57
         },
         "contentRating": "G",
         "criticsRatings": {
-            "best": "100",
             "count": "1694",
-            "rating": "57",
-            "worst": "0"
+            "rating": "57"
         },
         "directors": [
             "Bernard Deyri\u00e8s"
         ],
-        "genre": "kids and family, animation, fantasy",
+        "genre": "fantasy, animation, kids and family",
         "productionCompany": "DIC Entertainment",
         "reviews": []
     },
@@ -549,15 +533,13 @@
             "Scott Coffey"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 38
+            "count": "43496",
+            "rating": 77
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "13",
-            "rating": "38",
-            "worst": "0"
+            "rating": "38"
         },
         "directors": [
             "Alan Metter"
@@ -626,15 +608,13 @@
             "John Serret"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 56
+            "count": "1794",
+            "rating": 51
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "16",
-            "rating": "56",
-            "worst": "0"
+            "rating": "56"
         },
         "directors": [
             "Fred Schepisi"
@@ -700,15 +680,13 @@
             "Gates McFadden"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 17
+            "count": "1631",
+            "rating": 85
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "12",
-            "rating": "17",
-            "worst": "0"
+            "rating": "17"
         },
         "directors": [
             "Hugh Wilson"
@@ -788,15 +766,13 @@
             "Erin Folsey"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 32
+            "count": "33776",
+            "rating": 56
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "25",
-            "rating": "32",
-            "worst": "0"
+            "rating": "32"
         },
         "directors": [
             "John Landis"
@@ -864,15 +840,13 @@
             "Ed Zang"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 33
+            "count": "3058",
+            "rating": 74
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "6",
-            "rating": "33",
-            "worst": "0"
+            "rating": "33"
         },
         "directors": [
             "Michael Dinner"
@@ -932,15 +906,13 @@
             "Becky Palachuk"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 17
+            "count": "3825",
+            "rating": 40
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "12",
-            "rating": "17",
-            "worst": "0"
+            "rating": "17"
         },
         "directors": [
             "Robert Clouse"
@@ -948,9 +920,9 @@
         "genre": "action",
         "productionCompany": "Warner Home Video",
         "reviews": [
+            "This really happened in Hollywood in the 1980s, which gives you some idea of exactly how much cocaine was flowing through that place back then.",
             "Mediocre action pulp.",
             "No real film lover could help but muster some affection for this bedraggled action movie, shot in an extremely unpicturesque Yugoslavia on a budget that must number in the hundreds of dollars.",
-            "This really happened in Hollywood in the 1980s, which gives you some idea of exactly how much cocaine was flowing through that place back then.",
             "Must be seen to be believed.",
             "...one of the most absurd and flat-out silly actioners to emerge out of the 1980s...",
             "The mind boggles!",
@@ -967,15 +939,13 @@
             "Wings Hauser"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "282",
             "rating": 56
         },
         "contentRating": "NR",
         "criticsRatings": {
-            "best": "100",
             "count": "282",
-            "rating": "56",
-            "worst": "0"
+            "rating": "56"
         },
         "directors": [
             "David S. Cass Sr."
@@ -1019,15 +989,13 @@
             "Michael Greene"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 38
+            "count": "1486",
+            "rating": 75
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "13",
-            "rating": "38",
-            "worst": "0"
+            "rating": "38"
         },
         "directors": [
             "Ivan Passer"
@@ -1092,20 +1060,18 @@
             "Carl Davis"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 8
+            "count": "2163",
+            "rating": 42
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "12",
-            "rating": "8",
-            "worst": "0"
+            "rating": "8"
         },
         "directors": [
             "Bruce Beresford"
         ],
-        "genre": "history, drama",
+        "genre": "drama, history",
         "productionCompany": "Paramount Pictures",
         "reviews": [
             "Though the overall problems may not be of his making, Richard Gere is of little help in the title role. Granted, he could have been truly awful (which he isn't), but he doesn't seem comfortable, either.",
@@ -1120,15 +1086,13 @@
     "1985_115": {
         "actors": [],
         "audienceRatings": {
-            "count": "",
+            "count": "Not yet available",
             "rating": ""
         },
         "contentRating": "NR",
         "criticsRatings": {
-            "best": "100",
             "count": null,
-            "rating": null,
-            "worst": "0"
+            "rating": null
         },
         "directors": [],
         "genre": "",
@@ -1153,22 +1117,20 @@
             "David Workman"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 0
+            "count": "6009",
+            "rating": 79
         },
         "contentRating": "G",
         "criticsRatings": {
-            "best": "100",
             "count": "7",
-            "rating": "0",
-            "worst": "0"
+            "rating": "0"
         },
         "directors": [
             "Bernard Deyri\u00e8s",
             "Kimio Tabuki",
             "Kimio Yabuki"
         ],
-        "genre": "kids and family, animation, fantasy",
+        "genre": "fantasy, animation, kids and family",
         "productionCompany": "Warner Bros. Pictures",
         "reviews": [
             "Rainbow Brite and the Star Stealer is not an especially imaginative tale, and the animation is at times lifeless.",
@@ -1211,15 +1173,13 @@
             "Tex Fuller"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 80
+            "count": "8419",
+            "rating": 73
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "15",
-            "rating": "80",
-            "worst": "0"
+            "rating": "80"
         },
         "directors": [
             "Neil Jordan"
@@ -1283,15 +1243,13 @@
             "Joshua Segal"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 50
+            "count": "1637",
+            "rating": 31
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "8",
-            "rating": "50",
-            "worst": "0"
+            "rating": "50"
         },
         "directors": [
             "Phillip Borsos"
@@ -1352,20 +1310,18 @@
             "Merv Maruyama"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 77
+            "count": "45141",
+            "rating": 81
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "30",
-            "rating": "77",
-            "worst": "0"
+            "rating": "77"
         },
         "directors": [
             "Michael Ritchie"
         ],
-        "genre": "mystery and thriller, comedy",
+        "genre": "comedy, mystery and thriller",
         "productionCompany": "MCA Universal Home Video",
         "reviews": [
             "Admittedly, the storyline weaves all over the place, but no matter - Chase's performance and a plethora of daft and witty situations carry it past some structural rough spots. ",
@@ -1414,15 +1370,13 @@
             "John Travolta"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "1368",
             "rating": 73
         },
         "contentRating": "G",
         "criticsRatings": {
-            "best": "100",
             "count": "1368",
-            "rating": "73",
-            "worst": "0"
+            "rating": "73"
         },
         "directors": [
             "Jack Haley Jr.",
@@ -1432,8 +1386,8 @@
         "productionCompany": "MGM Home Entertainment",
         "reviews": [
             "What it basically wants to do is entertain us with a lot of good dance scenes from a lot of good, and bad, movies, and that is such a harmless ambition that I guess we can accept it.",
-            "I'd rather just watch a musical in it's entirety than a greatest clips presentation, but for what it is, it's entertaining enough. At least it made me write down a list of musicals to watch. ",
             "Bends over backwards to celebrate the perception that the box office success of Fame and Flashdance heralded the rebirth of the form.",
+            "I'd rather just watch a musical in it's entirety than a greatest clips presentation, but for what it is, it's entertaining enough. At least it made me write down a list of musicals to watch. ",
             "A fine film about the beat that put bodies in motion from tap to ballroom to disco to break dancing."
         ]
     },
@@ -1474,15 +1428,13 @@
             "Scott Bailey Spangler"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 13
+            "count": "6225",
+            "rating": 56
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "8",
-            "rating": "13",
-            "worst": "0"
+            "rating": "13"
         },
         "directors": [
             "Jonathan Betuel"
@@ -1528,15 +1480,13 @@
             "Yosuke Natsuki"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 20
+            "count": "5880",
+            "rating": 66
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "10",
-            "rating": "20",
-            "worst": "0"
+            "rating": "20"
         },
         "directors": [
             "Koji Hashimoto",
@@ -1583,15 +1533,13 @@
             "Christopher Greenbury"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 22
+            "count": "6603",
+            "rating": 64
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "9",
-            "rating": "22",
-            "worst": "0"
+            "rating": "22"
         },
         "directors": [
             "Cary Medoway"
@@ -1630,42 +1578,40 @@
             "Takeshi Kat\u00f4"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 97
+            "count": "38340",
+            "rating": 95
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "87",
-            "rating": "97",
-            "worst": "0"
+            "rating": "97"
         },
         "directors": [
             "Akira Kurosawa"
         ],
-        "genre": "history, drama",
+        "genre": "drama, history",
         "productionCompany": "Rialto Pictures",
         "reviews": [
             "Ran takes film spectacle to new heights. Kurosawa continues not only to extend his own powers but to exploit new technical advances.",
             "There is not a wasted second. [Here] is proof of what we seldom doubted: Kurosawa is a director who becomes godlike rather than gaga in old age.",
             "Kurosawa may not be Shakespeare, but with images like these, he gets at something about the horror -- and hopelessness -- of being a man that is peculiarly his own.",
+            " One can never be short of things to look at while Kurasawa's Ran is in the world.",
+            "A magisterial achievement.",
             "Prepare your eyes to be gouged (this is a King Lear adaptation, after all).",
-            "If anything, Ran is even darker and more pessimistic than the original.",
-            "Its true power is found in the small moments.",
             "An arresting amalgamation of unforgettable imagery.",
             "One can hardly watch Ran without feeling a sense of prophecy fulfilled. The tragic results displayed in this film suggest we all need to discern more deeply exactly who we can trust to lead us.",
             "The great Japanese director Akira Kurosawa, who has made a career of creating movie masterpieces, has at the age of 75 given the world a monumental work.",
             "This film is the visual epic of the year, and one of the few really great movies of the 80s.",
             "Kurosawa's greatness lies in his capacity to reveal historical similarity and variance; to find a Shakespearean sense of doom in the other, remote, and apparently alien historical place.",
             "Ran isn't the first film many think of when they consider Kurosawa's extensive filmography, but I would posit that it is among his best.",
-            " One can never be short of things to look at while Kurasawa's Ran is in the world.",
             "Ran is high classical tragedy several times over.",
             "It's the intimacy of even the most gargantuan conflict that hits home in Kurosawa's masterful hands.",
             "Akira Kurosawa's Ran is virtually in a class of its own. ",
             "An irresistible attraction that should be viewed on the biggest screen you can find.",
-            "A magisterial achievement.",
             "[A] fiercely cinematic experience of startling metaphors, sweeping battles, intense characters, and vivid color... that deserves to be seen on a big screen... and now's your chance.",
             "Perfectly paced and beautifully directed with some simply superb acting.",
+            "If anything, Ran is even darker and more pessimistic than the original.",
+            "Its true power is found in the small moments.",
             "This is one of the year's major cinematic events. It's well worth leaving the house for, should that opportunity arise.",
             "Ran remains gripping because it depicts not only the long-ago past, but also our hellish present.",
             "Ran is one of the cinema's greatest works, a film of true tragic vision.",
@@ -1738,15 +1684,13 @@
             "Robert Hodge"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 20
+            "count": "2492",
+            "rating": 57
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "10",
-            "rating": "20",
-            "worst": "0"
+            "rating": "20"
         },
         "directors": [
             "Bob Clark"
@@ -1813,15 +1757,13 @@
             "Maurice Jarre"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 25
+            "count": "8094",
+            "rating": 33
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "12",
-            "rating": "25",
-            "worst": "0"
+            "rating": "25"
         },
         "directors": [
             "Franc Roddam"
@@ -1865,22 +1807,20 @@
             "Daryl T. Bartley"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "1492",
             "rating": 64
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "1492",
-            "rating": "64",
-            "worst": "0"
+            "rating": "64"
         },
         "directors": [
             "Steven Hahn",
             "John Sparey",
             "Steve Hahn"
         ],
-        "genre": "adventure, animation, sci fi, fantasy",
+        "genre": "fantasy, sci fi, adventure, animation",
         "productionCompany": "Atlantic Releasing Corporation",
         "reviews": [
             "Never realizes its own ideas to their full potential.",
@@ -1915,15 +1855,13 @@
             "Roberta Whitewood"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "1171",
             "rating": 34
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "1171",
-            "rating": "34",
-            "worst": "0"
+            "rating": "34"
         },
         "directors": [
             "James Frawley"
@@ -1993,15 +1931,13 @@
             "Sonya Robbins"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 45
+            "count": "9473",
+            "rating": 75
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "11",
-            "rating": "45",
-            "worst": "0"
+            "rating": "45"
         },
         "directors": [
             "Matthew Robbins"
@@ -2082,15 +2018,13 @@
             "David Whitaker"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "179",
             "rating": 34
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "179",
-            "rating": "34",
-            "worst": "0"
+            "rating": "34"
         },
         "directors": [
             "Joel Silberg"
@@ -2152,15 +2086,13 @@
             "Bob Giovanne"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "1390",
             "rating": 83
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "1390",
-            "rating": "83",
-            "worst": "0"
+            "rating": "83"
         },
         "directors": [
             "Sidney Poitier"
@@ -2198,15 +2130,13 @@
             "Juney Ellis"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "72",
             "rating": 25
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "72",
-            "rating": "25",
-            "worst": "0"
+            "rating": "25"
         },
         "directors": [
             "Jim Sotos"
@@ -2258,15 +2188,13 @@
             "Carolina Mata Garcia"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "692",
             "rating": 28
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "692",
-            "rating": "28",
-            "worst": "0"
+            "rating": "28"
         },
         "directors": [
             "Harvey Miller"
@@ -2280,15 +2208,13 @@
     "1985_134": {
         "actors": [],
         "audienceRatings": {
-            "count": "",
-            "rating": 0
+            "count": "844",
+            "rating": 26
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "9",
-            "rating": "0",
-            "worst": "0"
+            "rating": "0"
         },
         "directors": [],
         "genre": "fantasy",
@@ -2336,15 +2262,13 @@
             "David Morgan"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 88
+            "count": "2135",
+            "rating": 63
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "8",
-            "rating": "88",
-            "worst": "0"
+            "rating": "88"
         },
         "directors": [
             "Malcolm Mowbray"
@@ -2418,15 +2342,13 @@
             "Kitty Aldridge"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "71",
             "rating": 29
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "71",
-            "rating": "29",
-            "worst": "0"
+            "rating": "29"
         },
         "directors": [
             "Roger Donaldson",
@@ -2468,15 +2390,13 @@
             "Alan Thompson"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 91
+            "count": "1577",
+            "rating": 70
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "11",
-            "rating": "91",
-            "worst": "0"
+            "rating": "91"
         },
         "directors": [
             "Mike Newell"
@@ -2513,33 +2433,30 @@
             "Holly Hunter"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 94
+            "count": "39152",
+            "rating": 88
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "103",
-            "rating": "94",
-            "worst": "0"
+            "rating": "94"
         },
         "directors": [
             "Joel Coen"
         ],
-        "genre": "crime, mystery and thriller, drama",
+        "genre": "drama, crime, mystery and thriller",
         "productionCompany": "USA Films",
         "reviews": [
+            "What holds up best about Blood Simple, besides its vice-tight plotting and the rotten charisma of M. Emmet Walsh's evil, manipulative private eye Visser, is the sheer exuberance of the Coens's visual style.",
             "Blood Simple is a reminder that the Coens are formalist film-makers first, with keen noses for composition and taut, structured storytelling, as well as masters of black comedy.",
             "A gripping, drum-tight noir masterpiece to compare with Touch of Evil.",
             "One of the great debut features of modern times.",
             "\"Blood Simple\" becomes a dazzling comedie noire, a dynamic, virtuoso display by a couple of talented fledgling filmmakers who give the conventions of the genre such a thorough workout that the result is a movie that's fresh and exhilarating.",
             "Watching this beautiful restoration of \"Blood Simple\" I was actually struck by how non-bleak it is, how much the strength of the film lies in images of beauty, defiance and survival.",
-            "It's a trailblazing masterpiece in any form.",
             "Moody, tenacious, and sweaty, it is the earliest, and one of the best films from the distinctive duo.",
             "Distrust and deviance run rampant, toying with expectations and shattering any trust in consistent behavior from the actors, who are all remarkably effective.",
             "One of the boldest debuts and most watchable indie movies of the 1980s.",
             "Blood Simple is less than a masterpiece, but it's more than a successful audition for the Coen brothers' talents.",
-            "What holds up best about Blood Simple, besides its vice-tight plotting and the rotten charisma of M. Emmet Walsh's evil, manipulative private eye Visser, is the sheer exuberance of the Coens's visual style.",
             "Joel and Ethan Coen's explosive Blood Simple announced the arrival to the big screen of Hollywood legends the likes of which are rarely seen in this generation.",
             "From their very first feature, the Coen Brothers already had their brilliance firmly in place. ",
             "Blood Simple is certainly a strikingly assured first feature.",
@@ -2550,6 +2467,7 @@
             "Not just noteworthy as the first picture written and directed by Joel and Ethan Coen, this excellent neo-noir also stands as an important film in the development of the American independent cinema during the 1980s.",
             "Simpleness and crime have consistently fascinated the pair, who may as well be praying at the temple of Ate...the Coens preach a healthy respect for the randomness and chaos that ensues from our desires. [Criterion Blu-ray]",
             "The audience has to work in 'Blood Simple,' and its niftiest trick may not be apparent till the lights have come up.",
+            "It's a trailblazing masterpiece in any form.",
             "Though the film has a few exposed seams, it's tightly composed and beautifully shot in a way that easily rivals more expensive features.",
             "There's a simple magnetism inherent in this kind of filmmaking, and the Coens know how to orchestrate it.",
             "It isn't really about anything except making a commercial narrative movie outside the industry."
@@ -2565,15 +2483,13 @@
             "Tom Hyde"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 71
+            "count": "5816",
+            "rating": 69
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "17",
-            "rating": "71",
-            "worst": "0"
+            "rating": "71"
         },
         "directors": [
             "Geoffry Murphy",
@@ -2642,15 +2558,13 @@
             "Morris Beers"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 31
+            "count": "60643",
+            "rating": 42
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "16",
-            "rating": "31",
-            "worst": "0"
+            "rating": "31"
         },
         "directors": [
             "Jerry Paris"
@@ -2710,20 +2624,18 @@
             "Ian Williams"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 93
+            "count": "37237",
+            "rating": 82
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "61",
-            "rating": "93",
-            "worst": "0"
+            "rating": "93"
         },
         "directors": [
             "Stuart Gordon"
         ],
-        "genre": "horror, comedy",
+        "genre": "comedy, horror",
         "productionCompany": "Empire Pictures",
         "reviews": [
             "Re-Animator is splatter heaven. Based on the sci-fi novel by H.P. Lovecraft, Re-Animator's gore is exceeded only by its wit.",
@@ -2731,7 +2643,7 @@
             "Oh, those crazy doctors, when will they ever learn to stop messing around with the natural order of life and death?",
             "It's this kind of flat-footed stuff that gives garbage a bad name.",
             "Pic has a grisly sense of humor, and sometimes is so gross and over the top the film tips over into a bizarre comedy.",
-            "The injection of humour into HP Lovecraft's 1922 tale is what saves this splatterfest from being mere fodder for gorehounds.",
+            "The plot... took a genre obsessed with masked killers, monsters et al, completely by storm.",
             "This original landmark is a refreshing, not-to-be-missed take on a classic tale of science gone too far.",
             "Most genre filmmakers go their whole careers without making something have as delirious and dazzling as Stuart Gordon did right in his debut.",
             "The film is all kinds of ridiculous, but if you like campy horror...",
@@ -2778,15 +2690,13 @@
             "James B. Dirker"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 11
+            "count": "812",
+            "rating": 41
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "9",
-            "rating": "11",
-            "worst": "0"
+            "rating": "11"
         },
         "directors": [
             "Hal Barwood"
@@ -2817,15 +2727,13 @@
             "Trudie Styler"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "1514",
             "rating": 78
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "1514",
-            "rating": "78",
-            "worst": "0"
+            "rating": "78"
         },
         "directors": [
             "Michael Apted"
@@ -2903,15 +2811,13 @@
             "Brad Nessler"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 0
+            "count": "868",
+            "rating": 20
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "9",
-            "rating": "0",
-            "worst": "0"
+            "rating": "0"
         },
         "directors": [
             "Hal Ashby"
@@ -2960,20 +2866,18 @@
             "Marsha Levine"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "116",
             "rating": 45
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "116",
-            "rating": "45",
-            "worst": "0"
+            "rating": "45"
         },
         "directors": [
             "Lawrence Z. Dane"
         ],
-        "genre": "romance, musical",
+        "genre": "musical, romance",
         "productionCompany": "United Artists",
         "reviews": [
             "A trite and plotless cult musical about aerobics mixed with a tepid romance story that's directed by Canadian character actor Lawrence Dane.",
@@ -3019,15 +2923,13 @@
             "Eddie Merckx"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "Not yet available",
             "rating": ""
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "20",
-            "rating": "65",
-            "worst": "0"
+            "rating": "65"
         },
         "directors": [
             "John Badham"
@@ -3110,15 +3012,13 @@
             "William Traylor"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "157",
             "rating": 41
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "157",
-            "rating": "41",
-            "worst": "0"
+            "rating": "41"
         },
         "directors": [
             "Stephen Gyllenhaal"
@@ -3143,15 +3043,13 @@
             "Andr\u00e9 Julien"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "745",
             "rating": 32
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "745",
-            "rating": "32",
-            "worst": "0"
+            "rating": "32"
         },
         "directors": [
             "Just Jaeckin"
@@ -3192,37 +3090,34 @@
             "Sam Hennings"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 86
+            "count": "207590",
+            "rating": 79
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
-            "count": "224",
-            "rating": "86",
-            "worst": "0"
+            "count": "225",
+            "rating": "86"
         },
         "directors": [
             "Martin Scorsese"
         ],
-        "genre": "drama, history, biography",
+        "genre": "biography, drama, history",
         "productionCompany": "Miramax",
         "reviews": [
+            "The Aviator does make for a rather fascinating and compelling stand-alone story about an industrious, fastidious, obsessive man...",
+            "Good but not great, and not for younger kids.",
             "This handsome movie is an oddly well-behaved one to come from the preternaturally energetic Scorsese.",
             "This almost-great epic has one foot in legend: it's a vision of an American titan that could have sprung from the insides of Hughes's own obsessive, perfectionist head.",
             "Despite a pacy, technically brilliant but otherwise slightly ordinary first half-hour or so, Scorsese's Howard Hughes movie is his best since The Age of Innocence.",
             "Scorsese gives us a lot more than the Charles Foster Kane of the clouds. He keeps focus on Hughes, the dreamer, who continually reached out, grabbed the future and pulled it toward him.",
-            "It's a measure of The Aviator's complexity and ambiguity that it can be read equally as a celebration of rugged, capitalist individualism and as a leftist critique of cutthroat free-market competition.",
-            "Its primary appeal is its speed: It rushes along, from scandal to air crash to movie romance to Senate hearing, each anecdote well realized but never tarried over.",
+            "At the epicentre of this movie maelstrom is an assured and adroit performance by Leonardo DiCaprio.",
             "What constitutes risk in acting? What Blanchett does here as Hepburn, daring to take on an icon in the same medium for which she was known and celebrated.",
             "The Aviator is a flawed but incredibly passionate and entertaining film befitting a character as flamboyant as Hughes.",
             "Leonardo DiCaprio meticulously depicts the maverick entrepreneur in all his guises -- from the off, he cleverly conveys (through body language) the ailments that would beset Hughes -- noticeably OCD and deafness. It's a stunning performance.",
             "Is really little more than three hours of the director polishing his mantel in anticipation of an Oscar.",
             "The dramatic conceit that a great, obsessive personality begets an obsessive, dysfunctional personal life and frail mental well-being just isn't that nuanced or tragic.",
-            "The Aviator does make for a rather fascinating and compelling stand-alone story about an industrious, fastidious, obsessive man...",
             "Solidly entertaining and visually lush, but this is uncharacteristically safe territory for a filmmaker who relishes risk and grittiness.",
             "This is high-style filmmaking wrapped up in a tormented hero whose soaring flights of greatness are matched by the mortal pull of his devils,...",
-            "Good but not great, and not for younger kids.",
             "It's all rather sprawling and a bit disjointed, but Scorsese's vigorous pacing and eye for detail hold it all together and provide a vivid setting for DiCaprio's masterful performance (his best work yet).",
             "Scorsese's most engaged and engaging filmmaking in a while.",
             "Its plot moves from event to event without a story driving it and the audience is left drifting along.",
@@ -3230,6 +3125,7 @@
             "full review in Greek",
             "It's almost predictable in the way it delivers the cinematic goods, yet there's no denying that it is a compelling and entertaining look at a larger-than-life individual.",
             "The Aviator feels like old-fashioned Hollywood with a bracing jolt of Scorsese's cinematic flair",
+            "It's a measure of The Aviator's complexity and ambiguity that it can be read equally as a celebration of rugged, capitalist individualism and as a leftist critique of cutthroat free-market competition.",
             "Scorsese has dreamed up an ingenious method of specifying the period - he's printed each sequence so that it matches up with the color film process available at the time ..."
         ]
     },
@@ -3272,15 +3168,13 @@
             "Patrick Blackwell"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 67
+            "count": "848",
+            "rating": 43
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "12",
-            "rating": "67",
-            "worst": "0"
+            "rating": "67"
         },
         "directors": [
             "David Hare"
@@ -3288,12 +3182,12 @@
         "genre": "drama",
         "productionCompany": "Palace Video",
         "reviews": [
+            "Where it succeeds is in the extraordinarily brilliant casting and the handling of the shifts from past to present. Where it is less fluent, perhaps, is in the statement of a case.",
             "The skill of Hare's approach is that he initially allows us to assume, via normal cinema techniques, that what we saw of the dinner party was the whole story.",
             "Redgrave's performance is superb and she's ably supported by Holm, Dench, and Hamilton in particular.",
             "Mr. Hare has assembled a superb cast, and its ensemble work is very fine.",
             "[An] arch, overstyled downer ...",
             "A haunting film, because it dares to suggest that the death of the stranger is important to everyone it touches - because it forces them to decide how alive they really are.",
-            "Where it succeeds is in the extraordinarily brilliant casting and the handling of the shifts from past to present. Where it is less fluent, perhaps, is in the statement of a case.",
             "The trouble with Wetherby is that, unlike Pinter's creepy exercises, it turns out to be that dreary thing, a wellmade play: a theatrical puzzler with a solution that, when it arrives, seems at once obvious and not particularly helpful.",
             "There are more questions asked than answered in this movie, but the mental gymnastics are well worth the effort.",
             "Wetherby has a pedigree which substantially outstrips its small and undercooked story.",
@@ -3319,15 +3213,13 @@
             "Jackie Burch"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 89
+            "count": "556703",
+            "rating": 92
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "65",
-            "rating": "89",
-            "worst": "0"
+            "rating": "89"
         },
         "directors": [
             "John Hughes"
@@ -3406,15 +3298,13 @@
             "Frank Middlemass"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 100
+            "count": "441",
+            "rating": 81
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "10",
-            "rating": "100",
-            "worst": "0"
+            "rating": "100"
         },
         "directors": [
             "Gavin Millar"
@@ -3460,15 +3350,13 @@
             "David Ussawanon"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 53
+            "count": "74889",
+            "rating": 76
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "91",
-            "rating": "53",
-            "worst": "0"
+            "rating": "53"
         },
         "directors": [
             "Prachya Pinkaew"
@@ -3477,11 +3365,11 @@
         "productionCompany": "The Weinstein Company",
         "reviews": [
             "Bone-crunching action triumphs over story and, uh, character development.",
+            "It's tremendously refreshing to see a film that relies solely on the choreography of its athletic star to make the action work.",
             "Pretty tough to sit through.",
             "Exactly like an elephant, mostly slow and lumbering -- but with great menacing charges of excitement.",
             "Jaa's ingratiatingly ridiculous Protector delivers a steady stream of cheap B-movie thrills, plus two positive messages for young people: Be nice to animals, and when in doubt, always aim for the tendons.",
-            "It's silly, at times laughable, sure, but Jaa has a reckless, bone-cracking grace that transcends the film's triviality. For fight fans, he's worth the price of admission.",
-            "When you've got a male lead who can break heads like Tony Jaa, a little bit of story line goes a long way.",
+            "By the end you're so invigorated that narrative issues seem like an afterthought.",
             "The premise is hopelessly silly and pointlessly convoluted, as well as stuffed with laughable dialogue, but it purposefully tries not to interfere with the sensational stunts.",
             "Truly, the best martial arts film about elephants yet made.",
             "In the realm of fresh martial arts movie stars, no one holds a candle to Tony Jaa.",
@@ -3489,15 +3377,15 @@
             "a no-brainer, but also an extravaganza of inventive, visually stunning brutality (by the trunkload).",
             "If you like you martial arts action tough, gritty and fast, Tony Jaa is your artist, as he proved on his debut with Ong Bak (2003). This is Muay Thai, a form of aggressive martial arts that makes the others look tame.",
             "If a video game allowed you to do what Tony Jaa does, it would be the bestselling video game in history.",
-            "It's tremendously refreshing to see a film that relies solely on the choreography of its athletic star to make the action work.",
             "Resurrects the bad acting and absurd plotting of old-fashioned kung fu movies, as well as their exhilarating stunts and action choreography.",
             "The Protector's plot is as sturdy as a piece of balsa wood, which wouldn't have mattered so much if the film had showcased Jaa's talents better.",
             "Four screenwriters get credit for the bottom-feeder script.",
             "It plays like a bad B-movie where we suddenly leave an ongoing conversation to join a fight in progress.",
-            "By the end you're so invigorated that narrative issues seem like an afterthought.",
+            "It's silly, at times laughable, sure, but Jaa has a reckless, bone-cracking grace that transcends the film's triviality. For fight fans, he's worth the price of admission.",
             "The story is incoherent (possibly due to Weinstein cuts in the Thai original), but if you enjoy fight scenes, this is an eye-popping amazement...",
             "Jaa-dropping stunts buried in an overly sentimental plot.",
-            "The whole point here is the action stuff, and, wow, does it deliver!"
+            "The whole point here is the action stuff, and, wow, does it deliver!",
+            "Anyone familiar with Quentin Tarantino knows he has a love for martial arts movies and cult films. So no one should be surprised to see his name in the credits of \"The Protector,\" which he presents to American audiences."
         ]
     },
     "1985_153": {
@@ -3529,15 +3417,13 @@
             "Jerry Jones"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "24",
             "rating": 40
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "24",
-            "rating": "40",
-            "worst": "0"
+            "rating": "40"
         },
         "directors": [
             "Sidney J. Furie"
@@ -3565,15 +3451,13 @@
             "Lon Hill"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 75
+            "count": "1306",
+            "rating": 46
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "12",
-            "rating": "75",
-            "worst": "0"
+            "rating": "75"
         },
         "directors": [
             "Robert Altman"
@@ -3607,15 +3491,13 @@
             "Ernie Shinagawa"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 33
+            "count": "2384",
+            "rating": 80
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "9",
-            "rating": "33",
-            "worst": "0"
+            "rating": "33"
         },
         "directors": [
             "Paul Bartel"
@@ -3641,15 +3523,13 @@
             "George Plimpton"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "190",
             "rating": 55
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "190",
-            "rating": "55",
-            "worst": "0"
+            "rating": "55"
         },
         "directors": [
             "George Butler"
@@ -3744,15 +3624,13 @@
             "Jordan Leandre"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 65
+            "count": "166751",
+            "rating": 60
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "196",
-            "rating": "65",
-            "worst": "0"
+            "rating": "65"
         },
         "directors": [
             "Bobby Farrelly",
@@ -3762,30 +3640,30 @@
         "genre": "romance",
         "productionCompany": "20th Century Fox",
         "reviews": [
+            "I think it's very ordinary.",
             "...tries to deal with the messy process of nurturing a proper adult relationship rather than simply shoehorning two lovers into a predictable set of catastrophic circumstances until they finally succumb to one another.",
             "Stripped of almost all the brothers' usual crudeness, Fever Pitch proves what we've suspected all along: That beneath the gross-out gags and freak-show humor, Peter and Bobby Farrelly are just a couple of lovable romantics.",
             "The film turns out to be a substantial pleasure as the spirit of the Sox shines through.",
+            "Perfectly enjoyable but perfectly forgettable.",
             "It's slickly done, pleasantly watchable, but despite Barrymore's ever-charming earnestness, not quite a home run.",
-            "It's a lot of fun.",
-            "Barrymore has rarely been so bright and effortlessly charming, but it's all lost on Fallon, who often resembles one of those unfortunate SNL guests who freeze up on live TV, completely out of their element.",
             "To put it in baseball terms, Fever Pitch swings for the fences, only to come up well short of the warning track.",
             "Fallon and Barrymore make for a likable and funny couple, even if this reasonably amusing film doesn't quite hit a home run. ",
             "A slapdash, clumsy, poorly acted and pervasively false film filled with precocious movie kids, nonstop needle drops and a barrage of \"washing your balls\" jokes. ",
             "Fever Pitch, the newest film from the Farrelly Brothers isn't packing much heat, but the humility will kill you.",
             "Nick Hornby's novels have produced two terrific examples of the genre: High Fidelity and About A Boy. Unfortunately, this latest adaptation is strictly a minor league affair.",
             "A delightful romantic comedy without the excesses we've come to expect of the Farrellys.",
-            "I think it's very ordinary.",
             "A pleasant comedy with a good heart and amiable characters.",
             "The Farrellys rein in their usual excesses, but still manage to produce the laughs, albeit accompanied by a dose of terminal cuteness.",
             "Fever Pitch is funny, romantic and it makes even the by-now-very-tired story of the Sox's 2004 World Series win seem fresh.",
             "A genial date comedy that will divide audiences and genders on the prominence of sports in a relationship.",
             "It's a sweet, slight romantic comedy with appealing stars and a happy ending -- unless you're a fan of, you know, that other team.",
-            "Perfectly enjoyable but perfectly forgettable.",
             "Coincidentally, it's the second great romantic comedy to end with Drew Barrymore on a ball diamond and the only work of fiction to feature Jimmy Fallon as a believable human being, as Fallon handles possible pregnancy with unexpected dramatic presence.",
             "Maybe you have to love the Red Sox to really enjoy Fever Pitch, but then you never really had to know sports to know a pretty bad movie.",
             "The Farrelly brothers soften their customary inclination toward gross-out humor with a tender and earnest adaptation of a novel by Nick Hornby (\"High Fidelity\").",
             "Despite the charming actors and promising setup, they never really hit it out of the park.",
-            "Drew Barrymore gives an excellent performance as a lady-in-waiting opposite Jimmy Fallon's equally-impressive portrayal of a jittery, baseball-obsessed beau."
+            "Drew Barrymore gives an excellent performance as a lady-in-waiting opposite Jimmy Fallon's equally-impressive portrayal of a jittery, baseball-obsessed beau.",
+            "For a light-hearted romantic comedy, there are a number of genuinely touching moments of love.",
+            "It's a lot of fun."
         ]
     },
     "1985_159": {
@@ -3840,15 +3718,13 @@
             "Linda Sorenson"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "431",
             "rating": 56
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "431",
-            "rating": "56",
-            "worst": "0"
+            "rating": "56"
         },
         "directors": [
             "Ted Kotcheff"
@@ -3898,15 +3774,13 @@
             "Seva Novgorodtsev"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 38
+            "count": "73916",
+            "rating": 40
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "60",
-            "rating": "38",
-            "worst": "0"
+            "rating": "38"
         },
         "directors": [
             "John Glen"
@@ -4001,15 +3875,13 @@
             "Donald Richie"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 89
+            "count": "3230",
+            "rating": 91
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "28",
-            "rating": "89",
-            "worst": "0"
+            "rating": "89"
         },
         "directors": [
             "Paul Schrader"
@@ -4102,15 +3974,13 @@
             "Billy J. Mitchell"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "722",
             "rating": 42
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "722",
-            "rating": "42",
-            "worst": "0"
+            "rating": "42"
         },
         "directors": [
             "Mike Hodges"
@@ -4148,15 +4018,13 @@
             "Tim Condren"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "663",
             "rating": 30
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
-            "count": "662",
-            "rating": "30",
-            "worst": "0"
+            "count": "663",
+            "rating": "30"
         },
         "directors": [
             "John Frankenheimer"
@@ -4189,20 +4057,18 @@
             "Michel Galabru"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "6402",
             "rating": 75
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "8",
-            "rating": "75",
-            "worst": "0"
+            "rating": "75"
         },
         "directors": [
             "Luc Besson"
         ],
-        "genre": "mystery and thriller, crime, romance, drama",
+        "genre": "romance, crime, drama, mystery and thriller",
         "productionCompany": "Gaumont",
         "reviews": [
             "Filmmaker Besson kicks Subway off with a visceral and thoroughly exciting car chase that's not, unfortunately, indicative of what's to follow...",
@@ -4246,20 +4112,18 @@
             "Dan Lufkin"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "1222",
             "rating": 90
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "1222",
-            "rating": "90",
-            "worst": "0"
+            "rating": "90"
         },
         "directors": [
             "Tim Hunter"
         ],
-        "genre": "kids and family, drama",
+        "genre": "drama, kids and family",
         "productionCompany": "Sony Pictures Home Entertainment",
         "reviews": [
             "There is a good movie here, obscured by a tired old formula.",
@@ -4270,15 +4134,13 @@
     "1985_166": {
         "actors": [],
         "audienceRatings": {
-            "count": "",
+            "count": "Not yet available",
             "rating": ""
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": null,
-            "rating": null,
-            "worst": "0"
+            "rating": null
         },
         "directors": [],
         "genre": "drama",
@@ -4313,15 +4175,13 @@
             "Jeremy Lawrence"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 14
+            "count": "9989",
+            "rating": 39
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "7",
-            "rating": "14",
-            "worst": "0"
+            "rating": "14"
         },
         "directors": [
             "George Bowers"
@@ -4383,15 +4243,13 @@
             "Alfred Molina"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 86
+            "count": "139",
+            "rating": 75
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "7",
-            "rating": "86",
-            "worst": "0"
+            "rating": "86"
         },
         "directors": [
             "Peter Yates"
@@ -4443,15 +4301,13 @@
             "Donnie Kehr"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "1515",
             "rating": 48
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "1515",
-            "rating": "48",
-            "worst": "0"
+            "rating": "48"
         },
         "directors": [
             "Sean S. Cunningham"
@@ -4513,15 +4369,13 @@
             "Isabelle Massard"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 34
+            "count": "63238",
+            "rating": 49
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "29",
-            "rating": "34",
-            "worst": "0"
+            "rating": "34"
         },
         "directors": [
             "Amy Heckerling"
@@ -4582,15 +4436,13 @@
             "Mary MacKinnon"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "1107",
             "rating": 79
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "1107",
-            "rating": "79",
-            "worst": "0"
+            "rating": "79"
         },
         "directors": [
             "Daniel Petrie Sr."
@@ -4654,15 +4506,13 @@
             "Roland MacLeod"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 0
+            "count": "1069",
+            "rating": 38
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "5",
-            "rating": "0",
-            "worst": "0"
+            "rating": "0"
         },
         "directors": [
             "Freddie Francis"
@@ -4704,15 +4554,13 @@
             "Aurora Maris"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "Not yet available",
             "rating": ""
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": null,
-            "rating": null,
-            "worst": "0"
+            "rating": null
         },
         "directors": [
             "G\u00e9rard Lauzier"
@@ -4755,15 +4603,13 @@
             "Harry Madsen"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "51",
             "rating": 0
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "51",
-            "rating": "0",
-            "worst": "0"
+            "rating": "0"
         },
         "directors": [
             "Adam Brooks"
@@ -4794,15 +4640,13 @@
             "Beatriz Thibaudin"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 100
+            "count": "2653",
+            "rating": 89
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "11",
-            "rating": "100",
-            "worst": "0"
+            "rating": "100"
         },
         "directors": [
             "Luis Puenzo"
@@ -4901,15 +4745,13 @@
             "Greg Walker"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 82
+            "count": "609",
+            "rating": 65
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "11",
-            "rating": "82",
-            "worst": "0"
+            "rating": "82"
         },
         "directors": [
             "Alan Randolph Scott",
@@ -4960,15 +4802,13 @@
             "Margaret Welsh"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 88
+            "count": "1054",
+            "rating": 42
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "17",
-            "rating": "88",
-            "worst": "0"
+            "rating": "88"
         },
         "directors": [
             "Joyce Chopra"
@@ -4976,6 +4816,7 @@
         "genre": "drama",
         "productionCompany": "Live Home Video",
         "reviews": [
+            "Throughout, Joyce Chopra patiently and shrewdly observes the contradictions of human behavior that Laura Dern brilliantly conveys.",
             "The film's power is enormous throughout; spare means (long-held closeups, a four-minute take of sisterly confessions) evoke a drama that seems to have been filmed holding its breath.",
             "The movie is almost uncanny in its self-assurance, in the way it knows that the first hour, where 'nothing' happens, is necessary if the payoff is to be tragic, instead of merely sensational.",
             "Plays uncomfortably like two movies jammed into one.",
@@ -4983,7 +4824,6 @@
             "Remains one of the most insightful and harrowing examinations of American adolescence ever put on film. ",
             "With its unlikely note of resolution, the coda in particular belies the adaptation's larger insistence on nuance, ambiguity, what even a young girl knows, without knowing, to be irresolvable.",
             "A gorgeous, thrilling portrayal of careless childhood dissolving in the summer sun, Smooth Talk is a landmark coming-of-age film and signals the arrival of one of cinema's favorite stars.",
-            "Throughout, Joyce Chopra patiently and shrewdly observes the contradictions of human behavior that Laura Dern brilliantly conveys.",
             "Chopra's film is a fascinating time capsule.",
             "As Springsteen sang, 'the door's open but the ride, it ain't free.'",
             "Disregard the incoherent ending, which violates the source material (Joyce Carol Oates story): in her debut, Chopra has made a disturbing tale of sexual awakening set against the 1980s new context of shopping malls; Laura Dern is extraordinary as the lead",
@@ -5013,15 +4853,13 @@
             "Bozidarka Frajt"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 100
+            "count": "3352",
+            "rating": 91
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "7",
-            "rating": "100",
-            "worst": "0"
+            "rating": "100"
         },
         "directors": [
             "Emir Kusturica"
@@ -5096,29 +4934,27 @@
             "Jack Wright"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 93
+            "count": "44010",
+            "rating": 83
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "28",
-            "rating": "93",
-            "worst": "0"
+            "rating": "93"
         },
         "directors": [
             "Peter Bogdanovich"
         ],
-        "genre": "drama, biography",
+        "genre": "biography, drama",
         "productionCompany": "Universal Pictures",
         "reviews": [
             "Directed with great sensitivity by Peter Bogdanovich, Cher portrays Rusty with an almost sweet vulnerability.",
+            "Complex, moving story most appropriate for teens.",
             "The film's undeniable impact comes from Bogdanovich's willingness to go too far with practically every emotional moment, while maintaining a distant, classical visual style that gives the film a surface dignity and reserve.",
             "Bogdanovich invests the story with warmth, generosity and considerable power.",
             "Movies don't often grab us as quickly as Mask does... This isn't the story of a disease, but the story of some people.",
             "One of those movies that try so hard to get their supposedly universal message across that they are likely to put your teeth on edge more often than they bring one little, lonely teardrop to the eye.",
             "Exremely well acted family melodrama about a disfigured boy that in the hands of another director could have been a schmaltzy TV Movie of the Week",
-            "Complex, moving story most appropriate for teens.",
             "unforgettable.",
             "A good movie that could have been a great one with a little more restraint.",
             "Three great performances (and some great make-up) anchor this tale of facial deformity.",
@@ -5156,20 +4992,18 @@
             "Armin Muller- Stahl"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "847",
             "rating": 85
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "847",
-            "rating": "85",
-            "worst": "0"
+            "rating": "85"
         },
         "directors": [
             "Istv\u00e1n Szab\u00f3"
         ],
-        "genre": "history, drama",
+        "genre": "drama, history",
         "productionCompany": "",
         "reviews": [
             "Brandauer renders a strong performance in this biopic of the Jewish and gay military officer, though the film is not as powerful or richly detailed as his portrait in Mephisto, also directed by Szabo.",
@@ -5228,15 +5062,13 @@
             "Dominic Barto"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 40
+            "count": "352602",
+            "rating": 79
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "48",
-            "rating": "40",
-            "worst": "0"
+            "rating": "40"
         },
         "directors": [
             "Sylvester Stallone"
@@ -5245,20 +5077,20 @@
         "productionCompany": "Metro-Goldwyn-Mayer",
         "reviews": [
             "Say what you like about the original Rocky, at least it was about something -- a sweet pug up against the system, and in love with a dowd. Rocky IV appears to be an epic about Sylvester Stallone's penchant for self-abuse.",
+            "'Rocky IV' still stands, not as a highlight of the series (certainly not that) but as a quintessential artifact of mid-'80s studio filmmaking: soulless, flag-waving, soundtrack-blasting Product. ",
             "Padded with clips from earlier Rocky pictures, adding nothing to his mythic, let alone human dimensions, it lacks even the primitive suspense and crude capacity to release underdog emotions that permitted its predecessors to conquer one's better judgment.",
             "[Stallone] creates credible villains worthy of his heroic character.",
             "This is grim and witless storytelling, and what makes it so depressing is that it hasn't improved by so much as a chemical trace since the days of the first Rocky.",
             "The new film's narrative is stripped down to essentials, which gives it an emblematic quality.",
-            "Sylvester Stallone is really sloughing it off shamelessly in Rocky IV, but it's still impossible not to root for old Rocky Balboa to get up off the canvas and whup that bully one more time.",
             "There are simply too many ludicrous elements to ignore: Paulie's robot; Brigitte Nielsen, even less expressive than the robot; about a thousand music-video-styled montages; Lundgren's delivery of Drago's deadly dialogue; etc. ",
             "It's a bad movie, no doubt, but at the same time, and somewhat paradoxically, it's also a great movie. Figure that one out.",
             "It's ridiculous in a lot of ways... But hot d---- is this ever a fun, rewatchable movie.",
             "Dated Cold War-themed boxing sequel has violence. ",
-            "'Rocky IV' still stands, not as a highlight of the series (certainly not that) but as a quintessential artifact of mid-'80s studio filmmaking: soulless, flag-waving, soundtrack-blasting Product. ",
             "The outcome of the film is predetermined by the formulaic scripts of Rocky II and Rocky III. Stallone boxed himself into a corner with this one.",
             "Though it's impossible not to get caught up in our hero's Russian training programme, or to root for his climactic victory, the mawkish montages accompanied by blaring music are no substitute for plot shading.",
             "His vacuous post-bout speech indicates why boxers with 75 professional bouts are rarely called upon as public speakers.",
             "Whatever charm and grit there was in the first film is gone, replaced with a glossed up, over the top form of 1980's action melodrama, which is thick on the cheese and even thicker on the montages. And this critic loved every minute of it.",
+            "Sylvester Stallone is really sloughing it off shamelessly in Rocky IV, but it's still impossible not to root for old Rocky Balboa to get up off the canvas and whup that bully one more time.",
             "Ridiculous jingoistic nonsense.",
             "Boxers are noted for their hubris, but Stallone, perhaps still punch-drunk from the early success, would have been better advised to have quit rather than suffer the body blows of this nonsense.",
             "A far cry from the delights (both large and small) of its illustrious original.",
@@ -5308,15 +5140,13 @@
             "Andreas Markos"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 46
+            "count": "5429",
+            "rating": 74
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "13",
-            "rating": "46",
-            "worst": "0"
+            "rating": "46"
         },
         "directors": [
             "Taylor Hackford"
@@ -5385,15 +5215,13 @@
             "Chris Penn"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 93
+            "count": "39678",
+            "rating": 83
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "27",
-            "rating": "93",
-            "worst": "0"
+            "rating": "93"
         },
         "directors": [
             "Clint Eastwood"
@@ -5490,28 +5318,26 @@
             "Monty Landis"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 87
+            "count": "113310",
+            "rating": 79
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "46",
-            "rating": "87",
-            "worst": "0"
+            "rating": "87"
         },
         "directors": [
             "Tim Burton"
         ],
-        "genre": "kids and family, comedy",
+        "genre": "comedy, kids and family",
         "productionCompany": "Warner Home Video",
         "reviews": [
             "\"Pee-wee's Big Adventure\" isn't a movie but a collection of found objects from the garbage heap of low culture...",
             "Reubens always lets us feel superior to his creation, and when his character slips, as it does more than once in this first feature outing, his own condescension shows through.",
             "Fair warning: this movie could induce terminal boredom in adults and rot the minds of the young.",
+            "Burton's first feature revels in the weird, the unpredictable, the infantile and the absurd. A dazzling debut.",
             "Children should love the film and adults will be dismayed by the light brushstrokes with which Paul Reubens (one of three credited screenwriters, but star-billed under his stage name, Pee-wee Herman) suggests touches of Buster Keaton and Eddie Cantor.",
             "Fed by comic tributaries perhaps, but Pee-Wee Herman comes over as a delightful original.",
-            "You have been warned.",
             "Adventure is a well-produced showcase that sets [Pee-Wee Herman] firmly in line with classic clowns from Chaplin through Jerry Lewis.",
             "Tim Burton's first (and best) movie...",
             "It's a true original -- a comedy maverick that looks and feels like no other movie I know.",
@@ -5523,7 +5349,6 @@
             "But perhaps Pee-wee's appeal lies precisely in the slightly discomfiting uncertainty of his persona... insufferably giddy, occasionally malevolent, and completely indefatigable; demented, irritating, narcissistic -- and infectiously funny.",
             "It's surreal, funny, clever and disarming in equal measures.",
             "Two stars were born with the release of this film -- one in front of the camera and one behind it.",
-            "Burton's first feature revels in the weird, the unpredictable, the infantile and the absurd. A dazzling debut.",
             "The filmmakers create a zany and surreal world for Pee-wee yet it all seems perfectly natural and credible. Plus, it's all infused with a subdued yet rampant silliness that's enchanting.",
             "It might start off silly, but by the end, it's skewered tons of film clich\u00e9s, offered our first glimpse at Tim Burton's cinematic vision, and, most crucially, made you laugh more times than you can count.",
             "Tim Burton's visual imagination proves a perfect match for Pee-wee's fanciful exploits.",
@@ -5587,15 +5412,13 @@
             "Biff Yeager"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 81
+            "count": "5536",
+            "rating": 58
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "31",
-            "rating": "81",
-            "worst": "0"
+            "rating": "81"
         },
         "directors": [
             "Richard Marquand"
@@ -5672,15 +5495,13 @@
             "Bennet Bowman"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 44
+            "count": "55619",
+            "rating": 68
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "41",
-            "rating": "44",
-            "worst": "0"
+            "rating": "44"
         },
         "directors": [
             "Joel Schumacher"
@@ -5693,7 +5514,7 @@
             "There is an abundance of astute and knowledgeably drawn scenes with this contextually structured story. There are some biting observations of college life, with law school in particular taking some verbal jabs on the chin.",
             "St. Elmo's Fire is all about a group of recent college graduates in Washington who were always the best of friends but now are drifting apart as real life approaches, discovering various reasons why they are so individually obnoxious.",
             "Estevez and Nelson are as unappealing here as in The Breakfast Club, though in fairness they're hampered by a script that seems to despise its characters.",
-            "The film is edited so skittishly that the actors are barely able to complete their sentences, let alone their thoughts. That's probably just as well.",
+            "An icon of the 80's.",
             "I disliked all the characters and whatever magic John Hughes had, where he could make me root for characters I disliked doing things I detested, this movie hasn't got.",
             "It's not until the strains begin to show and rivalries emerge that St. Elmo's Fire becomes truly interesting -- and convincing.",
             "From the music to the iffy fashions, director Joel Schumacher and his cast capture the 80s in one supercool microcosm.",
@@ -5783,39 +5604,37 @@
             "George Ogilvie"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 80
+            "count": "68023",
+            "rating": 49
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "51",
-            "rating": "80",
-            "worst": "0"
+            "rating": "80"
         },
         "directors": [
             "George Miller",
             "George Ogilvie"
         ],
-        "genre": "sci fi, action",
+        "genre": "action, sci fi",
         "productionCompany": "Warner Bros. Pictures",
         "reviews": [
             "It's comic books in a Cuisinart, all costumes and cute monikers and no story, a sort of case history of just what's wrong with sequelitis.",
             "This middle portion of the picture becomes dangerously preachy, but just before we and Max are bored, director Miller returns Max to his roots, a screaming chase sequence through a desertlike Australian landscape.",
             "Beyond Thunderdome is the third in George Miller's Mad Max series, and it closes the trilogy like a lightning blast followed by the ominous, resonant drone of thunder.",
+            "There is something to get excited about in this third chapter of the Mad Max series: the powerhouse presence of Tina Turner.",
             "Mad Max Beyond Thunderdome isn't a bad movie. It has entertaining sections, decent performances and more than a few provocative images. But it also has a major shortcoming: It's too darned sane.",
             "An astonishing display of virtuoso cinema that is destined to take its place among the most vivid and freshly imagined fist-to-groin contests in the medium's history.",
-            "Miller never falls back on the formulas that have become the bane of too many recent action films, and his sustained cuts lend a clarity to the proceedings.",
             "The suspense is still effective and the climactic railroad chase at the conclusion handsomely echoes the other outrageous stunts of the trilogy.",
             "This is a wild, imaginative action film that truly shows what the power of cinema can accomplish in even the direst of situations.",
             "In a sense, it's sort of the Return of the Jedi of the Mad Max series: It's solid, it's engaging, but yeah, it's also a kind of a step down from the previous two",
             "It's hard not to wonder why Beyond Thunderdome isn't better. ",
             "Outrageously sinister, unblinkingly violent, Mad Max Beyond Thunderdome is everything that fans of the futurist road warrior could hope for and more.",
-            "There is something to get excited about in this third chapter of the Mad Max series: the powerhouse presence of Tina Turner.",
             "The directors, George Miller and George Ogilvie, borrow from every source they can find; movie buffs can pass the time spotting the Lynch shot, the Leone shot, the Jodorowski shot, and all kinds of others.",
             "The third in Mel Gibson's sci-fi series is the weakest, but it remains a hugely entertaining futuristic spectacular.",
             "This infusion of money and production by a major studio gives the film a slightly more polished look, but is inferior to the previous two films in every other way.",
             "If \"Mad Max\" embraced a geneticist's acumen and \"The Road Warrior\" a philosopher's spirit, \"Thunderdome\" is about cold, hard economics - not just in Bartertown's transactions but the market expectations that come with the receipt of studio funding.",
+            "Miller never falls back on the formulas that have become the bane of too many recent action films, and his sustained cuts lend a clarity to the proceedings.",
             "Disjointed but it still rocks.",
             "Quality, visionary sci-fi.",
             "The performances are superb. The script allows Gibson to bring a welcome new dimension to the Mad Max character, and the actor rises to the occasion.",
@@ -5866,20 +5685,18 @@
             "Larry B. Daugherty"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 42
+            "count": "72772",
+            "rating": 52
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "33",
-            "rating": "42",
-            "worst": "0"
+            "rating": "42"
         },
         "directors": [
             "Rod Daniel"
         ],
-        "genre": "comedy, fantasy",
+        "genre": "fantasy, comedy",
         "productionCompany": "Atlantic",
         "reviews": [
             "To his credit, director Rod Daniel has crafted an amiable teen film and gets a pleasing performance from Fox in the title role. Yet Teen Wolf, especially in the basketball sequences, loses its dramatic dribble.",
@@ -5887,7 +5704,7 @@
             "Fox somehow survives on the sheer force of a pleasant screen presence, but those who remember The Shaggy Dog ought to stay away.",
             "Determinedly bland and unoriginal.",
             "Lightweight item is innocuous and well-intentioned but terribly feeble, another example of a decent idea yielding the least imaginative results conceivable.",
-            "For a film that's so innocuous, Teen Wolf is aggressively boring.",
+            "Michael J. Fox's early lycanthrope comedy doesn't have the easy charm of his later movies such as the Back To The Future franchise or Doc Hollywood, but it's still a diverting enough tale.",
             "The movie plods towards a predictable ending and misses all sorts of chances to be funny.",
             "If in Back to the Future the problem is solved by rewriting family history and transforming the father into a winner, here the solution is much more fantastic, although less fun. [Full review in Spanish]",
             "As the unfortunate teenager, the ever-engaging Michael J Fox is doing what he does best - turning a loser into a winner.",
@@ -5899,7 +5716,7 @@
             "It's often ridiculous, and filled with '80s cheese, but Teen Wolf does harbor some poignant coming-of-age metaphors and decent helping of intentional, and unintentional, comedy.",
             "Despite the inexcusable lack of a DeLorean, Teen Wolf is a modest, digestible comedy, guided by a perfectly itchy Fox performance as the titular beast. ",
             "corny but endearing",
-            "Michael J. Fox's early lycanthrope comedy doesn't have the easy charm of his later movies such as the Back To The Future franchise or Doc Hollywood, but it's still a diverting enough tale."
+            "For a film that's so innocuous, Teen Wolf is aggressively boring."
         ]
     },
     "1985_29": {
@@ -5957,15 +5774,13 @@
             "Gene Hartline"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 76
+            "count": "23276",
+            "rating": 80
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "34",
-            "rating": "76",
-            "worst": "0"
+            "rating": "76"
         },
         "directors": [
             "Lawrence Kasdan"
@@ -5975,10 +5790,10 @@
         "reviews": [
             "...In other words, there's a lot less going on in Silverado than pleases the eye.",
             "The western is back, and with writer/director Lawrence Kasdan at the reins, you're glad to see it.",
+            "Engrossing western which inspired a huge genre revivial.",
             "Agreeable but never compelling.",
             "Real rewards of the film are in the visuals and rarely has the West appeared so alive, yet unlike what one carries in his mind's eye. Ida Random's production design is thoroughly convincing in detail.",
             "Kasdan resorts to a TV-like shorthand, substituting shtick for personality.",
-            "This takes as its subject the Western itself; but what could have been a bankrupt exercise is saved by exuberance, goodwill, and sheer excitement.",
             "\"Silverado\" is the real thing, a good old-fashioned Western that shoots straight, rides tall, and moves quicker than a cowboy galloping off to the chuck wagon.",
             "Not reaching the mastery of the film starring a vengeful spirit, the truth is that 'Silverado' is a feast for the senses. [Full Review in Spanish] ",
             "Classic '80s Western has violence, language. ",
@@ -5986,9 +5801,9 @@
             "It's like a colossal buffet: You take what you want and leave the rest, readily forgiving the worst of it because the best just tastes so good.",
             "Filled with enough stock characters and B-film plotlines for a dozen mediocre Westerns.",
             "Should by rights swim in hokiness, but it's a bumptious classic.",
-            "Engrossing western which inspired a huge genre revivial.",
             "A big stampede of a movie with ideas and scenes thundering off in dozens of directions.",
             "A terrific western with a superb cast",
+            "This takes as its subject the Western itself; but what could have been a bankrupt exercise is saved by exuberance, goodwill, and sheer excitement.",
             "The actors shift gears effortlessly, playing their parts with seriousness when the situation calls for it, but also enjoying those moments that are intended to be fun.",
             "Great new classic western.",
             "A good enough Western to cause many to kick up their spurs in celebration.",
@@ -6020,46 +5835,44 @@
             "George Cheung"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 35
+            "count": "99828",
+            "rating": 60
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "43",
-            "rating": "35",
-            "worst": "0"
+            "rating": "35"
         },
         "directors": [
             "George P. Cosmatos"
         ],
-        "genre": "adventure, action",
+        "genre": "action, adventure",
         "productionCompany": "TriStar Pictures",
         "reviews": [
+            "Reappraisal is not due.",
             "So powerful and intoxicating is this kind of movie hero that when we see him operating in a flaw-riddled movie like ''Rambo'' we realize that heroic action can override almost any script.",
             "In credibility, the action is as ludicrous as old Saturday-afternoon serials; in execution, the skills help it to skate over the incredibilities.",
+            "What makes this icon so significant is how wholly he was embraced by the Reagan era. After all, it only seems natural to respond to B-movie action stars when your president was one as well.",
             "This overwrought sequel to the popular First Blood (1982) is one mounting fireball.",
-            "A thoroughly unpleasant project, quite apart from its creepy populist posturing (Stallone seemed determined to become the Huey Long of the movies).",
-            "The body count is rising, Sly's pecs are blowing up, and Rambo himself is becoming more of a brand-name than a character, a mascot for masochism and murderous self-assertion.",
-            "To anyone who doesn't share the camera's adoration, this sort of behavior becomes so comic that Rambo turns into something of a camp classic.",
+            "Rambo's significant beefcake factor is so pronounced in First Blood: Part II that it practically begs to be taken as queer-baiting camp.",
             "Though it sacrifices the original film's brooding style and moral complexities for nonstop action, this second chapter manages to remain surprisingly entertaining.",
             "A tedious action yarn.",
             "From its whip 'em up music to its doggy cliches, the movie is a rubbish pile. Even the vaunted action scenes... don't show fresh verve or tactical flair. They're just stunts with big price tags.",
             "Stallone, an often terribly misused actor, embroiders a very physical role, very demanding, emanating fear and pain at the same time, something more difficult to do than it seems. [Full Review in Spanish]",
             "The result is entertaining if implausible as Stallone flexes his muscles for some cartoon-like heroics, rescuing American prisoners in Vietnam but discovering that he's considered as expendable as the men he's trying to save.",
-            "Reappraisal is not due.",
             "Despite its various issues there's one thing about Rambo: First Blood Part II that trumps everything else - it's a whole lotta fun.",
             "As subtle as an exploding arrow to the head... It almost feels as if this takes everything that First Blood did so well to restrict, and just throws it all at the audience double-fold.",
             "An endless parade of people glowering, being pensive, skulking, but with all the sonic and visual trappings of a trashy action movie insisting that it's big noisome fun.",
             "Sly shoots up Vietnam in glorified '80s actioner.",
-            "What makes this icon so significant is how wholly he was embraced by the Reagan era. After all, it only seems natural to respond to B-movie action stars when your president was one as well.",
-            "Rambo's significant beefcake factor is so pronounced in First Blood: Part II that it practically begs to be taken as queer-baiting camp.",
             "It's awesome",
             "...precisely the sort of unapologetically brutal piece of work that's sorely missing from contemporary multiplexes.",
             "All in all, it's a pretty offensive movie, especially to the Americans who fought in Vietnam.",
+            "A thoroughly unpleasant project, quite apart from its creepy populist posturing (Stallone seemed determined to become the Huey Long of the movies).",
             "Qualifies as a guilty pleasure, a good-bad 'B' movie.",
             "A \"perfect\" flick for the Reagan era: a simplistic, distorted comicstrip actioner that nonetheless must have tapped into the collective nightmare that some American soldiers were still held prisoners or were missing in action in Vietnam.",
-            "Far from credible, but a terrific, cheer-out-loud action film nevertheless. Immediately and deservedly made Stallone's John Rambo a great individualistic screen hero to rival Eastwood's Dirty Harry."
+            "The body count is rising, Sly's pecs are blowing up, and Rambo himself is becoming more of a brand-name than a character, a mascot for masochism and murderous self-assertion.",
+            "Far from credible, but a terrific, cheer-out-loud action film nevertheless. Immediately and deservedly made Stallone's John Rambo a great individualistic screen hero to rival Eastwood's Dirty Harry.",
+            "The one man demolition squad blasts away again!"
         ]
     },
     "1985_30": {
@@ -6107,15 +5920,13 @@
             "Martin Ritt"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 73
+            "count": "6489",
+            "rating": 75
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "26",
-            "rating": "73",
-            "worst": "0"
+            "rating": "73"
         },
         "directors": [
             "Martin Ritt"
@@ -6157,15 +5968,13 @@
             "Christie Clark"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 41
+            "count": "321402",
+            "rating": 33
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "29",
-            "rating": "41",
-            "worst": "0"
+            "rating": "41"
         },
         "directors": [
             "Jack Sholder"
@@ -6173,6 +5982,8 @@
         "genre": "horror",
         "productionCompany": "Media Home Entertainment",
         "reviews": [
+            "The sequel is clunky, sluggish, poorly cast, not funny, and worst of all, not scary. And it all but dispenses with what made the first film scary to begin with.",
+            "Possibly the lamest of all the sequels, although Five and Six later set the bar particularly low.",
             "Episodic treatment is punched up by an imaginative series of special effects.",
             "The film hangs reasonably well together, not least because of good performances from all concerned.",
             "Mr. Patton and Miss Myers make likable teen-age heroes, and Mr. Englund actually turns Freddy into a welcome presence.",
@@ -6180,10 +5991,8 @@
             "Freddy [i]s a threat to Jesse's burgeoning queerness. He is a manifestation of Jesse's own internalized homophobia, so when sexual situations arise that might naturally encourage Jesse to consider his \"unorthodox for the 80s\" sexuality, Freddy pops out",
             "An allegory about the dangers of being forced to repress your sexuality, and also a fun slice of Freddy's nightmare world.",
             "Not as bad as history has confirmed it, Freddy's actual revenge and original sequel poorly delivers but sets an strange path for a playful villain. [Full review in Spanish].",
-            "The sequel is clunky, sluggish, poorly cast, not funny, and worst of all, not scary. And it all but dispenses with what made the first film scary to begin with.",
             "...a weak retread of its marginally superior predecessor...",
             "An uneven, tedious, and sloppy sequel with plot holes, lapses in logic and horrible performances...",
-            "Possibly the lamest of all the sequels, although Five and Six later set the bar particularly low.",
             "Much better than expected.",
             "As is the prevalent case with most sequels, the film is inferior to its predecessor. It is still very, very good, however, more so than most viewers give it credit for.",
             "Very weird, homoerotic flick, but very entertaining in a 80s kindofaway",
@@ -6264,15 +6073,13 @@
             "Michael Bramon"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 83
+            "count": "30781",
+            "rating": 62
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "30",
-            "rating": "83",
-            "worst": "0"
+            "rating": "83"
         },
         "directors": [
             "Susan Seidelman"
@@ -6355,15 +6162,13 @@
             "Luis Accinelli"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 86
+            "count": "7919",
+            "rating": 62
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "36",
-            "rating": "86",
-            "worst": "0"
+            "rating": "86"
         },
         "directors": [
             "John Huston",
@@ -6376,6 +6181,7 @@
             "As usual, Turner works hard and manages to lend some conviction to a shoddily written part, but she can't connect with Nicholson, whose obscure hamminess leaves him isolated on some other planet.",
             "A very stylish walk with love and death.",
             "This is the most bizarre comedy in many a month, a movie so dark, so cynical and so funny that perhaps only Jack Nicholson and Kathleen Turner could have kept straight faces during the love scenes.",
+            "Not one of Nicholson's best, but an enjoyable comedy nonetheless.",
             "John Huston's best film in years.",
             "A dark comedy, to be sure, but it all ends on a surprisingly dour note that it never quite earns.",
             "I think it's just about a great movie, and certainly one of director John Huston's best.",
@@ -6386,8 +6192,7 @@
             "Widely considered a black comedy classic, Prizzi's Honor is dated today and, tragically, finally revealed as a middling work that wanders aimlessly and ends abruptly.",
             "Yes, it went a little too long, felt a little forced at times, began with one of the most unnecessary lengthy wedding scenes of all-time and ended on a note that simply didn't satisfy, but overall, I enjoyed it and would recommend it.",
             "A black comedy about an ill-fated love affair and the nasty politics of a criminal clan.",
-            "As divertidas (e exageradas) performances de Nicholson e Hickey s\u00e3o o ponto alto deste filme apenas regular.",
-            "The film itself gets funnier, darker, and more complex as it goes along...."
+            "As divertidas (e exageradas) performances de Nicholson e Hickey s\u00e3o o ponto alto deste filme apenas regular."
         ]
     },
     "1985_35": {
@@ -6431,15 +6236,13 @@
             "Samantha Langevin"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 43
+            "count": "6789",
+            "rating": 55
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "30",
-            "rating": "43",
-            "worst": "0"
+            "rating": "43"
         },
         "directors": [
             "Norman Jewison"
@@ -6518,15 +6321,13 @@
             "Jack C. Woods"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 17
+            "count": "9631",
+            "rating": 51
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "18",
-            "rating": "17",
-            "worst": "0"
+            "rating": "17"
         },
         "directors": [
             "Carl Reiner"
@@ -6579,15 +6380,13 @@
             "Isabel Bicudo"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 81
+            "count": "5657",
+            "rating": 79
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "16",
-            "rating": "81",
-            "worst": "0"
+            "rating": "81"
         },
         "directors": [
             "John Boorman"
@@ -6637,20 +6436,18 @@
             "Ronald Fernee"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 20
+            "count": "18945",
+            "rating": 66
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "20",
-            "rating": "20",
-            "worst": "0"
+            "rating": "20"
         },
         "directors": [
             "Jeannot Szwarc"
         ],
-        "genre": "kids and family, other, fantasy",
+        "genre": "fantasy, other, kids and family",
         "productionCompany": "TriStar Pictures",
         "reviews": [
             "A holiday honey of a film for the entire family.",
@@ -6706,20 +6503,18 @@
             "Maryam d'Abo"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 59
+            "count": "40322",
+            "rating": 83
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "54",
-            "rating": "59",
-            "worst": "0"
+            "rating": "59"
         },
         "directors": [
             "Sydney Pollack"
         ],
-        "genre": "romance, drama, biography",
+        "genre": "romance, biography, drama",
         "productionCompany": "Universal Pictures",
         "reviews": [
             "This may be the silliest serious movie since Reds. When you finally get the heck out of Africa, it's not a second too soon.",
@@ -6733,9 +6528,9 @@
             "Engagingly played, swoonsomely shot, and a bit breathy... perfect stuff for a Sunday night.",
             "The beauty that people talk about after they have eaten their popcorn and blown their noses is a postcard beauty, and the ache they feel has nothing to do with the script and very little to do with the performances.",
             "Out of Africa is a melodrama, but in any case, it is an excellent one. [Full Review in Spanish] ",
-            "Luedtke and Pollack bought these high-priced literary sources only to chuck them for a conventional, largely fictionalized movie romance.",
-            "The relationship between Karen Blixen and her British lover, Denys Finch Hatton, may fail to catch fire. But the production itself is so exquisitely served that you can't help but be grateful for this extraordinary visual treat.",
             "What the movie loses in emotional realism, it gains in sheer epic audacity.",
+            "The relationship between Karen Blixen and her British lover, Denys Finch Hatton, may fail to catch fire. But the production itself is so exquisitely served that you can't help but be grateful for this extraordinary visual treat.",
+            "Luedtke and Pollack bought these high-priced literary sources only to chuck them for a conventional, largely fictionalized movie romance.",
             "The relationship of Karen and Denys is a prickly and, despite the era in which it is set, curiously modern one. It's also at the heart of this understated movie.",
             "Streep may convince us utterly that she is in love with Africa, but our views of it are a little too stately to really feel the place.",
             "Out of Africa is a splendid example of that persistent genre, the coffeetable movie. It's big, beautiful, and imposing. But there isn't much to it, and pretty pictures -- replacing ideas, not supporting them -- are its only real attraction.",
@@ -6766,20 +6561,18 @@
             "Billie Mae Richards"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 50
+            "count": "18896",
+            "rating": 58
         },
         "contentRating": "G",
         "criticsRatings": {
-            "best": "100",
             "count": "6",
-            "rating": "50",
-            "worst": "0"
+            "rating": "50"
         },
         "directors": [
             "Arna Selznick"
         ],
-        "genre": "kids and family, animation, fantasy",
+        "genre": "fantasy, animation, kids and family",
         "productionCompany": "MGM",
         "reviews": [
             "\"The Care Bears Movie\" isn't a bedtime story at all -- it's more of a lulla-buy-buy-buy.",
@@ -6826,15 +6619,13 @@
             "Chuck Wells"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 18
+            "count": "62099",
+            "rating": 26
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "22",
-            "rating": "18",
-            "worst": "0"
+            "rating": "18"
         },
         "directors": [
             "Danny Steinmann"
@@ -6842,17 +6633,17 @@
         "genre": "horror",
         "productionCompany": "Paramount Pictures",
         "reviews": [
+            "The tone is crude, raunchy, and leering, with kill scenes combined with more nudity than usual.",
+            "The spiciest entry in the series, it boasts the most T&A, an incredible double homicide, a witty reference to A Place in the Sun, and yokels chopping chickens.",
             "If you are curious about classic '80s horror and need a gateway into the genre, though, this should be the first movie you check out.",
             "Losing its star - and story motivation - was only the beginning of the trouble, though. Most of the rest amounted to poor decisions.",
             "A horrible \"new beginning\". Paramount got greedy and this came out in theaters. [Full review in Spanish].",
             "...falls right in line with its hopelessly inferior (and surprisingly dull) immediate predecessor...",
             "The plot twists may offer something different from the series, actually having a little more in common with the first film than any other. However, this wasn't that original.",
             "This one just annoyed me.",
-            "The tone is crude, raunchy, and leering, with kill scenes combined with more nudity than usual.",
             "Let's make it an old ending! Enough slashing and dicing!",
             "Jason doesn't show up, which sucks.",
             "This is not a fun stupid movie. This is a stupid movie that makes me want to claw my skin off.",
-            "The spiciest entry in the series, it boasts the most T&A, an incredible double homicide, a witty reference to A Place in the Sun, and yokels chopping chickens.",
             "While it is safe to say none of these movies was particularly worth making, I believe Part 5 is the one that brought the least for our collective edification.",
             "The worst Jason story, but the best nudity of the entire series!",
             "Like most of the film's in this series, it's seldom more than just about adequate. Love the flare-in-the-mouth kill, though.",
@@ -6886,29 +6677,27 @@
             "Peter Renaday"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 53
+            "count": "45743",
+            "rating": 48
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "32",
-            "rating": "53",
-            "worst": "0"
+            "rating": "53"
         },
         "directors": [
             "Ted Berman",
             "Richard Rich"
         ],
-        "genre": "kids and family, animation, fantasy",
+        "genre": "fantasy, animation, kids and family",
         "productionCompany": "Walt Disney Productions",
         "reviews": [
             "Technically brilliant though short on narrative, \"The Black Cauldron\" is a painless, old-fashioned way to take out the kids, and a triumph for the animation department at the Disney studio, where it has been in development for almost a dozen years.",
+            "Possibly not the worst animated feature the House Of Mouse has produced, but certainly stumbling around the darker recesses of the Disney vault.",
             "The characters, though cute and cuddly and sweet and mean and ugly and simply awful, don't really have much to do that would remain of interest to any but the youngest minds.",
             "It's quite good, though by the impossible standards the film sets for itself it inevitably falls short.",
             "As usual it is technically excellent, but the charm, characterisation and sheer good humour that made features like Pinocchio and Jungle Book so enjoyable are sadly absent.",
             "This is the 25th full-length animated feature from Walt Disney studios, and professionally put together as it is, many of the ingredients may seem programmed to those who have seen some of the others.",
-            "The backgrounds are as richly textured and detailed as in any other Disney film.",
             "Feels like only half of a story, as if audiences are thrust into the core chapters of an epic quest, with countless elements left undetailed, unexplained, and underdeveloped.",
             "Definitely one of the worst Disney animated films and gets worse every time I watch it",
             "With all of the talent and effort put into this, the movie only amounts to a bunch of premature ideas that are clumped together, making little sense. ",
@@ -6917,7 +6706,6 @@
             "Flawed jumble of a film, but a picture of immense artistic accomplishment and dedication to atypical faces of wickedness...there's still so much to admire about this red-headed stepchild of a film.",
             "It may have cost five times the amount of any other Disney film in the preceding two decades, but by God that money ended up on screen.",
             "A glorious return to the days at Disney when animation was full and detail was everything.",
-            "Possibly not the worst animated feature the House Of Mouse has produced, but certainly stumbling around the darker recesses of the Disney vault.",
             "Middle road Disney animation, unmemorable.",
             "John Hurt's gravelly voice of the Horned King steals the show."
         ]
@@ -6973,15 +6761,13 @@
             "Marc Mercury"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 27
+            "count": "9545",
+            "rating": 33
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "11",
-            "rating": "27",
-            "worst": "0"
+            "rating": "27"
         },
         "directors": [
             "James Komack"
@@ -7048,15 +6834,13 @@
             "Ron Henriques"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 63
+            "count": "7268",
+            "rating": 51
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "19",
-            "rating": "63",
-            "worst": "0"
+            "rating": "63"
         },
         "directors": [
             "Andrew Davis"
@@ -7112,15 +6896,13 @@
             "Lonnie Wun"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 58
+            "count": "8449",
+            "rating": 33
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "12",
-            "rating": "58",
-            "worst": "0"
+            "rating": "58"
         },
         "directors": [
             "Nicholas Meyer"
@@ -7171,23 +6953,22 @@
             "Michael Hordern"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 64
+            "count": "11255",
+            "rating": 63
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "22",
-            "rating": "64",
-            "worst": "0"
+            "rating": "64"
         },
         "directors": [
             "Barry Levinson"
         ],
-        "genre": "adventure, mystery and thriller, drama, action",
+        "genre": "action, drama, adventure, mystery and thriller",
         "productionCompany": "Paramount Pictures",
         "reviews": [
             "... it's a perfectly agreeable family entertainment, a craftsmanlike fantasia on Conan Doyle.",
+            "There is something about Holmes's elegant, haunting, and whisperingly melancholic distance, his analytical remove from the world, that inspires a desire for glimpses of the baroque corridors of labyrinthine interiors.",
             "If these story elements seem typical of Conan Doyle, there is also a lot in this movie that can be traced directly to the work of Steven Spielberg, the executive producer.",
             "Time has not been very friendly to this teen thriller that in my household used to be \"fantastic\". [Full review in Spanish].",
             "This is the origin story for the world's first consulting detective that Conan Doyle was never considerate enough to write for us...",
@@ -7197,7 +6978,6 @@
             "Reveals that Holmes' true love is tortured to death in a big-budget extravaganza that provided the bastard sire for Jar Jar Binks.",
             "Big, silly, loud, nicely designed, and occasionally enjoyable.",
             "By the time Young Sherlock Holmes clangs to a close, the assets of the film are buried beneath an avalanche of unnecessary bells and whistles.",
-            "There is something about Holmes's elegant, haunting, and whisperingly melancholic distance, his analytical remove from the world, that inspires a desire for glimpses of the baroque corridors of labyrinthine interiors.",
             "definitely worth a better reception than it's received over the years.",
             "Not so successful try to install some youth in the Holmes canon."
         ]
@@ -7235,28 +7015,26 @@
             "Nana Cecchi"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 67
+            "count": "53499",
+            "rating": 74
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "24",
-            "rating": "67",
-            "worst": "0"
+            "rating": "67"
         },
         "directors": [
             "Richard Donner"
         ],
-        "genre": "adventure, fantasy",
+        "genre": "fantasy, adventure",
         "productionCompany": "20th Century Fox",
         "reviews": [
             "Unfortunately, director Richard Donner never quite gets the tone right, and the pace is positively stuporous. The horses gallop, but the film barely canters.",
+            "It's a likable-enough adventure that feels much smaller than the widescreen landscapes in which it takes place.",
             "A competent fantasy with likeable heroes and dastardly villains, though the running time is slightly overlong.",
             "Concerning the removal of a certain diabolical curse which keeps two lovers always together, yet always apart, Ladyhawke is a successful, unpretentious little film that uses strong characterization rather than special effects to achieve its goals.",
             "The film is gorgeous to watch, especially since the quality of light is so central to the plot: Is it afternoon or sunset?",
             "Messy, dated romantic fantasy is dull and violent.",
-            "It's a likable-enough adventure that feels much smaller than the widescreen landscapes in which it takes place.",
             "We need more fantasy like this: high adventure, brilliant swordplay, convincing magic, three-dimensional characters, arresting cinematography, and best of all, a good story.",
             "lovely scenery, silly story",
             "Ultra-romantic drama-adventure",
@@ -7308,15 +7086,13 @@
             "Robert Bauer"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 85
+            "count": "11788",
+            "rating": 79
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "34",
-            "rating": "85",
-            "worst": "0"
+            "rating": "85"
         },
         "directors": [
             "Rob Reiner"
@@ -7326,17 +7102,17 @@
         "reviews": [
             "Reiner displays a deft touch in balancing the real-life world of today's college students with the fairy tale quality of the script by Steven L. Bloom and Jonathan Roberts.",
             "That's the problem with \"The Sure Thing.\" All the good lines are given to Cusack -- he's always \"on,\" narrating his own life in the revved-up spiel of a sports announcer.",
+            "The Sure Thing succeeds most in identifying the self-effacing charm that would become Cusack's stock-in-trade as a young romantic lead. ",
             "[A] hysterically oversold mix of comic cliches from the 30s and the 80s.",
             "This is a likeable film that follows all of the necessary steps to engage an audience. It may not be a sure thing, but it's at least a pretty good bet.",
             "Realization may not be earth shattering, but in an era of fast food and faster sex, return to the traditional is downright refreshing.",
-            "There's plenty of mileage in this pairing, even if the movie isn't going anywhere unexpected.",
             "The Sure Thing is one of those movies that start to fade right after you've seen it, but while you're watching there's pleasure to be had in its craft.",
             "In a decade largely defined by raunchy teen sex comedies, here's a film that stood out from the pack thanks to its sweetness and sincerity.",
             "A classic. Has laughs in just about every single scene.",
-            "The Sure Thing succeeds most in identifying the self-effacing charm that would become Cusack's stock-in-trade as a young romantic lead. ",
             "A slightly amusing mainstream coming-of-age rom/com directed by Rob Reiner.",
             "A charming surprise.",
             "One of the great teen comedies of the 80s. One reason why Cusack became what he became",
+            "There's plenty of mileage in this pairing, even if the movie isn't going anywhere unexpected.",
             "Sweet and wonderful.",
             "A wonderful start for Cusack and Reiner.",
             "One of the more \"mature\" teen comedies from the 80s.",
@@ -7379,20 +7155,18 @@
             "Kachela Mohammed"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 48
+            "count": "53186",
+            "rating": 37
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "25",
-            "rating": "48",
-            "worst": "0"
+            "rating": "48"
         },
         "directors": [
             "Lewis Teague"
         ],
-        "genre": "adventure, romance, action",
+        "genre": "action, adventure, romance",
         "productionCompany": "Twentieth Century Fox Home Entertainment",
         "reviews": [
             "[The script] seems to consist of shouted dialogue and descriptions of action scenes. Lewis Teague's direction doesn't help; the extreme closeups seem aimed for the cassette audience.",
@@ -7428,15 +7202,13 @@
             "William Schallert"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "99",
             "rating": 8
         },
         "contentRating": "NR",
         "criticsRatings": {
-            "best": "100",
             "count": "99",
-            "rating": "8",
-            "worst": "0"
+            "rating": "8"
         },
         "directors": [
             "Alfred E. Green"
@@ -7495,15 +7267,13 @@
             "Jane Leaves"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 91
+            "count": "10520",
+            "rating": 78
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "35",
-            "rating": "91",
-            "worst": "0"
+            "rating": "91"
         },
         "directors": [
             "William Friedkin",
@@ -7517,7 +7287,7 @@
             "Engrossing and diverting enough on a moment-to-moment basis but is overtooled.",
             "Friedkin plays it as brutal and cynical as he ever did with The French Connection...",
             "On its own terms, it's a considerable success, though it's a film that sacrifices everything in the interests of style.",
-            "The film isn't just about cops and robbers, but about two systems of doing business, and how one of the systems finds a way to change itself in order to defeat the other.",
+            "The only problem is that Friedkin would never get any better than this.",
             "Friedkin once again capably handles action sequences.",
             "A cops and robbers tale of stirring complexity and sundrenched darkness. ",
             "Both excellent, A-list action film and deconstruction of the alpha male wild card cop cliche, Friedkin furiously displays his mastery of the form with this phenomenal 1980s thriller.",
@@ -7590,15 +7360,13 @@
             "Lara Harris"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 82
+            "count": "6057",
+            "rating": 69
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "22",
-            "rating": "82",
-            "worst": "0"
+            "rating": "82"
         },
         "directors": [
             "John Schlesinger"
@@ -7663,15 +7431,13 @@
             "Elvira Bisso"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 87
+            "count": "7183",
+            "rating": 81
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "30",
-            "rating": "87",
-            "worst": "0"
+            "rating": "87"
         },
         "directors": [
             "Hector Babenco"
@@ -7680,6 +7446,7 @@
         "productionCompany": "Strand Releasing",
         "reviews": [
             "... a flaccid gabfest from beginning to end that manages to both undermine politics and trivialize art.",
+            "Argentine writer Manuel Puig's book Kiss of the Spider Woman has a theme that endures throughout all its various incarnations: that of human dignity and compassion surviving within a society that denies it.",
             "By the end of the film, what started out as a contest between two opposite personalities has expanded into a choice between two completely different attitudes toward life.",
             "The impermanency of love, the perseverance of beliefs, and the escapism and fantasy of the production are just as potent today.",
             "William Hurt gives probably the best male performance of the year as Molina in quite possibly the best film of the year, Kiss of the Spider Woman; and honey, he plays a queen.",
@@ -7687,7 +7454,6 @@
             "The performances, by turns, smolder, ignite and explode in this haunting, highly original drama.",
             "A bold and brassy classic that challenges social and political norms in a magnificent manner.",
             "Babenco's film blends ideology with drama and betrayal for a tale as intellectually rewarding as it is passionate.",
-            "Argentine writer Manuel Puig's book Kiss of the Spider Woman has a theme that endures throughout all its various incarnations: that of human dignity and compassion surviving within a society that denies it.",
             "Explores the rapture and torture of desire, and the tension between harsh reality and escapist fantasy. [DVD]",
             "Centering on the camaraderie in prison between gay window-dresser and Marxist radical, the film is schematic, and the recreations of old movie scenes are uneven, but the acting is good. ",
             "Bold and touching performances by William Hurt and Raul Julia.",
@@ -7745,20 +7511,18 @@
             "Nick D'Avirro"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 11
+            "count": "8762",
+            "rating": 54
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "18",
-            "rating": "11",
-            "worst": "0"
+            "rating": "11"
         },
         "directors": [
             "Michael Winner"
         ],
-        "genre": "drama, action, crime",
+        "genre": "action, crime, drama",
         "productionCompany": "MGM Home Entertainment",
         "reviews": [
             "Death Wish 3 is still another in this year's long parade of pathetic power fantasies, cynically exploiting the rage and anxiety of the dispossessed.",
@@ -7814,30 +7578,28 @@
             "Gareth Milne"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 13
+            "count": "6491",
+            "rating": 38
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "16",
-            "rating": "13",
-            "worst": "0"
+            "rating": "13"
         },
         "directors": [
             "Bill Norton"
         ],
-        "genre": "kids and family, adventure, fantasy",
+        "genre": "fantasy, adventure, kids and family",
         "productionCompany": "Buena Vista Pictures",
         "reviews": [
             "Baby turns out to be a real no-brainer. The movie even blows the one moment you'd assume couldn't fail -- the first sighting of a brontosaurus. Instead of a moment of quiet awe, the movie gives us the gee-whiz approach of a Godzilla remake.",
             "Most of the budget of \"Baby\" seems to have gone into the creatures, who nevertheless don't look much better than Gumby.",
             "Baby's faintly reptilian eyes are dead. And with them dies a lot of our belief.",
+            "Even if your children like dinosaurs, don't let them be exposed to the offensive, insensitive, intolerably anti-humanist and racist propagandizing that is draped around them in this film. No plot, no heart, no soul.",
             "Dopey entertainment for adults of all ages.",
             "Director B.W.L. Norton surrounds the sweetness with a heavy, crude, and far too realistically rendered action plot that effectively cancels out whatever warmth the film manages to generate.",
             "There may be some nostalgic charm to its Land of the Lost-esque tale of exotic adventure, but those that didn't grow up with it may find that nostalgia isn't enough to make this lost legend worth uncovering.",
             "Though not as wonderful as it might have been, this film is a must for Disney fans. Typical of the studio's films, it tugs at your heart while making you laugh.",
-            "Even if your children like dinosaurs, don't let them be exposed to the offensive, insensitive, intolerably anti-humanist and racist propagandizing that is draped around them in this film. No plot, no heart, no soul.",
             "Not much to say about this hackneyed jungle movie.",
             "Sappy family stuff about a bland little dinosaur and his very boring keepers."
         ]
@@ -7868,15 +7630,13 @@
             "John-Clay Scott"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 65
+            "count": "94361",
+            "rating": 86
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "31",
-            "rating": "65",
-            "worst": "0"
+            "rating": "65"
         },
         "directors": [
             "Jonathan Lynn"
@@ -7951,15 +7711,13 @@
             "William Hickey"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 39
+            "count": "7576",
+            "rating": 58
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "18",
-            "rating": "39",
-            "worst": "0"
+            "rating": "39"
         },
         "directors": [
             "Guy Hamilton"
@@ -8017,26 +7775,26 @@
             "Cherry Davis"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 91
+            "count": "55337",
+            "rating": 79
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "44",
-            "rating": "91",
-            "worst": "0"
+            "rating": "91"
         },
         "directors": [
             "Dan O'Bannon"
         ],
-        "genre": "horror, comedy",
+        "genre": "comedy, horror",
         "productionCompany": "HBO Video",
         "reviews": [
+            "Essential, enormous fun.",
+            "The Return of the Living Dead is in fact the real deal.",
             "O'Bannon deserves considerable credit for creating a terrifically funny first half-hour of exposition, something in which he is greatly aided by the goofball performance of James Karen as a medical supply know-it-all.",
+            "A tongue-in-cheek, splatter-laden homage to George A. Romero's zombie pictures.",
             "Any film which features a dead, bald and very hungry punk lurching towards the camera screaming 'More Brains!' gets my vote.",
             "The volume of stagy gore quickly reaches a point of diminishing returns.",
-            "It's kind of a sensation-machine, made out of the usual ingredients, and the real question is whether it's done with style. It is.",
             "It's a mammoth amount of fun, with a sharp trashy punk/new wave soundtrack and a trio of perfect performances by middle-aged actors in the midst of posturing, attitudinizing youth.",
             "The scares are always accompanied by silliness, though the special makeup effects are often outstanding, contributing to a considerable yuck factor.",
             "There's ultimately little doubt that The Return of the Living Dead improves steadily as it progresses...",
@@ -8048,15 +7806,13 @@
             "an icon of the 80s",
             "For pure eighties, punk rock, walking dead, brain eating mayhem, this is the film to watch.",
             "this overnight zombie apocalypse is a tongue-in-cheek brainload of hard-rocking fun.",
-            "Essential, enormous fun.",
             "Bastard Son of a Prodigal Son: Interview on The Complete History of The Return of the Living Dead",
-            "The Return of the Living Dead is in fact the real deal.",
             "Ed O'Bannon and John Russo may have intended The Return of the Living Dead as a comedy, but it's just too damn gory, too scary and too good to be dismissed as a zom com.",
             "An amusing, punk variation on the familiar zombie theme.",
             "This is parody with brains.",
             "Equal parts horror and comedy, Return of the Living Dead finds success on both fronts.",
             "Effectively announces itself as a horror movie deliberately pitted against customary cinematic values.",
-            "A tongue-in-cheek, splatter-laden homage to George A. Romero's zombie pictures."
+            "A fresh and immensely entertaining take on the zombie genre"
         ]
     },
     "1985_6": {
@@ -8079,8 +7835,8 @@
             "Susan Beaubian",
             "James Tillis",
             "Phillip Strong",
-            "Laurence Fishburne",
             "Job Seda",
+            "Laurence Fishburne",
             "Peto Kinsaka",
             "Lelo Masamba",
             "Margaret Freeman",
@@ -8118,15 +7874,13 @@
             "Aniijia Rae Shockley"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 81
+            "count": "180877",
+            "rating": 94
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "31",
-            "rating": "81",
-            "worst": "0"
+            "rating": "81"
         },
         "directors": [
             "Steven Spielberg"
@@ -8134,6 +7888,7 @@
         "genre": "drama",
         "productionCompany": "Warner Home Video",
         "reviews": [
+            "Unashamedly emotional, it either totally grabs you or leaves you cold.",
             "It is a great, warm, hard, unforgiving, triumphant movie, and there is not a scene that does not shine with the love of the people who made it.",
             "Spielberg's first entry into cultural history is just as shocking as it is a beautiful story about self empowerment. [Full review in Spanish].",
             "The movie filled me with disbelief and disappointment.",
@@ -8145,8 +7900,7 @@
             "Overrated, but still a good film.",
             "Brilliant, disturbing storytelling by Spielberg with standout performances.",
             "A far better film than is usually thought.",
-            "Spielberg's first big drama is often hokey in places but ultimately succeeds.",
-            "Spielberg's classicism comes to be appreciated in a goosebumps-inducing send-off for Mister."
+            "Spielberg's first big drama is often hokey in places but ultimately succeeds."
         ]
     },
     "1985_60": {
@@ -8193,15 +7947,13 @@
             "Ralph Burns"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 40
+            "count": "10242",
+            "rating": 62
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "35",
-            "rating": "40",
-            "worst": "0"
+            "rating": "40"
         },
         "directors": [
             "Richard Attenborough"
@@ -8244,15 +7996,13 @@
             "Gene Morgan"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "Not yet available",
             "rating": ""
         },
         "contentRating": "NR",
         "criticsRatings": {
-            "best": "100",
             "count": null,
-            "rating": null,
-            "worst": "0"
+            "rating": null
         },
         "directors": [
             "Robert McGowan",
@@ -8303,20 +8053,18 @@
             "Linda Francis"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 92
+            "count": "7345",
+            "rating": 71
         },
         "contentRating": "G",
         "criticsRatings": {
-            "best": "100",
             "count": "12",
-            "rating": "92",
-            "worst": "0"
+            "rating": "92"
         },
         "directors": [
             "Ken Kwapis"
         ],
-        "genre": "kids and family, comedy",
+        "genre": "comedy, kids and family",
         "productionCompany": "Warner Home Video",
         "reviews": [
             "By and large, the script by Tony Geiss and Judy Freudberg and the direction by Ken Kwapis don't strain for yuks; what they seek, and more often than not attain, is a tone of kindly kidding.",
@@ -8365,20 +8113,18 @@
             "Genevieve Appleton"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 47
+            "count": "4856",
+            "rating": 69
         },
         "contentRating": "G",
         "criticsRatings": {
-            "best": "100",
             "count": "17",
-            "rating": "47",
-            "worst": "0"
+            "rating": "47"
         },
         "directors": [
             "Phillip Borsos"
         ],
-        "genre": "kids and family, other, fantasy",
+        "genre": "fantasy, other, kids and family",
         "productionCompany": "Walt Disney Productions",
         "reviews": [
             "It's a godsend for parents, a movie you can take the kids to, but which won't leave you gnashing at the armrest halfway through.",
@@ -8405,15 +8151,13 @@
             "Candy Clark"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 67
+            "count": "31233",
+            "rating": 50
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "27",
-            "rating": "67",
-            "worst": "0"
+            "rating": "67"
         },
         "directors": [
             "Lewis Teague"
@@ -8422,11 +8166,11 @@
         "productionCompany": "WARNER BROTHERS PICTURES",
         "reviews": [
             "King is popular for the same reason McDonald's is popular -- you always know what to expect.",
+            "The list of films that genuinely capture the spirit of Stephen King - the darkness, humor, and cleverness that made his books and stories so irresistible - is surprisingly short. But 'Cat's Eye' deserves a place on that list.",
             "The three stories just don't connect and efforts to join them never work. However, an excellent roster of talent does try its best.",
             "The usual caveats about cumulatively unsatisfying portmanteau pictures certainly apply.",
             "Stephen King seems to be working his way through the reference books of human phobias, and Cat's Eye is one of his most effective films.",
             "Even though the mix contains lumps, Cat's Eye is the best screen adaptation of any King work since Brian De Palma's Carrie.",
-            "The list of films that genuinely capture the spirit of Stephen King - the darkness, humor, and cleverness that made his books and stories so irresistible - is surprisingly short. But 'Cat's Eye' deserves a place on that list.",
             "Rather than serving as distractions, the self-referential shout-outs fit the overall mix of horror and humor.",
             "It's the anthology film I wish \"Twilight Zone: The Movie\" could have been.",
             "The film seems like a throwback not to old horror comics but to bad syndicated TV horror.",
@@ -8508,15 +8252,13 @@
             "Kevin Hurley"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 73
+            "count": "34784",
+            "rating": 83
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "30",
-            "rating": "73",
-            "worst": "0"
+            "rating": "73"
         },
         "directors": [
             "Martha Coolidge"
@@ -8632,15 +8374,13 @@
             "Matthew Reed"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 19
+            "count": "5799",
+            "rating": 28
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "16",
-            "rating": "19",
-            "worst": "0"
+            "rating": "19"
         },
         "directors": [
             "James Bridges"
@@ -8691,20 +8431,18 @@
             "Elkan Abramowitz"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 56
+            "count": "98",
+            "rating": 35
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "18",
-            "rating": "56",
-            "worst": "0"
+            "rating": "56"
         },
         "directors": [
             "Frank Perry"
         ],
-        "genre": "mystery and thriller, comedy",
+        "genre": "comedy, mystery and thriller",
         "productionCompany": "Paramount Home Video",
         "reviews": [
             "A silly little whodunnit that's a mild embarrassment to all involved.",
@@ -8728,15 +8466,13 @@
             "Charles King"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "Not yet available",
             "rating": ""
         },
         "contentRating": "NR",
         "criticsRatings": {
-            "best": "100",
             "count": "8",
-            "rating": null,
-            "worst": "0"
+            "rating": null
         },
         "directors": [
             "Bernard B. Ray"
@@ -8789,15 +8525,13 @@
             "Robert Slacum Jr."
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 79
+            "count": "63951",
+            "rating": 60
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "29",
-            "rating": "79",
-            "worst": "0"
+            "rating": "79"
         },
         "directors": [
             "Ron Howard"
@@ -8858,15 +8592,13 @@
             "Peter Jurasik"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 63
+            "count": "21508",
+            "rating": 68
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "24",
-            "rating": "63",
-            "worst": "0"
+            "rating": "63"
         },
         "directors": [
             "Wolfgang Petersen"
@@ -8874,6 +8606,7 @@
         "genre": "sci fi",
         "productionCompany": "20th Century Fox",
         "reviews": [
+            "Underappreciated gem with magnificent performances.",
             "It depends on plot gimmicks like the convenient arrival of enemies and the equally convenient arrival of friends to the rescue. It doesn't dare enough.",
             "The makeup effects aren't exceptional, the starships are a bit clunky, and the designs of rodent fauna are stiff and uninspired.",
             "'Enemy Mine' must be appreciated for how much the daring Fox production had to \"swim against the current.\" [Full Review in Spanish]",
@@ -8881,7 +8614,6 @@
             "A highly memorable, very touching fantasy",
             "Engrossing",
             "A hard pill to swallow despite the gallant efforts of Dennis Quaid and Louis Gosset Jr.",
-            "Underappreciated gem with magnificent performances.",
             "Perfectly enjoyable sci-fi re-take on \"Hell in the Pacific.\"",
             "a fine idea stretched too far and then crushed beneath a third act that feels wantonly out of place"
         ]
@@ -8945,22 +8677,22 @@
             "Brian Carroll"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 58
+            "count": "9612",
+            "rating": 45
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "26",
-            "rating": "58",
-            "worst": "0"
+            "rating": "58"
         },
         "directors": [
             "Tobe Hooper"
         ],
-        "genre": "horror, sci fi",
+        "genre": "sci fi, horror",
         "productionCompany": "TriStar Pictures",
         "reviews": [
+            "Lifeforce is a dog.",
+            "Frequently outlandish and far from profound, it's nonetheless a box-office bomb that, like its horror-maestro director, deserved quite a bit better.",
             "The seriousness with which the actors approach the material is commendable.",
             "Has a tendency to get too caught up in the details of its strange plot, but overall the film is a strong and oft-overlooked piece of 1980s science fiction.",
             "Not near one of Hooper's best, at its core Lifeforce is the dark heart of all humankind's anxieties about extraterrestrials.",
@@ -8973,9 +8705,7 @@
             "How often do you find a sci-fi/horror hybrid that dares to walk the high wire? Not often enough, I think. For that reason alone, Lifeforce deserves to be rediscovered. ",
             "The UK version is 15 minutes longer and makes this bizarre but lovable movie a bit more interesting.",
             "Lifeforce is a pretty curious specimen in its own right. Its sci-fi/horror concept is epic in scale and metaphysical reach, but the casting is catchpenny...",
-            "Lifeforce is a dog.",
             "Far from the nonsensical, failed-blockbuster of its maudit reputation, the movie is a ravishing renewal of the genre hollowed out by Star Wars",
-            "Frequently outlandish and far from profound, it's nonetheless a box-office bomb that, like its horror-maestro director, deserved quite a bit better.",
             "Superior sci-fi horror.",
             "Special effects (and plot) run amok",
             "An interesting premise quickly degenerates into a bad zombie flick that doesn't follow its own rules.",
@@ -9024,15 +8754,13 @@
             "James Michael Zavala"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 45
+            "count": "9019",
+            "rating": 65
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "11",
-            "rating": "45",
-            "worst": "0"
+            "rating": "45"
         },
         "directors": [
             "Lisa Gottlieb"
@@ -9086,8 +8814,8 @@
             "Ricky Bell",
             "Ralph E. Tresvant",
             "Sweet G.",
-            "Russell Simmons",
             "Mr. Magic",
+            "Russell Simmons",
             "LL Cool J",
             "Michael Herz & Llyod Kaufman",
             "Elaine Shapiro",
@@ -9111,15 +8839,13 @@
             "Bobby Brown"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 43
+            "count": "4711",
+            "rating": 81
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "7",
-            "rating": "43",
-            "worst": "0"
+            "rating": "43"
         },
         "directors": [
             "Michael Schultz"
@@ -9196,20 +8922,18 @@
             "Robin Harlene Honeywell"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 31
+            "count": "5017",
+            "rating": 53
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "13",
-            "rating": "31",
-            "worst": "0"
+            "rating": "31"
         },
         "directors": [
             "Jeff Kanew"
         ],
-        "genre": "mystery and thriller, comedy",
+        "genre": "comedy, mystery and thriller",
         "productionCompany": "Universal",
         "reviews": [
             "Like \"Red Dawn,\" \"Gotcha!\" uses love of country as a marketing device, a way to capture the teen audience that voted for Reagan.",
@@ -9244,15 +8968,13 @@
             "Andrea Lowe"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "6742",
             "rating": 47
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "6742",
-            "rating": "47",
-            "worst": "0"
+            "rating": "47"
         },
         "directors": [
             "Lance Hool"
@@ -9335,15 +9057,13 @@
             "Drinda La Lumia"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 92
+            "count": "20346",
+            "rating": 88
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "38",
-            "rating": "92",
-            "worst": "0"
+            "rating": "92"
         },
         "directors": [
             "Woody Allen"
@@ -9351,10 +9071,10 @@
         "genre": "drama, comedy",
         "productionCompany": "Orion Pictures Corporation",
         "reviews": [
+            "Everything in this movie makes heavenly sense.",
             "Delightful from beginning to end, not only because of the clarity and charm with which Daniels and Farrow explore the problems of their characters, but also because the movie is so intelligent.",
             "It's a sweet, lyrically funny, multi- layered work that again demonstrates that Woody Allen is our premier film maker who, standing something over 5 feet tall in his sneakers, towers above all others.",
             "...one of the most entertaining movies about movies ever made.",
-            "Everything in this movie makes heavenly sense.",
             "The Purple Rose of Cairo, Woody Allen's latest, is the slight but charming story of what happens when Cinderella's Prince steps out of the fairy tale and comes to New Jersey for a taste of Reality.",
             "It is one of Allen's deepest reflections on the seventh art and its function as an escape from our harsh reality. [Full review in Spanish]",
             "When discussing Woody Allen masterpieces, titles like Annie Hall and Hannah and Her Sisters are frequently cited (and rightly so), but where's the love for The Purple Rose of Cairo, a movie that even Woody himself considers among his top two or three?",
@@ -9425,15 +9145,13 @@
             "Mark Mauna"
         ],
         "audienceRatings": {
-            "count": "",
+            "count": "2851",
             "rating": 50
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "2851",
-            "rating": "50",
-            "worst": "0"
+            "rating": "50"
         },
         "directors": [
             "Neal Israel"
@@ -9499,15 +9217,13 @@
             "Jennifer Mancuso"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 93
+            "count": "46815",
+            "rating": 80
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "41",
-            "rating": "93",
-            "worst": "0"
+            "rating": "93"
         },
         "directors": [
             "Peter Weir"
@@ -9516,19 +9232,19 @@
         "productionCompany": "Paramount Pictures",
         "reviews": [
             "... striking thriller.",
+            "The film allows us, in the company of Book, to take a sort of holiday from our normal concerns, to visit other values en touriste , drawing the strengths from a strange and alien tradition without really immersing ourselves in it.",
             "What saves \"Witness\" is its cast, and Weir's artistry in orchestrating and modulating their performances.",
             "Weir, an Australian filming in this country for the first time, has succumbed to blandness.",
             "A moderately effective, highly affected thriller.",
             "Witness warms up as the attraction builds between Ford, McGillis and Haas -- all performing excellently through this portion.",
-            "Playing John Book allowed viewers the opportunity to see Ford the actor instead of Ford the action/adventure icon. It is one of the few times he has been given the opportunity to play in a straight drama.",
             "The actors are all convincing, given the attention and scripting necessary to craft a strikingly different tale of law enforcement and the consequences of their interactions.",
-            "The film allows us, in the company of Book, to take a sort of holiday from our normal concerns, to visit other values en touriste , drawing the strengths from a strange and alien tradition without really immersing ourselves in it.",
             "A pretty good crime thriller.",
             "Peter Weir's exceptionally fine Witness finds Harrison Ford earning his first (and, so far, only) Best Actor Oscar nomination.",
             "Taut drama has just a few moments of intense violence.",
             "Harrison Ford renders one of his best dramatic performances, for which he won his sole Oscar nomination, in Peter Weir's beautifully shot feature, which is effective as a cop thriller as well as a chronicle of the rural Amish subculture.",
-            "A lot of care and attention has gone into both the Oscar-winning screenplay and the beautiful cinematography, to create a powerful and romantic story.",
             "My favourite Peter Weir film, Witness is something special...Three years after Blade Runner, Harrison Ford is at his best, while Kelly McGillis in her second film role, exudes a Grace Kelly-like serenity.",
+            "Playing John Book allowed viewers the opportunity to see Ford the actor instead of Ford the action/adventure icon. It is one of the few times he has been given the opportunity to play in a straight drama.",
+            "A lot of care and attention has gone into both the Oscar-winning screenplay and the beautiful cinematography, to create a powerful and romantic story.",
             "A back-of-beyond thriller from Weir, who turns his sharp eye incisively on America's cosy heartland.",
             "Ford is on top of his form, underplaying his role throughout and never mugging it up for the cameras.",
             "...a refreshingly adult story.",
@@ -9578,15 +9294,13 @@
             "Christian Hoss"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 0
+            "count": "11471",
+            "rating": 46
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "7",
-            "rating": "0",
-            "worst": "0"
+            "rating": "0"
         },
         "directors": [
             "Sam Firstenberg"
@@ -9604,15 +9318,13 @@
     "1985_82": {
         "actors": [],
         "audienceRatings": {
-            "count": "",
+            "count": "Not yet available",
             "rating": ""
         },
         "contentRating": "NR",
         "criticsRatings": {
-            "best": "100",
             "count": null,
-            "rating": null,
-            "worst": "0"
+            "rating": null
         },
         "directors": [],
         "genre": "",
@@ -9656,15 +9368,13 @@
             "Raul Flores"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 97
+            "count": "4326",
+            "rating": 77
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "34",
-            "rating": "97",
-            "worst": "0"
+            "rating": "97"
         },
         "directors": [
             "Albert Brooks"
@@ -9674,19 +9384,19 @@
         "reviews": [
             "Brooks, who wrote the script with Monica Johnson, is a highly original comedic spirit.",
             "Too often, things are simply too painfully accurate to be particularly funny. Still, it's hard to fault Brooks' resolutely adult intelligence, and Lost in America - almost in spite of itself, really - is easily his most consistently amusing work to date.",
+            "It's an endlessly funny and often uncomfortable piece of work, featuring some of the sharpest, deftest writing Brooks and frequent collaborator Monica Johnson ever crafted. ",
+            "An amusingly bumpy ride.",
             "Lost in America is being called a yuppie comedy, but it's really about the much more universal subjects of greed, hedonism and panic. What makes it so funny is how much we can identify with it. ",
             "Brooks' Lost in America is a well-directed and effortlessly entertaining satire of the Reagan era.",
             "Even when sizable blunders burst into unimaginable proportions, it's difficult to be mad at these personas; they're funny when they bicker and charming when they reconnect.",
             "With co-writer Monica Johnson, his collaborator on Real Life and Modern Romance, Brooks has scripted the perfect outing for his gifts.",
             "Packed to the gills with Albert Brooks' signature dialog, and played to the hilt by both leads, Lost in America has a long set-up. But it's a testament to Brook's clever characterization.",
             "Brooks explodes the Kerouac fantasy by depicting two of the most uptight, urban people in the world trying to live it out. ",
-            "It's an endlessly funny and often uncomfortable piece of work, featuring some of the sharpest, deftest writing Brooks and frequent collaborator Monica Johnson ever crafted. ",
             "Lost in America is one of the funniest films from one of our greatest cinematic comedians.",
             "Amusing satire on yuppies having a mid-life crisis.",
             "It is, I think, Brooks' masterpiece -- nothing inessential, one great scene after another, just flat-out perfect. Stanley Kubrick was an Albert Brooks fan for a reason.",
             "A complete joy from start to finish! See it before you take to the wide-open road!",
             "This sharply observed satire about disillusioned yuppies is Brooks' chef d'oeuvre and first commercial success, a film with an hero that's less obnoxious than the usual and a wonderful partner too, played by Julie Hagerty",
-            "An amusingly bumpy ride.",
             "One Albert Brooks' best, laughs throughout.",
             "New Yorkers have Woody Allen. Middle America has Albert Brooks.",
             "Depends on your Albert Brooks' tolerance. Mine is low."
@@ -9737,15 +9447,13 @@
             "Mar\u00eda Vidal "
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 18
+            "count": "28317",
+            "rating": 39
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "11",
-            "rating": "18",
-            "worst": "0"
+            "rating": "18"
         },
         "directors": [
             "Howard Storm"
@@ -9788,28 +9496,26 @@
             "Simone Blue"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 77
+            "count": "14469",
+            "rating": 67
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "26",
-            "rating": "77",
-            "worst": "0"
+            "rating": "77"
         },
         "directors": [
             "Joe Dante"
         ],
-        "genre": "kids and family, sci fi, drama",
+        "genre": "sci fi, drama, kids and family",
         "productionCompany": "Paramount Studios",
         "reviews": [
             "Explorers itself is bubble-thin, but it glides by gracefully on the charm of its three young heroes and their vividly envisioned adventure in space.",
+            "Their space trip may be familiar, but they make it fun.",
             "It looks terrific, moves along at a gallop, and is marvellously good-natured. ",
             "Explorers,' which is lively but largely familiar until the point when it reaches its batty pinnacle, frequently shows off Mr. Dante's sense of humor to good advantage.",
             "Explorers remains a hopelessly schizophrenic film, obscenely eager to compromise its own originality.",
             "A strange, wounded beast, filled with wonderful sequences and homemade charm, but also confused and anticlimactic.",
-            "Their space trip may be familiar, but they make it fun.",
             "Without an interesting story or characters, special effects aren't enough to sustain a feature film.",
             "The offbeat teen comedy gets off to a good start, but when it takes off in space the spoof becomes too alien to be anything more nourishing than junk food for the soul.",
             "The birth of fanboy culture?",
@@ -9882,20 +9588,18 @@
             "Thomas Heaton"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 91
+            "count": "6820",
+            "rating": 78
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "32",
-            "rating": "91",
-            "worst": "0"
+            "rating": "91"
         },
         "directors": [
             "Jeremy Kagan"
         ],
-        "genre": "kids and family, adventure",
+        "genre": "adventure, kids and family",
         "productionCompany": "Walt Disney Productions",
         "reviews": [
             "It's a typical animal adventure, stripped of its guts by an enfeebling if commendable effort to shield young viewers from violence and death.",
@@ -9998,15 +9702,13 @@
             "Tony Young"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 17
+            "count": "3450",
+            "rating": 59
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "6",
-            "rating": "17",
-            "worst": "0"
+            "rating": "17"
         },
         "directors": [
             "Fritz Kiersch"
@@ -10060,20 +9762,18 @@
             "Ted Grossman"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 76
+            "count": "579616",
+            "rating": 91
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "59",
-            "rating": "76",
-            "worst": "0"
+            "rating": "76"
         },
         "directors": [
             "Richard Donner"
         ],
-        "genre": "kids and family, adventure, comedy",
+        "genre": "adventure, comedy, kids and family",
         "productionCompany": "Amblin Entertainment",
         "reviews": [
             "You're reminded of what it was like, as a child, to trust in wishing wells and, without thinking very much about it, switch from walking along to skipping.",
@@ -10169,15 +9869,13 @@
             "Jimmy Vann"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 90
+            "count": "6492",
+            "rating": 81
         },
         "contentRating": "PG-13",
         "criticsRatings": {
-            "best": "100",
             "count": "20",
-            "rating": "90",
-            "worst": "0"
+            "rating": "90"
         },
         "directors": [
             "Karel Reisz"
@@ -10242,15 +9940,13 @@
             "David Selberg"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 47
+            "count": "14677",
+            "rating": 40
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "15",
-            "rating": "47",
-            "worst": "0"
+            "rating": "47"
         },
         "directors": [
             "Stan Dragoti"
@@ -10300,15 +9996,13 @@
             "Arvid Malnaa"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 30
+            "count": "4250",
+            "rating": 64
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "10",
-            "rating": "30",
-            "worst": "0"
+            "rating": "30"
         },
         "directors": [
             "David Greenwalt"
@@ -10366,15 +10060,13 @@
             "Tim Rossovich"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 29
+            "count": "383",
+            "rating": 36
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "7",
-            "rating": "29",
-            "worst": "0"
+            "rating": "29"
         },
         "directors": [
             "Burt Reynolds"
@@ -10430,15 +10122,13 @@
             "Junior Barber"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 83
+            "count": "820",
+            "rating": 59
         },
         "contentRating": "R",
         "criticsRatings": {
-            "best": "100",
             "count": "6",
-            "rating": "83",
-            "worst": "0"
+            "rating": "83"
         },
         "directors": [
             "Bud Yorkin"
@@ -10502,20 +10192,18 @@
             "Matt Butler"
         ],
         "audienceRatings": {
-            "count": "",
-            "rating": 53
+            "count": "9137",
+            "rating": 54
         },
         "contentRating": "PG",
         "criticsRatings": {
-            "best": "100",
             "count": "17",
-            "rating": "53",
-            "worst": "0"
+            "rating": "53"
         },
         "directors": [
             "Simon Wincer"
         ],
-        "genre": "kids and family, sci fi",
+        "genre": "sci fi, kids and family",
         "productionCompany": "Paramount Pictures",
         "reviews": [
             "There's an intrinsic emotional pull to this earnest tale of parents in search of a child.",

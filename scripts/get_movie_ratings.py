@@ -12,8 +12,7 @@ data_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data')
 log_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'log')
 
 def get_all_movies():
-    with open(os.path.join(data_path,'box_office_movies.json')) as infile:
-        return json.load(infile)
+    return json.load(open(os.path.join(data_path,'box_office_movies.json')))
 
 def get_movie_titles(movies):
     movie_titles = {}
@@ -25,7 +24,7 @@ def get_movie_titles(movies):
 
 def get_rotten_tomatoes_name(movies):
     sanitized_movie_names = {}
-    for year in movies:
+    for year in ['2015', '2016', '2017', '2018', '2019']:
         sanitized_movie_names[year] = {}
         for movie in movies[year]:
             movie_name = movies[year][movie]
@@ -43,7 +42,7 @@ def get_rotten_tomatoes_name(movies):
 def get_movies_from_rotten_tomatoes(movies, movie_titles_by_year):
     responses = {}
     irregular_keys = {}
-    with open(os.path.join('movie_information','irregular_movie_links.json')) as infile:
+    with open(os.path.join(data_path, 'movie_information','irregular_movie_links.json')) as infile:
         irregular_keys = json.load(infile)
     for year in tqdm(movies, desc='Movie Ratings'):
         responses[year] = {}
@@ -89,8 +88,8 @@ def parse_rotten_tomatoes_pages(movie_responses, movie_titles_by_year, year):
                     for review in info_json['review']:
                         reviews.append(review['reviewBody'])
                 if 'aggregateRating' in info_json.keys():
-                    critics_ratings['count'] = info_json['aggregateRating']['ratingCount']
-                    critics_ratings['rating'] = info_json['aggregateRating']['ratingValue']
+                    critics_ratings['count'] = int(info_json['aggregateRating']['ratingCount'])
+                    critics_ratings['rating'] = int(info_json['aggregateRating']['ratingValue'])
                 if 'contentRating' in info_json.keys():
                     content_rating = info_json['contentRating']
                 if 'productionCompany' in info_json.keys():
@@ -103,8 +102,8 @@ def parse_rotten_tomatoes_pages(movie_responses, movie_titles_by_year, year):
                 except:
                     pass
                 try:
-                    total_audience_reviews = audience_revies_div.find('strong', {'class' : 'mop-ratings-wrap__text--small'}).getText()
-                    total_audience_reviews = total_audience_reviews.replace(',', '').split(': ')[1]
+                    total_audience_reviews = int(audience_revies_div.find('strong', {'class' : 'mop-ratings-wrap__text--small'}).getText())
+                    total_audience_reviews = int(total_audience_reviews.replace(',', '').split(': ')[1])
                 except:
                     pass
                 genre_div = soup.find('div', {'class' : 'genre'})
@@ -132,14 +131,14 @@ def get_id_for_movies(movie_information, movie_titles_by_year, year):
     current_year_file = '%s_movie_information.json' % year
     valid_path = os.path.join(data_path, 'movie_information','valid_responses','%s' % current_year_file)
     if Path(valid_path).exists():
-        with open(valid_path) as infile:
-            current_results = json.load(infile)
+        current_results = json.load(open(valid_path))
         for movie in current_results:
-            movie_by_year_id[movie] = current_results[movie]
+            if movie not in movie_by_year_id.keys():
+                movie_by_year_id[movie] = current_results[movie]
     with open('%s' % valid_path, 'w') as outfile:
         json.dump(movie_by_year_id, outfile, sort_keys=True, indent=4)
     incorrect_movies = list(set(movie_titles_by_year.values()) - set(movie_by_year_id.keys()))
-    with open(os.path.join(log_path,'movie_information','invalid_responses','%s' % current_year_file), 'w') as outfile:
+    with open(os.path.join(data_path,'movie_information','invalid_responses','%s' % current_year_file), 'w') as outfile:
         json.dump(incorrect_movies, outfile, sort_keys=True, indent=4)
 
 def main():

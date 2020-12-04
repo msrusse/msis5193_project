@@ -4,3 +4,5 @@ logs/
 urls_used.csv
 .DS_Store
 errors.json
+data/csv_files/.Rhistory
+data/csv_files/.RData
