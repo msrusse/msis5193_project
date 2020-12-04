@@ -24,7 +24,7 @@ def get_movie_titles(movies):
 
 def get_rotten_tomatoes_name(movies):
     sanitized_movie_names = {}
-    for year in ['2015', '2016', '2017', '2018', '2019']:
+    for year in movies:
         sanitized_movie_names[year] = {}
         for movie in movies[year]:
             movie_name = movies[year][movie]
