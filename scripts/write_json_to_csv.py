@@ -122,6 +122,7 @@ def convertRottenTomatoesListToDicts(rotten_tomatoes_movies):
     writeRottenTomatoesGenres(genres)
     writeRottenTomatoesProductionCompanies(production_companies)
     writeRottenTomatoesReviews(reviews)
+    writeGenreBools(genres)
 
 def writeRottenTomatoesActors(actors):
     with open(os.path.join(csv_path, 'all_movie_actors.csv'), 'w', encoding='utf-8', newline='') as csvfile:
@@ -176,21 +177,97 @@ def writeRottenTomatoesReviews(reviews):
             for review in reviews[movie]:
                 writer.writerow([movie, review])
 
+def writeGenreBools(genres):
+    with open(os.path.join(csv_path, 'movies_with_genre_bool.csv'), 'w', encoding='utf-8', newline='') as csvfile:
+        writer = csv.writer(csvfile, delimiter=',')
+        writer.writerow(['uniqueID', 'fantasy', 'adventure', 'sci fi', 'action', 'comedy', 'kids and family', 'drama', 'horror', 'animation', 'crime', 'mystery and trhiller', 'musical', 'romance', 'music', 'war', 'other', 'biography', 'western', 'history', 'documentary', 'sports and fitness', 'anime', 'foreign'])
+        for movie in genres:
+            fantasy = 0 
+            adventure = 0 
+            scifi = 0 
+            action = 0
+            comedy = 0 
+            kids_fam = 0 
+            drama = 0 
+            horror = 0 
+            animation = 0 
+            crime = 0 
+            mystery_thrill = 0 
+            musical = 0 
+            romance = 0 
+            music = 0 
+            war = 0 
+            other = 0 
+            biography = 0 
+            western = 0 
+            history = 0 
+            documentary = 0 
+            sports_fitness = 0 
+            anime = 0 
+            foreign = 0
+            for genre in genres[movie]:
+                if genre == 'adventure':
+                    adventure = 1
+                elif genre == 'fantasy':
+                    fantasy = 1
+                elif genre == 'sci fi':
+                    scifi = 1
+                elif genre == 'action':
+                    action = 1
+                elif genre == 'comedy':
+                    comedy = 1
+                elif genre == 'kids and family':
+                    kids_fam = 1
+                elif genre == 'drama':
+                    drama = 1
+                elif genre == 'horror':
+                    horror = 1
+                elif genre == 'animation':
+                    animation = 1
+                elif genre == 'crime':
+                    crime = 1
+                elif genre == 'mystery and thriller':
+                    mystery_thrill = 1
+                elif genre == 'musical':
+                    musical = 1
+                elif genre == 'romance':
+                    romance = 1
+                elif genre == 'music':
+                    music = 1
+                elif genre == 'war':
+                    war = 1
+                elif genre == 'other':
+                    other = 1
+                elif genre == 'biography':
+                    biography = 1
+                elif genre == 'western':
+                    western = 1
+                elif genre == 'history':
+                    history = 1
+                elif genre == 'documentary':
+                    documentary = 1
+                elif genre == 'sports and fitness':
+                    sports_fitness = 1
+                elif genre == 'anime':
+                    anime = 1
+                elif genre == 'foreign':
+                    foreign = 1 
+            writer.writerow([movie, fantasy, adventure, scifi, action, comedy, kids_fam, drama, horror, animation, crime, mystery_thrill, musical, romance, music, war, other, biography, western, history, documentary, sports_fitness, anime, foreign])
 
 def main():
-    box_office_totals = json.load(open(os.path.join(data_path, 'box_office_movies.json')))
-    convertBoxOfficeTotalsToCSV(box_office_totals)
-    all_movies_by_year_market = getMoviesByMarketYearJSON()
-    all_movies_by_year_market_list = convertAllYearsIntoList(all_movies_by_year_market)
-    writeMoviesByMarketToCSV(all_movies_by_year_market_list)
-    writeMoviesByMarketMonthsToCSV(all_movies_by_year_market_list)
-    oscar_actors = json.load(open(os.path.join(data_path, 'oscar_actors.json')))
-    writeOscarActorsToCSV(oscar_actors)
-    wikipedia_movies = json.load(open(os.path.join(data_path, 'movies_from_wikipedia.json')))
-    writeAcademyAwardWinnersToCSV(wikipedia_movies)
-    all_movie_summaries = getMovieSummariesByYearJSON()
-    all_movie_summaries_list = convertAllYearsIntoList(all_movie_summaries)
-    writePlotSummariesToCSV(all_movie_summaries_list)
+    # box_office_totals = json.load(open(os.path.join(data_path, 'box_office_movies.json')))
+    # convertBoxOfficeTotalsToCSV(box_office_totals)
+    # all_movies_by_year_market = getMoviesByMarketYearJSON()
+    # all_movies_by_year_market_list = convertAllYearsIntoList(all_movies_by_year_market)
+    # writeMoviesByMarketToCSV(all_movies_by_year_market_list)
+    # writeMoviesByMarketMonthsToCSV(all_movies_by_year_market_list)
+    # oscar_actors = json.load(open(os.path.join(data_path, 'oscar_actors.json')))
+    # writeOscarActorsToCSV(oscar_actors)
+    # wikipedia_movies = json.load(open(os.path.join(data_path, 'movies_from_wikipedia.json')))
+    # writeAcademyAwardWinnersToCSV(wikipedia_movies)
+    # all_movie_summaries = getMovieSummariesByYearJSON()
+    # all_movie_summaries_list = convertAllYearsIntoList(all_movie_summaries)
+    # writePlotSummariesToCSV(all_movie_summaries_list)
     rotten_tomatoes_movies = getMovieInformationByYearJSON()
     rotten_tomatoes_movies_list = convertAllYearsIntoList(rotten_tomatoes_movies)
     convertRottenTomatoesListToDicts(rotten_tomatoes_movies_list)
