@@ -175,7 +175,7 @@ def writeRottenTomatoesReviews(reviews):
         writer.writerow(['uniqueID', 'review'])
         for movie in reviews:
             for review in reviews[movie]:
-                writer.writerow([movie, review])
+                writer.writerow([movie[:4], review])
 
 def writeGenreBools(genres):
     with open(os.path.join(csv_path, 'movies_with_genre_bool.csv'), 'w', encoding='utf-8', newline='') as csvfile:
